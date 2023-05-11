@@ -1,0 +1,1 @@
+[Пособие по DjVu](https://lamescholar.github.io/ru/djvu)
