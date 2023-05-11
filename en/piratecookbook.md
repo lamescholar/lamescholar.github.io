@@ -5,4 +5,5 @@ If you're unfamiliar with BitTorrent protocol, don't hesitate to look up in Goog
 With this collection of instructions and programs you will be able to create, share, find and read ebooks, to find magazines, scientific articles, newspapers (Bypass Paywalls.txt), dictionaries, audiobooks, music, films, series, and play them on your computer.
 
 Help share the knowledge. Share the link.
+
 https://lamescholar.github.io/en/piratecookbook
