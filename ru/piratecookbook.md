@@ -6,4 +6,4 @@
 
 Помоги распространить знания. Поделись ссылкой.
 
-https://lamescholar.github.io
+[https://lamescholar.github.io](https://lamescholar.github.io)

@@ -6,4 +6,4 @@ With this collection of instructions and programs you will be able to create, sh
 
 Help share the knowledge. Share the link.
 
-https://lamescholar.github.io/en/piratecookbook
+[https://lamescholar.github.io](https://lamescholar.github.io)
