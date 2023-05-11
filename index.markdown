@@ -13,7 +13,7 @@ About:
 
 Pirate Cookbook:
 
-[In English](https://lamescholar.github.io/en/cookbook)
+[In English](https://lamescholar.github.io/en/piratecookbook)
 
-[In Russian](https://lamescholar.github.io/ru/cookbook)
+[In Russian](https://lamescholar.github.io/ru/piratecookbook)
 
