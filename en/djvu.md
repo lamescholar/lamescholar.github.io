@@ -1,4 +1,4 @@
-This is comprehensive collection of programs to create, edit and read DjVu. Using it you can create djvu document with OCR layer (text layer) and contents.<br/><br/>
+This is comprehensive collection of programs to create, edit and read DjVu. Using it you can create ebook in djvu format with OCR layer (text layer) and contents.<br/><br/>
 
 Functions of programs:<br/><br/>
 
