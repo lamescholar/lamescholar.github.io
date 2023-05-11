@@ -5,6 +5,6 @@
 layout: home
 ---
 
-[English](https://lamescholar.github.io/english)
+[English](https://lamescholar.github.io/en/piratecookbook)
 
-[Russian](https://lamescholar.github.io/russian)
+[Russian](https://lamescholar.github.io/ru/piratecookbook)
