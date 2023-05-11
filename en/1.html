@@ -1,0 +1,104 @@
+<html><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><link href="style.css" rel="stylesheet" type="text/css" /><title>DjVu</title></head><body><div class="calibre" id="calibre_link-0">
+<p class="calibre1">This is comprehensive collection of programs to create, edit and read DjVu. Using it you can create djvu document with OCR layer (text layer) and contents.</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">Functions of programs:</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">WinDjView - program for reading of .djvu files. Advice for comfortable reading. If pre-installed scales 150% and 200% don’t suit, choose arithmetic mean - 175%, if this doesn’t suit, then 162% or 187%. If you need the scale little greater than 150% - add 6%. Alt+Left - go back after clicking on the hyperlink. If you have blurry image, you need to follow Properties-&gt;Compatibility-&gt;Change high DPI settings-&gt;Change settings for all users-&gt;Override high DPI scaling behaviour. Scaling performed by:-&gt;Application.</p>
+<p class="calibre1">https://windjview.sourceforge.io/</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">IrfanView - program for converting images.</p>
+<p class="calibre1">https://www.irfanview.com/</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">Scan Tailor Universal - - program for images processing.</p>
+<p class="calibre1">Settings:</p>
+<p class="calibre1">Tools-&gt;Settings…-&gt;General-&gt;Ask every time. Untick. General-&gt;Thumbnails panel-&gt;Scale cashed images to this size: 1000 px. General-&gt;Tiff compression-&gt;TIFF compression (b/w): CCIITTFAX4. Page layout-&gt;Margins. 10 everywhere. Output-&gt;Hold spacebar to display original page. Tick. Output-&gt;Mixed mode-&gt;Foregroud layer. Untick.</p>
+<p class="calibre1">New Project… Select a folder with pictures. Then you can remove some pictures from the project, for example, the cover.</p>
+<p class="calibre1">Recommendation. To enlarge miniatures, press Alt and scroll.</p>
+<p class="calibre1">Recommendation for comfortable navigation between minatures. You can use keys pgup and pgdn for navigation between pages.</p>
+<p class="calibre1">Processing:</p>
+<h2 class="calibre2">1 Fix Orientation</h2>
+<p class="calibre1">Rotatation of pages on 90 degrees. To apply to a group of pictures, click Apply to… Select the scope.</p>
+<h2 class="calibre2">2 Split Pages</h2>
+<p class="calibre1">If there is a piece of another page in the pictures or two pages in the pictures, we start. The program will either crop the picture or split it into two. Just in case, it is better to check behind the program and view the result on thumbnails.</p>
+<h2 class="calibre2">3 Deskew</h2>
+<p class="calibre1">Text skew correction.</p>
+<h2 class="calibre2">4 Select Content</h2>
+<p class="calibre1">The program automatically finds the content of the page - throws a rectangle on the page, the content of which will be taken into the final image. Again, we launch and then check for the program and, in case of inaccuracy, we correct it manually.</p>
+<h2 class="calibre2">5 Page Layout</h2>
+<p class="calibre1">If the content rectangle is small, the margins can be 5 mm. If you process images with the cover, you need to make zero margins for the cover and uncheck Match size with other pages.</p>
+<h2 class="calibre2">6 Output</h2>
+<p class="calibre1">We look at the result of binarization. If parts of the letters disappear - set the Binarization threshold to 20. In extreme cases - 30. An increased Binarization threshold adds boldness to the text. If the book got pictures, you must use the Mixed mode. Untick Auto layer. Tick Picture zone layer. Let’s run the output. The program will automatically find pictures. After the output you need to check behind the program. We look through all the pages with pictures. In the same time we looking for spots on pages that can be deleted in Fill Zones section. If the picture zone was found incorrectly, you need to correct it. You need to go to the Layers section. Either drag vertices. Or delete the zone and create your own. You right-click on the picture, hold down Ctrl to make the area rectangular and draw a rectangle. If the zone has a complex shape, you make a polygon. The picture zone can be used on a part of the picture where the text is poorly recognized and text details will disappear during binarization. Split text and images. Tools-&gt;Export…-&gt;Export. After processing the images, save the project.</p>
+<p class="calibre1">http://forum.ru-board.com/topic.cgi?forum=5&amp;topic=32945</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">Book Restorer - program for straightening crooked images. Create Book. Tools-&gt;Restore. Geometrical correction. Publish (icon of disk in menu). If straightening bitonal image in column Types of files choose G4-compressed, in column Color range - Binary. If straightening text of the book with pictures, you need to input into the program colored images you got from Scan Tailor. TIFF LZW compressed, Color range - RGB colors. Split the straightened images into text and images in Scan Tailor. To avoid crashing from operating heavy amount of images, you should go to Preferences and set JPEG 10% for temporary images.</p>
+<p class="calibre1">http://djvu-converter.narod.ru/</p>
+<p class="softbreak">&nbsp;</p>
+<p class="calibre1">Tsushima - program for clearing slur. Drag images to program icon. Result - images in 8BPP 96DPI format. Convert images to 1BPP 600DPI format in Irfan View.</p>
+<p class="calibre1">http://publ.lib.ru/cgi/forum/YaBB.pl?num=1530528723/13#13</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">DjVu Small Mod 0.7.6.1 - program for encoding and decoding djvu documents, in other words, for creating djvu documents out of images and extracting images out of djvu documents. For bitonal images use following encoding profile:</p>
+<p class="calibre1">Profile set: Original</p>
+<p class="calibre1">Type: Bitonal</p>
+<p class="calibre1">DPI: 600</p>
+<p class="calibre1">https://book-scan.wixsite.com/djvu/blank-z8lfg</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">DjVu Imager - program for inserting pictures. Set path to djvu document with pictures cutted-out and path of output document. Set the path to out/export/pic folder. Convert. Insert in DjVu. Now you got djvu document with pictures. Settings: BSF - 2, DPI - 300.</p>
+<p class="calibre1">http://www.djvu-soft.narod.ru/scan/djvu_imager_en.htm</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">FSD - alternative to Djvu Small Mod + DjVu Imager.</p>
+<p class="calibre1">http://www.djvu-soft.narod.ru/</p>
+<p class="calibre1">https://www.youtube.com/watch?v=jOQBTV-zvts</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">Djvu Small Mod + DjVu Imager and FSD realise method of separated scans. The images are separated into text and pictures, that encoded separately.</p>
+<p class="softbreak">&nbsp;</p>
+<p class="calibre1">Document Express Editor 6.0.1 - program for deleting/adding images into djvu document. Used for adding a cover. If a line appear in expanded window, use compatibility settings as described for WinDjView.</p>
+<p class="calibre1">http://www.djvu-soft.narod.ru/soft/</p>
+<p class="softbreak">&nbsp;</p>
+<p class="calibre1">ABBYY Finereader PDF 15 - program for adding OCR layer. You can use the program to extract tif files from pdf-document. Options-&gt;Images processing, set off Split facing pages and Correct page orientation, so OCR layer lies in place. Thorough recognition is necessary. You need only text layer out of output document, so to quicken output, you can set djvu export settings with maximum compression.</p>
+<p class="calibre1">https://rutracker.org/forum/viewtopic.php?t=6040898</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">FR11 DjVu Text Layer Crutch - program for fixing OCR layer in FR15 output djvu document and transferring it in initial djvu document (in FR15 output djvu document coloured/grey pictures lose quality).</p>
+<p class="calibre1">https://forum.ru-board.com/topic.cgi?forum=5&amp;topic=38467</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">DjVu Clean Page Inserter - program for inserting empty pages into djvu document.</p>
+<p class="calibre1">https://forum.ru-board.com/topic.cgi?forum=5&amp;topic=38467</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">Pdf &amp; DjVu Bookmarker - program for adding contents. Copy text of contents. Insert in the program. Edit. You can arrange Bookmarks in a hierarchy. Insert into djvu document. Pay your attention to F2 �� F3 keys, they quicken work considerably.</p>
+<p class="calibre1">https://sourceforge.net/projects/djvubookmarker/</p>
+<p class="softbreak">&nbsp;</p>
+<p class="calibre1">DjVu Hyperlinks Editor - program for automatic creation of hyperlinks. OCR layer is required. As Shift set difference between number of document page and number of book page. Then set pages of contents <i class="calibre3"> alphabetic index. Choose Job type Content </i> Alphabetic index 2. Now you got ‘hyperlinks, apparent with pointing of cursor on elements of contents’ / ‘hyperlinks in alphabetic index’.</p>
+<p class="calibre1">http://www.djvu-soft.narod.ru/soft/</p>
+<p class="softbreak">&nbsp;</p>
+<p class="calibre1">DjVu Annotations Editor - program for changing properties of hyperlinks. Go to ���������������� ����������������������. Choose �������������������� ������������������ (if you’re changing hyperlinks of alphabetic index), set off �������������� �� delete ����������������������. ������������������. ������������������. Open djvu document in Document Express Editor 6.0.1 program and delete hyperlinks on page numbers - Annotation-&gt;Delete. To delete/add hyperlinks of contents by hands you need to click Select Annotations in menu - hyperlinks of contents will become apparent. Then, for example, you can edit hyperlink borders, which overlapped several elements of contents and create absent hyperlink by clicking Rectangular Hyperlink in menu and selecting element of contents. In option Style choose Plain Border, Persistent, in option Link - Page Number, in option Page ��� page of document.</p>
+<p class="calibre1">https://forum.ru-board.com/topic.cgi?forum=5&amp;topic=38467</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">DjVu Chunk Remover - program for deleting chunks, pages in djvu document.</p>
+<p class="calibre1">https://forum.ru-board.com/topic.cgi?forum=5&amp;topic=38467</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">General algorithm:</p>
+<p class="calibre1">1) Scan Tailor Universal - images processing.</p>
+<p class="calibre1">2) Book Restorer - straightening text lines.</p>
+<p class="calibre1">3) Tsushima - cleaning slur.</p>
+<p class="calibre1">4) DjVu Small Mod 0.7.6.1 - creation of djvu document.</p>
+<p class="calibre1">5) DjVu Imager - inserting coloured/grey pictures.</p>
+<p class="calibre1">6) ABBYY Finereader PDF 15 - creation of OCR layer.</p>
+<p class="calibre1">7) FR11 DjVu Text Layer Crutch - fixing and transferring OCR layer.</p>
+<p class="calibre1">8) Document Express Editor 6.0.1 - adding a cover.</p>
+<p class="calibre1">9) Pdf &amp; DjVu Bookmarker - adding a contents.</p>
+<p class="calibre1">10) DjVu Hyperlinks Editor - adding hyperlinks.</p>
+<p class="calibre1">11) DjVu Annotations Editor - editing style of hyperlinks.</p>
+<p class="calibre1">12) Document Express Editor 6.0.1 - editing hyperlinks.</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">Publish your book:</p>
+<p class="calibre1">Library Genesis - https://library.bz/main/upload/</p>
+<p class="calibre1">genesis</p>
+<p class="calibre1">upload</p>
+<p class="calibre1">RuTracker - http://rutracker.org/forum/index.php</p>
+<p class="whitespace">&nbsp;</p>
+<p class="calibre1">Information:</p>
+<p class="calibre1">http://www.djvu-soft.narod.ru/</p>
+<p class="calibre1">http://publ.lib.ru/cgi/forum/YaBB.pl</p>
+
+</div>
+
+</body></html>
