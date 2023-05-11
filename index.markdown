@@ -5,5 +5,6 @@
 layout: home
 ---
 
-[English](https://github.com/user/repo/blob/branch/english)
-[Russian](https://github.com/user/repo/blob/branch/russian)
+[English](https://lamescholar.github.io/english)
+
+[Russian](https://lamescholar.github.io/russian)
