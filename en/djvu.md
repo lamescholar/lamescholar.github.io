@@ -1,14 +1,14 @@
-This is comprehensive collection of programs to create, edit and read DjVu. Using it you can create djvu document with OCR layer (text layer) and contents.<br/><br/>
+This is comprehensive collection of programs to create, edit and read DjVu. Using it you can create djvu document with OCR layer (text layer) and contents.<br/><br/><br/>
 
-Functions of programs:
+Functions of programs:<br/><br/><br/>
 
 WinDjView - program for reading of .djvu files. Advice for comfortable reading. If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%, if this doesn't suit, then 162% or 187%. If you need the scale little greater than 150% - add 6%. Alt+Left - go back after clicking on the hyperlink. If you have blurry image, you need to follow Properties->Compatibility->Change high DPI settings->Change settings for all users->Override high DPI scaling behaviour. Scaling performed by:->Application.
 
-[https://windjview.sourceforge.io/](https://windjview.sourceforge.io/)
+[https://windjview.sourceforge.io/](https://windjview.sourceforge.io/)<br/><br/><br/>
 
 IrfanView - program for converting images.
 
-[https://www.irfanview.com/](https://www.irfanview.com/)
+[https://www.irfanview.com/](https://www.irfanview.com/)<br/><br/><br/>
 
 Scan Tailor Universal -  - program for images processing.
 
