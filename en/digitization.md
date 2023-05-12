@@ -26,7 +26,7 @@ Availability
 
 Description:
 
-You fix the phone on a support. You turn on the lamp. You put the book so that one page completely falls into the frame of camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs. Look DjVu.txt.<br/><br/>
+You fix the phone on the support. You turn on the lamp. You put the book so that one page completely falls into the frame of camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs. Look DjVu.txt.<br/><br/>
 
 Method №2. Scanning
 
