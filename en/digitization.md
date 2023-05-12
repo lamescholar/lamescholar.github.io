@@ -1,3 +1,5 @@
+# Digitization
+
 There are two methods to digitize a book.<br/><br/>
 
 Method №1. Photographing

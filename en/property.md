@@ -1,3 +1,5 @@
+# Intellectual property
+
 Intellectual property is a tool for maintaining the profitability of production. Production pays off due to restrictions on the distribution of the information: the information is not publicly available, an individual copy can be obtained for money. That is, technologies allow completely free distribution of information, but this technology is subordinated to commodity production: the production of information for exchange for money. Commodity production is not the only production option. You can produce not for sale, but for consumption: you have created information and freely distribute it. Financing is made at the same time by government, crowdfunding, own funds.<br/><br/>
 
 Commodity production of information has inherent problems: the information lies dead weight on the server, accessible only to those who paid, the information does not become open after beating off the cost of production: the studio and the author receive unreasonable excess profits.<br/><br/>

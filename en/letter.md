@@ -1,3 +1,5 @@
+# Letter against intellectual property
+
 First, we need to talk about knowledge.<br/><br/>
 
 How do products of work of one's mind come in possession of society and become humanity's heritage? Through communication. We can know about the reasonings of a 19th-century philosopher because of notes he left. Thus we can reproduce his thoughts in our heads. Humanity's knowledge is a system of individual carriers of knowledge, communicating with each other. For example, the philosophical circle studied works of their predecessors, collectively developed some positions, and made those positions available to humanity through protocols of the meetings or by implication in the following works. Thus it's absurd to claim the results of reasoning work because it's collective and can't be different.<br/><br/>
