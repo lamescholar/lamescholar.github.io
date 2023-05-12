@@ -8,6 +8,6 @@ Capitalist society functions in this way: journal pay off at the expense of this
 
 A step towards such a method of production is P2P exchange, involving masses of people in a relatively independent exchange of information, access to which is unconditional.<br/><br/>
 
-Internet's Own Boy: The Story of Aaron Swartz - https://www.youtube.com/watch?v=9vz06QO3UkQ<br/><br/>
+Internet's Own Boy: The Story of Aaron Swartz - [https://www.youtube.com/watch?v=9vz06QO3UkQ](https://www.youtube.com/watch?v=9vz06QO3UkQ)<br/><br/>
 
-Chomsky on Swartz - https://www.youtube.com/watch?v=eF9wWiIJ9zU
+Chomsky on Swartz - [https://www.youtube.com/watch?v=eF9wWiIJ9zU](https://www.youtube.com/watch?v=eF9wWiIJ9zU)

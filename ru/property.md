@@ -8,6 +8,6 @@
 
 Шагом же к подобному способу производства является P2P обмен, задействующий массы людей в относительно независимом обмене информацией, доступ к которой является безусловным.<br/><br/>
 
-Интернет-мальчик: История Аарона Шварца - https://www.youtube.com/watch?v=YOys9VLKfq0<br/><br/>
+Интернет-мальчик: История Аарона Шварца - [https://www.youtube.com/watch?v=YOys9VLKfq0](https://www.youtube.com/watch?v=YOys9VLKfq0)<br/><br/>
 
-Хомский о Шварце - https://www.youtube.com/watch?v=eF9wWiIJ9zU
+Хомский о Шварце - [https://www.youtube.com/watch?v=eF9wWiIJ9zU](https://www.youtube.com/watch?v=eF9wWiIJ9zU)
