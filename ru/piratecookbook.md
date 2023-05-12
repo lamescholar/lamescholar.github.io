@@ -6,6 +6,6 @@
 
 [VPN](https://lamescholar.github.io/ru/vpn)
 
-[Оцифровка](https://lamescholar.github.io/ru/digitization)
+[Интеллектуальная собственность](https://lamescholar.github.io/ru/property)
 
-[Письмо против интеллектуальной собственности](https://lamescholar.github.io/ru/letter)
+[Оцифровка](https://lamescholar.github.io/ru/digitization)
