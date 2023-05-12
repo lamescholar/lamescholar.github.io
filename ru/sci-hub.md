@@ -8,9 +8,30 @@ https://www.python.org/downloads/
 
 При установке Python нужно поставить галочку Add python.exe to PATH.<br/><br/>
 
-Скачиваешь архив со скриптом.
+Вот сам скрипт:
 
-<https://lamescholar.github.io/Sci-Hub.zip><br/><br/>
+```
+import argparse
+import urllib.request
+
+parser = argparse.ArgumentParser()
+parser.add_argument('file', type=argparse.FileType('r'))
+args = parser.parse_args()
+
+i = 1
+for x in args.file.readlines():
+	url = "https://sci-hub.ru/" + x
+	webUrl  = urllib.request.urlopen(url)
+	html = webUrl.read()
+	html = str(html)
+	start = html.find('/downloads/')
+	end = html.find('.pdf')
+	pdfurl = "https://sci-hub.ru" + html[start:end+4]
+	print(f"Downloading article {i}")
+	urllib.request.urlretrieve(pdfurl, f"{i}.pdf")
+	print("Done")
+	i += 1
+```
 
 Открываешь cmd.txt. "C:\Users\...\Sci-Hub" - путь к папке Sci-Hub. В неё загрузятся pdf-файлы.<br/><br/>
 
