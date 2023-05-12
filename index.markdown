@@ -11,4 +11,4 @@ Pirate Cookbook:
 
 [На русском](https://lamescholar.github.io/ru/piratecookbook)<br/><br/>
 
-[Библиотека](https://lamescholar.github.io/library)
+[Library](https://lamescholar.github.io/library)
