@@ -1,1 +1,1 @@
-[Исследователь в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box.md)
+[Исследователь в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
