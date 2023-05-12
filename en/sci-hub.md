@@ -31,8 +31,8 @@ for x in args.file.readlines():
 	urllib.request.urlretrieve(pdfurl, f"{i}.pdf")
 	print("Done")
 	i += 1
-```<br/><br/>
-
+```
+<br/><br/>
 Create text file, insert code, close. Edit the name to scihub, the extension to .py.
 
 Create cmd.txt. Insert:
@@ -40,8 +40,8 @@ Create cmd.txt. Insert:
 ```
 cd "C:\Users\...\Sci-Hub"
 python scihub.py DOI.txt
-```<br/><br/>
-
+```
+<br/><br/>
 Create DOI.txt.
 
 Put all 3 files into Sci-Hub folder
