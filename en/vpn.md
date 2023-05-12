@@ -1,4 +1,7 @@
-# VPN
+---
+layout: page
+title: VPN
+---
 
 AntiZapret - https://antizapret.prostovpn.org/
 

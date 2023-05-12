@@ -1,4 +1,7 @@
-# Internet Archive
+---
+layout: page
+title: Internet Archive
+---
 
 https://github.com/MiniGlome/Archive.org-Downloader<br/><br/>
 

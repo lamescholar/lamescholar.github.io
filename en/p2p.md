@@ -1,4 +1,7 @@
-# P2P
+---
+layout: page
+title: P2P
+---
 
 BitTorrent:
 

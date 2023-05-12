@@ -1,4 +1,7 @@
-# Digitization
+---
+layout: page
+title: Digitization
+---
 
 There are two methods to digitize a book.<br/><br/>
 

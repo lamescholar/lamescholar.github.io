@@ -1,4 +1,7 @@
-# NYPL
+---
+layout: page
+title: NYPL
+---
 
 SimplyE
 

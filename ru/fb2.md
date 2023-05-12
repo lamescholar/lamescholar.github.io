@@ -1,4 +1,7 @@
-# FB2
+---
+layout: page
+title: FB2
+---
 
 Чтение:
 
