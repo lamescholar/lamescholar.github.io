@@ -22,4 +22,6 @@
 
 [Письмо против интеллектуальной собственности](https://lamescholar.github.io/ru/letter)
 
+[Поиск книг](https://lamescholar.github.io/ru/booksearching)
+
 [Привет](https://lamescholar.github.io/ru/hello)

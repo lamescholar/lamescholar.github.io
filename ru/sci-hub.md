@@ -31,8 +31,7 @@ for x in args.file.readlines():
 	urllib.request.urlretrieve(pdfurl, f"{i}.pdf")
 	print("Done")
 	i += 1
-```
-<br/><br/>
+```<br/><br/>
 
 Создаёшь текстовый файл, вставляешь код, закрываешь. Меняешь название на scihub, а расширение на .py.
 	
@@ -41,8 +40,7 @@ for x in args.file.readlines():
 ```
 cd "C:\Users\...\Sci-Hub"
 python scihub.py DOI.txt
-```
-<br/><br/>
+```<br/><br/>
 
 Создаёшь DOI.txt.
 

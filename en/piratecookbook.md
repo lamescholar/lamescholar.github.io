@@ -2,6 +2,8 @@
 
 Pirate Cookbook is my guide to piracy and book digitization. For details look [Hello](https://lamescholar.github.io/en/hello).<br/><br/>
 
+[Book searching](https://lamescholar.github.io/en/booksearching)
+
 [FB2](https://lamescholar.github.io/en/fb2)
 
 [DjVu](https://lamescholar.github.io/en/djvu)
