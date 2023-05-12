@@ -12,11 +12,11 @@ Here the script:
 
 ```
 import argparse
-import urllib.request<br/><br/>
+import urllib.request
 
 parser = argparse.ArgumentParser()
 parser.add_argument('file', type=argparse.FileType('r'))
-args = parser.parse_args()<br/><br/>
+args = parser.parse_args()
 
 i = 1
 for x in args.file.readlines():
