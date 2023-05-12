@@ -26,7 +26,7 @@ FictionBook Editor 2.6.6:
 
 <https://code.google.com/archive/p/fictionbookeditor/downloads>
 
-При расплывчатом тексте те же настройки совместимости, что и для WinDjView.<br/><br/>
+При расплывчатом тексте те же настройки совместимости, что и для WinDjView. См. [DjVu](https://lamescholar.github.io/ru/djvu)<br/><br/>
 
 Конвертация:
 
