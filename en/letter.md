@@ -1,4 +1,4 @@
-Letter against intellectual property \
+Letter against intellectual property<br/><br/>
 
 First, we need to talk about knowledge.<br/><br/>
 

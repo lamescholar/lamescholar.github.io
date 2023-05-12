@@ -1,7 +1,4 @@
----
-layout: page
-title: Pirate Cookbook
----
+Pirate Cookbook<br/><br/>
 
 Pirate Cookbook is guide to piracy and book digitization. For details look [Hello](https://lamescholar.github.io/en/hello).<br/><br/>
 

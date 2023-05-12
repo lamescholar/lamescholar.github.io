@@ -1,7 +1,4 @@
----
-layout: page
-title: P2P
----
+P2P<br/><br/>
 
 BitTorrent:
 
