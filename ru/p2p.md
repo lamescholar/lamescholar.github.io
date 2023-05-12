@@ -16,7 +16,7 @@ FlylinkDC++ - <https://flylinkdc.blogspot.com/>
 
 Ник - legen848dary<br/><br/>
 
-Soulseek - http://www.slsknet.org/news/node/1
+Soulseek - <http://www.slsknet.org/news/node/1>
 
 Ник - legen848dary<br/><br/>
 
