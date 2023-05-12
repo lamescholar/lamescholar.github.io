@@ -1,7 +1,4 @@
----
-layout: page
-title: Letter against intellectual property
----
+Letter against intellectual property \
 
 First, we need to talk about knowledge.<br/><br/>
 

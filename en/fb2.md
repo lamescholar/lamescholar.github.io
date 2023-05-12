@@ -1,7 +1,4 @@
----
-layout: page
-title: FB2
----
+FB2<br/><br/>
 
 Reading:
 

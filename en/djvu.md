@@ -1,7 +1,4 @@
----
-layout: page
-title: DjVu
----
+DjVu<br/><br/>
 
 This is comprehensive collection of programs to create, edit and read DjVu. Using it you can create ebook in djvu format with OCR layer (text layer) and contents.<br/><br/>
 
