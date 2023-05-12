@@ -8,6 +8,8 @@
 
 [P2P](https://lamescholar.github.io/ru/p2p)
 
+[Sci-Hub](https://lamescholar.github.io/ru/sci-hub)
+
 [VPN](https://lamescholar.github.io/ru/vpn)
 
 [Интеллектуальная собственность](https://lamescholar.github.io/ru/property)
