@@ -22,4 +22,6 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [P2P](https://lamescholar.github.io/en/p2p)
 
+[Sci-Hub](https://lamescholar.github.io/en/sci-hub)
+
 [VPN](https://lamescholar.github.io/en/vpn)
