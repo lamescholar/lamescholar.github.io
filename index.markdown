@@ -9,5 +9,6 @@ Pirate Cookbook:
 
 [In English](https://lamescholar.github.io/en/piratecookbook)
 
-[На русском](https://lamescholar.github.io/ru/piratecookbook)
+[На русском](https://lamescholar.github.io/ru/piratecookbook)<br/><br/>
 
+[Библиотека](https://lamescholar.github.io/library)
