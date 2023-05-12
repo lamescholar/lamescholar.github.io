@@ -39,7 +39,7 @@ Create cmd.txt. Insert:
 
 ```
 cd "C:\Users\...\Sci-Hub"
-python scihub.py DOI.txt<br/><br/>
+python scihub.py DOI.txt
 ```<br/><br/>
 
 Create DOI.txt.
