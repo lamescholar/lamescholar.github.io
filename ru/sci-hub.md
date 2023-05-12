@@ -32,8 +32,23 @@ for x in args.file.readlines():
 	print("Done")
 	i += 1
 ```
+<br/><br/>
 
-Открываешь cmd.txt. "C:\Users\...\Sci-Hub" - путь к папке Sci-Hub. В неё загрузятся pdf-файлы.<br/><br/>
+Создаёшь текстовый файл, вставляешь код, закрываешь. Меняешь название на scihub, а расширение на .py.
+	
+Создаёшь cmd.txt. Вставляешь:
+
+```
+cd "C:\Users\...\Sci-Hub"
+python scihub.py DOI.txt
+```
+<br/><br/>
+
+Создаёшь DOI.txt.
+
+Складываешь все три файла в папку Sci-Hub.<br/><br/>
+
+Открываешь cmd.txt. "C:\Users\...\Sci-Hub" - путь к папке Sci-Hub. В неё загрузятся pdf-файлы.
 
 Открываешь DOI.txt. Заполняешь ссылками на статьи.
 
