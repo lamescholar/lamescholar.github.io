@@ -1,7 +1,4 @@
----
-layout: page
-title: Digitization
----
+**Digitization**<br/><br/>
 
 There are two methods to digitize a book.<br/><br/>
 
@@ -13,7 +10,7 @@ Phone
 
 Support
 
-[https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944](https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944)
+<https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944>
 
 Lamp
 

@@ -1,4 +1,4 @@
-Оцифровка<br/><br/>
+**Оцифровка**<br/><br/>
 
 Есть два способа оцифровать книгу.<br/><br/>
 
@@ -10,7 +10,7 @@
 
 Штатив
 
-[https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944](https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944)
+<https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944>
 
 Лампа
 

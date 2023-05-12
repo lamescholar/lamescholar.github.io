@@ -1,14 +1,14 @@
-Internet Archive<br/><br/>
+**Internet Archive**<br/><br/>
 
-https://github.com/MiniGlome/Archive.org-Downloader<br/><br/>
+<https://github.com/MiniGlome/Archive.org-Downloader><br/><br/>
 
 С помощью этого скрипта ты можешь скачать книгу с Internet Archive. Скрипт использует 1 час книговыдачи для загрузки страниц книги. Для преобразования изображений в PDF скрипт использует пакет img2pdf. Но он создает очень слишком файл PDF. Поэтому я рекомендую тебе сохранить параметр -j в конце команды, чтобы получить только изображения. Ниже указаны три варианта того, как вы можете эффективно конвертировать их в PDF или DjVu.<br/><br/>
 
 Для установки необходимы:
 
-Git - https://git-scm.com/download/win
+Git - <https://git-scm.com/download/win>
 
-Python - https://www.python.org/downloads/
+Python - <https://www.python.org/downloads/>
 
 При установке Python нужно поставить галочку Add python.exe to PATH.<br/><br/>
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt<br/><br/>
 
 Перед использованием необходимо зарегистрироваться.
 
-https://archive.org/account/signup<br/><br/>
+<https://archive.org/account/signup><br/><br/>
 
 Использование:
 
@@ -60,7 +60,7 @@ python archive-org-downloader.py -e email -p пароль -r 0 -u https://archiv
 
 Правка DPI:
 
-IrfanView - https://www.irfanview.com/
+IrfanView - <https://www.irfanview.com/>
 
 File->Batch Conversion/Rename...
 
@@ -76,7 +76,7 @@ Start Batch.<br/><br/>
 
 Преобразование JPG в PDF:
 
-LuraTech PDF Compressor - https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4
+LuraTech PDF Compressor - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
 Настройки:
 
@@ -92,13 +92,13 @@ Quality: 6
 
 Программа не распознаёт русский язык.
 
-ABBYY Finereader (текстовый слой) - https://rutracker.org/forum/viewtopic.php?t=6040898<br/><br/>
+ABBYY Finereader (текстовый слой) - <https://rutracker.org/forum/viewtopic.php?t=6040898><br/><br/>
 
 или<br/><br/>
 
 Преобразование JPG в PDF:
 
-Adobe Acrobat XI Pro - https://rutracker.org/forum/viewtopic.php?t=5480244
+Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5480244>
 
 Создать->Объединить файлы в один документ PDF...->Параметры->Всегда добавлять закладки в Adobe PDF. Убрать галочку.
 
@@ -128,10 +128,10 @@ PDF на выходе: ClearScan
 
 Где опубликовать книгу:
 
-Library Genesis - https://library.bz/main/upload/
+Library Genesis - <https://library.bz/main/upload/>
 
 genesis
 
 upload
 
-RuTracker - http://rutracker.org/forum/index.php
+RuTracker - <http://rutracker.org/forum/index.php>

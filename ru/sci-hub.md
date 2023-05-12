@@ -1,4 +1,4 @@
-Sci-Hub<br/><br/>
+**Sci-Hub**<br/><br/>
 
 Скрипт для скачивания номеров журналов целиком.<br/><br/>
 
@@ -10,7 +10,7 @@ https://www.python.org/downloads/
 
 Скачиваешь архив со скриптом.
 
-[https://lamescholar.github.io/Sci-Hub.zip]( https://lamescholar.github.io/Sci-Hub.zip)<br/><br/>
+<https://lamescholar.github.io/Sci-Hub.zip><br/><br/>
 
 Открываешь cmd.txt. "C:\Users\...\Sci-Hub" - путь к папке Sci-Hub. В неё загрузятся pdf-файлы.<br/><br/>
 
@@ -26,4 +26,4 @@ Ctrl+V<br/><br/>
 
 Статьи можно склеить в один PDF-файл с помощью программы PDF-XChange Editor.
 
-[https://rutracker.org/forum/viewtopic.php?t=5998062]( https://rutracker.org/forum/viewtopic.php?t=5998062)
+<https://rutracker.org/forum/viewtopic.php?t=5998062>

@@ -1,14 +1,14 @@
-Internet Archive<br/><br/>
+**Internet Archive**<br/><br/>
 
-https://github.com/MiniGlome/Archive.org-Downloader<br/><br/>
+<https://github.com/MiniGlome/Archive.org-Downloader><br/><br/>
 
 With that Python script you can rip a book from Internet Archive. Script uses 1 hour loan to download pages of the book. To convert images to PDF script is using img2pdf package. But it creates too big PDF file. So I recommend you to keep -j setting at the end of the command to get only the images. Three options how you can efficiently convert them into PDF or DjVu follow.<br/><br/>
 
 Requirements to install:
 
-Git - https://git-scm.com/download/win
+Git - <https://git-scm.com/download/win>
 
-Python - https://www.python.org/downloads/
+Python - <https://www.python.org/downloads/>
 
 Tick Add python.exe to PATH while downloading Python.<br/><br/>
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt<br/><br/>
 
 To use you need to register.
 
-https://archive.org/account/signup<br/><br/>
+<https://archive.org/account/signup><br/><br/>
 
 Usage:
 
@@ -58,7 +58,7 @@ In addition to color correction tools, Sharpen tool is very often useful. It is 
 
 Fix DPI:
 
-IrfanView - https://www.irfanview.com/
+IrfanView - <https://www.irfanview.com/>
 
 File->Batch Conversion/Rename...
 
@@ -74,7 +74,7 @@ Start Batch.<br/><br/>
 
 JPG to PDF:
 
-LuraTech PDF Compressor - https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4
+LuraTech PDF Compressor - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
 Options:
 
@@ -92,7 +92,7 @@ or<br/><br/>
 
 JPG to PDF:
 
-Adobe Acrobat XI Pro - https://rutracker.org/forum/viewtopic.php?t=5480244
+Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5480244>
 
 Create->Combine Files into a Single PDF...->Always add bookmarks to Adobe PDF. Untick.
 
@@ -119,3 +119,13 @@ If width of image is greater than 2000 - 300 DPI, greater than 2000 - 600 DPI.
 Look DjVu.txt.<br/><br/>
 
 Don't forget to delete folders with images.
+
+Publish your book:
+
+Library Genesis - <https://library.bz/main/upload/>
+
+genesis
+
+upload
+
+RuTracker - <http://rutracker.org/forum/index.php>

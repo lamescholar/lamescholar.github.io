@@ -1,4 +1,4 @@
-Hello<br/><br/>
+**Hello**<br/><br/>
 
 Hello. Pirate Cookbook is my collection of instructions and programs which will help you to find everything that can be obtained in Internet for free thanks to modern technologies of distribution of information. This door exists, yet it's hidden from the public. The reason for that is copyright, standing in the way of true freedom of distribution of information. Read [Letter against intellectual property](https://lamescholar.github.io/en/letter) and [Intellectual property](https://lamescholar.github.io/en/property) and see how modern Internet artificially strict distribution of cultural heritage of humanity for sake of outdated system of cover of production expenditures whose ethical and economical justifications don't stand criticism.<br/><br/>
 
@@ -8,4 +8,4 @@ With this collection of instructions and programs you will be able to create, sh
 
 Help share the knowledge. Share the link.
 
-[https://lamescholar.github.io](https://lamescholar.github.io)
+<https://lamescholar.github.io>
