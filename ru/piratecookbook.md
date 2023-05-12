@@ -4,8 +4,14 @@
 
 [Internet Archive](https://lamescholar.github.io/ru/archive)
 
+[NYPL](https://lamescholar.github.io/ru/nypl)
+
+[P2P](https://lamescholar.github.io/ru/p2p)
+
 [VPN](https://lamescholar.github.io/ru/vpn)
 
 [Интеллектуальная собственность](https://lamescholar.github.io/ru/property)
 
 [Оцифровка](https://lamescholar.github.io/ru/digitization)
+
+[Письмо против интеллектуальной собственности](https://lamescholar.github.io/ru/letter)
