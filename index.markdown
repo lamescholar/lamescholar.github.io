@@ -5,14 +5,6 @@
 layout: home
 ---
 
-About:
-
-[English](https://lamescholar.github.io/en/hello)
-
-[Russian](https://lamescholar.github.io/ru/hello)
-
-Pirate Cookbook:
-
 [In English](https://lamescholar.github.io/en/piratecookbook)
 
 [In Russian](https://lamescholar.github.io/ru/piratecookbook)
