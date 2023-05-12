@@ -18,9 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pirate Cookbook
+title: lamescholar's library
 email: dVx09nq2yQBDGRK@protonmail.com
-description: Guide to piracy and book digitization
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

@@ -1,6 +1,10 @@
+Поваренная книга пирата - это пособие по пиратсву и оцифровке книг. Подробнее [Hello](https://lamescholar.github.io/ru/hello).<br/><br/>
+
 [FB2](https://lamescholar.github.io/ru/fb2)
 
 [DjVu](https://lamescholar.github.io/ru/djvu)
+
+[Hello](https://lamescholar.github.io/ru/hello)
 
 [Internet Archive](https://lamescholar.github.io/ru/archive)
 

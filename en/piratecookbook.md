@@ -1,3 +1,5 @@
+Pirate Cookbook is guide to piracy and book digitization. For details look [Hello](https://lamescholar.github.io/en/hello).<br/><br/>
+
 [FB2](https://lamescholar.github.io/en/fb2)
 
 [DjVu](https://lamescholar.github.io/en/djvu)
@@ -7,6 +9,8 @@
 [Intellectual property](https://lamescholar.github.io/en/property)
 
 [Internet Archive](https://lamescholar.github.io/en/archive)
+
+[Hello](https://lamescholar.github.io/en/hello)
 
 [Letter against intellectual property](https://lamescholar.github.io/en/letter)
 

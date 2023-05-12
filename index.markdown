@@ -5,7 +5,9 @@
 layout: home
 ---
 
+Pirate Cookbook:
+
 [In English](https://lamescholar.github.io/en/piratecookbook)
 
-[In Russian](https://lamescholar.github.io/ru/piratecookbook)
+[На русском](https://lamescholar.github.io/ru/piratecookbook)
 
