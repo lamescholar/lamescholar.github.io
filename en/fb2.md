@@ -26,7 +26,7 @@ FictionBook Editor 2.6.6:
 
 <https://code.google.com/archive/p/fictionbookeditor/downloads>
 
-If text is blurry, use compatibility settings as described for WinDjView. Look [DjVu](https://lamescholar.github.io/en/djvu)<br/><br/>
+If text is blurry, use compatibility settings as described for WinDjView. Look [DjVu](https://lamescholar.github.io/en/djvu).<br/><br/>
 
 Convertion:
 
