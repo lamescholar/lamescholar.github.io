@@ -2,7 +2,7 @@ Sources:
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
-<band name> дискография/discography
+band name дискография/discography
 
 Redacted - <https://redacted.ch/torrents.php>
 

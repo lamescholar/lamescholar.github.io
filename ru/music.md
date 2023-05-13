@@ -4,7 +4,7 @@
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
-<название группы> дискография/discography
+название группы дискография/discography
 
 Redacted - <https://redacted.ch/torrents.php>
 
