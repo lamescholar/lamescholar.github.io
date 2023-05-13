@@ -44,6 +44,8 @@ Pictures are downloaded without a certain DPI. Because of this, there may be pro
 
 In addition to DPI fix, if the scans are dark and the text is faded, you can use Contrast and Gamma correction color correction tools in the Irfan View program. I use the following grid of values (the first column is Contrast, the second is Gamma correction):
 
+90 4.00
+
 70 3.00
 
 50 2.00
