@@ -1,6 +1,6 @@
-**Open Access**<br/><br/>
+**Open access**<br/><br/>
 
-In solidarity with Library Genesis and Sci-Hub - <https://custodians.online/#fn-9>
+In solidarity with Library Genesis and Sci-Hub - <https://custodians.online>
 
 Guerilla Open Access Manifesto - <https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt>
 

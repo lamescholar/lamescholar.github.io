@@ -40,7 +40,7 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [OCR](https://lamescholar.github.io/en/ocr)
 
-[Open Access](https://lamescholar.github.io/en/openaccess)
+[Open access](https://lamescholar.github.io/en/openaccess)
 
 [P2P](https://lamescholar.github.io/en/p2p)
 

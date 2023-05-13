@@ -18,7 +18,7 @@
 
 [OCR](https://lamescholar.github.io/ru/ocr)
 
-[Open Access](https://lamescholar.github.io/ru/openaccess)
+[Open access](https://lamescholar.github.io/ru/openaccess)
 
 [P2P](https://lamescholar.github.io/ru/p2p)
 
