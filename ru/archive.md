@@ -122,7 +122,7 @@ PDF на выходе: ClearScan
 
 Если ширина картинок меньше 2500 - 300 DPI, больше 2500 - 600 DPI.
 
-См. DjVu.txt.<br/><br/>
+См. [DjVu](https://lamescholar.github.io/ru/djvu).<br/><br/>
 
 Не забудь удалить папки с картинками.<br/><br/>
 
