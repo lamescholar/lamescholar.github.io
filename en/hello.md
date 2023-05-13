@@ -9,3 +9,7 @@ With this collection of instructions and programs you will be able to create, sh
 Help share the knowledge. Share the link.
 
 <https://lamescholar.github.io>
+
+Original verison in form of text files:
+
+https://lamescholar.github.io/piratecookbook.zip

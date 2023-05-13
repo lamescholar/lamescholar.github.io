@@ -38,6 +38,10 @@
 
 [Библиотеки](https://lamescholar.github.io/ru/libraries)
 
+[Газеты](https://lamescholar.github.io/ru/newspapers)
+
+[Журналы](https://lamescholar.github.io/ru/magazines)
+
 [Игры](https://lamescholar.github.io/ru/games)
 
 [Инструкция по созданию электронных книг из бумажных оригиналов](https://lamescholar.github.io/ru/Инструкция.pdf)
@@ -57,6 +61,8 @@
 [Полнотекстовый поиск](https://lamescholar.github.io/ru/fulltextsearch)
 
 [Привет](https://lamescholar.github.io/ru/hello)
+
+[Серии](https://lamescholar.github.io/ru/series)
 
 [Скачать интернет-страницу](https://lamescholar.github.io/ru/webpagedownload)
 

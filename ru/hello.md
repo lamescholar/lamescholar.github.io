@@ -9,3 +9,7 @@
 Помоги распространить знания. Поделись ссылкой.
 
 <https://lamescholar.github.io>
+
+Исходный вариант в форме текстовых файликов:
+
+https://lamescholar.github.io/piratecookbook.zip
