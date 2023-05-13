@@ -12,17 +12,19 @@ Tick Add python.exe to PATH while downloading Python.
 
 Installation:
 
-```
 Win+R
 cmd
+
+```
 pip install mangadex-downloader
 ```
 
 Usage:
 
-```
 Win+R
 cmd
+
+```
 cd desktop
 mangadex-downloader https://mangadex.org/chapter/3660abf5-7b72-4a58-954a-c94d31652c08
 ```
@@ -50,18 +52,20 @@ Tick Add python.exe to PATH while downloading Python.
 
 Installation:
 
-```
 Win+R
 cmd
+
+```
 cd C:\
 git clone https://github.com/kamyabzad/mangasee123-downloader
 ```
 
 Usage:
 
-```
 Win+R
 cmd
+
+```
 cd C:\mangasee123-downloader
 python MangaseeDL.py "Vinland Saga" 1
 ```

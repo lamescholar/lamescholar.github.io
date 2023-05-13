@@ -14,17 +14,19 @@ Python - <https://www.python.org/downloads/>
 
 Установка:
 
-```
 Win+R
 cmd
+
+```
 pip install mangadex-downloader
 ```
 
 Использование:
 
-```
 Win+R
 cmd
+
+```
 cd desktop
 mangadex-downloader https://mangadex.org/chapter/9d62f675-9bf9-486e-b3c5-392b46b5fc6e
 ```
@@ -52,9 +54,10 @@ Python - <https://www.python.org/downloads/>
 
 Установка:
 
-```
 Win+R
 cmd
+
+```
 cd C:\
 git clone https://github.com/kamyabzad/mangasee123-downloader
 cd mangasee123-downloader
@@ -63,9 +66,10 @@ pip install -r requirements.txt
 
 Использование:
 
-```
 Win+R
 cmd
+
+```
 cd C:\mangasee123-downloader
 python MangaseeDL.py "Vinland Saga" 1
 ```
