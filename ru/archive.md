@@ -14,32 +14,28 @@ Python - <https://www.python.org/downloads/>
 
 Установка:
 
+```
 Win+R
-
 cmd
-
 cd C:\
-
 git clone https://github.com/MiniGlome/Archive.org-Downloader.git
-
 cd Archive.org-Downloader
-
-pip install -r requirements.txt<br/><br/>
-
+pip install -r requirements.txt
+```
+<br/><br/>
 Перед использованием необходимо зарегистрироваться.
 
 <https://archive.org/account/signup><br/><br/>
 
 Использование:
 
+```
 Win+R
-
 cmd
-
 cd C:\Archive.org-Downloader
-
-python archive-org-downloader.py -e email -p пароль -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j<br/><br/>
-
+python archive-org-downloader.py -e email -p пароль -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j
+```
+<br/><br/>
 Картинки скачиваются без определённого DPI. Из-за этого могут быть проблемы при создании файла. DPI можно установить с помощью программы Irfan View.
 
 Помимо правки DPI, если сканы тёмные, а текст блеклый, в программе Irfan View можно использовать инструменты цветокоррекции Contrast и Gamma correction. Я использую следующую сетку значений (первый столбик - Contrast, второй - Gamma correction):

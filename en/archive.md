@@ -14,32 +14,28 @@ Tick Add python.exe to PATH while downloading Python.<br/><br/>
 
 Installation:
 
+```
 Win+R
-
 cmd
-
 cd C:\
-
 git clone https://github.com/MiniGlome/Archive.org-Downloader.git
-
 cd Archive.org-Downloader
-
-pip install -r requirements.txt<br/><br/>
-
+pip install -r requirements.txt
+```
+<br/><br/>
 To use you need to register.
 
 <https://archive.org/account/signup><br/><br/>
 
 Usage:
 
+```
 Win+R
-
 cmd
-
 cd C:\Archive.org-Downloader
-
-python archive-org-downloader.py -e email -p password -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j<br/><br/>
-
+python archive-org-downloader.py -e email -p password -r 0 -u https://archive.org/details/untoldhistoryoft00ston -j
+```
+<br/><br/>
 Pictures are downloaded without a certain DPI. Because of this, there may be problems when creating a file. DPI can be set using the IrfanView program.
 
 In addition to DPI fix, if the scans are dark and the text is faded, you can use Contrast and Gamma correction color correction tools in the Irfan View program. I use the following grid of values (the first column is Contrast, the second is Gamma correction):
