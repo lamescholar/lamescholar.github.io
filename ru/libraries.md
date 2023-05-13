@@ -36,6 +36,10 @@ Gutenberg - <https://www.gutenberg.org/><br/><br/>
 
 <https://vk.com/club61771654><br/><br/>
 
+Узнать об интересных, чтобы затем попробовать найти их:
+
+<https://www.youtube.com/@bookinist_orsk/videos><br/><br/>
+
 Национальные электронные библиотеки:
 
 <https://www.loc.gov/collections/>
