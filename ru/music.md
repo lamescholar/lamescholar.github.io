@@ -2,7 +2,7 @@
 
 Истночники:
 
-RuTracker - <http://rutracker.org/forum/index.php>
+RuTracker - <https://rutracker.org/forum/index.php>
 
 название группы дискография/discography
 

@@ -54,6 +54,10 @@ Undergraduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?
 
 Советские книги по математике для школьников на немецком - <https://mathematikalpha.de/schuelerbuecherei><br/><br/>
 
+Искусство:
+
+Жизнь в искусстве - <https://rutracker.org/forum/viewtopic.php?t=5563679><br/><br/>
+
 История:
 
 The Cambridge Ancient History
@@ -70,7 +74,17 @@ The New Cambridge Modern History
 
 Исторический архив - <https://rutracker.org/forum/viewtopic.php?t=5763205>
 
-Исторические записки - <https://rutracker.org/forum/viewtopic.php?t=5765256><br/><br/>
+Исторические записки - <https://rutracker.org/forum/viewtopic.php?t=5765256>
+
+Россия. XX век. Документы - <https://rutracker.org/forum/viewtopic.php?t=6363369>
+
+По следам исчезнувших культур - <https://rutracker.org/forum/index.php>
+
+Historia Rossica - <https://libgen.rs/search.php?req=Historia+Rossica&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
+
+Живая история: Повседневная жизнь человечества - <http://flibusta.is/sequence/4035>
+
+Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401>
 
 Общество:
 
@@ -101,10 +115,6 @@ The New Cambridge Modern History
 Библиотека отечественной общественной мысли - <https://rutracker.org/forum/index.php>
 
 Судьбы книг - <https://rutracker.org/forum/index.php><br/><br/>
-
-Искусство:
-
-Жизнь в искусстве - <https://rutracker.org/forum/viewtopic.php?t=5563679><br/><br/>
 
 Философия:
 

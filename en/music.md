@@ -1,6 +1,6 @@
 Sources:
 
-RuTracker - <http://rutracker.org/forum/index.php>
+RuTracker - <https://rutracker.org/forum/index.php>
 
 band name дискография/discography
 

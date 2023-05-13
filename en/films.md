@@ -2,7 +2,7 @@
 
 Sources:
 
-RuTracker - <http://rutracker.org/forum/index.php>
+RuTracker - <https://rutracker.org/forum/index.php>
 
 RARBG - <https://rarbgmirror.org/torrents.php>
 

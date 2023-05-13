@@ -148,7 +148,7 @@ genesis
 
 upload
 
-RuTracker - <http://rutracker.org/forum/index.php><br/><br/>
+RuTracker - <https://rutracker.org/forum/index.php><br/><br/>
 
 Информация:
 

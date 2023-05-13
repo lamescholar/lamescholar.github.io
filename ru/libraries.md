@@ -1,6 +1,6 @@
 **Библиотеки**<br/><br/>
 
-RuTracker - <http://rutracker.org/forum/index.php>
+RuTracker - <https://rutracker.org/forum/index.php>
 
 <https://rutracker.org/forum/tracker.php?rid=45195282>
 
@@ -36,7 +36,7 @@ Gutenberg - <https://www.gutenberg.org/><br/><br/>
 
 <https://vk.com/club61771654><br/><br/>
 
-Узнать об интересных, чтобы затем попробовать найти их:
+Узнать об интересных книгах, чтобы затем попробовать найти их:
 
 <https://www.youtube.com/@bookinist_orsk/videos><br/><br/>
 
