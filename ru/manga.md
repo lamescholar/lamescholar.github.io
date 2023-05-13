@@ -14,11 +14,9 @@ Python - <https://www.python.org/downloads/>
 
 Установка:
 
-Win+R
-
-cmd
-
 ```
+Win+R
+cmd
 pip install mangadex-downloader
 ```
 
