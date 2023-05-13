@@ -35,4 +35,4 @@ Program use Tesseract for recognition. Training data is out of date - 2015. You 
 
 <https://github.com/UB-Mannheim/tesseract/wiki><br/><br/>
 
-For translation use ChatGPT. Look ChatGPT.txt.
+For translation use ChatGPT. Look [ChatGPT](https://lamescholar.github.io/en/chatgpt).

@@ -35,4 +35,4 @@ Capture2Text - <https://capture2text.sourceforge.net/>
 
 <https://github.com/UB-Mannheim/tesseract/wiki><br/><br/>
 
-Для перевода пользуй ChatGPT. Смотри ChatGPT.txt.
+Для перевода пользуй ChatGPT. Смотри [ChatGPT](https://lamescholar.github.io/ru/chatgpt).
