@@ -36,6 +36,8 @@
 
 [Аудиокниги](https://lamescholar.github.io/ru/audiobooks)
 
+[Библиотеки](https://lamescholar.github.io/ru/libraries)
+
 [Игры](https://lamescholar.github.io/ru/games)
 
 [Инструкция по созданию электронных книг из бумажных оригиналов](https://lamescholar.github.io/ru/Инструкция.pdf)
@@ -59,5 +61,7 @@
 [Скачать интернет-страницу](https://lamescholar.github.io/ru/webpagedownload)
 
 [Справочники](https://lamescholar.github.io/ru/reference)
+
+[Статьи](https://lamescholar.github.io/ru/articles)
 
 [Фильмы](https://lamescholar.github.io/ru/films)

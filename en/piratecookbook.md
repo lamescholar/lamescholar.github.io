@@ -2,6 +2,8 @@
 
 Pirate Cookbook is my guide to piracy and book digitization. For details look [Hello](https://lamescholar.github.io/en/hello).<br/><br/>
 
+[Articles](https://lamescholar.github.io/en/articles)
+
 [Audiobooks](https://lamescholar.github.io/en/audiobooks)
 
 [Book searching](https://lamescholar.github.io/en/booksearching)
@@ -31,6 +33,8 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 [LaTeX](https://lamescholar.github.io/en/latex)
 
 [Letter against intellectual property](https://lamescholar.github.io/en/letter)
+
+[Libraries](https://lamescholar.github.io/en/libraries)
 
 [Manga](https://lamescholar.github.io/en/manga)
 
