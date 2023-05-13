@@ -1,0 +1,205 @@
+**Серии**<br/><br/>
+
+Естественные науки:
+
+Современные проблемы математики. Фундаментальные направления - <http://www.mathnet.ru/php/archive.phtml?jrnid=intf&wshow=contents&option_lang=rus>
+
+Наука. Величайшие теории - <https://rutracker.org/forum/viewtopic.php?t=4929877>
+
+Мир математики - <https://rutracker.org/forum/viewtopic.php?t=5052167>
+
+В мире науки и техники - <https://rutracker.org/forum/viewtopic.php?t=3890316>
+
+Эврика - <https://rutracker.org/forum/viewtopic.php?t=4508487>
+
+Число и мысль - <https://rutracker.org/forum/viewtopic.php?t=6070942>
+
+Библиотека «Математическое просвещение» - <https://www.mccme.ru/mmmf-lectures/books/>
+
+Популярные лекции по математике - <http://publ.lib.ru/ARCHIVES/P/''Populyarnye_lekcii_po_matematike''/_''PLM''.html>
+
+Библиотечка Квант - <http://publ.lib.ru/ARCHIVES/B/''Bibliotechka_''Kvant''/_''BK''.html>
+
+Новое в жизни, науке, технике (цикл серий, в том числе философская серия) - <http://publ.lib.ru/ARCHIVES/N/''Novoe_v_jizni,_nauke,_tehnike''/_''NJNT._Fizika''_.html>
+
+Проблемы науки и технического прогресса - <http://publ.lib.ru/ARCHIVES/N/''Nauchno-populyarnaya_literatura''_(ser.AN)/_''NPLAN_PNiTP''_.html>
+
+Математическая мозаика - <https://rutracker.org/forum/viewtopic.php?t=5608554>
+
+Классики науки - <https://ru.wikipedia.org >
+
+Классики естествознания - <https://ru.wikipedia.org>
+
+Люди науки - <http://publ.lib.ru/ARCHIVES/L/''Lyudi_nauki''/_''LN''.html>
+
+Ученые - школьнику - <http://publ.lib.ru/ARCHIVES/B/''Bibliotechka_Detskoy_enciklopedii_''Uchenye_-_shkol'niku''/_''BDEUSH''.html>
+
+Научно-популярная литература - <http://publ.lib.ru/ARCHIVES/N/''Nauchno-populyarnaya_literatura''_(ser.AN)/_''NPLAN''_.html>
+
+Переводная научно-популярная литература - <http://publ.lib.ru/ARCHIVES/P/''Perevodnaya_nauchno-populyarnaya_literatura''/_''PNPL''.html>
+
+Мир знаний - <http://publ.lib.ru/ARCHIVES/M/''Mir_znaniy''/_''MZ''.html>
+
+Кибернетика - <http://publ.lib.ru/ARCHIVES/K/''Kibernetika''/_''Kibernetika''.html>
+
+Научно-популярная библиотека - <http://publ.lib.ru/ARCHIVES/N/''Nauchno-populyarnaya_biblioteka''_(ser.GTI)/_''NPB''_(ser.GTI).html>
+
+Graduate Studies in Mamthematics - <https://rutracker.org/forum/viewtopic.php?t=6299486>
+
+Graduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003453>
+
+Undergraduate Texts in Mathematics - <https://rutracker.org/forum/viewtopic.php?t=6003927>
+
+Советские книги по математике для школьников на английском - <https://archive.org/details/@mirtitles>
+
+Советские книги по математике для школьников на немецком - <https://mathematikalpha.de/schuelerbuecherei><br/><br/>
+
+История:
+
+The Cambridge Ancient History
+
+The New Cambridge Medieval History
+
+The New Cambridge Modern History
+
+<https://rutracker.org/forum/viewtopic.php?t=5923844>
+
+Всемирная история - <https://rutracker.org/forum/viewtopic.php?t=6025409>
+
+Памятники исторической мысли - <https://rutracker.org/forum/viewtopic.php?t=4767957>
+
+Исторический архив - <https://rutracker.org/forum/viewtopic.php?t=5763205>
+
+Исторические записки - <https://rutracker.org/forum/viewtopic.php?t=5765256><br/><br/>
+
+Общество:
+
+Сочинения Маркса и Энгельса - <https://rutracker.org/forum/viewtopic.php?t=6057922>
+
+Капитал Маркса - <https://rutracker.org/forum/viewtopic.php?t=6244868>
+
+Полное собрание сочинений Ленина - <https://rutracker.org/forum/viewtopic.php?t=6024952>
+
+Сочинения Сталина - <https://rutracker.org/forum/viewtopic.php?t=6058736>
+
+Сочинения Троцкого:
+
+<https://rutracker.org/forum/viewtopic.php?t=5359230>
+
+<https://rutracker.org/forum/viewtopic.php?t=5351069>
+
+Критика буржуазной идеологии и ревизионизма - <http://publ.lib.ru/ARCHIVES/K/''Kritika_burjuaznoy_ideologii_i_revizionizma''/_''KBIR''.html>
+
+Библиотека по научному социализму - <http://publ.lib.ru/ARCHIVES/B/''Bibliotechka_po_nauchnimu_socializmu''/_''BNS''.html>
+
+Вопросы научного атеизма - <https://rutracker.org/forum/viewtopic.php?t=4609910>
+
+Библиотека атеистической литературы - <http://publ.lib.ru/ARCHIVES/B/''Biblioteka_ateisticheskoy_literatury''/_''BAL''.html>
+
+Реальная политика - <https://www.invissin.ru/books/>
+
+Библиотека отечественной общественной мысли - <https://rutracker.org/forum/index.php>
+
+Судьбы книг - <https://rutracker.org/forum/index.php><br/><br/>
+
+Искусство:
+
+Жизнь в искусстве - <https://rutracker.org/forum/viewtopic.php?t=5563679><br/><br/>
+
+Философия:
+
+Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=6244391>
+
+Слово о сущем - <https://rutracker.org/forum/index.php>
+
+Философское наследие - <https://rutracker.org/forum/viewtopic.php?t=3626809>
+
+Мыслители прошлого - <https://rutracker.org/forum/viewtopic.php?t=3544909>
+
+Памятники философской мысли - <https://rutracker.org/forum/viewtopic.php?t=3587985>
+
+Над чем работают, о чем спорят философы - <http://publ.lib.ru/ARCHIVES/N/''Nad_chem_rabotayut,_o_chem_sporyat_filosofy''/_''NChROChSF''.html><br/><br/>
+
+Художественная литература:
+
+Library of America:
+
+<https://www.loa.org/books/loa_collection>
+
+[Internet Archive](https://lamescholar.github.io/ru/archive)
+
+Harvard Classics - <https://rutracker.org/forum/viewtopic.php?t=6244440>
+
+Penguin Classics - <https://libgen.rs/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+
+Oxford World Classics - <https://libgen.rs/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+
+Библиотека всемирной литературы - <https://rutracker.org/forum/viewtopic.php?t=3507420>
+
+Библиотека мировой литературы для детей - <https://rutracker.org/forum/viewtopic.php?t=5561133>
+
+Эксклюзивная классика - <https://rutracker.org/forum/viewtopic.php?t=5902821>
+
+Иностранная литература. Большие книги - <https://rutracker.org/forum/viewtopic.php?t=5764576>
+
+Русская литература. Большие книги - <https://rutracker.org/forum/viewtopic.php?t=5764583>
+
+Библиотека поэта:
+
+<https://rutracker.org/forum/viewtopic.php?t=605610>
+
+<https://rutracker.org/forum/viewtopic.php?t=5441959>
+
+<https://rutracker.org/forum/viewtopic.php?t=4938890>
+
+Зарубежная фантастика - <https://rutracker.org/forum/viewtopic.php?t=5326730>
+
+Библиотека фантастики - <https://rutracker.org/forum/viewtopic.php?t=4756926>
+
+Литературное наследство - <https://rutracker.org/forum/viewtopic.php?t=3246362>
+
+Литературные памятники - <https://rutracker.org/forum/viewtopic.php?t=4767886>
+
+Библиотека античной литературы - <https://rutracker.org/forum/viewtopic.php?t=5875194>
+
+Памятники литературы Древней Руси:
+
+<https://rutracker.org/forum/viewtopic.php?t=5719796>
+
+<https://rutracker.org/forum/viewtopic.php?t=5721164>
+
+<https://rutracker.org/forum/viewtopic.php?t=5731837>
+
+<https://rutracker.org/forum/viewtopic.php?t=5804876>
+
+<https://rutracker.org/forum/viewtopic.php?t=5713000>
+
+<https://rutracker.org/forum/viewtopic.php?t=5713006>
+
+<https://rutracker.org/forum/viewtopic.php?t=5713007>
+
+Жизнь замечательных людей - <https://rutracker.org/forum/viewtopic.php?t=6234901>
+
+Библиотека исторического романа - <https://rutracker.org/forum/viewtopic.php?t=5479122><br/><br/>
+
+На рутрекере можно найти множество собраний сочинений, изданных в советское время и не только в советское время. Запрос:
+
+фамилия автора собрание сочинений
+
+или
+
+фамилия автор сочинения
+
+Некоторые фамилии: Некрасов, Толстой Л.Н., Толстой Л.А., Чехов, Алексин, Хрущёв, Борхес, Ломоносов, Маяковский, Миклухо-Маклай, Бахтин, Бёлль, Ницше, Уэллс, Радищев, Шопенгауэр, Герцен, Ильенков, Шекспир, Чернышевский, Успенский, Твен, Ильф и Петров, Салтыков-Щедрин, Пушкин, Стругацкие, Лем, Верн, Лесков, Достоевский, Дойль, Гюго, Стендаль, Горький, Булгаков, Белинский, Камю, Лосев, Кант, Павлов, Плеханов, Ленин, Маркс и Энгельс, Сталин, Троцкий, Зомбарт, Ключевский, Гашек, Дарвин, Диккенс, Лондон, Маршак.
+
+Собрания сочинений Библиотеки "Огонёк":
+
+<https://fantlab.ru/series736><br/><br/>
+
+Шахматы:
+
+Библиотечка шахматиста:
+
+<https://rutracker.org/forum/viewtopic.php?t=2979872>
+
+<https://rutracker.org/forum/viewtopic.php?t=5939631>
