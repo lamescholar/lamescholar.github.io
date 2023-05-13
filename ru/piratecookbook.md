@@ -2,9 +2,11 @@
 
 Поваренная книга пирата - моё пособие по пиратсву и оцифровке книг. Подробнее смотри [Привет](https://lamescholar.github.io/ru/hello).<br/><br/>
 
-[FB2](https://lamescholar.github.io/ru/fb2)
+[ChatGPT](https://lamescholar.github.io/ru/chatgpt)
 
 [DjVu](https://lamescholar.github.io/ru/djvu)
+
+[FB2](https://lamescholar.github.io/ru/fb2)
 
 [Internet Archive](https://lamescholar.github.io/ru/archive)
 

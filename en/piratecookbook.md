@@ -4,11 +4,13 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [Book searching](https://lamescholar.github.io/en/booksearching)
 
-[FB2](https://lamescholar.github.io/en/fb2)
+[ChatGPT](https://lamescholar.github.io/en/chatgpt)
 
 [DjVu](https://lamescholar.github.io/en/djvu)
 
 [Digitization](https://lamescholar.github.io/en/digitization)
+
+[FB2](https://lamescholar.github.io/en/fb2)
 
 [Intellectual property](https://lamescholar.github.io/en/property)
 

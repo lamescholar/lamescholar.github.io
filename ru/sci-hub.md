@@ -32,7 +32,7 @@ for x in args.file.readlines():
 	print("Done")
 	i += 1
 ```
-<br/><br/>
+
 Создаёшь текстовый файл, вставляешь код, закрываешь. Меняешь название на scihub, а расширение на .py.
 	
 Создаёшь cmd.txt. Вставляешь:
@@ -41,7 +41,7 @@ for x in args.file.readlines():
 cd "C:\Users\...\Sci-Hub"
 python scihub.py DOI.txt
 ```
-<br/><br/>
+
 Создаёшь DOI.txt.
 
 Складываешь все 3 файла в папку Sci-Hub.
