@@ -8,8 +8,8 @@
 
 Помоги распространить знания. Поделись ссылкой.
 
-<https://lamescholar.github.io>
+<https://lamescholar.github.io><br/><br/>
 
 Исходный вариант в форме текстовых файликов:
 
-https://lamescholar.github.io/piratecookbook.zip
+<https://lamescholar.github.io/piratecookbook.zip>
