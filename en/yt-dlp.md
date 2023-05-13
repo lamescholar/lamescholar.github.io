@@ -6,13 +6,11 @@ yt-dlp - program for downloading YouTube videos.<br/><br/>
 
 Put .exe file into some folder. Add folder to Path. Google how to do it.<br/><br/>
 
-Win+R 
-cmd
-cd desktop
-
 For videos:
 
 ```
+Win+R 
+cmd
 cd desktop
 yt-dlp --add-metadata --embed-thumbnail --embed-subs -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```

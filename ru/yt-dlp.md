@@ -6,12 +6,11 @@ yt-dlp - программа для скачивания видео с YouTube.<b
 
 Закидываешь куда-нибудь .exe файл. Набираешь в поиске "переменных". Изменение переменных среды->Переменные среды->Переменные среды пользователя->Path->Создать. Указываешь путь к папке, где лежит .exe файл.<br/><br/>
 
-Win+R
-cmd
-
 Для видео:
 
 ```
+Win+R 
+cmd
 cd desktop
 yt-dlp --add-metadata --embed-thumbnail --embed-subs -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
