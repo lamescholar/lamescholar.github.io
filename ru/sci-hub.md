@@ -52,12 +52,12 @@ python scihub.py DOI.txt
 
 Копируешь содержимое cmd.txt.
 
+```
 Win+R
-
 cmd
-
-Ctrl+V<br/><br/>
-
+Ctrl+V
+```
+<br/><br/>
 Статьи можно склеить в один PDF-файл с помощью программы PDF-XChange Editor.
 
 <https://rutracker.org/forum/viewtopic.php?t=5998062>

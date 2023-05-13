@@ -52,12 +52,12 @@ Open DOI.txt . Fill it with links to articles.
 
 Copy the contents of cmd.txt.
 
+```
 Win+R
-
 cmd
-
-Ctrl+V<br/><br/>
-
+Ctrl+V
+```
+<br/><br/>
 Articles can be merged into one PDF file using the PDF-XChange Editor program.
 
 <https://rutracker.org/forum/viewtopic.php?t=5998062>
