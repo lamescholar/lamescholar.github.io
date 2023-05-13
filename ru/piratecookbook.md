@@ -16,7 +16,7 @@
 
 [NYPL](https://lamescholar.github.io/ru/nypl)
 
-[OCR]https://lamescholar.github.io/ru/ocr)
+[OCR](https://lamescholar.github.io/ru/ocr)
 
 [Open Access](https://lamescholar.github.io/ru/openaccess)
 

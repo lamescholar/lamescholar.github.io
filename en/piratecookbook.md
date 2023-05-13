@@ -38,7 +38,7 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [NYPL](https://lamescholar.github.io/en/nypl)
 
-[OCR]https://lamescholar.github.io/en/ocr)
+[OCR](https://lamescholar.github.io/en/ocr)
 
 [Open Access](https://lamescholar.github.io/en/openaccess)
 
