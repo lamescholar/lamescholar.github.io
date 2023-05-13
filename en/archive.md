@@ -118,7 +118,7 @@ If width of image is greater than 2000 - 300 DPI, greater than 2000 - 600 DPI.
 
 Look DjVu.txt.<br/><br/>
 
-Don't forget to delete folders with images.
+Don't forget to delete folders with images.<br/><br/>
 
 Publish your book:
 
