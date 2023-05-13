@@ -68,7 +68,7 @@ python MangaseeDL.py "Vinland Saga" 1
 <br/><br/>
 Torrent site with English translations:
 
-<nyaa.si><br/><br/>
+<https://nyaa.si><br/><br/>
 
 Program for viewing images:
 

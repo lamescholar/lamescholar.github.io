@@ -71,7 +71,7 @@ python MangaseeDL.py "Vinland Saga" 1
 ```
 <br/><br/>
 Торрент-сайт с переводами на английский:
-<nyaa.si><br/><br/>
+<https://nyaa.si><br/><br/>
 
 Программа для просмотра изображений:
 
