@@ -100,31 +100,31 @@ EUGÈNE POTTIER
 
 THE 25TH ANNIVERSARY OF HIS DEATH<br/><br/>
 
-In November of last year—1912—it was twenty-five years since the death of the French worker-poet, Eugène Pottier, author of the famous proletarian song, the Internationale (“Arise ye starvelings from your slumbers”, etc.).<br/><br/>
+In November of last year—1912—it was twenty-five years since the death of the French worker-poet, Eugène Pottier, author of the famous proletarian song, the Internationale (“Arise ye starvelings from your slumbers”, etc.).
 
-This song has been translated into all European and other languages. In whatever country a class-conscious worker finds himself, wherever fate may cast him, however much he may feel himself a stranger, without language, without friends, far from his native country—he can find himself comrades and friends by the familiar refrain of the Internationale.<br/><br/>
+This song has been translated into all European and other languages. In whatever country a class-conscious worker finds himself, wherever fate may cast him, however much he may feel himself a stranger, without language, without friends, far from his native country—he can find himself comrades and friends by the familiar refrain of the Internationale.
 
-The workers of all countries have adopted the song of their foremost fighter, the proletarian poet, and have made it the world-wide song of the proletariat.<br/><br/>
+The workers of all countries have adopted the song of their foremost fighter, the proletarian poet, and have made it the world-wide song of the proletariat.
 
-And so the workers of all countries now honour the memory of Eugène Pottier. His wife and daughter are still alive and living in poverty, as the author of the Internationale lived all his life. He was born in Paris on October 4, 1816. He was 14 when he composed his first song, and it was called: Long Live Liberty! In 1848 he was a fighter on the barricades in the workers’ great battle against the bourgeoisie.<br/><br/>
+And so the workers of all countries now honour the memory of Eugène Pottier. His wife and daughter are still alive and living in poverty, as the author of the Internationale lived all his life. He was born in Paris on October 4, 1816. He was 14 when he composed his first song, and it was called: Long Live Liberty! In 1848 he was a fighter on the barricades in the workers’ great battle against the bourgeoisie.
 
-Pottier was born into a poor family, and all his life remained a poor man, a proletarian, earning his bread as a packer and later by tracing patterns on fabrics.<br/><br/>
+Pottier was born into a poor family, and all his life remained a poor man, a proletarian, earning his bread as a packer and later by tracing patterns on fabrics.
 
-From 1840 onwards, he responded to all great events in the life of France with militant songs, awakening the consciousness of the backward, calling on the workers to   unite, castigating the bourgeoisie and the bourgeois governments of France.<br/><br/>
+From 1840 onwards, he responded to all great events in the life of France with militant songs, awakening the consciousness of the backward, calling on the workers to   unite, castigating the bourgeoisie and the bourgeois governments of France.
 
-In the days of the great Paris Commune (1871), Pottier was elected a member. Of the 3,600 votes cast, he received 3,352. He took part in all the activities of the Commune, that first proletarian government.<br/><br/>
+In the days of the great Paris Commune (1871), Pottier was elected a member. Of the 3,600 votes cast, he received 3,352. He took part in all the activities of the Commune, that first proletarian government.
 
-The fall of the Commune forced Pottier to flee to England, and then to America. His famous song, the Internationale, was written in June 1871—you might say, the day after the bloody defeat in May.<br/><br/>
+The fall of the Commune forced Pottier to flee to England, and then to America. His famous song, the Internationale, was written in June 1871—you might say, the day after the bloody defeat in May.
 
-The Commune was crushed—but Pottier’s Internationale spread its ideas throughout the world, and it is now more alive than ever before.<br/><br/>
+The Commune was crushed—but Pottier’s Internationale spread its ideas throughout the world, and it is now more alive than ever before.
 
-In 1876, in exile, Pottier wrote a poem, The Workingmen of America to the Workingmen of France. In it he described the life of workers under the yoke of capitalism, their poverty, their back-breaking toil, their exploitation, and their firm confidence in the coming victory of their cause.<br/><br/>
+In 1876, in exile, Pottier wrote a poem, The Workingmen of America to the Workingmen of France. In it he described the life of workers under the yoke of capitalism, their poverty, their back-breaking toil, their exploitation, and their firm confidence in the coming victory of their cause.
 
-It was only nine years after the Commune that Pottier returned to France, where he at once joined the Workers’ Party. The first volume of his verse was published in 1884, the second volume, entitled Revolutionary Songs, came out in 1887.<br/><br/>
+It was only nine years after the Commune that Pottier returned to France, where he at once joined the Workers’ Party. The first volume of his verse was published in 1884, the second volume, entitled Revolutionary Songs, came out in 1887.
 
-A number of other songs by the worker-poet were published after his death.<br/><br/>
+A number of other songs by the worker-poet were published after his death.
 
-On November 8, 1887, the workers of Paris carried the remains of Eugène Pottier to the Père Lachaise cemetery, where the executed Communards are buried. The police savagely attacked the crowd in an effort to snatch the red banner. A vast crowd took part in the civic funeral. On all sides there were shouts of “Long live Pottier!”<br/><br/>
+On November 8, 1887, the workers of Paris carried the remains of Eugène Pottier to the Père Lachaise cemetery, where the executed Communards are buried. The police savagely attacked the crowd in an effort to snatch the red banner. A vast crowd took part in the civic funeral. On all sides there were shouts of “Long live Pottier!”
 
 Pottier died in poverty. But he left a memorial which is truly more enduring than the handiwork of man. He was one of the greatest propagandists by song. When he was composing his first song, the number of worker socialists ran to tens, at most. Eugène Pottier’s historic song is now known to tens of millions of proletarians.<br/><br/>
 
