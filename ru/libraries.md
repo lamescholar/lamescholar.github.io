@@ -1,5 +1,9 @@
 **Библиотеки**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+![The Library of Babel](/images/babel.jpg)
+{: refdef}
+
 RuTracker - <https://rutracker.org/forum/index.php>
 
 <https://rutracker.org/forum/tracker.php?rid=45195282>
