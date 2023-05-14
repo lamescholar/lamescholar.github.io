@@ -1,5 +1,7 @@
 **P2P**<br/><br/>
 
+Ниже я перечисляю программы, которые позволят тебе пользоваться P2P-сетями.<br/><br/>
+
 BitTorrent:
 
 qBittorent - <https://www.qbittorrent.org/download.php>

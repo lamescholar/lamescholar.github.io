@@ -1,10 +1,12 @@
 **LaTeX**<br/><br/>
 
-MiKTeX - https://miktex.org/download
+LaTeX is a layout tool with which you can make a PDF file with a complex mathematical notation.<br/><br/>
 
-TeXstudio - https://www.texstudio.org/
+MiKTeX - <https://miktex.org/download>
 
-https://overleaf.com/learn
+TeXstudio - <https://www.texstudio.org/>
+
+<https://overleaf.com/learn>
 
 Options->Configure TeXstudio...->Build->PDF Viewer->External PDF Viewer.
 

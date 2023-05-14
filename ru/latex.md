@@ -1,8 +1,12 @@
-MiKTeX - https://miktex.org/download
+**LaTeX**<br/><br/>
 
-TeXstudio - https://www.texstudio.org/
+LaTeX - инструмент для вёрстки, с помощью которого можно сделать PDF-файл со сложной математической нотацией.<br><br/>
 
-https://rutracker.org/forum/viewtopic.php?t=6191459
+MiKTeX - <https://miktex.org/download>
+
+TeXstudio - <https://www.texstudio.org/>
+
+<https://rutracker.org/forum/viewtopic.php?t=6191459>
 
 Параметры->Конфугурация TeXstudio...->Компиляция->Просмотрщик PDF->Внешний просмотрщик PDF.
 

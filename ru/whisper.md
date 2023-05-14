@@ -1,5 +1,7 @@
 **whisper**<br/><br/>
 
+whisper - программа для распознания речи.<br/><br/>
+
 <https://github.com/openai/whisper><br/><br/>
 
 Для установки необходимы:

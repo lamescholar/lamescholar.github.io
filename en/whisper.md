@@ -1,5 +1,7 @@
 **whisper**<br/><br/>
 
+whisper is a program for speech recognition.<br/><br/>
+
 <https://github.com/openai/whisper><br/><br/>
 
 Requirements to install:
