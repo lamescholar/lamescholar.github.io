@@ -1,5 +1,7 @@
 **Манга**<br/><br/>
 
+Для чтения манги нужно скачать картинки с нижеуказанных сайтов. Для просмотра картинок можно используй программу IrfanView.<br/><br/>
+
 <https://manga.ovh/manga/vinland-saga><br/><br/>
 
 <https://mangadex.org/title/5d1fc77e-706a-4fc5-bea8-486c9be0145d/vinland-saga?order=asc>
