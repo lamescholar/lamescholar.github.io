@@ -1,5 +1,9 @@
 **Manga**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+![Vinland](/images/vinlanden.jpg)
+{: refdef}
+
 To read manga, you need to download images from the following sites. To view images, use the IrfanView program.<br/><br/>
 
 <https://mangadex.org/title/5d1fc77e-706a-4fc5-bea8-486c9be0145d/vinland-saga?order=asc>
