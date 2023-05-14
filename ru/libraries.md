@@ -238,6 +238,8 @@ U.S. Declassified Documents Online - Gale<br/><br/>
 
 <https://www.marxistphilosophy.org/>
 
+<https://theanarchistlibrary.org/special/index>
+
 <https://www.akp.no/ml-historie/html/english.html><br/><br/>
 
 Психология:
