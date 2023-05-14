@@ -218,7 +218,7 @@ U.S. Declassified Documents Online - Gale<br/><br/>
 
 <https://archive.org/details/@ismail_badiou>
 
-<https://web.archive.org/web/20180708051244/<http://joseph-stalin.net/List%20of%20Books.html>
+<https://web.archive.org/web/20180708051244/http://joseph-stalin.net/List%20of%20Books.html>
 
 <http://bannedthought.net/>
 
@@ -282,7 +282,7 @@ U.S. Declassified Documents Online - Gale<br/><br/>
 
 <https://www.hplovecraft.com/writings/><br/><br/>
 
-<https://web.archive.org/web/20141019142334/<http://scilib.narod.ru/index.html>
+<https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
 
 <http://vivovoco.astronet.ru/>
 
