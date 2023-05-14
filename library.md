@@ -3,3 +3,5 @@
 [Исследователь в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
 
 [Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
+
+[Guerilla Open Access Manifesto](https://lamescholar.github.io/lib/manifesto)
