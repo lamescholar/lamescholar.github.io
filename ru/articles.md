@@ -16,7 +16,7 @@ PhilPapers - <https://philpapers.org/><br/><br/>
 
 Естественно-научные журналы:
 
-Соросовский образовательный журнал - <https://web.archive.org/web/20071130004824/<http://journal.issep.rssi.ru/>
+Соросовский образовательный журнал - <https://web.archive.org/web/20071130004824/http://journal.issep.rssi.ru/>
 
 Math-Net.Ru - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 
@@ -136,7 +136,7 @@ Book History - <https://muse.jhu.edu/journal/23><br/><br/>
 
 Russian Studies in Philosophy - <https://www.tandfonline.com/loi/mrsp19>
 
-Логос - <https://web.archive.org/web/20180105202122/<https://www.ruthenia.ru/logos/number/arc.htm>
+Логос - <https://web.archive.org/web/20180105202122/https://www.ruthenia.ru/logos/number/arc.htm>
 
 Философская антропология - <https://pa.iphras.ru/issue/archive>
 
