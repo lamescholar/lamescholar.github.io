@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src:"images/crossroads.png"><br/><br/>
+<img src:"/images/crossroads.png"><br/><br/>
 
 Pirate Cookbook:
 
