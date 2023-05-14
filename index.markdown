@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: /images/crossroads.png
 ---
-
-<img src:"/images/crossroads.png"><br/><br/>
 
 Pirate Cookbook:
 
