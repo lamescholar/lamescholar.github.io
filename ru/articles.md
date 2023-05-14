@@ -44,6 +44,38 @@ Physics Today - <https://physicstoday.scitation.org/toc/pto/current>
 
 American Journal of Physics - <https://aapt.scitation.org/toc/ajp/current><br/><br/>
 
+Исторические журналы:
+
+Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
+
+Древняя русь - <http://www.drevnyaya.ru/vyp/rbrkk.php>
+
+Французский ежегодник - <https://annuaire-fr.igh.ru/issues?locale=ru>
+
+The American Historical Review - <https://academic.oup.com/ahr/issue>
+
+The Journal of Modern History - <https://www.journals.uchicago.edu/loi/jmh>
+
+Speculum - <https://www.journals.uchicago.edu/loi/spc>
+
+Social History - <https://www.tandfonline.com/loi/rshi20>
+
+Past & Present - <https://academic.oup.com/past/issue>
+
+Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/all-issues><br/><br/>
+
+Литературные журналы:
+
+<https://magazines.gorky.media/>
+
+Новый мир - <http://www.nm1925.ru/Archive/Default.aspx>
+
+Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.do?userGroupName=nypl&prodId=BRIP>
+
+Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
+
+London Review of Books - <https://www.lrb.co.uk/archive?sort=newest><br/><br/>
+
 Общественно-политические журналы:
 
 Свободная мысль - <https://www.elibrary.ru/contents.asp?titleid=9086>
@@ -94,18 +126,6 @@ Marx & Philosophy Review of Books - <https://marxandphilosophy.org.uk/reviewofbo
 
 Book History - <https://muse.jhu.edu/journal/23><br/><br/>
 
-Литературные журналы:
-
-<https://magazines.gorky.media/>
-
-Новый мир - <http://www.nm1925.ru/Archive/Default.aspx>
-
-Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.do?userGroupName=nypl&prodId=BRIP>
-
-Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
-
-London Review of Books - <https://www.lrb.co.uk/archive?sort=newest><br/><br/>
-
 Философские журналы:
 
 Вопросы философии:
@@ -133,26 +153,6 @@ Ethics - <https://www.journals.uchicago.edu/loi/et>
 Philosophy & Public Affairs - <https://onlinelibrary.wiley.com/loi/10884963>
 
 Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760><br/><br/>
-
-Исторические журналы:
-
-Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
-
-Древняя русь - <http://www.drevnyaya.ru/vyp/rbrkk.php>
-
-Французский ежегодник - <https://annuaire-fr.igh.ru/issues?locale=ru>
-
-The American Historical Review - <https://academic.oup.com/ahr/issue>
-
-The Journal of Modern History - <https://www.journals.uchicago.edu/loi/jmh>
-
-Speculum - <https://www.journals.uchicago.edu/loi/spc>
-
-Social History - <https://www.tandfonline.com/loi/rshi20>
-
-Past & Present - <https://academic.oup.com/past/issue>
-
-Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/all-issues><br/><br/>
 
 Экономические журналы:
 
