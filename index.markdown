@@ -3,13 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-featured_img: /images/crossroads.png
 ---
 
-{% for post in site.posts %}
-  <img src="{% post.feature_img %}" />
-{% endfor %}
-```
+![Man at the Crossroads](/images/crossroads.png)
 
 Pirate Cookbook:
 
