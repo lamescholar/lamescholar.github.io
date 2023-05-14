@@ -94,12 +94,12 @@ Our World in Data - <https://ourworldindata.org/><br/><br/>
 
 Новая философская энциклопедия - <https://iphlib.ru/library/collection/newphilenc/browse/CL1>
 
-Stanford Encyclopedia of Philosophy - <https://plato.stanford.edu/index.html>
-
-World History - <https://www.worldhistory.org/>
-
 Большая Медицинская Энциклопедия - <https://xn--90aw5c.xn--c1avg/>
 
 Литературные справочники - <http://feb-web.ru/feb/feb/dict.htm>
 
 Этимологические словари - <https://lexicography.online/etymology/>
+
+Stanford Encyclopedia of Philosophy - <https://plato.stanford.edu/index.html>
+
+World History - <https://www.worldhistory.org/>
