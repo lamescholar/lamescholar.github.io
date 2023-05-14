@@ -1,3 +1,7 @@
+**Music**<br/><br/>
+
+![Communism](/images/communism.jpg)
+
 Sources:
 
 RuTracker - <https://rutracker.org/forum/index.php>

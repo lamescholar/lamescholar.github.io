@@ -1,5 +1,7 @@
 **Музыка**<br/><br/>
 
+![Communism](/images/communism.jpg)
+
 Истночники:
 
 RuTracker - <https://rutracker.org/forum/index.php>
