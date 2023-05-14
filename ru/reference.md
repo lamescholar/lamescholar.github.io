@@ -60,6 +60,12 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/><br/><br/>
 
 Энциклопедический словарь Брокгауза и Ефрона - <https://ru.wikisource.org>
 
+Гранат - <https://rutracker.org/forum/viewtopic.php?t=6328789>
+
+Южаков - <https://rutracker.org/forum/viewtopic.php?t=3677474>
+
+Кругосвет - <https://www.krugosvet.ru/>
+
 Академик - <https://academic.ru/>
 
 Encyclopaedia Britannica:
@@ -79,6 +85,12 @@ Encyclopedia of Diderot and D'Alambert - <https://quod.lib.umich.edu/d/did/title
 Encyclopedia.com - <https://www.encyclopedia.com/>
 
 Our World in Data - <https://ourworldindata.org/><br/><br/>
+
+Издательство Большая российская энциклопедия:
+
+<https://ru.wikipedia.org>
+
+<https://web.archive.org/web/20210121081551/http://publ.lib.ru/ARCHIVES/S/Sovetskaya_Enciklopediya/_SE.html>
 
 Новая философская энциклопедия - <https://iphlib.ru/library/collection/newphilenc/browse/CL1>
 
