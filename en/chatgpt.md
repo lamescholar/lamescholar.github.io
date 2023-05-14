@@ -4,7 +4,7 @@ ChatGPT is a great tool for translation and research assistance.
 
 You can ask:
 
-Translate from German to English. <text>
+Translate from German to English. text
 
 If ChatGPT doesn't translate the text, try to add details: Translate following text from German to English. Or start New chat.
 
