@@ -38,39 +38,37 @@ Physics Today - <https://physicstoday.scitation.org/toc/pto/current>
 
 American Journal of Physics - <https://aapt.scitation.org/toc/ajp/current><br/><br/>
 
-Socio-political journals:
+Economical journals:
 
-Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
+Problems in Economics - <https://www.tandfonline.com/loi/mpet20>
 
-New Left Review:
+Journal of Political Economy - <https://www.journals.uchicago.edu/loi/jpe>
 
-<https://newleftreview.org/issues>
+Journal of Economic Theory - <https://www.sciencedirect.com/journal/journal-of-economic-theory/issues>
 
-<https://rutracker.org/forum/viewtopic.php?t=6280251>
+The Review of Economics and Statistics - <https://direct.mit.edu/rest/issue>
 
-<https://rutracker.org/forum/viewtopic.php?t=6280256>
+Oxford Bulletin of Economics and Statistics - <https://onlinelibrary.wiley.com/loi/14680084>
 
-Sidecar - <https://newleftreview.org/sidecar>
+Cambridge Journal of Economics - <https://academic.oup.com/cje/issue>
 
-Monthly Review:
+Review of International Political Economy - <https://www.tandfonline.com/loi/rrip20>
 
-<https://monthlyreview.org/browse-the-archives/>
+Review of Radical Political Economics - <https://journals.sagepub.com/home/rrp>
 
-Gale
+Historical journals:
 
-The Humanist - ProQuest
+The American Historical Review - <https://academic.oup.com/ahr/issue>
 
-Verso - <https://www.versobooks.com/blogs>
+The Journal of Modern History - <https://www.journals.uchicago.edu/loi/jmh>
 
-Salvage - <https://salvage.zone/category/articles/>
+Speculum - <https://www.journals.uchicago.edu/loi/spc>
 
-International Socialism - <https://en.wikipedia.org/wiki/International_Socialism_(magazine)>
+Social History - <https://www.tandfonline.com/loi/rshi20>
 
-Marxism Today - <https://banmarchive.org.uk/marxism-today/>
+Past & Present - <https://academic.oup.com/past/issue>
 
-Marx & Philosophy Review of Books - <https://marxandphilosophy.org.uk/reviewofbooks/>
-
-Book History - <https://muse.jhu.edu/journal/23><br/><br/>
+Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/all-issues><br/><br/>
 
 Literary magazines:
 
@@ -108,34 +106,36 @@ Philosophy & Public Affairs - <https://onlinelibrary.wiley.com/loi/10884963>
 
 Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760><br/><br/>
 
-Historical journals:
+Socio-political journals:
 
-The American Historical Review - <https://academic.oup.com/ahr/issue>
+Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
 
-The Journal of Modern History - <https://www.journals.uchicago.edu/loi/jmh>
+New Left Review:
 
-Speculum - <https://www.journals.uchicago.edu/loi/spc>
+<https://newleftreview.org/issues>
 
-Social History - <https://www.tandfonline.com/loi/rshi20>
+<https://rutracker.org/forum/viewtopic.php?t=6280251>
 
-Past & Present - <https://academic.oup.com/past/issue>
+<https://rutracker.org/forum/viewtopic.php?t=6280256>
 
-Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales/all-issues><br/><br/>
+Sidecar - <https://newleftreview.org/sidecar>
 
-Economical journals:
+Monthly Review:
 
-Problems in Economics - <https://www.tandfonline.com/loi/mpet20>
+<https://monthlyreview.org/browse-the-archives/>
 
-Journal of Political Economy - <https://www.journals.uchicago.edu/loi/jpe>
+Gale
 
-Journal of Economic Theory - <https://www.sciencedirect.com/journal/journal-of-economic-theory/issues>
+The Humanist - ProQuest
 
-The Review of Economics and Statistics - <https://direct.mit.edu/rest/issue>
+Verso - <https://www.versobooks.com/blogs>
 
-Oxford Bulletin of Economics and Statistics - <https://onlinelibrary.wiley.com/loi/14680084>
+Salvage - <https://salvage.zone/category/articles/>
 
-Cambridge Journal of Economics - <https://academic.oup.com/cje/issue>
+International Socialism - <https://en.wikipedia.org/wiki/International_Socialism_(magazine)>
 
-Review of International Political Economy - <https://www.tandfonline.com/loi/rrip20>
+Marxism Today - <https://banmarchive.org.uk/marxism-today/>
 
-Review of Radical Political Economics - <https://journals.sagepub.com/home/rrp>
+Marx & Philosophy Review of Books - <https://marxandphilosophy.org.uk/reviewofbooks/>
+
+Book History - <https://muse.jhu.edu/journal/23><br/><br/>
