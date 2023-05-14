@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<img src:"https://upload.wikimedia.org/wikipedia/commons/9/93/Libro_Los_Viejos_Abuelos_Foto_68.png">
+
 Pirate Cookbook:
 
 [In English](https://lamescholar.github.io/en/piratecookbook)
