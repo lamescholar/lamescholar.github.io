@@ -1,6 +1,8 @@
 **Music**<br/><br/>
 
+{:refdef: style="text-align: center;"}
 ![Communism](/images/communism.jpg)
+{: refdef}
 
 Sources:
 
