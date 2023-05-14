@@ -1,7 +1,7 @@
 **Манга**<br/><br/>
 
 {:refdef: style="text-align: center;"}
-![Vinland](/images/vinlandru.jpg)
+![Vinland](/images/vinland.jpg)
 {: refdef}
 
 Для чтения манги нужно скачать картинки с нижеуказанных сайтов. Для просмотра картинок используй программу IrfanView.<br/><br/>
