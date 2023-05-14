@@ -1,5 +1,9 @@
 **Игры**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+![Chess](/images/chess.jpg)
+{: refdef}
+
 RTS
 
 Age of Empires - <https://rutracker.org/forum/viewtopic.php?t=5943148>
