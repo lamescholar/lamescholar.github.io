@@ -23,7 +23,7 @@ yt-dlp --add-metadata -o "%(title)s.%(ext)s" -x --audio-format mp3 https://www.y
 ```
 <br/><br/>
 
-Необходим ffmpeg. ffmpeg также должен быть в Path.
+Для работы программы необходим ffmpeg. ffmpeg также должен быть в Path.
 
 <https://www.gyan.dev/ffmpeg/builds/><br/><br/>
 

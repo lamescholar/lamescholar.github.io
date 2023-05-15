@@ -22,7 +22,7 @@ cd desktop
 yt-dlp --add-metadata -o "%(title)s.%(ext)s" -x --audio-format mp3 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 <br/><br/>
-ffmpeg is required. ffmpeg should be in Path too.
+For program to work ffmpeg is required. ffmpeg should be in Path too.
 
 <https://www.gyan.dev/ffmpeg/builds/><br/><br/>
 
