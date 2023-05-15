@@ -1,7 +1,7 @@
 **Relics of the Past: Books from DDR**<br/><br/>
 
-https://boerse.kz/showthread.php?t=1164308
+<https://boerse.kz/showthread.php?t=1164308>
 
-https://archive.org/details/booksbylanguage_german?query=ddr
+<https://archive.org/details/booksbylanguage_german?query=ddr>
 
-https://vk.com/@post.marxist.studies-sozialismus-in-der-realitt
+<https://vk.com/@post.marxist.studies-sozialismus-in-der-realitt>
