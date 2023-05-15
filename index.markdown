@@ -15,4 +15,8 @@ Pirate Cookbook:
 
 [На русском](https://lamescholar.github.io/ru/piratecookbook)<br/><br/>
 
-[Library](https://lamescholar.github.io/library)
+[Исследователь в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
+
+[Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
+
+[Eugene Pottier](https://lamescholar.github.io/lib/pottier)
