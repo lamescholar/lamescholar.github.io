@@ -14,11 +14,7 @@ ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
 РГБ - <https://passport.rsl.ru/netres/>
 
-NYPL:
-
-<https://www.nypl.org/research/collections/articles-databases>
-
-<https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details><br/><br/>
+NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
 <https://iz.ru/newspaper>
 
