@@ -48,6 +48,8 @@
 
 [Интеллектуальная собственность](https://lamescholar.github.io/ru/property)
 
+[Книжные серии](https://lamescholar.github.io/ru/bookseries)
+
 [Манга](https://lamescholar.github.io/ru/manga)
 
 [Музыка](https://lamescholar.github.io/ru/music)
@@ -62,7 +64,6 @@
 
 [Привет](https://lamescholar.github.io/ru/hello)
 
-[Серии](https://lamescholar.github.io/ru/series)
 
 [Скачать интернет-страницу](https://lamescholar.github.io/ru/webpagedownload)
 

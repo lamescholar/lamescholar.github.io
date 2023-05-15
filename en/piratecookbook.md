@@ -8,6 +8,8 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [Book searching](https://lamescholar.github.io/en/booksearching)
 
+[Book series](https://lamescholar.github.io/en/bookseries)
+
 [ChatGPT](https://lamescholar.github.io/en/chatgpt)
 
 [DjVu](https://lamescholar.github.io/en/djvu)
@@ -55,8 +57,6 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 [PDF](https://lamescholar.github.io/en/pdf)
 
 [Reference](https://lamescholar.github.io/en/reference)
-
-[Series](https://lamescholar.github.io/en/series)
 
 [Sci-Hub](https://lamescholar.github.io/en/sci-hub)
 
