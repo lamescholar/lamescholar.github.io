@@ -32,7 +32,7 @@ The Journal of Modern History - <https://archive.org/details/pub_journal-of-mode
 
 American History Illustrated - <https://archive.org/search?query=%22American+History+Illustrated%22>
 
-Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379<br/><br/>
+Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 Literary magazines:
 
