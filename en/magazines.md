@@ -80,7 +80,17 @@ Physics Today - <https://rutracker.org/forum/viewtopic.php?t=6077013>
 
 Scientific American - <https://rutracker.org/forum/viewtopic.php?t=6021101>
 
-American Scientist - <https://1337x.to/torrent/5456369/American-Scientist-2022-full-year-complete-6-issues/><br/><br/>
+American Scientist - <https://1337x.to/torrent/5456369/American-Scientist-2022-full-year-complete-6-issues/>
+
+National Georgraphic - <https://magzdb.org/j/1806>
+
+Nature - <https://archive.org/details/pub_nature-uk?&sort=-date&page=2>
+
+Science - <https://archive.org/details/pub_science?&sort=-date&page=2>
+
+Scientific American - <https://archive.org/details/pub_scientific-american?sort=-date>
+
+Scientific American Supplement - <https://archive.org/details/pub_scientific-american-supplement?sort=-date><br/><br/>
 
 Philosophy journals:
 

@@ -25,4 +25,8 @@ yt-dlp --add-metadata -o "%(title)s.%(ext)s" -x --audio-format mp3 https://www.y
 
 Необходим ffmpeg. ffmpeg также должен быть в Path.
 
-<https://www.gyan.dev/ffmpeg/builds/>
+<https://www.gyan.dev/ffmpeg/builds/><br/><br/>
+
+Выбрать качество:
+
+https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl

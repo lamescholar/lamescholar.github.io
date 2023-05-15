@@ -1,5 +1,9 @@
 **Фильмы**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+[![Cuba](/images/cuba.jpg)](https://www.youtube.com/watch?v=lt-RbV8KiC0&t)
+{: refdef}
+
 Источники:
 
 RuTracker - <https://rutracker.org/forum/index.php>
