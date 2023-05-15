@@ -8,7 +8,7 @@ Fiction:
 
 Library of America:
 
-https://www.loa.org/books/loa_collection
+<https://www.loa.org/books/loa_collection>
 
 [Internet Archive](https:lamescholar.github.io/en/archive)
 
