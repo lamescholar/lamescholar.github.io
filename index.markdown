@@ -21,4 +21,4 @@ Pirate Cookbook:
 
 [Eugene Pottier](https://lamescholar.github.io/lib/pottier)
 
-[Relics of the Past: Books from DDR](https://lamescholar.github.io/lib/relics)
+[Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)

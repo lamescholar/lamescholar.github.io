@@ -1,4 +1,4 @@
-**Relics of the Past: Books from DDR**<br/><br/>
+**Relics of the Past: Books from East Germany**<br/><br/>
 
 <https://boerse.kz/showthread.php?t=1164308>
 
