@@ -1,5 +1,9 @@
 **Серии**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+![Books](/images/books.jpg)
+{: refdef}
+
 Естественные науки:
 
 Современные проблемы математики. Фундаментальные направления - <http://www.mathnet.ru/php/archive.phtml?jrnid=intf&wshow=contents&option_lang=rus>
