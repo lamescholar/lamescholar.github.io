@@ -1,7 +1,7 @@
 **Newspapers**<br/><br/>
 
 {:refdef: style="text-align: center;"}
-![Sputnik](/images/sputnik.png){: height="800" }
+![Sputnik](/images/sputnik.png)
 {: refdef}
 
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>

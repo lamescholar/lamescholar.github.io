@@ -1,7 +1,7 @@
 **Газеты**<br/><br/>
 
 {:refdef: style="text-align: center;"}
-![Sputnik](/images/sputnik.jpg){: height="800" }
+[![Sputnik](/images/sputniklowres.jpg)](/images/sputnik.jpg)
 {: refdef}
 
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>
