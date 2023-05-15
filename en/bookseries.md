@@ -48,7 +48,7 @@ Society:
 
 {:refdef: style="text-align: center;"}
 ![MELS](/images/mels.jpg)
-{: redref}
+{: refdef}
 
 Marx and Engels Collected Works - <https://rutracker.org/forum/viewtopic.php?t=6244838>
 

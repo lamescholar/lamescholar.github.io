@@ -94,7 +94,7 @@ Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401><br/><br/>
 
 {:refdef: style="text-align: center;"}
 ![MELS](/images/mels.jpg)
-{: redref}
+{: refdef}
 
 Сочинения Маркса и Энгельса - <https://rutracker.org/forum/viewtopic.php?t=6057922>
 
