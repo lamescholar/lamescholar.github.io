@@ -20,3 +20,5 @@ Pirate Cookbook:
 [Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
 
 [Eugene Pottier](https://lamescholar.github.io/lib/pottier)
+
+[Relics of the Past: Books from DDR](https://lamescholar.github.io/lib/relics)
