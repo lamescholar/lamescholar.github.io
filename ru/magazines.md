@@ -1,5 +1,9 @@
 **Журналы**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+![Quantum](/images/quantum.jpg)
+{: refdef}
+
 magzDB - <http://magzdb.org/>
 
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>
