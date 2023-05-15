@@ -1,4 +1,8 @@
-**Series**
+**Series**<br/><br/>
+
+{:refdef: style="text-align: center;"}
+![Books](/images/booksen.jpg)
+{: refdef}
 
 Fiction:
 
