@@ -45,5 +45,5 @@ Before digitization check if the book is already on the Internet. Look [Book sea
 After photographing/scanning, check if you have missed a page or photographed one page twice. An effective method is to quickly scroll 10 photos and see if the page number has grown by 10 or not. If it grew by 10, there was no mistake.
 
 {:refdef: style="text-align: center;"}
-![Library](/images/library.jpg)
+![Library](/images/libraryen.jpg)
 {: refdef}
