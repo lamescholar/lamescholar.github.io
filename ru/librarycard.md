@@ -1,9 +1,5 @@
 **Читательский билет РГБ**<br/><br/>
 
-{:refdef: style="text-align: center;"}
-![Library](/images/library.jpg)
-{: refdef}
-
 Куча периодических изданий доступны через базу East View. К этой базе можно получить доступ, если сделать читательский билет в РГБ. Это даже из провинции дистанционно можно сделать. <br/><br/>
 
 https://passport.rsl.ru/ru/register/reg_online<br/><br/>
