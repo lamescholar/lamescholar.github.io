@@ -1,5 +1,9 @@
 **Газеты**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+![Sputnik](/images/sputnik.jpg) {: height="800" }
+{: refdef}
+
 <https://iz.ru/newspaper>
 
 <https://www.kommersant.ru/daily?from=burger>

@@ -1,5 +1,9 @@
 **Newspapers**<br/><br/>
 
+{:refdef: style="text-align: center;"}
+![Sputnik](/images/sputnik.png) {: height="800" }
+{: refdef}
+
 <https://www.theguardian.com/theguardian>
 
 <https://www.nytimes.com/section/todayspaper>
