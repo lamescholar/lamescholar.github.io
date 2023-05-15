@@ -47,7 +47,7 @@ Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=
 Society:
 
 {:refdef: style="text-align: center;"}
-![MELS](/image/mels.jpg)
+![MELS](/images/mels.jpg)
 {: redref}
 
 Marx and Engels Collected Works - <https://rutracker.org/forum/viewtopic.php?t=6244838>
