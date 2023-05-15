@@ -6,7 +6,7 @@ layout: home
 ---
 
 {:refdef: style="text-align: center;"}
-[![Man at the Crossroads](/images/crossroadslowres.png)](/images/crossroads.png)
+![Man at the Crossroads](/images/crossroads.jpg)]
 {: refdef}
 
 Pirate Cookbook:
