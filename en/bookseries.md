@@ -46,6 +46,10 @@ Great Books of the Western World - <https://rutracker.org/forum/viewtopic.php?t=
 
 Society:
 
+{:refdef: style="text-align: center;"}
+![MELS](/image/mels.jpg)
+{: redref}
+
 Marx and Engels Collected Works - <https://rutracker.org/forum/viewtopic.php?t=6244838>
 
 Marx's Capital 4 Volumes - <https://rutracker.org/forum/viewtopic.php?t=6245165>

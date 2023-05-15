@@ -92,6 +92,10 @@ Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401><br/><br/>
 
 Общество:
 
+{:refdef: style="text-align: center;"}
+![MELS](/image/mels.jpg)
+{: redref}
+
 Сочинения Маркса и Энгельса - <https://rutracker.org/forum/viewtopic.php?t=6057922>
 
 Капитал Маркса - <https://rutracker.org/forum/viewtopic.php?t=6244868>
