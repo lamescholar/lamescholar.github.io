@@ -6,6 +6,8 @@
 
 magzDB - <http://magzdb.org/>
 
+Журналы СССР - <https://sites.google.com/site/zurnalysssr/>
+
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>
 
 DownMagaz.net - <https://downmagaz.net/>
@@ -16,15 +18,13 @@ Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 
 ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
-Журналы СССР - <https://sites.google.com/site/zurnalysssr/>
+РГБ - <https://passport.rsl.ru/netres/>
 
 NYPL:
 
 <https://www.nypl.org/research/collections/articles-databases>
 
-<https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details>
-
-РГБ - <https://passport.rsl.ru/netres/><br/><br/>
+<https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details><br/><br/>
 
 Научные журналы на английском можно найти запросом в гугле:
 

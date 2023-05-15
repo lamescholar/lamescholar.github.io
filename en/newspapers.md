@@ -4,6 +4,22 @@
 ![Sputnik](/images/sputnik.png) {: height="800" }
 {: refdef}
 
+Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>
+
+DownMagaz.net - <https://downmagaz.net/>
+
+Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
+
+ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
+
+NYPL:
+
+<https://www.nypl.org/research/collections/articles-databases>
+
+<https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details>
+
+РГБ - <https://passport.rsl.ru/netres/><br/><br/>
+
 <https://www.theguardian.com/theguardian>
 
 <https://www.nytimes.com/section/todayspaper>
