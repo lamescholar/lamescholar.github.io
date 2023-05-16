@@ -12,7 +12,7 @@ Lectures:
 
 From here you can download mp3s of his lectures. For example:
 
-https://archive.org/details/FunctionsOfFascism
+<https://archive.org/details/FunctionsOfFascism>
 
 Articles:
 
