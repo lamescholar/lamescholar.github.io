@@ -54,6 +54,8 @@
 
 [Музыка](https://lamescholar.github.io/ru/music)
 
+[Олимпиады](https://lamescholar.github.io/ru/olympiads)
+
 [Оцифровка](https://lamescholar.github.io/ru/digitization)
 
 [Письмо против интеллектуальной собственности](https://lamescholar.github.io/ru/letter)
