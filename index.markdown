@@ -9,7 +9,9 @@ layout: home
 [![Man at the Crossroads](/images/crossroads.jpg)](/images/crossroads.jpg)
 {: refdef}
 
-Pirate Cookbook:
+
+
+Pircay Cookbook / Поваренная книга пирата:
 
 [In English](https://lamescholar.github.io/en/piratecookbook)
 
