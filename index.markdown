@@ -11,7 +11,7 @@ layout: home
 
 
 
-Pircay Cookbook / Поваренная книга пирата:
+Pirate Cookbook / Поваренная книга пирата:
 
 [In English](https://lamescholar.github.io/en/piratecookbook)
 
