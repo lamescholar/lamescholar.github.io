@@ -1,7 +1,7 @@
 **Magazines**<br/><br/>
 
 {:refdef: style="text-align: center;"}
-![Quantum](/images/quantum.jpg){: height="800" }
+![Quantum](/images/quantum.jpg)
 {: refdef}
 
 magzDB - <http://magzdb.org/>
