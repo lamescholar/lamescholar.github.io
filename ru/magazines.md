@@ -248,7 +248,7 @@ Times Literary Supplement - Gale<br/><br/>
 
 Журналы времён перестройки - <https://oldjornal.ucoz.net/>
 
-Reason - <https://reason.com/archives/
+Reason - <https://reason.com/archives/>
 
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
 
