@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Public library.<br/><br/>
+Public library.
 
 Публичная библиотека.
