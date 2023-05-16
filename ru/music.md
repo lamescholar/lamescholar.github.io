@@ -41,3 +41,7 @@ foobar2000 - <https://www.foobar2000.org/download>
 Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 
 Кодируйте MP3 320 или MP3 V0 с помощью LAME.
+
+{:refdef: style="text-align: center;"}
+![Capitalism](/images/capitalism.jpg)
+{: refdef}
