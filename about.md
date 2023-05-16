@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-My personal library.<br/><br/>
+Public library.<br/><br/>
 
-Моя личная библиотека.
+Публичная библиотека.
