@@ -20,7 +20,7 @@ ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
 РГБ - <https://passport.rsl.ru/netres/>
 
-NYPL - https://www.nypl.org/research/collections/articles-databases<br/><br/>
+NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
 Научные журналы на английском можно найти запросом в гугле:
 
