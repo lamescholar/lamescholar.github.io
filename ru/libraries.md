@@ -132,6 +132,8 @@ alleng.org
 
 <http://thietmar.narod.ru/>
 
+<https://historylib.org/>
+
 <https://rev-lib.com/>
 
 <https://rusneb.ru/>
