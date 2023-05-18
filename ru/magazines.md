@@ -266,6 +266,8 @@ Spectator - <https://www.spectator.co.uk/>
 
 Time - <https://time.com/vault/year/2022/>
 
+Russian Life - <https://archive.org/details/pub_soviet-life?&sort=-date>
+
 Economist - <https://archive.org/details/pub_economist?sort=-date>
 
 Independent - <https://archive.org/details/pub_independent?sort=-date>
