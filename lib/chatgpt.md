@@ -26,7 +26,9 @@ I hate this prevailance of image over the process. In this regard I really liked
 
 I like how instead of stereotypical solutions, like ChatGPT would do, he crushes you with these questions urging you to cope with them by yourself, urging you start to think.
 
-Knowledge is a process.
+Knowledge is a process.<br/><br/>
+
+**Potential**
 
 I'm very enthusiastic about ChatGPT's potential. Apart from research assistance you can read any language - its translation pretty stable and whole. You can actually read the book on language you don't know checking up particular words in bilingual dictionary.
 
