@@ -134,8 +134,6 @@ alleng.org
 
 <https://historylib.org/>
 
-<https://rev-lib.com/>
-
 <https://rusneb.ru/>
 
 <https://runivers.ru/lib/index_lib.php>
@@ -145,6 +143,8 @@ alleng.org
 <http://docs.historyrussia.org/ru/nodes/1-glavnaya>
 
 <http://iskra-research.org/index.html>
+
+<https://rev-lib.com/>
 
 <http://amyat.narod.ru/>
 
