@@ -7,7 +7,7 @@ Judging from ChatGPT's performance, OpenAI got rich texts database. They already
 {:refdef: style="text-align: center;"}
 [![ChatGPT](/images/chatgpt.png)](https://magzdb.org/num/4293724)
 {: refdef}
-
+<br/><br/>
 **A bad moment of ChatGPT**
 
 It just gives an extract from its database, leaving you completely alienated from sources, methods, practice of producing the result. At the same time it got great potential of research assistant if sources, methods, practice will be exercised by majority of people.
@@ -34,8 +34,8 @@ We got Internet, we got OCR, we got scanning technologies, we got decent transla
 
 Of course it exists for purpose. That's the way production of information stay profitable. We can't just banish the copyright. Copyright must be replaced with alternative that pay for production and not at the expense of distribution.
 
-Like public funding, crowd founding, self founding (if expenses to buy sources and tools for research absent, then you just need to eat something, live somewhere while you work).
+Like public funding, crowd founding, self founding (if expenses to buy sources and tools for research absent, then you just need to eat something, live somewhere while you work).<br/><br/>
 
-**Artificial intelligence**<br/><br/>
+**Artificial intelligence**
 
 ChatGPT is a tool to extract review from database or perform translation. That's it. So, if somebody fantasies another - it's really silly misconception. For them Chomsky wrote an [article](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) in NY Times.
