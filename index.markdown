@@ -24,3 +24,5 @@ Pirate Cookbook / Поваренная книга пирата:
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
 [Michael Parenti](https://lamescholar.github.io/lib/parenti)
+
+[ChatGPT](https://lamescholar.github.io/lib/chatgpt)
