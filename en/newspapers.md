@@ -20,7 +20,7 @@ NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
 <https://www.washingtonpost.com/todays_paper/updates/><br/><br/>
 
-New York Times - ProQuest
+The New York Times - ProQuest
 
 The TImes - Gale
 
@@ -32,7 +32,7 @@ Illustrated Times - Gale
 
 The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 
-New York TImes - <https://archive.org/details/pub_new-york-times?sort=-date>
+The New York TImes - <https://archive.org/details/pub_new-york-times?sort=-date>
 
 The Daily Worker - <https://archive.org/details/pub_daily-worker?sort=-date>
 
