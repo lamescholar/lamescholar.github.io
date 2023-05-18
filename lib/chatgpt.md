@@ -2,7 +2,7 @@
 
 **Locked database**
 
-Judging from ChatGPT's performance, OpenAI got rich texts database. It means they already digitized everything long time ago, just locked it under the locked door. And there are bastards who hate even mediated distribution of texts database.
+Judging from ChatGPT's performance, OpenAI got rich texts database. It means they already digitized everything long time ago, just hid it behind the locked door. And there are bastards who hate even mediated distribution of texts database.
 
 {:refdef: style="text-align: center;"}
 [![ChatGPT](/images/chatgpt.png)](https://magzdb.org/num/4293724)
