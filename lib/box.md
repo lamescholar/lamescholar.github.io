@@ -1,6 +1,6 @@
 **Ученый в коробке — антиполитическая иллюзия**<br/><br/>
 
-Источник: Materialisten 1979-4.
+Источник: [Materialisten 1979-4](https://www.nb.no/items/3ddbedf7a426e09e920c2cf59678c10e).
 
 {:refdef: style="text-align: center;"}
 ![Materialisten](/images/materialisten.jpg)
