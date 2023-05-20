@@ -142,6 +142,6 @@ Pottier, “Don Quixote,” Commonweal 6, no. 222 (12 April 1890): 115.<br/><br/
 
 Commonweal - <https://catalog.hathitrust.org/Record/000544678>
 
-Russian translations - <https://libgen.rs/book/index.php?md5=82339DF9EDC4F08E861FAC7749722B4B>
+Russian translations - <https://lamescholar.github.io/lib/pottierru>
 
 Original - <https://gallica.bnf.fr/ark:/12148/bpt6k12698990>
