@@ -132,4 +132,4 @@ Newsweek - <https://archive.org/details/pub_newsweek-us?sort=-date>
 
 Der Spiegel - <https://magzdb.org/j/1948>
 
-Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift>
+Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&sort=dateasc&seriestitle=materialisten>
