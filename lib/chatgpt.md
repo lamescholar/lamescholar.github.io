@@ -14,7 +14,7 @@ It just gives an extract from its database, leaving you completely alienated fro
 
 Science is not some text, compiled from other texts. It's understanding, evolution of thought, it's constant self-improvement of thought that sourced from interaction and transformation of reality through production, discussion, developing tools, implementing knowledge in work, art, everyday life.
 
-This dread of ChatGPT replacing average authors gives me Baudrillard vibe. He wrote an article called [Requiem for the Media](/doc/requiem.pdf). The idea of this article is that the very form of communication one-many exclude the possibility of dialog, of ambivalent communication. Mechanisms of feedback are just extra variables of broadcast. Key moment is that the prevailing form of communication is broadcast, all gazes pointed at broadcast. Everybody climb this mount of popularity, trying to integrate into this mechanism of distribution of information, when you talk to your audience in such a way you never get an answer from them. It's just fixated message you recorded that is spread that nobody can negotiate with. There is even a meme about it - to talk with copypasta.
+This dread of ChatGPT replacing average authors gives me Baudrillard vibe. He wrote an article called [Requiem for the Media](/doc/Baudrillard J. - Requiem for the Media.pdf). The idea of this article is that the very form of communication one-many exclude the possibility of dialog, of ambivalent communication. Mechanisms of feedback are just extra variables of broadcast. Key moment is that the prevailing form of communication is broadcast, all gazes pointed at broadcast. Everybody climb this mount of popularity, trying to integrate into this mechanism of distribution of information, when you talk to your audience in such a way you never get an answer from them. It's just fixated message you recorded that is spread that nobody can negotiate with. There is even a meme about it - to talk with copypasta.
 
 {:refdef: style="text-align: center;"}
 ![Copypasta](/images/copypasta.jpeg)
@@ -26,7 +26,7 @@ So, why I get this vibe? Because with ChatGPT in this scheme of communication yo
 
 If you don't read and think, you just float in this this pile of discourses without touching the reality. It's just dead thought bleached from any connection with reality. You yourself lose sense of who you are, what your views are, how they originate, develop, selfproving, selfexplaining. You got the final result, the conclusion without all the important part - your worldview, style of thought, set of arguments, your own elaboration of them.
 
-I hate this prevailance of image over the process. In this regard I really liked the book by Nagel [What Does It All Mean?](/doc/what.epub) He set the questions that I recall thinking about on my own.
+I hate this prevailance of image over the process. In this regard I really liked the book by Nagel [What Does It All Mean?](/doc/Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987.epub) He set the questions that I recall thinking about on my own.
 
 I like how instead of stereotypical solutions, like ChatGPT would do, he crushes you with these questions urging you to cope with them by yourself, urging you start to think.
 
