@@ -36,7 +36,7 @@ Knowledge is a process.<br/><br/>
 
 I'm very enthusiastic about ChatGPT's potential. Apart from research assistance you can read any language - its translation pretty stable and whole. You can actually read the book on language you don't know checking up particular words in bilingual dictionary.
 
-We got Internet, we got [scanning technologies](https/lamescholar.github.io/en/digitization), we got [OCR](https/lamescholar.github.io/en/ocr), we got [decent translation tool](https/lamescholar.github.io/en/chatgpt) - all the technological necessities to explore. But all these technologies developed under (red alert) capitalism. They are strangled by copyright bullshit, patents, corporate secret, paywall, that stand in the way of distribution of sources and tools to learn.
+We got Internet, we got [scanning technologies](https://lamescholar.github.io/en/digitization), we got [OCR](https://lamescholar.github.io/en/ocr), we got [decent translation tool](https://lamescholar.github.io/en/chatgpt) - all the technological necessities to explore. But all these technologies developed under (red alert) capitalism. They are strangled by copyright bullshit, patents, corporate secret, paywall, that stand in the way of distribution of sources and tools to learn.
 
 Of course it exists for purpose. That's the way production of information stay profitable. We can't just banish the copyright. Copyright must be replaced with alternative that pay for production and not at the expense of distribution.
 
