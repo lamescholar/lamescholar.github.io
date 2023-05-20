@@ -28,7 +28,7 @@ If you don't read and think, you just float in this this pile of discourses with
 
 I hate this prevailance of image over the process. In this regard I really liked the book by Nagel [What Does It All Mean?](/doc/Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987.epub) He set the questions that I recall thinking about on my own.
 
-I like how instead of stereotypical solutions, like ChatGPT would do, he crushes you with these questions urging you to cope with them by yourself, urging you start to think.
+I like how instead of stereotypical solutions, which ChatGPT would give, he crushes you with these questions urging you to cope with them by yourself, urging you start to think.
 
 Knowledge is a process.<br/><br/>
 
