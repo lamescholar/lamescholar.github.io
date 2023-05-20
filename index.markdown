@@ -21,6 +21,8 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [Eugene Pottier](https://lamescholar.github.io/lib/pottier)
 
+[Эжен Потье](https://lamescholar.github.io/lib/pottierru)
+
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
 [Michael Parenti](https://lamescholar.github.io/lib/parenti)
