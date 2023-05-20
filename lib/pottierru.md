@@ -130,6 +130,6 @@
 
 Русские переводы - <https://libgen.rs/book/index.php?md5=82339DF9EDC4F08E861FAC7749722B4B>
 
-Английские переводы - <https://lamescholar.github.io/lib/potier>
+Английские переводы - <https://lamescholar.github.io/lib/pottier>
 
 Оригинал - <https://gallica.bnf.fr/ark:/12148/bpt6k12698990>
