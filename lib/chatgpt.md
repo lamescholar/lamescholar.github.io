@@ -26,7 +26,7 @@ So, why I get this vibe? Because with ChatGPT in this scheme of communication yo
 
 If you don't read and think, you just float in this this pile of discourses without touching the reality. It's just dead thought bleached from any connection with reality. You yourself lose sense of who you are, what your views are, how they originate, develop, selfproving, selfexplaining. You got the final result, the conclusion without all the important part - your worldview, style of thought, set of arguments, your own elaboration of them.
 
-I hate this prevailance of image over the process. In this regard I really liked the book by Nagel What Does It All Mean? He set the questions that I recalled thinking about myself.
+I hate this prevailance of image over the process. In this regard I really liked the book by Nagel [What Does It All Mean?](/doc/what.epub). He set the questions that I recall thinking about on my own.
 
 I like how instead of stereotypical solutions, like ChatGPT would do, he crushes you with these questions urging you to cope with them by yourself, urging you start to think.
 
