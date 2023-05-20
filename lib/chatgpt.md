@@ -17,7 +17,7 @@ Science is not some text, compiled from other texts. It's understanding, evoluti
 This dread of ChatGPT replacing average authors gives me Baudrillard vibe. He wrote an article called [Requiem for the Media](/doc/requiem.pdf). The idea of this article is that the very form of communication one-many exclude the possibility of dialog, of ambivalent communication. Mechanisms of feedback are just extra variables of broadcast. Key moment is that the prevailing form of communication is broadcast, all gazes pointed at broadcast. Everybody climb this mount of popularity, trying to integrate into this mechanism of distribution of information, when you talk to your audience in such a way you never get an answer from them. It's just fixated message you recorded that is spread that nobody can negotiate with. There is even a meme about it - to talk with copypasta.
 
 {:refdef: style="text-align: center;"}
-![Copypasta](/images/copypasta.png)]
+![Copypasta](/images/copypasta.png)
 {: refdef}
 
 So, why I get this vibe? Because with ChatGPT in this scheme of communication you don't even need the author to produce a message. So, this scheme completely exclude people talking to each other. The only instance remained is generated message distributed through media.<br/><br/>
