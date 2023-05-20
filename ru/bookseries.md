@@ -88,7 +88,9 @@ Historia Rossica - <https://libgen.rs/search.php?req=Historia+Rossica&lg_topic=l
 
 Живая история: Повседневная жизнь человечества - <http://flibusta.is/sequence/4035>
 
-Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401><br/><br/>
+Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401>
+
+Библиотека всемирной истории - <https://rutracker.org/forum/index.php><br/><br/>
 
 Общество:
 
