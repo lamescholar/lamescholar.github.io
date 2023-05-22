@@ -1,4 +1,4 @@
-**Transcription of Michael Parenti's 1990 radio lecture Functions of Fascism**<br/><br/>
+**Michael Parenti - Functions of Fascism**<br/><br/>
 
 This is transcription of Michael Parenti's 1990 [radio lecture](https://archive.org/details/FunctionsOfFascism) Functions of Fascism. Judging from its contents it's a precursor of the chapter Rational Fascism in his book [Blackshirts and Reds: Rational Fascism and the Overthrow of Communism (1997)](http://library.lol/main/1B89470E02FBFE736D4AE4FD927BD736). For details and foonotes look up the chapter or read the whole book.<br/><br/>
 
