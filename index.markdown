@@ -27,4 +27,6 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [Michael Parenti](https://lamescholar.github.io/lib/parenti)
 
+[Transcription of Michael Parenti's 1990 radio lecture Functions of Fascism](https://lamescholar.github.io/lib/functionsoffascism)
+
 [ChatGPT](https://lamescholar.github.io/lib/chatgpt)
