@@ -6,9 +6,9 @@
 
 magzDB - <http://magzdb.org/>
 
-Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>
-
 DownMagaz.net - <https://downmagaz.net/>
+
+Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>
 
 workerbee - <https://1337x.to/user/workerbee/>
 
