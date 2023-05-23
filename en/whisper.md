@@ -37,7 +37,7 @@ mel = whisper.log_mel_spectrogram(audio).to(model.device)
 options = whisper.DecodingOptions(language="ru", without_timestamps=True)
 result = model.transcribe(r"путь к папке whisper\audio.mp3")
 
-with open("transcription.txt", "w", encoding="utf-8") as txt:
+with open("transcript.txt", "w", encoding="utf-8") as txt:
     txt.write(result["text"])
 ```
 
