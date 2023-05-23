@@ -20,7 +20,7 @@
 Жирный текст - **жирный текст**. Курсив - *курсив*. Новый абзац - пустая строка. Двойной отступ - <br/><br/> в конце абзаца. Выделение ссылки - <ссылка>. Ссылка - [текст](ссылка). Выделение кода - ```.
 </pre>
 
-Для отображения пробелов смотри <https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github>. Для отключения форматирования смотри <https://stackoverflow.com/questions/701042/disable-markdown-for-a-block>.<br/><br/>
+Для отключения форматирования смотри <https://stackoverflow.com/questions/701042/disable-markdown-for-a-block>. Для создания блока кода смотри <https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks><br/><br/>
 
 Добавление картинки
 
