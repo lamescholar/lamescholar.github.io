@@ -4,7 +4,7 @@ Using Github Pages, you can create a free static website for your blog or librar
 
 To create a website you need Git:
 
-Git - <https://git-scm.com/download/win>
+Git - <https://git-scm.com/download/win><br/><br/>
 
 Creating a website
 

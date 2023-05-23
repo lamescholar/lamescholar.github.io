@@ -4,7 +4,7 @@
 
 Для создания сайта необходим Git:
 
-Git - <https://git-scm.com/download/win>
+Git - <https://git-scm.com/download/win><br/><br/>
 
 Создание сайта
 
