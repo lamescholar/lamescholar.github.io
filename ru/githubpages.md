@@ -16,11 +16,11 @@
 
 Форматирование
 
-<pre>
-Жирный текст - **жирный текст**. Курсив - *курсив*. Новый абзац - пустая строка. Выделение ссылки - <ссылка>. Ссылка - [текст](ссылка).
-</pre>
+```
+Жирный текст - **жирный текст**. Курсив - *курсив*. Новый абзац - пустая строка. Выделение ссылки - <ссылка>. Ссылка - [текст](ссылка). Двойной отступ - <br/><br/>.
+```
 
-Двойной отступ - <https://stackoverflow.com/questions/20543454/create-two-blank-lines-in-markdown>.Отключение форматирования - <https://stackoverflow.com/questions/701042/disable-markdown-for-a-block>. Создание блока кода - <https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks>.<br/><br/>
+Создание блока кода - <https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks>.<br/><br/>
 
 Добавление картинки
 
