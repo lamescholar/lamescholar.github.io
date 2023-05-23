@@ -2,9 +2,36 @@
 
 Using Github Pages, you can create a free static website for your blog or library. The limit of the total size of the site files is 1 GB.<br/><br/>
 
+To create a website you need Git:
+
+Git - <https://git-scm.com/download/win>
+
 Creating a website
 
-<https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll><br/><br/>
+<https://pages.github.com/>
+
+We will be making a website with Jekyll. Install Jekyll by following instructions.
+
+<https://jekyllrb.com/docs/installation/windows/>
+
+After installing Jekyll go to the command line:
+
+```
+Win+R
+cmd
+git init username.github.io
+cd username.github.io
+git checkout --orphan main
+git rm -rf .
+jekyll new --skip-bundle .
+bundle install
+git add .
+git commit -m 'Initial GitHub pages site with Jekyll'
+git remote add origin https://github.com/username/username.github.io.git
+git push -u origin main
+```
+
+Your website will be located at https://username.github.io/<br/><br/>
 
 Information on the website
 
@@ -12,7 +39,7 @@ Write in the _config.yml file the name of the site, email, description (you can 
 
 Creating a page
 
-Create a .md file in the site folder. For example, page.md . Then a page will appear on your website at https://nickname.github.io/page. You can put the file in the folder named folder.  Then a page will appear on your website at https://nickname.github.io/folder/page.<br/><br/>
+Create a .md file in the site folder. For example, page.md . Then a page will appear on your website at https://username.github.io/page. You can put the file in the folder named folder.  Then a page will appear on your website at https://username.github.io/folder/page.<br/><br/>
 
 Formatting
 
@@ -54,7 +81,7 @@ Updating the website
 ```
 Win+R
 cmd
-cd nickname.github.io
+cd username.github.io
 git add .
 git commit -a
 git push
