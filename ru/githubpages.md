@@ -2,19 +2,21 @@
 
 С помощью Github Pages можно создать бесплатный статический сайт для своего блога или библиотеки. Лимит совокупного размера файлов сайта - 1 ГБ.<br/><br/>
 
-Для создания сайта необходим Git:
+Для создания сайта необходимо зарегистрироваться на Github:
 
-Git - <https://git-scm.com/download/win><br/><br/>
+<https://github.com/><br/><br/>
+
+Для создания сайта необходимо установить:
+
+Git - <https://git-scm.com/download/win>
+
+Jekyll - <https://jekyllrb.com/docs/installation/windows/><br/><br/>
 
 Создание сайта
 
-<https://pages.github.com/>
+Создай репозиторий с названием username.github.io (вместо username использую твой username на Github).
 
-Мы будем делать сайт с помощью Jekyll. Установи Jekyll следуя следующим инструкциям.
-
-<https://jekyllrb.com/docs/installation/windows/>
-
-После установки Jekyll отправляйся в командную строку:
+Теперь отправляйся в командную строку:
 
 ```
 Win+R

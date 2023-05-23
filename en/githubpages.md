@@ -2,24 +2,26 @@
 
 Using Github Pages, you can create a free static website for your blog or library. The limit of the total size of the site files is 1 GB.<br/><br/>
 
-To create a website you need Git:
+To create a website you need to register on Github:
 
-Git - <https://git-scm.com/download/win><br/><br/>
+<https://github.com/><br/><br/>
+
+To create a website you need to install:
+
+Git - <https://git-scm.com/download/win>
+
+Jekyll - <https://jekyllrb.com/docs/installation/windows/><br/><br/>
 
 Creating a website
 
-<https://pages.github.com/>
+Create repository with the name username.github.io (instead of username use your Github username).
 
-We will be making a website with Jekyll. Install Jekyll by following instructions.
-
-<https://jekyllrb.com/docs/installation/windows/>
-
-After installing Jekyll go to the command line:
+Now go to the command line:
 
 ```
 Win+R
 cmd
-git init username.github.io
+git clone https://github.com/username/username.github.io
 cd username.github.io
 git checkout --orphan main
 git rm -rf .
