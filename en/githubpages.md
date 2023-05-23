@@ -4,7 +4,7 @@ Using Github Pages, you can create a free static website for your blog or librar
 
 Creating a website
 
-<https://docs.github.com/ru/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll><br/><br/>
+<https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll><br/><br/>
 
 Information on the website
 
@@ -12,7 +12,7 @@ Write in the _config.yml file the name of the site, email, description (you can 
 
 Creating a page
 
-Create a .md file in the site folder. For example, page.md . Then a page will appear on your website at https://nickname.github.io/page. You can put the file in the folder named folder.  Then a page will appear on your website at https://nickname.github.io/folder/page<br/><br/>
+Create a .md file in the site folder. For example, page.md . Then a page will appear on your website at https://nickname.github.io/page. You can put the file in the folder named folder.  Then a page will appear on your website at https://nickname.github.io/folder/page.<br/><br/>
 
 Formatting
 
