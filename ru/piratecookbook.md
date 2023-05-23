@@ -76,3 +76,5 @@
 [Статьи](https://lamescholar.github.io/ru/articles)
 
 [Фильмы](https://lamescholar.github.io/ru/films)
+
+[Хостинги](https://lamescholar.github.io/ru/hostings)
