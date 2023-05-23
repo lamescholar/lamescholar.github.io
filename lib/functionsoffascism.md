@@ -1,6 +1,6 @@
 **Michael Parenti - Functions of Fascism**<br/><br/>
 
-This is transcription of Michael Parenti's 1990 [radio lecture](https://archive.org/details/FunctionsOfFascism) Functions of Fascism. Judging from its contents it was a precursor of the chapter Rational Fascism in his book [Blackshirts and Reds: Rational Fascism and the Overthrow of Communism (1997)](http://library.lol/main/1B89470E02FBFE736D4AE4FD927BD736). To know details and find foonotes look up the chapter or read the whole book.<br/><br/>
+This is a text version of Michael Parenti's 1990 [radio lecture](https://archive.org/details/FunctionsOfFascism) Functions of Fascism. Judging from its contents it was a precursor of the chapter Rational Fascism in his book [Blackshirts and Reds: Rational Fascism and the Overthrow of Communism (1997)](http://library.lol/main/1B89470E02FBFE736D4AE4FD927BD736). To know details and find foonotes look up the chapter or read the whole book.<br/><br/>
 
 This is Michael Parenty and welcome to Real History, a series of talks by me on different historical subjects that are relevant for understanding today's realities. Most people are never exposed to real history. In school we usually don't read history, we read history textbooks, and mainstream ones at that which avoid underlying realities, and ones that propagate myths that serve the powers that be. Myths that some of us find harmful to the truth and to democracy. So this is Real History. This particular segment is entitled The Functions of Fascism.
 
