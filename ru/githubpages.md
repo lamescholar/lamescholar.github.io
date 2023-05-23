@@ -16,7 +16,7 @@
 
 Форматирование
 
-Жирный текст - <div>**жирный текст**</div>. Курсив - <div>*курсив*<div>. Новый абзац - пустая строка. Двойной отступ - <div><br/><br/></div> в конце абзаца. Для отображения пробелов смотри <https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github>. Для отключения форматирования смотри <https://stackoverflow.com/questions/701042/disable-markdown-for-a-block>. Выделение ссылки - <div><ссылка></div>. Ссылка - <div>[текст](ссылка)</div>. Выделение кода - <div>```</div>.<br/><br/>
+Жирный текст - <pre>**жирный текст**</pre>. Курсив - <pre>*курсив*<pre>. Новый абзац - пустая строка. Двойной отступ - <pre><br/><br/></pre> в конце абзаца. Для отображения пробелов смотри <https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github>. Для отключения форматирования смотри <https://stackoverflow.com/questions/701042/disable-markdown-for-a-block>. Выделение ссылки - <pre><ссылка></pre>. Ссылка - <pre>[текст](ссылка)</pre>. Выделение кода - <pre>```</pre>.<br/><br/>
 
 Добавление картинки
 
