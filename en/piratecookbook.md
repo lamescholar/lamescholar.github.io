@@ -24,6 +24,8 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [Games](https://lamescholar.github.io/en/games)
 
+[Github Pages](https://lamescholar.github.io/en/githubpages)
+
 [Hello](https://lamescholar.github.io/en/hello)
 
 [Intellectual property](https://lamescholar.github.io/en/property)
