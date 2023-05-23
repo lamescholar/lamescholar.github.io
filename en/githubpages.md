@@ -74,6 +74,12 @@ To add a link to the picture, write
 {: refdef}
 ```
 <br/><br/>
+Link to a document
+
+Let's say you put a document Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987.epub in the folder named doc. To make a link to this document, write
+
+[What Does It All Mean?](/doc/Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987.epub)<br/><br/>
+
 Adding a website icon
 
 <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed><br/><br/>

@@ -74,6 +74,12 @@ git push -u origin main
 {: refdef}
 ```
 <br/><br/>
+Ссылка на документ
+
+Допустим, ты положил документ Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987.epub в папку с названием doc. Чтобы сделать ссылку на этот документ пропиши
+
+[What Does It All Mean?](/doc/Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987.epub)<br/><br/>
+
 Добавление иконки сайта
 
 <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed><br/><br/>
