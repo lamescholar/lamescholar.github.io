@@ -2,6 +2,8 @@
 
 **Locked database**
 
+Author - lamescholar<br/><br/>
+
 Judging from ChatGPT's performance, OpenAI got rich texts database. It means they digitized everything long time ago, just hid it behind the locked door. And there are bastards who hate even mediated distribution of texts database.
 
 {:refdef: style="text-align: center;"}
@@ -44,4 +46,6 @@ Like public funding, crowd founding, self founding (if expenses to buy sources a
 
 **Artificial intelligence**
 
-ChatGPT is a tool to extract review from database or perform translation. That's it. So, if somebody fantasies another - it's really silly misconception. For them Chomsky wrote an [article](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) in NY Times.
+ChatGPT is a tool to extract review from database or perform translation. That's it. So, if somebody fantasies another - it's really silly misconception. For them Chomsky wrote an [article](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) in NY Times.<br/><br/>
+
+2023

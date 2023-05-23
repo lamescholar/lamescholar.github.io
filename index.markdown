@@ -15,6 +15,8 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [На русском](https://lamescholar.github.io/ru/piratecookbook)<br/><br/>
 
+2023:
+
 [ChatGPT](https://lamescholar.github.io/lib/chatgpt)
 
 [Eugene Pottier](https://lamescholar.github.io/lib/pottier)
