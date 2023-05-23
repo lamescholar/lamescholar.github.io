@@ -15,18 +15,18 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [На русском](https://lamescholar.github.io/ru/piratecookbook)<br/><br/>
 
-[Ученый в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
-
-[Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
+[ChatGPT](https://lamescholar.github.io/lib/chatgpt)
 
 [Eugene Pottier](https://lamescholar.github.io/lib/pottier)
-
-[Эжен Потье](https://lamescholar.github.io/lib/pottierru)
-
-[Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
 [Michael Parenti](https://lamescholar.github.io/lib/parenti)
 
 [Michael Parenti - Functions of Fascism](https://lamescholar.github.io/lib/functionsoffascism)
 
-[ChatGPT](https://lamescholar.github.io/lib/chatgpt)
+[Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
+
+[Ученый в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
+
+[Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
+
+[Эжен Потье](https://lamescholar.github.io/lib/pottierru)
