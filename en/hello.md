@@ -13,3 +13,7 @@ Help share the knowledge. Share the link.
 Original verison in form of text files:
 
 <https://drive.google.com/drive/folders/1H8v5yxZ-32Mj6QTxDaAs3D_7vG_zqnFl?usp=sharing>
+
+All .md files can be found here:
+
+<https://github.com/lamescholar/lamescholar.github.io>

@@ -13,3 +13,7 @@
 Исходный вариант в форме текстовых файликов:
 
 <https://drive.google.com/drive/folders/1H8v5yxZ-32Mj6QTxDaAs3D_7vG_zqnFl?usp=sharing>
+
+Все .md файлы можно найти тут:
+
+<https://github.com/lamescholar/lamescholar.github.io>
