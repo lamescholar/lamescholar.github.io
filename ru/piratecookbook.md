@@ -8,6 +8,8 @@
 
 [FB2](https://lamescholar.github.io/ru/fb2)
 
+[Github Pages](https://lamescholar.github.io/ru/githubpages)
+
 [Internet Archive](https://lamescholar.github.io/ru/archive)
 
 [KoLXo3](https://lamescholar.github.io/ru/kolxo3)
