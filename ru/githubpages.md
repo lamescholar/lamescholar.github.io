@@ -39,7 +39,7 @@ git push -u origin main
 
 Создание страницы
 
-Создай .md файл в папке сайта. Например, page.md. Тогда на твоём сайте появится страничка по адресу https://nickname.github.io/page. Можешь поместить файл в папку folder.  Тогда на твоём сайте появится страничка по адресу https://nickname.github.io/folder/page.<br/><br/>
+Создай .md файл в папке сайта. Например, page.md. Тогда на твоём сайте появится страничка по адресу https://username.github.io/page. Можешь поместить файл в папку folder.  Тогда на твоём сайте появится страничка по адресу https://username.github.io/folder/page.<br/><br/>
 
 Форматирование
 
@@ -81,7 +81,7 @@ git push -u origin main
 ```
 Win+R
 cmd
-cd nickname.github.io
+cd username.github.io
 git add .
 git commit -a
 git push
