@@ -1,8 +1,8 @@
-**ChatGPT**<br/><br/>
-
-**Locked database**
+**ChatGPT**
 
 Author - lamescholar<br/><br/>
+
+**Locked database**
 
 Judging from ChatGPT's performance, OpenAI got rich texts database. It means they digitized everything long time ago, just hid it behind the locked door. And there are bastards who hate even mediated distribution of texts database.
 
