@@ -14,6 +14,8 @@
 
 <https://fastpic.org/>
 
+<https://imgur.com/>
+
 Заметки:
 
 <https://telegra.ph/>

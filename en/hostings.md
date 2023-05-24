@@ -14,6 +14,8 @@ Pictures:
 
 <https://fastpic.org/>
 
+<https://imgur.com/>
+
 Notes:
 
 <https://telegra.ph/>
