@@ -1,18 +1,18 @@
 **Github Pages**<br/><br/>
 
-Using Github Pages, you can create a free static webwebsite for your blog or library. The limit of the total size of the website files is 1 GB.<br/><br/>
+Using Github Pages, you can create a free static website for your blog or library. The limit of the total size of the website files is 1 GB.<br/><br/>
 
-To create a webwebsite you need to register on Github:
+To create a website you need to register on Github:
 
 <https://github.com/><br/><br/>
 
-To create a webwebsite you need to install:
+To create a website you need to install:
 
 Git - <https://git-scm.com/download/win>
 
 Jekyll - <https://jekyllrb.com/docs/installation/windows/><br/><br/>
 
-Creating a webwebsite
+Creating a website
 
 Create repository with the name username.github.io (instead of username use your Github username).
 
@@ -33,15 +33,15 @@ git remote add origin https://github.com/username/username.github.io.git
 git push -u origin main
 ```
 
-Your webwebsite will be located at https://username.github.io/<br/><br/>
+Your website will be located at https://username.github.io/<br/><br/>
 
-Information on the webwebsite
+Information on the website
 
 Write in the _config.yml file the name of the website, email, description (you can delete it). In the about.markdown file, write a description of the website.<br/><br/>
 
 Creating a page
 
-Create a .md file in the website folder. For example, page.md . Then a page will appear on your webwebsite at https://username.github.io/page. You can put the file in the folder named folder.  Then a page will appear on your webwebsite at https://username.github.io/folder/page.<br/><br/>
+Create a .md file in the website folder. For example, page.md . Then a page will appear on your website at https://username.github.io/page. You can put the file in the folder named folder.  Then a page will appear on your website at https://username.github.io/folder/page.<br/><br/>
 
 Formatting
 
@@ -82,11 +82,11 @@ Let's say you put a document Nagel T. - What Does It All Mean__ A Very Short Int
 [What Does It All Mean?](/doc/Nagel T. - What Does It All Mean__ A Very Short Introduction to Philosophy - 1987.epub)
 ```
 <br/><br/>
-Adding a webwebsite icon
+Adding a website icon
 
 <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-website-2ac2179cc2ed><br/><br/>
 
-Updating the webwebsite
+Updating the website
 
 ```
 Win+R
