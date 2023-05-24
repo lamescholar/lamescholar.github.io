@@ -10,6 +10,10 @@ Cambridge Core - <https://www-cambridge-org.i.ezproxy.nypl.org/core/>
 
 Google Schoolar - <https://scholar.google.com/>
 
+eLibrary - <https://elibrary.ru/defaultx.asp?>
+
+КиберЛенинка - <https://cyberleninka.ru/>
+
 arXiv - <https://arxiv.org/>
 
 PhilPapers - <https://philpapers.org/><br/><br/>
