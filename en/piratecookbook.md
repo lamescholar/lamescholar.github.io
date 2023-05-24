@@ -10,6 +10,8 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [Book series](https://lamescholar.github.io/en/bookseries)
 
+[Bypass Paywalls](https://lamescholar.github.io/en/bypass)
+
 [ChatGPT](https://lamescholar.github.io/en/chatgpt)
 
 [DjVu](https://lamescholar.github.io/en/djvu)
