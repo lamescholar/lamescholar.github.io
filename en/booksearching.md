@@ -1,6 +1,8 @@
 **Book searching**<br/><br/>
 
-Whenever I'm looking for a book, I check 4 sources:
+Ebook
+
+Whenever I'm looking for an ebook, I check 4 sources:
 
 <https://libgen.rs/>
 
@@ -18,4 +20,4 @@ The book can only be available for rental for an hour. The script helps here.
 
 Look [Internet Archive](https://lamescholar.github.io/en/archive).<br/><br/>
 
-If the book is not in all of these sources, last chance is googling it. If there is no book in Google, then most likely the book is not digitized.
+If the book is not in all of these sources, last chance is googling it. If there is no book in Google, then most likely the book is not digitized. You can digitize it yourself. Look [Digitization](https://lamescholar.github.io/en/digitization).
