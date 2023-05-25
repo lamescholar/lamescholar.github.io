@@ -27,8 +27,10 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
-[Ученый в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
+[Объяснение эпифеноменализма](https://lamescholar.github.io/lib/epiphenomenalism)
 
 [Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
+
+[Ученый в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
 
 [Эжен Потье](https://lamescholar.github.io/lib/pottierru)
