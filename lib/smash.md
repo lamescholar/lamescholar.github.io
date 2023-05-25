@@ -14,3 +14,5 @@ Why it's important to give access to digitized materials? Why "preservation for 
 
 Becuase bunch of publishers will lose their profits. This whole situation shows hopelessness of using the legal loop-holes, to try, at least one reader at a time, grant access to books to anybody. Smash the book market! Smash the trade of culture! Publication of all data banks, all books and article databases now! Fuck these usurious publishing houses! An cut the crap about money incentive to the writers, with profitability enterprise! This whole enterprise lose a meaning, if it's purpose is growth for sake of growth regardless of succesful fulfilingg its function. Unconditional access to all databases of digitized materials! Culture to the people!
 
+2023
+
