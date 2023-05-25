@@ -15,8 +15,6 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [На русском](https://lamescholar.github.io/ru/piratecookbook)<br/><br/>
 
-
-
 [ChatGPT](https://lamescholar.github.io/lib/chatgpt)
 
 [Eugene Pottier](https://lamescholar.github.io/lib/pottier)
@@ -26,6 +24,8 @@ Pirate Cookbook / Поваренная книга пирата:
 [Michael Parenti - Functions of Fascism](https://lamescholar.github.io/lib/functionsoffascism)
 
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
+
+[Smash the book market](https://lamescholar.github.io/lib/smash)
 
 [Объяснение эпифеноменализма](https://lamescholar.github.io/lib/epiphenomenalism)
 
