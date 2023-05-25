@@ -1,4 +1,4 @@
-**Smash the book market**<br/><br/>
+**Smash the Book Market**<br/><br/>
 
 <https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use>
 
