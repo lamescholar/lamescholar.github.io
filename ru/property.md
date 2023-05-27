@@ -12,4 +12,4 @@
 
 Интернет-мальчик: История Аарона Шварца - <https://www.youtube.com/watch?v=YOys9VLKfq0><br/><br/>
 
-Хомский о Шварце - [https://www.youtube.com/watch?v=eF9wWiIJ9zU](https://www.youtube.com/watch?v=eF9wWiIJ9zU)
+Хомский о Шварце - <https://www.youtube.com/watch?v=eF9wWiIJ9zU>
