@@ -86,7 +86,7 @@ Document Express Editor 6.0.1 - program for deleting/adding images into djvu doc
 
 <http://www.djvu-soft.narod.ru/soft/><br/><br/>
 
-ABBYY Finereader PDF 15 - program for adding OCR layer. You can use the program to extract tif files from pdf-document. Options->Images processing, set off Split facing pages and Correct page orientation, so OCR layer lies in place. Thorough recognition is necessary. You need only text layer out of output document, so to quicken output, you can set djvu export settings with maximum compression.
+ABBYY Finereader PDF 15 - program for adding OCR layer. You can use the program to extract tif files from pdf-document. Options->Images processing, set off Split facing pages and two another options, so OCR layer lies in place. Thorough recognition is necessary. You need only text layer out of output document, so to quicken output, you can set djvu export settings with maximum compression.
 
 <https://rutracker.org/forum/viewtopic.php?t=6040898><br/><br/>
 
