@@ -48,6 +48,10 @@ Physics Today - <https://physicstoday.scitation.org/toc/pto/current>
 
 American Journal of Physics - <https://aapt.scitation.org/toc/ajp/current><br/><br/>
 
+Искусство:
+
+Наше Наследие - <http://nasledie-rus.ru/>
+
 Исторические журналы:
 
 Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>

@@ -96,6 +96,24 @@ Scientific American - <https://archive.org/details/pub_scientific-american?sort=
 
 Scientific American Supplement - <https://archive.org/details/pub_scientific-american-supplement?sort=-date><br/><br/>
 
+Искусство:
+
+Искусство кино:
+
+<https://rutracker.org/forum/viewtopic.php?t=6125405>
+
+<https://rutracker.org/forum/viewtopic.php?t=5099852>
+
+<https://rutracker.org/forum/viewtopic.php?t=6125427>
+
+Наше Наследие:
+
+<https://rutracker.org/forum/viewtopic.php?t=3202031>
+
+Советское фото:
+
+<https://rutracker.org/forum/viewtopic.php?t=5721701><br/><br/>
+
 Исторические журналы:
 
 Вестник древней истории - <https://rutracker.org/forum/viewtopic.php?t=3650861>
@@ -169,24 +187,6 @@ The Journal of Modern History - <https://archive.org/details/pub_journal-of-mode
 American History Illustrated - <https://archive.org/search?query=%22American+History+Illustrated%22>
 
 Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
-
-Искусство:
-
-Искусство кино:
-
-<https://rutracker.org/forum/viewtopic.php?t=6125405>
-
-<https://rutracker.org/forum/viewtopic.php?t=5099852>
-
-<https://rutracker.org/forum/viewtopic.php?t=6125427>
-
-Наше Наследие:
-
-<https://rutracker.org/forum/viewtopic.php?t=3202031>
-
-Советское фото:
-
-<https://rutracker.org/forum/viewtopic.php?t=5721701><br/><br/>
 
 Литературные журналы:
 
