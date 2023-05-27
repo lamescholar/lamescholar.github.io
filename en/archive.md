@@ -64,7 +64,7 @@ Add images. Sort files. By Name. Auto sort file list after insert. Add all.
 
 Output format:->JPG
 
-Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 or 600. Enter the values of Gamma correction, Constrast, and Saturation, if necessary. Sharpen: 30, if necessary.
+Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 or 600. If width of image is greater than 2500 - 300 DPI, greater than 2500 - 600 DPI. Enter the values of Gamma correction, Constrast, and Saturation, if necessary. Sharpen: 30, if necessary.
 
 Choose output folder.
 
@@ -111,8 +111,6 @@ or<br/><br/>
 JPG to DjVu:
 
 Image processing in Scan Tailor.
-
-If width of image is greater than 2000 - 300 DPI, greater than 2000 - 600 DPI.
 
 Look [DjVu](https://lamescholar.github.io/en/djvu).<br/><br/>
 

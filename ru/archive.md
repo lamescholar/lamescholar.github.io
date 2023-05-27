@@ -64,7 +64,7 @@ File->Batch Conversion/Rename...
 
 Output format:->JPG
 
-Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 или 600. Вводишь значения Gamma correction, Constrast и Saturation, если необходимо. Sharpen: 30, если необходимо.
+Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 или 600. Если ширина картинок меньше 2500 - 300 DPI, больше 2500 - 600 DPI. Вводишь значения Gamma correction, Constrast и Saturation, если необходимо. Sharpen: 30, если необходимо.
 
 Выбираешь выходную папку.
 
@@ -115,8 +115,6 @@ PDF на выходе: ClearScan
 Преобразование JPG в DjVu:
 
 Обработка JPG-картинок в Scan Tailor.
-
-Если ширина картинок меньше 2500 - 300 DPI, больше 2500 - 600 DPI.
 
 См. [DjVu](https://lamescholar.github.io/ru/djvu).<br/><br/>
 
