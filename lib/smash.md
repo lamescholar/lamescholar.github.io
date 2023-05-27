@@ -2,6 +2,10 @@
 
 Author - lamescholar<br/><br/>
 
+And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the money changers, and the seats of them that sold doves, And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
+
+— Matthew 21:12–13<br/><br/>
+
 <https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use>
 
 Recent lawsuit against Internet Archive endangers digital book lending.<br/><br/>
