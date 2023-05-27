@@ -180,7 +180,7 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 <https://rutracker.org/forum/viewtopic.php?t=6125427>
 
-Наше наследие:
+Наше Наследие:
 
 <https://rutracker.org/forum/viewtopic.php?t=3202031>
 
