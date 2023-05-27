@@ -10,7 +10,7 @@ Help share the knowledge. Share the link.
 
 <https://lamescholar.github.io>
 
-Original verison in form of text files:
+Original verison of collection in form of text files:
 
 <https://drive.google.com/drive/folders/1H8v5yxZ-32Mj6QTxDaAs3D_7vG_zqnFl?usp=sharing>
 
