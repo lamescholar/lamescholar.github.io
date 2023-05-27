@@ -1,4 +1,5 @@
 **Michael Parenti - Functions of Fascism**
+
 Transcription: lamescholar, 2023.<br/><br/>
 
 This is a transcript of Michael Parenti's 1990 [lecture](https://archive.org/details/FunctionsOfFascism) Functions of Fascism. Transcript of lecture was made with [whisper](https://lamescholar.github.io/en/whisper). Judging from lecture's contents it was a precursor of the chapter Rational Fascism in his book [Blackshirts and Reds: Rational Fascism and the Overthrow of Communism (1997)](http://library.lol/main/1B89470E02FBFE736D4AE4FD927BD736). To know details and find foonotes look up the chapter or read the whole book.<br/><br/>
