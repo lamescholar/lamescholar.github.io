@@ -1,6 +1,6 @@
 **ChatGPT**
 
-Author - lamescholar<br/><br/>
+Author - lamescholar, 2023.<br/><br/>
 
 **Locked database**
 
@@ -46,6 +46,4 @@ Like public funding, crowd founding, self founding (if expenses to buy sources a
 
 **Artificial intelligence**
 
-ChatGPT is a tool to extract review from database or perform translation. That's it. So, if somebody fantasies another - it's really silly misconception. For them Chomsky wrote an [article](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) in NY Times.<br/><br/>
-
-2023
+ChatGPT is a tool to extract review from database or perform translation. That's it. So, if somebody fantasies another - it's really silly misconception. For them Chomsky wrote an [article](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) in NY Times.

@@ -1,6 +1,6 @@
 **Overthrow the Book Market!**
 
-Author - lamescholar<br/><br/>
+Author - lamescholar, 2023.<br/><br/>
 
 And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the money changers, and the seats of them that sold doves, And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
 
@@ -18,6 +18,4 @@ Why it's important to give access to digitized materials? Why "preservation for 
 
 Publishers took aim not just at the National Emergency Library, however, but also at the Open Library and the theory of CDL (controlled digital lending, loan to one person at the time - lamescholar) in general. The service constitutes “willful digital piracy on an industrial scale,” the complaint alleged. “Without any license or any payment to authors or publishers, IA scans print books, uploads these illegally scanned books to its servers, and distributes verbatim digital copies of the books in whole via public-facing websites. With just a few clicks, any Internet-connected user can download complete digital copies of in-copyright books.” More generally, “CDL is an invented paradigm that is well outside copyright law ... based on the false premise that a print book and a digital book share the same qualities."
 
-Because bunch of publishers will lose their profits. This whole situation shows hopelessness of using the legal loop-holes, to try, at least one reader at a time, grant access to books to anybody. Overthrow the book market! Overthrow the trade of culture! Publication of all data banks, all books and articles databases now! Fuck these monopolist publishing houses! And cut the crap about money incentive to the writers and profitability of enterprise! This whole enterprise lose a meaning, if it's purpose is growth for sake of growth regardless of successful fulfilling of its function. Unconditional access to all databases of digitized materials! Culture to the people!<br/><br/>
-
-2023
+Because bunch of publishers will lose their profits. This whole situation shows hopelessness of using the legal loop-holes, to try, at least one reader at a time, grant access to books to anybody. Overthrow the book market! Overthrow the trade of culture! Publication of all data banks, all books and articles databases now! Fuck these monopolist publishing houses! And cut the crap about money incentive to the writers and profitability of enterprise! This whole enterprise lose a meaning, if it's purpose is growth for sake of growth regardless of successful fulfilling of its function. Unconditional access to all databases of digitized materials! Culture to the people!
