@@ -25,7 +25,7 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
-[Overthrow the Book Market!](https://lamescholar.github.io/lib/overthrow)
+[Overturn the Book Market!](https://lamescholar.github.io/lib/overturn)
 
 [Объяснение эпифеноменализма](https://lamescholar.github.io/lib/epiphenomenalism)
 
