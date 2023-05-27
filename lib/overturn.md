@@ -1,10 +1,10 @@
-**Overthrow the Book Market!**
+**Overturn the Book Market!**
 
 Author - lamescholar, 2023.<br/><br/>
 
-And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the money changers, and the seats of them that sold doves, And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.
+On reaching Jerusalem, Jesus entered the temple courts and began driving out those who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves, and would not allow anyone to carry merchandise through the temple courts. And as he taught them, he said, “Is it not written: ‘My house will be called a house of prayer for all nations’ ? But you have made it ‘a den of robbers.’ ” he chief priests and the teachers of the law heard this and began looking for a way to kill him, for they feared him, because the whole crowd was amazed at his teaching. When evening came, Jesus and his disciples went out of the city.
 
-— Matthew 21:12–13<br/><br/>
+ [Mark 11:15-19](https://www.biblestudytools.com/mark/11.html)<br/><br/>
 
 <https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use>
 
