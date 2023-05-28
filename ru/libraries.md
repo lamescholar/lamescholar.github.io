@@ -12,7 +12,7 @@ BT4G - <https://bt4g.org/>
 
 BTDigg - <https://btdig.com/index.htm>
 
-Library Genesis - <https://libgen.rs/>
+Library Genesis - <https://libgen.is/>
 
 VK - <https://vk.com/docs>
 
