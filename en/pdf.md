@@ -14,9 +14,9 @@ IrfanView (croping images):
 
 <https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images>
 
-Book Restorer (straightening of crooked images) - <http://djvu-converter.narod.ru/>
+IrfanView (color correction)
 
-IrfanView (color correction, see the Internet Archive.txt)
+Book Restorer (straightening of crooked images) - <http://djvu-converter.narod.ru/>
 
 LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 

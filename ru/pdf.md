@@ -14,9 +14,9 @@ IrfanView (обрезание изображений):
 
 <https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images>
 
-Book Restorer (распрямление искривлённых изображений) - <http://djvu-converter.narod.ru/>
-
 IrfanView (цветокоррекция)
+
+Book Restorer (распрямление искривлённых изображений) - <http://djvu-converter.narod.ru/>
 
 LuraTech PDF Compressor (кодирование изображений в PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
