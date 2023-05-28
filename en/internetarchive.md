@@ -84,7 +84,7 @@ or
 
 Profile: Photo
 
-Quality: 6<br/><br/>
+Quality: 7<br/><br/>
 
 or<br/><br/>
 

@@ -34,7 +34,7 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [Intellectual property](https://lamescholar.github.io/en/property)
 
-[Internet Archive](https://lamescholar.github.io/en/archive)
+[Internet Archive](https://lamescholar.github.io/en/internetarchive)
 
 [KoLXo3](https://lamescholar.github.io/en/kolxo3)
 

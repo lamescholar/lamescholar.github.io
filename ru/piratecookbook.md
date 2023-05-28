@@ -12,7 +12,7 @@
 
 [Github Pages](https://lamescholar.github.io/ru/githubpages)
 
-[Internet Archive](https://lamescholar.github.io/ru/archive)
+[Internet Archive](https://lamescholar.github.io/ru/internetarchive)
 
 [KoLXo3](https://lamescholar.github.io/ru/kolxo3)
 

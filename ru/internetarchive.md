@@ -84,7 +84,7 @@ Quality: 9
 
 Profile: Photo
 
-Quality: 6
+Quality: 7
 
 Программа не распознаёт русский язык.
 
