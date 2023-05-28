@@ -52,7 +52,7 @@ We look at the result of binarization. If parts of the letters disappear - set t
 
 <http://forum.ru-board.com/topic.cgi?forum=5&topic=32945><br/><br/>
 
-Book Restorer - program for straightening crooked images. Create Book. Tools->Restore. Geometrical correction. Publish (icon of disk in menu). If straightening bitonal image in column Types of files choose G4-compressed, in column Color range - Binary. If straightening text of the book with pictures, you need to input into the program colored images you got from Scan Tailor. TIFF LZW compressed, Color range - RGB colors. Split the straightened images into text and images in Scan Tailor. To avoid crashing from operating heavy amount of images, you should go to Preferences and set JPEG 10% for temporary images. If the resulting image turned out to be curved, replace it with the original image.
+Book Restorer - program for straightening crooked images. Create Book. If necessary, you can leave the original file names: Standart page->Properties->Numbering->Original name. Tools->Restore. Geometrical correction. Publish (icon of disk in menu). If straightening bitonal image in column Types of files choose G4-compressed, in column Color range - Binary. If straightening text of the book with pictures, you need to input into the program colored images you got from Scan Tailor. TIFF LZW compressed, Color range - RGB colors. Split the straightened images into text and images in Scan Tailor. To avoid crashing from operating heavy amount of images, you should go to Preferences and set JPEG 10% for temporary images. If the resulting image turned out to be curved, replace it with the original image.
 
 <http://djvu-converter.narod.ru/><br/><br/>
 
