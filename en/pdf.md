@@ -20,7 +20,11 @@ IrfanView (color correction, see the Internet Archive.txt)
 
 LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
-ABBYY Finereader (text layer) - <https://rutracker.org/forum/viewtopic.php?t=6040898><br/><br/>
+ABBYY Finereader (text layer) - <https://rutracker.org/forum/viewtopic.php?t=6040898>
+
+Pdf & Djvu Bookmarker (outline) - <https://sourceforge.net/projects/djvubookmarker/>
+
+Position:->Move position to left top corner of the page. Apply position->... to all items.<br/><br/>
 
 Editing:
 

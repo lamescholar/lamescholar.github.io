@@ -6,7 +6,7 @@ SumatraPDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer><br/><br
 
 Создание:
 
-Scan Tailor (deskew) - <http://forum.ru-board.com/topic.cgi?forum=5&topic=32945>
+Scan Tailor (исправление наклона) - <http://forum.ru-board.com/topic.cgi?forum=5&topic=32945>
 
 IrfanView (обрезание изображений):
 
@@ -16,11 +16,15 @@ IrfanView (обрезание изображений):
 
 Book Restorer (распрямление искривлённых изображений) - <http://djvu-converter.narod.ru/>
 
-IrfanView (цветокоррекция, см. Internet Archive.txt)
+IrfanView (цветокоррекция)
 
 LuraTech PDF Compressor (кодирование изображений в PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
-ABBYY Finereader (текстовый слой) - <https://rutracker.org/forum/viewtopic.php?t=6040898><br/><br/>
+ABBYY Finereader (текстовый слой) - <https://rutracker.org/forum/viewtopic.php?t=6040898>
+
+Pdf & Djvu Bookmarker (оглавление) - <https://sourceforge.net/projects/djvubookmarker/>
+
+Положение:->Переместить позицию в левый верхний угол страницы. Применить положение->... ко всем пунктам оглавления.<br/><br/>
 
 Редактирование:
 
