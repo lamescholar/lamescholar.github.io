@@ -1,7 +1,5 @@
 **Book searching**<br/><br/>
 
-Ebook
-
 Whenever I'm looking for an ebook, I check 4 sources:
 
 <https://libgen.rs/>
