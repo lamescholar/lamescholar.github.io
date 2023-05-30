@@ -20,6 +20,8 @@ PhilPapers - <https://philpapers.org/><br/><br/>
 
 Естественно-научные журналы:
 
+Вопросы истории естествознания и техники - <https://vietmag.org/index.php?dispatch=issues.archive>
+
 Соросовский образовательный журнал - <https://web.archive.org/web/20071130004824/http://journal.issep.rssi.ru/>
 
 Math-Net.Ru - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
@@ -50,13 +52,17 @@ American Journal of Physics - <https://aapt.scitation.org/toc/ajp/current><br/><
 
 Искусство:
 
-Наше Наследие - <http://nasledie-rus.ru/>
+Наше Наследие - <http://nasledie-rus.ru/><br/><br/>
 
 Исторические журналы:
 
 Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
 
 Древняя русь - <http://www.drevnyaya.ru/vyp/rbrkk.php>
+
+Новая и Новейшая история - <https://nni.jes.su/index.php?dispatch=issues.archive>
+
+Российский Архив - <http://feb-web.ru/feb/rosarc/default.asp>
 
 Французский ежегодник - <https://annuaire-fr.igh.ru/issues?locale=ru>
 
@@ -86,7 +92,13 @@ London Review of Books - <https://www.lrb.co.uk/archive?sort=newest><br/><br/>
 
 Общественно-политические журналы:
 
+Вестник РАН - <https://elibrary.ru/contents.asp?titleid=7693>
+
 Свободная мысль - <https://www.elibrary.ru/contents.asp?titleid=9086>
+
+Альтернативы - <https://elibrary.ru/contents.asp?titleid=26309>
+
+Человек - <https://chelovek-journal.ru/index.php?dispatch=issues.archive>
 
 Скепсис - <https://scepsis.net/>
 

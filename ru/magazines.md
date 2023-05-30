@@ -248,6 +248,8 @@ Times Literary Supplement - Gale<br/><br/>
 
 Журналы времён перестройки - <https://oldjornal.ucoz.net/>
 
+Critique - <https://www.tandfonline.com/toc/rcso20/current>
+
 Reason - <https://reason.com/archives/>
 
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>

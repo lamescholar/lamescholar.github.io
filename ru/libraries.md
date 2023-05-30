@@ -34,7 +34,11 @@ ImWerden - <https://imwerden.de/>
 
 Библиотека Мошкова - <http://www.lib.ru/>
 
-Gutenberg - <https://www.gutenberg.org/><br/><br/>
+Gutenberg - <https://www.gutenberg.org/>
+
+Vivo Voco! - <http://vivovoco.astronet.ru/>
+
+Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html><br/><br/>
 
 Книжные сообщества в ВК:
 
@@ -289,10 +293,6 @@ U.S. Declassified Documents Online - Gale<br/><br/>
 <http://www.barius.ru/>
 
 <https://www.hplovecraft.com/writings/><br/><br/>
-
-<https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
-
-<http://vivovoco.astronet.ru/>
 
 <http://books.totalarch.com/>
 
