@@ -14,6 +14,8 @@ BTDigg - <https://btdig.com/index.htm>
 
 Library Genesis - <https://libgen.is/>
 
+Z-Library - <https://z-lib.is/fulltext?q=>
+
 VK - <https://vk.com/docs>
 
 Flibusta - <http://flibusta.is/a>
@@ -317,5 +319,7 @@ HexChat - <https://hexchat.github.io/downloads.html>
 Tor Browser:
 
 Library Genesis - <http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion/search.html>
+
+Z-Library - <http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/>
 
 Flibusta - <http://flibustaongezhld6dibs2dps6vm4nvqg2kp7vgowbu76tzopgnhazqd.onion/a>
