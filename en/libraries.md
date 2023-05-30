@@ -14,8 +14,6 @@ BTDigg - <https://btdig.com/index.htm>
 
 Library Genesis - <https://libgen.is/>
 
-Z-Library - <https://z-lib.is/fulltext?q=>
-
 VK - <https://vk.com/docs>
 
 Flibusta - <http://flibusta.is/a>
