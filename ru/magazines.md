@@ -184,7 +184,7 @@ The American Historical Review - <https://archive.org/details/pub_american-histo
 
 The Journal of Modern History - <https://archive.org/details/pub_journal-of-modern-history?&sort=-date>
 
-American History Illustrated - <https://archive.org/search?query=%22American+History+Illustrated%22>
+American History Illustrated - <https://archive.org/search?query=%22American+History+Illustrated%22&sort=-date>
 
 Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
