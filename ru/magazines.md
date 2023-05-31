@@ -284,7 +284,11 @@ Newsweek - <https://archive.org/details/pub_newsweek-us?sort=-date>
 
 Der Spiegel - <https://magzdb.org/j/1948>
 
-Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&sort=dateasc&seriestitle=materialisten><br/><br/>
+Materialisten - <https://www.nb.no/search?q=materialisten&mediatype=tidsskrift&sort=dateasc&seriestitle=materialisten>
+
+La Pensée - <https://gallica.bnf.fr/ark:/12148/cb34348981h/date>
+
+Le Mouvement social - <https://gallica.bnf.fr/ark:/12148/cb34348914c/date><br/><br/>
 
 Философские журналы:
 
