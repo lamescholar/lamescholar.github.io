@@ -28,8 +28,9 @@ Bye<br/><br/>
 
 This tragic story reminds us what stand behind covid mortality statistics, hardening of living conditions and war all happening in recent years. It's hudreds of thousands of similar tragedies, most of which stay personal tragedy. These thoughts reminded me about recently published book that treats this ongoing avalanche of disasters. [Callinicos A. - The New Age of Catastrophe - 2023](/doc/Callinicos A. - The New Age of Catastrophe - 2023.pdf).
 
-One of the reviews from Amazon:
+One of the reviews on Amazon:
 
 "Covid. Economic immiseration. War. We are living in a time of perpetual crisis. Crisis is inherent to capitalism, and as Alex Callinicos compellingly argues in his new book, to avert catastrophe, we must confront capitalism."
+
 Paul A. Passavant, Hobart and William Smith Colleges
 
