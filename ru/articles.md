@@ -82,8 +82,6 @@ Annales - <https://www.cambridge.org/core/journals/annales-histoire-sciences-soc
 
 <https://magazines.gorky.media/>
 
-Новый мир - <http://www.nm1925.ru/Archive/Default.aspx>
-
 Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.do?userGroupName=nypl&prodId=BRIP>
 
 Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
