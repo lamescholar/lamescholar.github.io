@@ -36,7 +36,7 @@ ImWerden - <https://imwerden.de/>
 
 Gutenberg - <https://www.gutenberg.org/>
 
-Vivo Voco! - <http://vivovoco.astronet.ru/>
+VIVOS VOCO! - <http://vivovoco.astronet.ru/>
 
 Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html><br/><br/>
 
