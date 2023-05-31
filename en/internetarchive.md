@@ -2,7 +2,7 @@
 
 <https://github.com/MiniGlome/Archive.org-Downloader><br/><br/>
 
-With that Python script you can rip a book from Internet Archive. Script uses 1 hour loan to download pages of the book. To convert images to PDF script is using img2pdf package. But it creates too big PDF file. So I recommend you to keep -j setting at the end of the command to get only the images. Three options how you can efficiently convert them into PDF or DjVu follow.<br/><br/>
+With that Python script you can download any book from Internet Archive. In case of copyrighted books, to download pages of the book script uses 1 hour loan. To convert images to PDF script is using img2pdf package. But it creates too big PDF file. So I recommend you to keep -j setting at the end of the command to get only the images. Three options how you can efficiently convert them into PDF or DjVu follow.<br/><br/>
 
 Requirements to install:
 
