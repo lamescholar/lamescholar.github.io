@@ -28,6 +28,8 @@ HathiTrust - <https://www.hathitrust.org/>
 
 Gutenberg - <https://www.gutenberg.org/><br/><br/>
 
+If the Library Genesis, Z-Library, or Sci-Hub domain is blocked, look at Wikipedia for a new one.<br/><br/>
+
 National electronic libraries:
 
 <https://www.loc.gov/collections/>
