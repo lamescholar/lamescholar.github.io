@@ -23,6 +23,8 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [Michael Parenti - Functions of Fascism](https://lamescholar.github.io/lib/functionsoffascism)
 
+[RARBG is dead](https://lamescholar.github.io/lib/rarbg)
+
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
 [Overturn the Book Market!](https://lamescholar.github.io/lib/overturn)
