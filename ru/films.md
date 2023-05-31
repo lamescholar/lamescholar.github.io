@@ -8,8 +8,6 @@
 
 RuTracker - <https://rutracker.org/forum/index.php>
 
-RARBG - <https://rarbgmirror.org/torrents.php>
-
 1337x - <https://1337x.to/>
 
 Релиз группы: UTR, QxR.<br/><br/>
