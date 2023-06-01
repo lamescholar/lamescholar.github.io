@@ -2,6 +2,32 @@
 
 This is comprehensive collection of programs to create, edit and read DjVu. Using it you can create ebook in djvu format with OCR layer (text layer) and contents.<br/><br/>
 
+General algorithm:
+
+1) Scan Tailor Universal - images processing.
+
+2) Book Restorer - straightening text lines.
+
+3) Tsushima - cleaning slur.
+
+4) DjVu Small Mod 0.7.6.1 - creation of djvu document.
+
+5) DjVu Imager - inserting coloured/grey pictures.
+
+6) ABBYY Finereader PDF 15 - creation of OCR layer.
+
+7) FR11 DjVu Text Layer Crutch - fixing and transferring OCR layer.
+
+8) Document Express Editor 6.0.1 - adding a cover.
+
+9) Pdf & DjVu Bookmarker - adding a contents.
+
+10) DjVu Hyperlinks Editor - adding hyperlinks.
+
+11) DjVu Annotations Editor - editing style of hyperlinks.
+
+12) Document Express Editor 6.0.1 - editing hyperlinks.<br/><br/>
+
 Functions of programs:<br/><br/>
 
 WinDjView - program for reading of .djvu files. Advice for comfortable reading. If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%, if this doesn't suit, then 162% or 187%. If you need the scale little greater than 150% - add 6%. Alt+Left - go back after clicking on the hyperlink. If you have blurry image, you need to follow Properties->Compatibility->Change high DPI settings->Change settings for all users->Override high DPI scaling behaviour. Scaling performed by:->Application.
@@ -113,32 +139,6 @@ DjVu Annotations Editor - program for changing properties of hyperlinks. Go to Ð
 DjVu Chunk Remover - program for deleting chunks, pages in djvu document.
 
 <https://forum.ru-board.com/topic.cgi?forum=5&topic=38467><br/><br/>
-
-General algorithm:
-
-1) Scan Tailor Universal - images processing.
-
-2) Book Restorer - straightening text lines.
-
-3) Tsushima - cleaning slur.
-
-4) DjVu Small Mod 0.7.6.1 - creation of djvu document.
-
-5) DjVu Imager - inserting coloured/grey pictures.
-
-6) ABBYY Finereader PDF 15 - creation of OCR layer.
-
-7) FR11 DjVu Text Layer Crutch - fixing and transferring OCR layer.
-
-8) Document Express Editor 6.0.1 - adding a cover.
-
-9) Pdf & DjVu Bookmarker - adding a contents.
-
-10) DjVu Hyperlinks Editor - adding hyperlinks.
-
-11) DjVu Annotations Editor - editing style of hyperlinks.
-
-12) Document Express Editor 6.0.1 - editing hyperlinks.<br/><br/>
 
 Publish your book:
 
