@@ -18,7 +18,7 @@ ABBYY Finereader PDF 15 - <https://rutracker.org/forum/viewtopic.php?t=6040898><
 
 Создание:
 
-https://www.youtube.com/@andreilazarov8881/videos
+<https://www.youtube.com/@andreilazarov8881/videos>
 
 FictionBook Editor 2.6.6:
 
