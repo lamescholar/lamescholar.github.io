@@ -48,7 +48,7 @@
 
 [Игры](https://lamescholar.github.io/ru/games)
 
-[Инструкция по созданию электронных книг из бумажных оригиналов](https://lamescholar.github.io/ru/Инструкция.pdf)
+[Инструкция по созданию электронных книг из бумажных оригиналов (PDF)](https://lamescholar.github.io/ru/Инструкция.pdf)
 
 [Интеллектуальная собственность](https://lamescholar.github.io/ru/property)
 
