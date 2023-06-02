@@ -134,6 +134,8 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Военно-исторический журнал - <https://rutracker.org/forum/viewtopic.php?t=5297462>
 
+Одиссей. Человек в истории - <https://rutracker.org/forum/viewtopic.php?t=4997827>
+
 Казус. Индивидуальное и уникальное в истории:
 
 <https://rutracker.org/forum/viewtopic.php?t=4994100>
