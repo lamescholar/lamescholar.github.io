@@ -132,6 +132,14 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Новая и новейшая история - <https://rutracker.org/forum/viewtopic.php?t=5271628>
 
+Военно-исторический журнал - <https://rutracker.org/forum/viewtopic.php?t=5297462>
+
+Казус. Индивидуальное и уникальное в истории:
+
+<https://rutracker.org/forum/viewtopic.php?t=4994100>
+
+<https://rutracker.org/forum/viewtopic.php?t=5645547>
+
 Французский ежегодник - <https://rutracker.org/forum/viewtopic.php?t=5384475>
 
 Российская история:
@@ -140,15 +148,9 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 <https://rutracker.org/forum/viewtopic.php?t=5355615>
 
+Родина - <https://rutracker.org/forum/viewtopic.php?t=5883982>
+
 Журнал российских и восточноевропейских исторических исследований - <https://rutracker.org/forum/viewtopic.php?t=5052726>
-
-Исторический архив:
-
-<https://imwerden.de/razdel-2019-str-1.html>
-
-<https://rutracker.org/forum/viewtopic.php?t=5933432>
-
-Военно-исторический журнал - <https://rutracker.org/forum/viewtopic.php?t=5297462>
 
 Известия ЦК КПСС - <https://rutracker.org/forum/viewtopic.php?t=4131882>
 
@@ -158,13 +160,13 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 <https://rutracker.org/forum/viewtopic.php?t=4207513>
 
-Родина - <https://rutracker.org/forum/viewtopic.php?t=5883982>
+Исторический архив:
 
-Казус. Индивидуальное и уникальное в истории:
+<https://imwerden.de/razdel-2019-str-1.html>
 
-<https://rutracker.org/forum/viewtopic.php?t=4994100>
+<https://rutracker.org/forum/viewtopic.php?t=5933432>
 
-<https://rutracker.org/forum/viewtopic.php?t=5645547>
+Записки отдела рукописей - <https://azbyka.ru/otechnik/pravoslavnye-zhurnaly/zapiski-otdela-rukopisej/>
 
 Курьер ЮНЕСКО:
 
