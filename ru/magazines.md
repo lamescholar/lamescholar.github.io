@@ -40,6 +40,16 @@ philosophy journals reddit<br/><br/>
 
 Хакер - <http://magzdb.org/j/377>
 
+Журнал Министерства народного просвещения - <https://runivers.ru/lib/book7643/420634/>
+
+Природа и люди:
+
+<https://rutracker.org/forum/viewtopic.php?t=4884459>
+
+<https://magzdb.org/j/298>
+
+<https://elib.rgo.ru/handle/123456789/226620>
+
 В мире науки - <https://rutracker.org/forum/viewtopic.php?t=1831010>
 
 Природа:
@@ -47,8 +57,6 @@ philosophy journals reddit<br/><br/>
 <https://priroda.ras.ru/>
 
 <https://rutracker.org/forum/viewtopic.php?t=6131553>
-
-Природа и люди - <https://rutracker.org/forum/viewtopic.php?t=4884459>
 
 Наука и жизнь - <https://rutracker.org/forum/viewtopic.php?t=5276847>
 
@@ -127,6 +135,10 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 Русский архив - <https://runivers.ru/lib/book7627/>
 
 Русская старина - <https://runivers.ru/lib/book4646/>
+
+Голос минувшего - <https://runivers.ru/lib/book19799/595294/>
+
+Сборник Русского исторического общества - <https://runivers.ru/lib/book9408/>
 
 Историк-марксист - <https://rutracker.org/forum/viewtopic.php?t=4482156>
 
