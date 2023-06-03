@@ -48,17 +48,23 @@ philosophy journals reddit<br/><br/>
 
 <https://rutracker.org/forum/viewtopic.php?t=6131553>
 
+Природа и люди - <https://rutracker.org/forum/viewtopic.php?t=4884459>
+
 Наука и жизнь - <https://rutracker.org/forum/viewtopic.php?t=5276847>
 
 Знание - сила - <https://rutracker.org/forum/viewtopic.php?t=5370631>
 
 Земля и Вселенная - <https://rutracker.org/forum/viewtopic.php?t=5899037>
 
+Космос - <https://rutracker.org/forum/viewtopic.php?t=4857188>
+
 Химия и жизнь - <https://rutracker.org/forum/viewtopic.php?t=5990836>
 
 Техника - молодежи - <https://rutracker.org/forum/viewtopic.php?t=4986785>
 
 Вокруг света - <https://rutracker.org/forum/viewtopic.php?t=2319163>
+
+Человек и природа - <https://rutracker.org/forum/viewtopic.php?t=5510846>
 
 Nature:
 
@@ -246,9 +252,11 @@ Times Literary Supplement - Gale<br/><br/>
 
 Общественно-политические журналы:
 
-Огонёк - <https://rutracker.org/forum/viewtopic.php?t=3821817>
-
 Социологический журнал - <https://www.journal-socjournal.ru/index.php/socjour/issue/archive>
+
+Век XX и мир - <https://rutracker.org/forum/viewtopic.php?t=5668582>
+
+Огонёк - <https://rutracker.org/forum/viewtopic.php?t=3821817>
 
 Журналы времён перестройки - <https://oldjornal.ucoz.net/>
 
