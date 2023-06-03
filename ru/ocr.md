@@ -1,6 +1,6 @@
 **OCR**<br/><br/>
 
-Эти программы позволяют получить текст из скриншота. Для добавления текстового слоя смотри DjVu.txt и PDF.txt.<br/><br/>
+Эти программы позволяют получить текст из скриншота. Для добавления текстового слоя смотри [DjVu](https://lamescholar.github.io/ru/djvu) и [PDF](https://lamescholar.github.io/ru/pdf).<br/><br/>
 
 ABBYY Screenshot Reader - <https://rutracker.org/forum/viewtopic.php?t=6040898><br/><br/>
 

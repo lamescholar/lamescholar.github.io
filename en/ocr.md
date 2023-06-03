@@ -1,6 +1,6 @@
 **OCR**<br/><br/>
 
-These programs allow you to get the text out of screenshot. For adding text layer look DjVu.txt and PDF.txt.<br/><br/>
+These programs allow you to get the text out of screenshot. For adding text layer look [DjVu](https://lamescholar.github.io/en/djvu) and [PDF](https://lamescholar.github.io/en/pdf).<br/><br/>
 
 ABBYY Screenshot Reader - <https://rutracker.org/forum/viewtopic.php?t=6040898><br/><br/>
 
