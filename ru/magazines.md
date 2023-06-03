@@ -136,9 +136,9 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Русская старина - <https://runivers.ru/lib/book4646/>
 
-Голос минувшего - <https://runivers.ru/lib/book19799/595294/>
-
 Сборник Русского исторического общества - <https://runivers.ru/lib/book9408/>
+
+Голос минувшего - <https://runivers.ru/lib/book19799/595294/>
 
 Историк-марксист - <https://rutracker.org/forum/viewtopic.php?t=4482156>
 
