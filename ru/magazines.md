@@ -28,6 +28,8 @@ philosophy journals reddit<br/><br/>
 
 Естественно-научные журналы:
 
+Вестник РАН - <https://www.ras.ru/publishing/rasherald/rasherald_pdf.aspx>
+
 Соросовский образовательный журнал - <https://rutracker.org/forum/viewtopic.php?t=4051336>
 
 Математическое просвещение:

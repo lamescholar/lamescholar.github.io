@@ -20,6 +20,8 @@ PhilPapers - <https://philpapers.org/><br/><br/>
 
 Естественно-научные журналы:
 
+Вестник РАН - <https://elibrary.ru/contents.asp?titleid=7693>
+
 Вопросы истории естествознания и техники - <https://vietmag.org/index.php?dispatch=issues.archive>
 
 Соросовский образовательный журнал - <https://web.archive.org/web/20071130004824/http://journal.issep.rssi.ru/>
@@ -89,8 +91,6 @@ Times Literary Supplement - <https://www.the-tls.co.uk/archive/>
 London Review of Books - <https://www.lrb.co.uk/archive?sort=newest><br/><br/>
 
 Общественно-политические журналы:
-
-Вестник РАН - <https://elibrary.ru/contents.asp?titleid=7693>
 
 Свободная мысль - <https://www.elibrary.ru/contents.asp?titleid=9086>
 
