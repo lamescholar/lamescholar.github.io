@@ -40,7 +40,7 @@ philosophy journals reddit<br/><br/>
 
 Хакер - <http://magzdb.org/j/377>
 
-Журнал Министерства народного просвещения - <https://runivers.ru/lib/book7643/420634/>
+Журнал Министерства народного просвещения - <https://runivers.ru/lib/book7643/>
 
 Природа и люди:
 
