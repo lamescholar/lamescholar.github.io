@@ -174,11 +174,7 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Известия ЦК КПСС - <https://rutracker.org/forum/viewtopic.php?t=4131882>
 
-Источник:
-
-<https://rutracker.org/forum/viewtopic.php?t=3270258>
-
-<https://rutracker.org/forum/viewtopic.php?t=4207513>
+Источник - <https://rutracker.org/forum/viewtopic.php?t=6372581>
 
 Исторический архив:
 
