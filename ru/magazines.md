@@ -26,6 +26,10 @@ NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
 philosophy journals reddit<br/><br/>
 
+Журналы на рутрекере:
+
+<https://rutracker.org/forum/viewforum.php?f=31><br/><br/>
+
 Естественно-научные журналы:
 
 Соросовский образовательный журнал - <https://rutracker.org/forum/viewtopic.php?t=4051336>
