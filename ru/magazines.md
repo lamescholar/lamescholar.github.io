@@ -76,11 +76,11 @@ philosophy journals reddit<br/><br/>
 
 Техника - молодежи - <https://rutracker.org/forum/viewtopic.php?t=4986785>
 
+Природа и люди (география) - <https://elib.rgo.ru/handle/123456789/226620>
+
 Вокруг света - <https://rutracker.org/forum/viewtopic.php?t=2319163>
 
 Человек и природа - <https://rutracker.org/forum/viewtopic.php?t=5510846>
-
-Природа и люди (география) - <https://elib.rgo.ru/handle/123456789/226620>
 
 Nature:
 
