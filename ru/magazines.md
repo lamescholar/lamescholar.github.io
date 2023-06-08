@@ -36,6 +36,12 @@ philosophy journals reddit<br/><br/>
 
 Соросовский образовательный журнал - <https://rutracker.org/forum/viewtopic.php?t=4051336>
 
+Математическое образование:
+
+<https://www.mathedu.ru/catalogue/collections/journals/>
+
+<https://matob.ru/archive.html>
+
 Математическое просвещение:
 
 <https://rutracker.org/forum/viewtopic.php?t=6132656>
@@ -43,6 +49,8 @@ philosophy journals reddit<br/><br/>
 <https://mccme.ru/free-books/matpros.html>
 
 Квант - <https://kvant.ras.ru/>
+
+Вестник опытной физики и элементарной математики - <https://vofem.ru/ru/>
 
 Хакер - <http://magzdb.org/j/377>
 
