@@ -16,7 +16,9 @@ Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 
 ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
-NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
+NYPL - <https://www.nypl.org/research/collections/articles-databases>
+
+East View - <https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details><br/><br/>
 
 You can find English scientific journals by searching:
 

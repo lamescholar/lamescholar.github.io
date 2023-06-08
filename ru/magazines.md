@@ -20,7 +20,9 @@ ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
 РГБ - <https://passport.rsl.ru/netres/>
 
-NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
+NYPL - <https://www.nypl.org/research/collections/articles-databases>
+
+East View - <https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details><br/><br/>
 
 Научные журналы на английском можно найти запросом в гугле:
 
@@ -52,8 +54,6 @@ philosophy journals reddit<br/><br/>
 
 <https://magzdb.org/j/298>
 
-<https://elib.rgo.ru/handle/123456789/226620>
-
 В мире науки - <https://rutracker.org/forum/viewtopic.php?t=1831010>
 
 Природа:
@@ -77,6 +77,8 @@ philosophy journals reddit<br/><br/>
 Вокруг света - <https://rutracker.org/forum/viewtopic.php?t=2319163>
 
 Человек и природа - <https://rutracker.org/forum/viewtopic.php?t=5510846>
+
+Природа и люди (география) - <https://elib.rgo.ru/handle/123456789/226620>
 
 Nature:
 
