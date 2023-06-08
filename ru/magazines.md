@@ -54,6 +54,8 @@ philosophy journals reddit<br/><br/>
 
 <https://magzdb.org/j/298>
 
+<https://www.prlib.ru/section/1328388>
+
 В мире науки - <https://rutracker.org/forum/viewtopic.php?t=1831010>
 
 Природа:
