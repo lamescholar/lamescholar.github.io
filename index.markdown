@@ -29,6 +29,8 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [Overturn the Book Market!](https://lamescholar.github.io/lib/overturn)
 
+[Ломоносов](https://lamescholar.github.io/lib/lomonosov)
+
 [Объяснение эпифеноменализма](https://lamescholar.github.io/lib/epiphenomenalism)
 
 [Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
