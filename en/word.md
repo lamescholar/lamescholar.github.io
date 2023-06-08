@@ -1,6 +1,6 @@
 **Word**<br/><br/>
 
-Word 2021 - <https://rutracker.org/forum/viewtopic.php?t=6226136>
+Word 2021 - <https://rutracker.org/forum/viewtopic.php?t=6362008>
 
 Settings.
 
