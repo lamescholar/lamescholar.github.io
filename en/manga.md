@@ -72,9 +72,7 @@ cd C:\mangasee123-downloader
 python MangaseeDL.py "Vinland Saga" 1
 ```
 <br/><br/>
-Torrent site with English translations:
-
-<https://nyaa.si><br/><br/>
+Torrent site with English translations - <https://nyaa.si><br/><br/>
 
 Program for viewing images:
 
