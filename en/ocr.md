@@ -10,7 +10,7 @@ Tesseract:
 
 <https://github.com/UB-Mannheim/tesseract/wiki>
 
-<https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html#simplest-invocation-to-ocr-an-image>
+<https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html>
 
 Install Tesseract with all language additions. Add installation folder to PATH.
 
