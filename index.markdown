@@ -29,6 +29,12 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [Overturn the Book Market!](https://lamescholar.github.io/lib/overturn)
 
+Капица:
+
+* [Интернет изменит контуры права на интеллектуальную собственность](https://lamescholar.github.io/lib/kapitsainternet)
+
+* [Наш храм науки почти сгорел](https://lamescholar.github.io/lib/kapitsascience)
+
 [М. В. Ломоносов и его ученая деятельность](https://lamescholar.github.io/lib/lomonosov)
 
 [Объяснение эпифеноменализма](https://lamescholar.github.io/lib/epiphenomenalism)
