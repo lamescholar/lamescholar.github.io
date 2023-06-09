@@ -1,4 +1,4 @@
-Источник: [Эксперт-Интернет, #3 от 24 июля 2000](https://web.archive.org/web/20010208111837/http://archive.expert.ru/internet/00/00-28-39/skapitsa.htm).
+Источник: [Эксперт-Интернет, #3 от 24 июля 2000](https://web.archive.org/web/20010208111837/http://archive.expert.ru/internet/00/00-28-39/skapitsa.htm).<br/><br/>
 
 **Интернет изменит контуры права на интеллектуальную собственность**
 
