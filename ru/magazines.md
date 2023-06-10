@@ -224,7 +224,13 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 Литературные журналы:
 
-Даугава - <https://rutracker.org/forum/viewtopic.php?t=5259992>
+Отечественные записки - <https://rutracker.org/forum/viewtopic.php?t=5390433>
+
+Вопросы литературы:
+
+<https://rutracker.org/forum/viewtopic.php?t=5278859>
+
+<https://rutracker.org/forum/viewtopic.php?t=5875468>
 
 Новый мир - <https://rutracker.org/forum/viewtopic.php?t=4938890>
 
@@ -234,15 +240,9 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 <https://rutracker.org/forum/viewtopic.php?t=4978557>
 
-Вопросы литературы:
-
-<https://rutracker.org/forum/viewtopic.php?t=5278859>
-
-<https://rutracker.org/forum/viewtopic.php?t=5875468>
-
 Иностранная литература - <https://rutracker.org/forum/viewtopic.php?t=4547639>
 
-Отечественные записки - <https://rutracker.org/forum/viewtopic.php?t=5390433>
+Даугава - <https://rutracker.org/forum/viewtopic.php?t=5259992>
 
 Мир фантастики - <https://rutracker.org/forum/viewtopic.php?t=3468332>
 
