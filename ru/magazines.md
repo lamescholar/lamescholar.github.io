@@ -278,8 +278,6 @@ Urbi - <https://imwerden.de/publ-12829.html>
 
 Если - <http://flibusta.is/s/31331>
 
-Будильник - <https://elibrary.unatlib.ru/handle/123456789/51329/recent-submissions>
-
 Смехач - <https://magzdb.org/j/3496>
 
 Крокодил - <https://croco.uno/>
