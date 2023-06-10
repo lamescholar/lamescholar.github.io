@@ -1,7 +1,7 @@
 **Magazines**<br/><br/>
 
 {:refdef: style="text-align: center;"}
-![Quantum](/images/quantum.jpg)
+[![Quantum](/images/quantum.jpg)](https://www.nsta.org/quantum-magazine-math-and-science)
 {: refdef}
 
 magzDB - <http://magzdb.org/>

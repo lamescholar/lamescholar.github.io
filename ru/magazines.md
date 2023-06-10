@@ -1,7 +1,7 @@
 **Журналы**<br/><br/>
 
 {:refdef: style="text-align: center;"}
-![Quantum](/images/quantum.jpg)
+[![Quantum](/images/quantum.jpg)](https://www.nsta.org/quantum-magazine-math-and-science)
 {: refdef}
 
 magzDB - <http://magzdb.org/>
@@ -154,9 +154,9 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Исторический вестник - <https://runivers.ru/lib/book9629/>
 
-Старые годы - <https://imwerden.de/razdel-2212-str-1.html>
-
 Сборник Русского исторического общества - <https://runivers.ru/lib/book9408/>
+
+Старые годы - <https://imwerden.de/razdel-2212-str-1.html>
 
 Голос минувшего - <https://runivers.ru/lib/book19799/>
 
