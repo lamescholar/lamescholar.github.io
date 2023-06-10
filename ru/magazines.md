@@ -188,6 +188,12 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Журнал российских и восточноевропейских исторических исследований - <https://rutracker.org/forum/viewtopic.php?t=5052726>
 
+Красный архив:
+
+<https://rutracker.org/forum/viewtopic.php?t=6268854>
+
+<https://rutracker.org/forum/viewtopic.php?t=4298815>
+
 Известия ЦК КПСС - <https://rutracker.org/forum/viewtopic.php?t=4131882>
 
 Источник - <https://rutracker.org/forum/viewtopic.php?t=6372581>

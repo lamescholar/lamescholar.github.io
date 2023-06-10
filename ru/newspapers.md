@@ -36,7 +36,9 @@ NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
 Книжное обозрение - <https://rutracker.org/forum/viewtopic.php?t=4013208>
 
-Культура - <https://rutracker.org/forum/viewtopic.php?t=5722486><br/><br/>
+Культура - <https://rutracker.org/forum/viewtopic.php?t=5722486>
+
+Литературная газета - <https://rutracker.org/forum/viewtopic.php?t=3565566><br/><br/>
 
 <https://www.theguardian.com/theguardian>
 
