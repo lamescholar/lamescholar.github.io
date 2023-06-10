@@ -152,6 +152,10 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Русская старина - <https://runivers.ru/lib/book4646/>
 
+Исторический вестник - <https://runivers.ru/lib/book9629/>
+
+Старые годы - <https://imwerden.de/razdel-2212-str-1.html>
+
 Сборник Русского исторического общества - <https://runivers.ru/lib/book9408/>
 
 Голос минувшего - <https://runivers.ru/lib/book19799/>
@@ -230,7 +234,21 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 Литературные журналы:
 
+Московский телеграф - <https://rutracker.org/forum/viewtopic.php?t=5368967>
+
 Отечественные записки - <https://rutracker.org/forum/viewtopic.php?t=5390433>
+
+Современник:
+
+<https://rutracker.org/forum/viewtopic.php?t=3040739>
+
+<https://rutracker.org/forum/viewtopic.php?t=4990250>
+
+<https://rutracker.org/forum/viewtopic.php?t=3589084>
+
+Аполон - <https://rutracker.org/forum/viewtopic.php?t=3276663>
+
+ЛЕФ - <https://rutracker.org/forum/viewtopic.php?t=5073711>
 
 Вопросы литературы:
 
@@ -250,11 +268,19 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 Даугава - <https://rutracker.org/forum/viewtopic.php?t=5259992>
 
+Арион - <https://imwerden.de/razdel-2157-str-1.html>
+
+Urbi - <https://imwerden.de/publ-12829.html>
+
 Мир фантастики - <https://rutracker.org/forum/viewtopic.php?t=3468332>
 
 Уральский следопыт - <https://magzdb.org/j/14>
 
 Если - <http://flibusta.is/s/31331>
+
+Будильник - <https://elibrary.unatlib.ru/handle/123456789/51329/recent-submissions>
+
+Смехач - <https://magzdb.org/j/3496>
 
 Крокодил - <https://croco.uno/>
 
@@ -286,9 +312,29 @@ Times Literary Supplement - Gale<br/><br/>
 
 Социологический журнал - <https://www.journal-socjournal.ru/index.php/socjour/issue/archive>
 
-Век XX и мир - <https://rutracker.org/forum/viewtopic.php?t=5668582>
+Вестник Европы:
+
+<https://rutracker.org/forum/viewtopic.php?t=5130322>
+
+<https://rutracker.org/forum/viewtopic.php?t=2606955>
+
+<https://rutracker.org/forum/viewtopic.php?t=2578193>
+
+Всемирная иллюстрация:
+
+<https://archive.org>
+
+<http://lib.sptl.spb.ru/ru/nodes/2454-vsemirnaya-illyustratsiya-1869-1898>
+
+Нива - <https://runivers.ru/lib/book9158/>
 
 Огонёк - <https://rutracker.org/forum/viewtopic.php?t=3821817>
+
+Новое время - <https://rutracker.org/forum/viewtopic.php?t=6181616>
+
+Век XX и мир - <https://rutracker.org/forum/viewtopic.php?t=5668582>
+
+Кубань - <https://rutracker.org/forum/viewtopic.php?t=5762180>
 
 Журналы времён перестройки - <https://oldjornal.ucoz.net/>
 

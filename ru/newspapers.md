@@ -16,6 +16,26 @@ ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
+Газеты российской империи - <https://gpa.eastview.com/crl/irn/?a=cl&cl=CL1&e=-------ru-25--1--img-txIN---------->
+
+День - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126798>
+
+Голос - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=232991>
+
+Московские ведомости - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=131435>
+
+Новое время - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=120590>
+
+Петербургская газета - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=123517>
+
+Петербургский листок - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126688>
+
+Речь - https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=123079
+
+Санкт-Петербурские ведомости - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126739>
+
+Ученые известия - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=158357>
+
 <https://iz.ru/newspaper>
 
 <https://www.kommersant.ru/daily?from=burger>
