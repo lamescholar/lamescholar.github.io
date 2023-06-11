@@ -74,7 +74,9 @@ philosophy journals reddit<br/><br/>
 
 Вестник знания:
 
-<https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F>
+```
+https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F
+```
 
 <https://epizodyspace.ru/bibl/vestnik_znaniya/vestnik_znaniya.html>
 
@@ -172,8 +174,10 @@ Wszechświat:
 
 <https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive>
 
-<https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-><br/><br/>
-
+```
+https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-
+```
+<br/><br/>
 Искусство:
 
 Искусство кино:
@@ -294,11 +298,19 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 <http://lib.sptl.spb.ru/ru/nodes/2454-vsemirnaya-illyustratsiya-1869-1898>
 
-Летопись - <https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D1%8C_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)>
+Летопись:
+
+```
+https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D1%8C_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)
+```
 
 Московский телеграф - <https://rutracker.org/forum/viewtopic.php?t=5368967>
 
-Новое слово - <https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(1893%E2%80%941897)>
+Новое слово:
+
+```
+https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(1893%E2%80%941897)
+```
 
 Отечественные записки - <https://rutracker.org/forum/viewtopic.php?t=5390433>
 
