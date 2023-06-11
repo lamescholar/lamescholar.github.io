@@ -29,7 +29,7 @@ English materials:
 
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
-[Overturn the Book Market!](https://lamescholar.github.io/lib/overturn)
+[Overturn the Book Market!](https://lamescholar.github.io/lib/overturn)<br/><br/>
 
 Материалы на русском:
 
