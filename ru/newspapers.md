@@ -16,7 +16,7 @@ ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
 NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
-Газеты российской империи - <https://gpa.eastview.com/crl/irn/?a=cl&cl=CL1&e=-------ru-25--1--img-txIN---------->
+Новая жизнь - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126741>
 
 День - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=126798>
 

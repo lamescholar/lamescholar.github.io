@@ -34,7 +34,17 @@ philosophy journals reddit<br/><br/>
 
 Естественно-научные журналы:
 
+Вестник Императорской Академии наук Санкт-Петербурга:
+
+<https://www.biodiversitylibrary.org/bibliography/11493#/summary>
+
+<https://www.biodiversitylibrary.org/bibliography/95237#/summary>
+
+<https://www.biodiversitylibrary.org/bibliography/49351#/summary>
+
 Соросовский образовательный журнал - <https://rutracker.org/forum/viewtopic.php?t=4051336>
+
+Вестник опытной физики и элементарной математики - <https://vofem.ru/ru/>
 
 Математическое образование:
 
@@ -50,8 +60,6 @@ philosophy journals reddit<br/><br/>
 
 Квант - <https://kvant.ras.ru/>
 
-Вестник опытной физики и элементарной математики - <https://vofem.ru/ru/>
-
 Хакер - <http://magzdb.org/j/377>
 
 Журнал Министерства народного просвещения - <https://runivers.ru/lib/book7643/>
@@ -63,6 +71,24 @@ philosophy journals reddit<br/><br/>
 <https://magzdb.org/j/298>
 
 <https://www.prlib.ru/section/1328388>
+
+Вестник знания:
+
+<https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F>
+
+<https://epizodyspace.ru/bibl/vestnik_znaniya/vestnik_znaniya.html>
+
+<https://magzdb.org/j/261>
+
+Великие люди биографическая библиотека Вестника знания - https://rusneb.ru/
+
+приложение к журналу Вестник знания - https://rusneb.ru/
+
+Вестник и библиотека самообразования - https://rusneb.ru/
+
+Журнал для всех - <https://ru.wikipedia.org>
+
+Мир божий - <https://commons.wikimedia.org/wiki/Category:Mir_Bozhiy_(magazine)>
 
 В мире науки - <https://rutracker.org/forum/viewtopic.php?t=1831010>
 
@@ -124,7 +150,13 @@ Science - <https://archive.org/details/pub_science?&sort=-date&page=2>
 
 Scientific American - <https://archive.org/details/pub_scientific-american?sort=-date>
 
-Scientific American Supplement - <https://archive.org/details/pub_scientific-american-supplement?sort=-date><br/><br/>
+Scientific American Supplement - <https://archive.org/details/pub_scientific-american-supplement?sort=-date>
+
+Wszechświat:
+
+<https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive>
+
+<https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-><br/><br/>
 
 Искусство:
 
@@ -154,7 +186,11 @@ Scientific American Supplement - <https://archive.org/details/pub_scientific-ame
 
 Исторический вестник - <https://runivers.ru/lib/book9629/>
 
-Сборник Русского исторического общества - <https://runivers.ru/lib/book9408/>
+Сборник Русского исторического общества:
+
+<https://runivers.ru/lib/book9408/>
+
+<http://mir.k156.ru/sirio/sirio_index.html>
 
 Старые годы - <https://imwerden.de/razdel-2212-str-1.html>
 
@@ -234,9 +270,23 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 Литературные журналы:
 
+Нива - <https://runivers.ru/lib/book9158/>
+
+Всемирная иллюстрация:
+
+<https://archive.org>
+
+<http://lib.sptl.spb.ru/ru/nodes/2454-vsemirnaya-illyustratsiya-1869-1898>
+
+Летопись - <https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D1%8C_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)>
+
 Московский телеграф - <https://rutracker.org/forum/viewtopic.php?t=5368967>
 
+Новое слово - <https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(1893%E2%80%941897)>
+
 Отечественные записки - <https://rutracker.org/forum/viewtopic.php?t=5390433>
+
+Родина - <https://rutracker.org/forum/viewtopic.php?t=4489965>
 
 Современник:
 
@@ -306,9 +356,17 @@ Times Literary Supplement - Gale<br/><br/>
 
 Общественно-политические журналы:
 
+Вестник АН СССР - <https://www.prlib.ru/section/684591>
+
 Вестник РАН - <https://www.ras.ru/publishing/rasherald/rasherald_pdf.aspx>
 
+Архивный поиск - <https://www.arran.ru/node/880>
+
+В защиту науки - <https://www.ras.ru/digest/fdigestlist/bulletin.aspx>
+
 Социологический журнал - <https://www.journal-socjournal.ru/index.php/socjour/issue/archive>
+
+Книжный фронт - <https://www.prlib.ru/section/1870296>
 
 Вестник Европы:
 
@@ -318,13 +376,7 @@ Times Literary Supplement - Gale<br/><br/>
 
 <https://rutracker.org/forum/viewtopic.php?t=2578193>
 
-Всемирная иллюстрация:
-
-<https://archive.org>
-
-<http://lib.sptl.spb.ru/ru/nodes/2454-vsemirnaya-illyustratsiya-1869-1898>
-
-Нива - <https://runivers.ru/lib/book9158/>
+Русское богатство - <https://rutracker.org/forum/viewtopic.php?t=5465802>
 
 Огонёк - <https://rutracker.org/forum/viewtopic.php?t=3821817>
 
