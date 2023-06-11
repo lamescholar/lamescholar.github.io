@@ -346,6 +346,8 @@ https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%
 
 Даугава - <https://rutracker.org/forum/viewtopic.php?t=5259992>
 
+Слово - <https://rutracker.org/forum/viewtopic.php?t=1750473>
+
 Кубань - <https://rutracker.org/forum/viewtopic.php?t=5762180>
 
 Журналы времён перестройки - <https://oldjornal.ucoz.net/>
