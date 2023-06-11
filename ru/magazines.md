@@ -346,6 +346,10 @@ https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%
 
 Даугава - <https://rutracker.org/forum/viewtopic.php?t=5259992>
 
+Кубань - <https://rutracker.org/forum/viewtopic.php?t=5762180>
+
+Журналы времён перестройки - <https://oldjornal.ucoz.net/>
+
 Арион - <https://imwerden.de/razdel-2157-str-1.html>
 
 Urbi - <https://imwerden.de/publ-12829.html>
@@ -411,10 +415,6 @@ Times Literary Supplement - Gale<br/><br/>
 Новое время - <https://rutracker.org/forum/viewtopic.php?t=6181616>
 
 Век XX и мир - <https://rutracker.org/forum/viewtopic.php?t=5668582>
-
-Кубань - <https://rutracker.org/forum/viewtopic.php?t=5762180>
-
-Журналы времён перестройки - <https://oldjornal.ucoz.net/>
 
 Critique - <https://www.tandfonline.com/toc/rcso20/current>
 
