@@ -15,6 +15,8 @@ Pirate Cookbook / Поваренная книга пирата:
 
 [На русском](https://lamescholar.github.io/ru/piratecookbook)<br/><br/>
 
+English materials:
+
 [ChatGPT](https://lamescholar.github.io/lib/chatgpt)
 
 [Eugene Pottier](https://lamescholar.github.io/lib/pottier)
@@ -28,6 +30,10 @@ Pirate Cookbook / Поваренная книга пирата:
 [Relics of the Past: Books from East Germany](https://lamescholar.github.io/lib/relics)
 
 [Overturn the Book Market!](https://lamescholar.github.io/lib/overturn)
+
+Материалы на русском:
+
+[Wikileaks в 1917 году](https://lamescholar.github.io/lib/wikileaks1917)
 
 Капица:
 
