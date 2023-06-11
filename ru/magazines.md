@@ -80,13 +80,29 @@ philosophy journals reddit<br/><br/>
 
 <https://magzdb.org/j/261>
 
-Великие люди биографическая библиотека Вестника знания - https://rusneb.ru/
+Великие люди биографическая библиотека Вестника знания:
 
-приложение к журналу Вестник знания - https://rusneb.ru/
+```
+https://rusneb.ru/search/?q=%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D0%BA+%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%83+%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17
+```
 
-Вестник и библиотека самообразования - https://rusneb.ru/
+приложение к журналу Вестник знания:
 
-Журнал для всех - <https://ru.wikipedia.org>
+```
+https://rusneb.ru/search/?q=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B5+%D0%BB%D1%8E%D0%B4%D0%B8+%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17
+```
+
+Вестник и библиотека самообразования:
+
+```
+https://rusneb.ru/search/?by=document_titlesort&order=asc&q=%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%B8+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&c%5B0%5D=4&c%5B1%5D=5&c%5B2%5D=7&c%5B3%5D=13&c%5B4%5D=3&c%5B5%5D=6&c%5B6%5D=2&c%5B7%5D=14&c%5B8%5D=15&c%5B9%5D=16&c%5B10%5D=17&
+```
+
+Журнал для всех:
+
+```
+https://ru.wikipedia.org/wiki/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)
+```
 
 Мир божий - <https://commons.wikimedia.org/wiki/Category:Mir_Bozhiy_(magazine)>
 
