@@ -36,6 +36,10 @@ NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 
 Ученые известия - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=158357>
 
+<http://www.prometeus.nsc.ru/science/digest/>
+
+<https://poisknews.ru/newspaper/>
+
 <https://iz.ru/newspaper>
 
 <https://www.kommersant.ru/daily?from=burger>
@@ -49,6 +53,8 @@ NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
 <https://www.ng.ru/gazeta/>
 
 <https://www.ng.ru/ng_exlibris/>
+
+<https://www.ng.ru/nauka/>
 
 <https://rg.ru/gazeta/rg/svezh>
 
