@@ -61,7 +61,7 @@ https://ru.wikisource.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD_%D0%B8%D0%B7_%D1%82%D0%B
 
 <https://iskra-research.org/Trotsky/sochineniia/1917/19171125.html><br/><br/>
 
-Изложение событий в статье с сайта МИДа.
+Изложение событий в статье на сайте МИДа.
 
 <https://web.archive.org/web/20131011062402/http://www.idd.mid.ru/inf/inf_35.html><br/><br/>
 
