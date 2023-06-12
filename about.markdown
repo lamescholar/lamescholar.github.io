@@ -12,6 +12,6 @@ Public library.
 
 [Сергей Капица](https://lamescholar.github.io/lib/kapitsaintellectualproperty)
 
-"Access to new knowledge should be expanded, not hindered by building new fences along the way"
+"Access to new knowledge should be expanded, not new fences erected on this path"
 
 Sergey Kapitsa
