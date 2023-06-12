@@ -1,8 +1,4 @@
-Источник: Новые известия (Москва)
-
-<http://www.nlr.ru/res/pr.php?n=2>
-
-<https://aafnet.integrum.ru/artefact3/ia/ia5.aspx/QQfFiW2R/3750/nzv_D20070208_N22_L2007020810090563_A004.txt>
+Источник: [Новые известия (Москва)](http://www.nlr.ru/res/pr.php?n=2)
 
 Дата выпуска: 08.02.2007
 
