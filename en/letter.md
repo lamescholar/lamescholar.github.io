@@ -18,7 +18,7 @@ In today's world with technologies of decentralized and open distribution of inf
 
 Knowledge shouldn't be a commodity.
 
-Scan the book and share it - destroy its exhange value.
+Scan the book and share it - tear it out of the nets of commodity production.
 
 About "Ideas can not be copyrighted. Only expressions." Ideas are conveyed through expressions, so you can't know about the idea if all expressions are closed.
 
