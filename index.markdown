@@ -37,6 +37,8 @@ English materials:
 
 Капица:
 
+* [Да здравствует «Горбушка»!](https://lamescholar.github.io/lib/kapitsaintellectualproperty)
+
 * [Интернет изменит контуры права на интеллектуальную собственность](https://lamescholar.github.io/lib/kapitsainternet)
 
 * [Наш храм науки почти сгорел](https://lamescholar.github.io/lib/kapitsascience)
