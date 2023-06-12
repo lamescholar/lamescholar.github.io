@@ -41,6 +41,8 @@ English materials:
 
 * [Интернет изменит контуры права на интеллектуальную собственность](https://lamescholar.github.io/lib/kapitsainternet)
 
+* [Профессор Сергей КАПИЦА: "Наука в России — удел стариков".](https://lamescholar.github.io/lib/kapitsaoldmen)
+
 * [Наш храм науки почти сгорел](https://lamescholar.github.io/lib/kapitsascience)
 
 [М. В. Ломоносов и его ученая деятельность](https://lamescholar.github.io/lib/lomonosov)
