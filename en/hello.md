@@ -4,7 +4,7 @@ Hello. Pirate Cookbook is my collection of instructions and programs which will 
 
 The first thing to do is to install a BitTorrent client that will allow you to exchange files with other people (find the link in [P2P](https://lamescholar.github.io/en/p2p)). To get files from other people using BitTorrent protocol you need to have a .torrent file that contains a list of files you're trying to download and tracker sites using which you find people to download files from (peers). You can find torrent files on torrent sites (several torrent sites mentioned in corresponding sections of Cookbook).
 
-With this collection of instructions and programs you will be able to create, share, find and read ebooks, to find magazines, scientific articles, newspapers ([Bypass Paywalls](https://lamescholar.github.io/en/bypass)), dictionaries, audiobooks, music, films, series, and play them on your computer.
+With this collection of instructions and programs you will be able to create, share, find and read ebooks, to find magazines, scientific articles, newspapers ([Bypass Paywalls](https://lamescholar.github.io/en/bypasspaywalls)), dictionaries, audiobooks, music, films, series, and play them on your computer.
 
 Help share the knowledge. Share the link.
 

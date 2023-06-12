@@ -2,7 +2,7 @@
 
 Поваренная книга пирата - моё пособие по пиратсву и оцифровке книг. Подробнее смотри [Привет](https://lamescholar.github.io/ru/hello).<br/><br/>
 
-[Bypass Paywalls](https://lamescholar.github.io/ru/bypass)
+[Bypass Paywalls](https://lamescholar.github.io/ru/bypasspaywalls)
 
 [ChatGPT](https://lamescholar.github.io/ru/chatgpt)
 
