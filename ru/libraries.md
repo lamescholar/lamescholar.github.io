@@ -26,6 +26,8 @@ Google Books - <https://books.google.ru/advanced_book_search?hl=ru>
 
 HathiTrust - <https://www.hathitrust.org/>
 
+Wikisource - <https://wikisource.org/wiki/Main_Page>
+
 Библиотека Нестор - <http://libelli.ru/library/alpha.htm>
 
 Публичная библиотека - <http://publ.lib.ru/>

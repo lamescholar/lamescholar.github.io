@@ -14,11 +14,27 @@ ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
 РГБ - <https://passport.rsl.ru/netres/>
 
-NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
+NYPL:
 
-<http://www.prometeus.nsc.ru/science/digest/>
+<https://www.nypl.org/research/collections/articles-databases>
 
-<https://poisknews.ru/newspaper/>
+<https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details>
+
+Архив Прессы РФ 1995- 2008:
+
+<https://rutracker.org/forum/viewtopic.php?t=1805170>
+
+<http://forum.ru-board.com/topic.cgi?forum=35&topic=1998&start=260>
+
+Cros 4.03.54
+
+Integrum - <http://www.nlr.ru/res/pr.php?n=2>
+
+public.ru:
+
+<https://public.ru/>
+
+<http://www.library.fa.ru/resource.asp?id=484><br/><br/>
 
 <https://iz.ru/newspaper>
 

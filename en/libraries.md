@@ -26,6 +26,8 @@ Google Books - <https://books.google.ru/advanced_book_search?hl=en>
 
 HathiTrust - <https://www.hathitrust.org/>
 
+Wikisource - <https://wikisource.org/wiki/Main_Page>
+
 Gutenberg - <https://www.gutenberg.org/><br/><br/>
 
 If the Library Genesis, Z-Library, or Sci-Hub domain is blocked, look at Wikipedia for a new one.<br/><br/>

@@ -66,6 +66,8 @@
 
 [Письмо против интеллектуальной собственности](https://lamescholar.github.io/ru/letter)
 
+[Поиск информации](https://lamescholar.github.io/ru/informationsearching)
+
 [Поиск книг](https://lamescholar.github.io/ru/booksearching)
 
 [Полнотекстовый поиск](https://lamescholar.github.io/ru/fulltextsearch)

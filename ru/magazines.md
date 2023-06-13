@@ -212,6 +212,12 @@ https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0
 
 <http://mir.k156.ru/sirio/sirio_index.html>
 
+Чтения в историческом обществе Нестора-летописца:
+
+<https://rutracker.org/forum/viewtopic.php?t=2585959>
+
+<https://rutracker.org/forum/viewtopic.php?t=6079627>
+
 Старые годы - <https://imwerden.de/razdel-2212-str-1.html>
 
 Голос минувшего - <https://runivers.ru/lib/book19799/>
@@ -244,7 +250,11 @@ https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0
 
 <https://rutracker.org/forum/viewtopic.php?t=5355615>
 
-Родина - <https://rutracker.org/forum/viewtopic.php?t=5883982>
+Родина:
+
+<https://magzdb.org/j/129>
+
+<https://rutracker.org/forum/viewtopic.php?t=5883982>
 
 Журнал российских и восточноевропейских исторических исследований - <https://rutracker.org/forum/viewtopic.php?t=5052726>
 
@@ -263,6 +273,12 @@ https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0
 <https://imwerden.de/razdel-2019-str-1.html>
 
 <https://rutracker.org/forum/viewtopic.php?t=5933432>
+
+Минувшее - <https://imwerden.de/razdel-2134-str-1.html>
+
+Звенья - <https://imwerden.de/razdel-2137-str-1.html>
+
+Память - <https://vtoraya-literatura.com/razdel_2121_str_1.html>
 
 Записки отдела рукописей - <https://azbyka.ru/otechnik/pravoslavnye-zhurnaly/zapiski-otdela-rukopisej/>
 
