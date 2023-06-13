@@ -1,10 +1,10 @@
 **Information searching**<br/><br>
 
-A guide to searching for information on a specific topic.
+A guide to searching for information on a specific topic.<br/><br/>
 
 To begin with, you should look at the article on Wikipedia, look at its sources.
 
-<https://www.wikipedia.org/>
+<https://www.wikipedia.org/><br/><br/>
 
 View articles in reference books, view the bibliography.
 
