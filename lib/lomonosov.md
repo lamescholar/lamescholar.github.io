@@ -114,3 +114,5 @@
 В 80е о Ломоносове был снят замечательный многосерийный фильм [Михайло Ломоносов](https://www.youtube.com/playlist?list=PLKoT4psACBpiadT6HqixolrGRLKu5kIv6).
 
 В серии [Жизнь замечательных людей](https://rutracker.org/forum/viewtopic.php?t=6234901) неоднократно издавались биографии Ломоносова.
+
+[Собрание материалов](http://feb-web.ru/feb/lomonos/default.asp) на сайте Русская литература и фольклор.
