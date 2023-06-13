@@ -58,6 +58,8 @@
 
 [Музыка](https://lamescholar.github.io/ru/music)
 
+[Название электронной книги](https://lamescholar.github.io/ru/ebookname)
+
 [Олимпиады](https://lamescholar.github.io/ru/olympiads)
 
 [Оцифровка](https://lamescholar.github.io/ru/digitization)

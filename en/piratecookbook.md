@@ -18,6 +18,8 @@ Pirate Cookbook is my guide to piracy and book digitization. For details look [H
 
 [Digitization](https://lamescholar.github.io/en/digitization)
 
+[ebook name](https://lamescholar.github.io/en/ebookname)
+
 [FB2](https://lamescholar.github.io/en/fb2)
 
 [Films](https://lamescholar.github.io/en/films)
