@@ -36,6 +36,10 @@ public.ru:
 
 <http://www.library.fa.ru/resource.asp?id=484><br/><br/>
 
+Журналы и газеты на рутрекере:
+
+<https://rutracker.org/forum/viewforum.php?f=31><br/><br/>
+
 <http://www.prometeus.nsc.ru/science/digest/>
 
 <https://iz.ru/newspaper>

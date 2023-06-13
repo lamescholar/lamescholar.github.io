@@ -28,7 +28,7 @@ East View - <https://dlib-eastview-com.i.ezproxy.nypl.org/basic/details><br/><br
 
 philosophy journals reddit<br/><br/>
 
-Журналы на рутрекере:
+Журналы и газеты на рутрекере:
 
 <https://rutracker.org/forum/viewforum.php?f=31><br/><br/>
 
