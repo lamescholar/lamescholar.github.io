@@ -26,4 +26,4 @@
 
 [Номера журналов](https://lamescholar.github.io/ru/magazines)
 
-[Раздачи](https://lamescholar.github.io/ru/p2p)
+[Фильмы](https://lamescholar.github.io/ru/films)

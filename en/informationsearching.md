@@ -26,4 +26,4 @@ And then go to look for:
 
 [Magazine issues](https://lamescholar.github.io/en/magazines)
 
-[Releases](https://lamescholar.github.io/ru/p2p)
+[Films](https://lamescholar.github.io/ru/films)
