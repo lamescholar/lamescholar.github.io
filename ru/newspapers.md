@@ -36,6 +36,8 @@ public.ru:
 
 <http://www.library.fa.ru/resource.asp?id=484><br/><br/>
 
+<http://www.prometeus.nsc.ru/science/digest/>
+
 <https://iz.ru/newspaper>
 
 <https://www.kommersant.ru/daily?from=burger>
@@ -79,6 +81,38 @@ public.ru:
 Ученые известия - <https://nlr.ru/res/inv/ukazat55/record_full.php?record_ID=158357>
 
 Газеты Российской империи - <https://gpa.eastview.com/crl/irn/?a=cl&cl=CL1&e=-------ru-25--1--img-txIN---------->
+
+Аргументы и факты:
+
+<https://rutracker.org/forum/viewtopic.php?t=6124615>
+
+<https://rutracker.org/forum/viewtopic.php?t=3685143>
+
+Известия:
+
+<https://yeltsin.ru/archive/search/?inventory=29>
+
+<https://rutracker.org/forum/viewtopic.php?t=5510511>
+
+<https://rutracker.org/forum/viewtopic.php?t=5667767>
+
+Независимая газета:
+
+<https://yeltsin.ru/archive/search/?inventory=32>
+
+<https://rutracker.org/forum/viewtopic.php?t=4533995>
+
+<https://rutracker.org/forum/viewtopic.php?t=5746260>
+
+Российская газета:
+
+<https://yeltsin.ru/archive/search/?inventory=37>
+
+<https://rutracker.org/forum/viewtopic.php?t=6034837>
+
+Совершенно секретно - <https://rutracker.org/forum/viewtopic.php?t=6321286>
+
+Инженерная газета - <https://www.en-gzt.ru/arhiv-pechatnyh-vypuskov-gazety/>
 
 Былое:
 

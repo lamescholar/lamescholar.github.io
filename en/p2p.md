@@ -40,6 +40,10 @@ BT4G - <https://bt4g.org/>
 
 BTDigg - <https://btdig.com/index.htm><br/><br/>
 
+Often distributions contain disk images (.iso, .mdf). They are mounted, for example, by the DAEMON Tools Lite program.
+
+<https://www.daemon-tools.cc/rus/home><br/><br/>
+
 Information:
 
 <https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba>

@@ -40,6 +40,10 @@ BT4G - <https://bt4g.org/>
 
 BTDigg - <https://btdig.com/index.htm><br/><br/>
 
+Часто раздачи содержат образы дисков(.iso, .mdf). Их монтируют, например, программой DAEMON Tools Lite.
+
+<https://www.daemon-tools.cc/rus/home><br/><br/>
+
 Информация:
 
 <https://habr.com/ru/articles/318400/>
