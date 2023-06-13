@@ -94,15 +94,21 @@ public.ru:
 
 Известия:
 
-<https://yeltsin.ru/archive/search/?inventory=29>
+<https://yeltsin.ru/archive/inventory/29/>
 
 <https://rutracker.org/forum/viewtopic.php?t=5510511>
 
 <https://rutracker.org/forum/viewtopic.php?t=5667767>
 
+Московские новости:
+
+<https://yeltsin.ru/archive/inventory/34/>
+
+<https://rutracker.org/forum/viewtopic.php?t=6220616>
+
 Независимая газета:
 
-<https://yeltsin.ru/archive/search/?inventory=32>
+<https://yeltsin.ru/archive/inventory/32/>
 
 <https://rutracker.org/forum/viewtopic.php?t=4533995>
 
@@ -110,7 +116,7 @@ public.ru:
 
 Российская газета:
 
-<https://yeltsin.ru/archive/search/?inventory=37>
+<https://yeltsin.ru/archive/inventory/37/>
 
 <https://rutracker.org/forum/viewtopic.php?t=6034837>
 

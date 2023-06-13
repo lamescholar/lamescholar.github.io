@@ -434,6 +434,14 @@ Times Literary Supplement - Gale<br/><br/>
 
 Век XX и мир - <https://rutracker.org/forum/viewtopic.php?t=5668582>
 
+Столица:
+
+<https://yeltsin.ru/archive/inventory/31/>
+
+<https://rutracker.org/forum/viewtopic.php?t=5208582>
+
+<https://rutracker.org/forum/viewtopic.php?t=1697805>
+
 Critique - <https://www.tandfonline.com/toc/rcso20/current>
 
 Reason - <https://reason.com/archives/>
