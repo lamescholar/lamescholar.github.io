@@ -2,11 +2,11 @@
 
 Куча периодических изданий доступны через базу East View. К этой базе можно получить доступ, если сделать читательский билет в РГБ. Это даже из регионов дистанционно можно сделать. <br/><br/>
 
-https://passport.rsl.ru/ru/register/reg_online<br/><br/>
+<https://passport.rsl.ru/ru/register/reg_online><br/><br/>
 
 Как оформили, заходите на этот сайт и кликаете на иконку базы East View. <br/><br/>
 
-https://passport.rsl.ru/netres/<br/><br/>
+<https://passport.rsl.ru/netres/><br/><br/>
 
 Далее, например, выбираете Издания по общественным и гуманитарным наукам.<br/><br/>
 
