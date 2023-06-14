@@ -74,7 +74,6 @@
 
 [Привет](https://lamescholar.github.io/ru/hello)
 
-
 [Скачать интернет-страницу](https://lamescholar.github.io/ru/webpagedownload)
 
 [Справочники](https://lamescholar.github.io/ru/reference)
@@ -84,3 +83,5 @@
 [Фильмы](https://lamescholar.github.io/ru/films)
 
 [Хостинги](https://lamescholar.github.io/ru/hostings)
+
+[Читательский билет РГБ](https://lamescholar.github.io/ru/librarycard)
