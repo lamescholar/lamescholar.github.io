@@ -46,6 +46,14 @@ Free Dictionary. Idioms and phrases - <https://idioms.thefreedictionary.com/>
 
 Visual Dictionary - <http://www.visualdictionaryonline.com/><br/><br/>
 
+Библиография:
+
+<https://www.wikipedia.org/>
+
+<https://duckduckgo.com/>
+
+<https://rutracker.org/forum/viewtopic.php?t=6314400>
+
 Энциклопедии:
 
 Большая российская энциклопедия - <https://old.bigenc.ru/>
