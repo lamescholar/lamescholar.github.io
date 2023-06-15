@@ -14,9 +14,9 @@ Library of America:
 
 Harvard Classics - <https://rutracker.org/forum/viewtopic.php?t=6244440>
 
-Penguin Classics - <https://libgen.rs/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
+Penguin Classics - <https://libgen.is/search.php?&req=Penguin+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC>
 
-Oxford World Classics - <https://libgen.rs/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC><br/><br/>
+Oxford World Classics - <https://libgen.is/search.php?&req=Oxford+World%27s+Classics&phrase=1&view=simple&column=series&sort=year&sortmode=DESC><br/><br/>
 
 History:
 
