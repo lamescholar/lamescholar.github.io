@@ -34,9 +34,9 @@ Yandex Translate - <https://translate.yandex.ru/>
 
 Google Translate - <https://translate.google.com/><br/><br/>
 
-Multitran - <https://www.multitran.com/><br/><br/>
-
 Dictionaries:
+
+Multitran - <https://www.multitran.com/>
 
 Collins COBUILD - <https://www.collinsdictionary.com/>
 
