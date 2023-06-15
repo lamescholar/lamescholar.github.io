@@ -34,7 +34,11 @@ public.ru:
 
 <https://public.ru/>
 
-<http://www.library.fa.ru/resource.asp?id=484><br/><br/>
+<http://www.library.fa.ru/resource.asp?id=484>
+
+Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
+
+Google News - <https://news.google.com/newspapers><br/><br/>
 
 Журналы и газеты на рутрекере:
 
@@ -142,15 +146,15 @@ public.ru:
 
 <https://www.washingtonpost.com/todays_paper/updates/><br/><br/>
 
-The New York Times - ProQuest
+The New York Times - <https://www.nypl.org/research/collections/articles-databases/search?q=The+New+York+Times&page=1>
 
-The TImes - Gale
+The TImes - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TTDA>
 
-The Sunday TImes - Gale
+The Sunday TImes - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=STHA>
 
-The Illustrated London News - Gale
+The Illustrated London News - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=ILN>
 
-Illustrated Times - Gale
+Illustrated Times - <https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=BNCN&u=nypl&id=GALE|6PEK&v=2.1&it=aboutJournal&sid=bookmark-BNCN>
 
 The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 

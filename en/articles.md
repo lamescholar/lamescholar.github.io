@@ -108,6 +108,10 @@ Journal of Political Philosophy - <https://onlinelibrary.wiley.com/loi/14679760>
 
 Socio-political journals:
 
+Critique - <https://www.tandfonline.com/toc/rcso20/current>
+
+Reason - <https://reason.com/archives/>
+
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
 
 New Left Review:
@@ -124,7 +128,7 @@ Monthly Review:
 
 <https://monthlyreview.org/browse-the-archives/>
 
-Gale
+<https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=AONE&u=nypl&id=GALE|1132&v=2.1&it=aboutJournal&sid=bookmark-AONE>
 
 The Humanist - ProQuest
 

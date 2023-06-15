@@ -54,7 +54,7 @@ The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
 
 Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
-Times Literary Supplement - Gale<br/><br/>
+Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH><br/><br/>
 
 Natural sciencies journals:
 
@@ -99,10 +99,6 @@ Philosophy journals:
 Philosophy Now - <https://magzdb.org/j/5590><br/><br/>
 
 Socio-political journals:
-
-Critique - <https://www.tandfonline.com/toc/rcso20/current>
-
-Reason - <https://reason.com/archives/>
 
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
 

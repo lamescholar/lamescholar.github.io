@@ -82,6 +82,8 @@ The New Cambridge Modern History
 
 Россия. XX век. Документы - <https://rutracker.org/forum/viewtopic.php?t=6363369>
 
+Архив русской революции - <https://rutracker.org/forum/viewtopic.php?t=6375886>
+
 По следам исчезнувших культур - <https://rutracker.org/forum/index.php>
 
 Historia Rossica - <https://libgen.rs/search.php?req=Historia+Rossica&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
@@ -90,7 +92,16 @@ Historia Rossica - <https://libgen.rs/search.php?req=Historia+Rossica&lg_topic=l
 
 Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401>
 
-Библиотека всемирной истории - <https://rutracker.org/forum/index.php><br/><br/>
+Библиотека всемирной истории - <https://rutracker.org/forum/index.php>
+
+Страницы истории нашей Родины:
+http://flibusta.is/s/19000
+
+```
+https://libgen.rs/search.php?req=%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%BD%D0%B0%D1%88%D0%B5%D0%B9+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+```
+
+Mediaevalia - <https://rutracker.org/forum/tracker.php?nm=Mediaevalia><br/><br/>
 
 Общество:
 

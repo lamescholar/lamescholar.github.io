@@ -398,7 +398,7 @@ The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
 
 Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
-Times Literary Supplement - Gale<br/><br/>
+Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH><br/><br/>
 
 Лингвистика:
 
@@ -441,10 +441,6 @@ Times Literary Supplement - Gale<br/><br/>
 <https://rutracker.org/forum/viewtopic.php?t=5208582>
 
 <https://rutracker.org/forum/viewtopic.php?t=1697805>
-
-Critique - <https://www.tandfonline.com/toc/rcso20/current>
-
-Reason - <https://reason.com/archives/>
 
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
 
