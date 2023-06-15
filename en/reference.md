@@ -26,15 +26,17 @@ Creating dictionaries:
 
 ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475><br/><br/>
 
-Dictionaries:
+Translators:
 
 [ChatGPT](https://lamescholar.github.io/en/chatgpt)
 
 Yandex Translate - <https://translate.yandex.ru/>
 
-Google Translate - <https://translate.google.com/>
+Google Translate - <https://translate.google.com/><br/><br/>
 
-Multitran - <https://www.multitran.com/>
+Multitran - <https://www.multitran.com/><br/><br/>
+
+Dictionaries:
 
 Collins COBUILD - <https://www.collinsdictionary.com/>
 

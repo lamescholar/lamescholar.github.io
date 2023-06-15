@@ -22,7 +22,7 @@ GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%2
 
 ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475><br/><br/>
 
-Словари:
+Переводчики:
 
 [ChatGPT](https://lamescholar.github.io/ru/chatgpt)
 
@@ -30,7 +30,9 @@ Yandex Translate - <https://translate.yandex.ru/>
 
 Google Translate - <https://translate.google.com/>
 
-Славеница - <http://slavenica.com/>
+Славеница - <http://slavenica.com/><br/><br/>
+
+Словари:
 
 Multitran - <https://www.multitran.com/>
 
