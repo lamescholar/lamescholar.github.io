@@ -52,7 +52,7 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/><br/><br/>
 
 <https://duckduckgo.com/>
 
-<https://rutracker.org/forum/viewtopic.php?t=6314400>
+<https://rutracker.org/forum/viewtopic.php?t=6314400><br/><br/>
 
 Энциклопедии:
 
