@@ -128,7 +128,9 @@ Monthly Review:
 
 <https://monthlyreview.org/browse-the-archives/>
 
-<https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=AONE&u=nypl&id=GALE|1132&v=2.1&it=aboutJournal&sid=bookmark-AONE>
+```
+https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=AONE&u=nypl&id=GALE|1132&v=2.1&it=aboutJournal&sid=bookmark-AONE
+```
 
 The Humanist - ProQuest
 
