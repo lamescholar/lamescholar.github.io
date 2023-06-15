@@ -52,6 +52,8 @@
 
 [Интеллектуальная собственность](https://lamescholar.github.io/ru/property)
 
+[Исследование](https://lamescholar.github.io/en/research)
+
 [Книжные серии](https://lamescholar.github.io/ru/bookseries)
 
 [Манга](https://lamescholar.github.io/ru/manga)
@@ -65,8 +67,6 @@
 [Оцифровка](https://lamescholar.github.io/ru/digitization)
 
 [Письмо против интеллектуальной собственности](https://lamescholar.github.io/ru/letter)
-
-[Поиск информации](https://lamescholar.github.io/ru/informationsearching)
 
 [Поиск книг](https://lamescholar.github.io/ru/booksearching)
 

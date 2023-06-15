@@ -1,6 +1,6 @@
-**Information searching**<br/><br>
+**Research**<br/><br>
 
-A guide to searching for information on a specific topic.<br/><br/>
+A guide to research on a specific topic.<br/><br/>
 
 To begin with, you should look at the article on Wikipedia, look at its sources.
 
@@ -27,3 +27,5 @@ And then go to look for:
 [Magazine issues](https://lamescholar.github.io/en/magazines)
 
 [Films](https://lamescholar.github.io/ru/films)
+
+[Music](https://lamescholar.github.io/ru/music)
