@@ -64,7 +64,7 @@ Encyclopaedia Britannica:
 
 <https://rutracker.org/forum/viewtopic.php?t=6304689>
 
-https://www.britannica.com/
+<https://www.britannica.com/>
 
 Encyclopedia Americana - <https://rutracker.org/forum/viewtopic.php?t=6311493>
 
