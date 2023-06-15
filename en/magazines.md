@@ -98,7 +98,7 @@ Philosophy journals:
 
 Philosophy Now - <https://magzdb.org/j/5590><br/><br/>
 
-Socio-political journals:
+Society:
 
 American Sociological Review - <https://archive.org/details/pub_american-sociological-review?sort=-date>
 
