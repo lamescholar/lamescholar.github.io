@@ -48,14 +48,6 @@ Free Dictionary. Idioms and phrases - <https://idioms.thefreedictionary.com/>
 
 Visual Dictionary - <http://www.visualdictionaryonline.com/><br/><br/>
 
-Bibliographies:
-
-<https://www.wikipedia.org/>
-
-<https://duckduckgo.com/>
-
-<https://rutracker.org/forum/viewtopic.php?t=6314400><br/><br/>
-
 Encyclopedias:
 
 Encyclopaedia Britannica:

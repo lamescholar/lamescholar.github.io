@@ -2,7 +2,19 @@
 
 A guide to research on a specific topic.<br/><br/>
 
-To begin with, you should look at the review articles. You can find a bibliography in them. Review articles can be found in encyclopedias. Look [Reference](https://lamescholar.github.io/en/reference).<br/><br/>
+To begin with, you should look at the review articles. You can find a bibliography in them. Review articles can be found in encyclopedias. Look [Reference](https://lamescholar.github.io/en/reference).
+
+Wikipedia articles have a bibliography:
+
+<https://www.wikipedia.org/>
+
+DuckDuckGo gives out good materials, in which you can also find literature on the topic.
+
+<https://duckduckgo.com/>
+
+And finally, you can look at this collection of bibliographies:
+
+<https://rutracker.org/forum/viewtopic.php?t=6314400><br/><br/>
 
 And then go to look for:
 
