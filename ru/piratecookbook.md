@@ -52,7 +52,7 @@
 
 [Интеллектуальная собственность](https://lamescholar.github.io/ru/property)
 
-[Исследование](https://lamescholar.github.io/en/research)
+[Исследование](https://lamescholar.github.io/ru/research)
 
 [Книжные серии](https://lamescholar.github.io/ru/bookseries)
 
