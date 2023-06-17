@@ -1,4 +1,4 @@
-**FB2**<br/><br/>
+**FB2, EPUB**<br/><br/>
 
 Reading:
 
