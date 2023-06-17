@@ -8,7 +8,7 @@
 
 [DjVu](https://lamescholar.github.io/ru/djvu)
 
-[FB2](https://lamescholar.github.io/ru/fb2)
+[FB2, EPUB](https://lamescholar.github.io/ru/fb2epub)
 
 [Github Pages](https://lamescholar.github.io/ru/githubpages)
 
