@@ -36,7 +36,7 @@ OOoFBTools - <https://sourceforge.net/projects/fbtools/>
 
 DOCX->FB2
 
-Calibre - <https://calibre-ebook.com/download_windows>
+Calibre - <https://download.calibre-ebook.com/4.23.0/>
 
 EPUB->DOCX
 
