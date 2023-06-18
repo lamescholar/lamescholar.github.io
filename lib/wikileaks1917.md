@@ -89,7 +89,9 @@ https://ru.wikisource.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD_%D0%B8%D0%B7_%D1%82%D0%B
 
 Другие материалы по теме:
 
-Джоэль Кунтц | Le Temps
+Джоэль Кунтц
+
+Le Temps
 
 WikiLeaks по-большевистски
 
