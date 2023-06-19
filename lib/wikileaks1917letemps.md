@@ -38,12 +38,12 @@ WikiLeaks того времени было Министерство иностр
 
 [Cocks F.S. - The Secret Treaties and Understanding: Text of the Available Documents - 1918](https://tmh.floonet.net/books/tstu/secrettreaties.html)
 
-[Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914: Volume 1 - 1920](/doc/Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914_ Volume 1 - 1920)
+[Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914: Volume 1 - 1920](/doc/Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914_ Volume 1 - 1920.pdf)
 
-[Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914: Volume 2 - 1921](/doc/Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914_ Volume 2 - 1921)
+[Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914: Volume 2 - 1921](/doc/Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914_ Volume 2 - 1921.pdf)
 
 О секретных договорах на английском.
 
-[What About the Secret Treaties? - 1918](/doc/What About the Secret Treaties_ - 1918)
+[What About the Secret Treaties? - 1918](/doc/What About the Secret Treaties_ - 1918.pdf)
 
-[McCurdy C.A. - The Truth About the "Secret Treaties" - 1918](McCurdy C.A. - The Truth About the _Secret Treaties_ - 1918)
+[McCurdy C.A. - The Truth About the "Secret Treaties" - 1918](McCurdy C.A. - The Truth About the _Secret Treaties_ - 1918.pdf)
