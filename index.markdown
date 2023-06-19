@@ -55,4 +55,6 @@ English materials:
 
 [Ученый в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
 
+[Шмелёв](https://lamescholar.github.io/lib/shmelev)
+
 [Эжен Потье](https://lamescholar.github.io/lib/pottierru)
