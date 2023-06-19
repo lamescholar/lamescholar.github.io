@@ -89,17 +89,7 @@ https://ru.wikisource.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD_%D0%B8%D0%B7_%D1%82%D0%B
 
 Другие материалы по теме:
 
-Джоэль Кунтц
-
-Le Temps
-
-WikiLeaks по-большевистски
-
-<https://web.archive.org/web/20101212023930/http://www.inopressa.ru/letemps/2010/11/08/15:51:00/wiki_rus>
-
-```
-https://web.archive.org/web/20101109234150/http://www.letemps.ch:80/Page/Uuid/9a90a44e-e926-11df-bb17-c9cf6db4b999/WikiLeaks_%C3%A0_la_mani%C3%A8re_bolchevik_en_1917
-```
+[WikiLeaks по-большевистски, в 1917 году (статья в газете Le Temps)](https://lamescholar.github.io/lib/wikileaks1917letemps)
 
 Троцкий Л. - Моя жизнь - 1991, стр. 288.
 

@@ -35,6 +35,8 @@ English materials:
 
 [Wikileaks в 1917 году](https://lamescholar.github.io/lib/wikileaks1917)
 
+[WikiLeaks по-большевистски, в 1917 году (статья в газете Le Temps)](https://lamescholar.github.io/lib/wikileaks1917letemps)
+
 Капица:
 
 * [Да здравствует «Горбушка»!](https://lamescholar.github.io/lib/kapitsaintellectualproperty)
