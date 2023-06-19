@@ -1,13 +1,12 @@
-Источник: [Le Temps 06.11.2010](https://web.archive.org/web/20101109234150/http://www.letemps.ch:80/Page/Uuid/9a90a44e-e926-11df-bb17-c9cf6db4b999/WikiLeaks_%C3%A0_la_mani%C3%A8re_bolchevik_en_1917).<br/><br/>
-Перевод - lamescholar, 2023.
+Источник: [Le Temps 06.11.2010](https://web.archive.org/web/20101109234150/http://www.letemps.ch:80/Page/Uuid/9a90a44e-e926-11df-bb17-c9cf6db4b999/WikiLeaks_%C3%A0_la_mani%C3%A8re_bolchevik_en_1917).
+
+Перевод - lamescholar, 2023.<br/><br/>
 
 **WikiLeaks по-большевистски, в 1917 году**
 
 Джоэль Кунц
 
-{:refdef: style="text-align: center;"}
 ![Kuntz](/images/kuntz.jpg)
-{: refdef}
 
 **Раскрытие государственных секретов сайтом WikiLeaks имеет предысторию. На протяжении всей истории разоблачение секретов вызывало дестабилизацию, поскольку оно меняет границы между частной и общественной сферами. Раскрытие содержания договоров русскими революционерами имело драматические последствия**
 
