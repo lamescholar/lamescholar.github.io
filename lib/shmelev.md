@@ -2,6 +2,8 @@
 
 24 мая 2009 года Путин возложил цветы к надгробиям Деникина, Ильина и Шмелева
 
+<div style="max-width: 100%; position: relative; width: 100%; padding-bottom: 56%;"><iframe allowfullscreen frameborder="0" style="width: 100%; height: 100%; position: absolute;" name="smotrim_player_1334311" src="//player.smotrim.ru/iframe/video/id/1334311/sid/vesti/start_zoom/true/showZoomBtn/false/isPlay/false/"></iframe></div>
+
 <https://www.vesti.ru/article/2180162><br/><br/>
 
 Иван Шмелёв в эмиграции.
