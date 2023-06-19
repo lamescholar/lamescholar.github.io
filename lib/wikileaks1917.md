@@ -91,9 +91,7 @@ https://ru.wikisource.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD_%D0%B8%D0%B7_%D1%82%D0%B
 
 [WikiLeaks по-большевистски, в 1917 году (статья в газете Le Temps)](https://lamescholar.github.io/lib/wikileaks1917letemps)
 
-Троцкий Л. - Моя жизнь - 1991
-
-стр. 288
+Троцкий Л. - Моя жизнь - 1991, стр. 288
 
 <https://imwerden.de/pdf/trotsky_moya_zhzn_1991__ocr.pdf>
 
