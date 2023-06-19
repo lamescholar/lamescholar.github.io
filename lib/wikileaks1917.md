@@ -97,6 +97,10 @@ WikiLeaks по-большевистски
 
 <https://web.archive.org/web/20101212023930/http://www.inopressa.ru/letemps/2010/11/08/15:51:00/wiki_rus>
 
+```
+https://web.archive.org/web/20101109234150/http://www.letemps.ch:80/Page/Uuid/9a90a44e-e926-11df-bb17-c9cf6db4b999/WikiLeaks_%C3%A0_la_mani%C3%A8re_bolchevik_en_1917
+```
+
 Троцкий Л. - Моя жизнь - 1991, стр. 288.
 
 <https://imwerden.de/pdf/trotsky_moya_zhzn_1991__ocr.pdf>
