@@ -1,6 +1,6 @@
 Источник: [The Ultimate Guide to Philosophy of Mind](/doc/The Ultimate Guide to Philosophy of Mind.pdf).
 
-Переводчик – lamescholar, 2023.
+Перевод с английского – lamescholar, 2023.
 
 Все примечания сделаны переводчиком.<br/><br/>
 
