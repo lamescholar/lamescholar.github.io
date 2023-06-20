@@ -1,6 +1,8 @@
 Источник: [Moravia A. - Un mese in URSS - 2013](http://library.lol/main/202ED231204A1B3F3F1DBC50926B09F8).
 
-Переводчик - lamescholar, 2023.<br/><br/>
+Переводчик - lamescholar, 2023.
+
+Приведена первая и последняя глава книги.<br/><br/>
 
 **Альберто Моравиа - Месяц в СССР**<br/><br/>
 
