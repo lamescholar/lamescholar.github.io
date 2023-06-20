@@ -51,6 +51,8 @@ English materials:
 
 [М. В. Ломоносов и его ученая деятельность](https://lamescholar.github.io/lib/lomonosov)
 
+[О Марксе-русофобе](https://lamescholar.github.io/lib/russophobemarx)
+
 [Объяснение эпифеноменализма](https://lamescholar.github.io/lib/epiphenomenalism)
 
 [Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
