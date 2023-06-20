@@ -55,6 +55,8 @@ English materials:
 
 [Причина современного релятивизма](https://lamescholar.github.io/lib/relativism)
 
+[Тайная жизнь книг](https://lamescholar.github.io/lib/laviesecretedeslivres)
+
 [Ученый в коробке — антиполитическая иллюзия](https://lamescholar.github.io/lib/box)
 
 [Шмелёв](https://lamescholar.github.io/lib/shmelev)
