@@ -37,6 +37,8 @@ English materials:
 
 [WikiLeaks по-большевистски, в 1917 году (статья в газете Le Temps)](https://lamescholar.github.io/lib/wikileaks1917letemps)
 
+[Антонио Моравиа - Месяц в СССР](https://lamescholar.github.io/lib/unmeseinurss)
+
 Капица:
 
 * [Да здравствует «Горбушка»!](https://lamescholar.github.io/lib/kapitsaintellectualproperty)
