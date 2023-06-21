@@ -72,7 +72,9 @@ philosophy journals reddit<br/><br/>
 
 <https://www.prlib.ru/section/1328388>
 
-Вестник знания - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)
+Вестник знания:
+
+[Wikipedia](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)
 
 <https://epizodyspace.ru/bibl/vestnik_znaniya/vestnik_znaniya.html>
 
