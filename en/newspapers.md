@@ -12,17 +12,17 @@ Internet Archive microfilms - <https://archive.org/details/sim_microfilm>
 
 ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
-NYPL - <https://www.nypl.org/research/collections/articles-databases><br/><br/>
+NYPL - <https://www.nypl.org/research/collections/articles-databases>
+
+Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
+
+Google News - <https://news.google.com/newspapers><br/><br/>
 
 <https://www.theguardian.com/theguardian>
 
 <https://www.nytimes.com/section/todayspaper>
 
-<https://www.washingtonpost.com/todays_paper/updates/>
-
-Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
-
-Google News - <https://news.google.com/newspapers><br/><br/>
+<https://www.washingtonpost.com/todays_paper/updates/><br/><br/>
 
 The New York Times - <https://www.nypl.org/research/collections/articles-databases/search?q=The+New+York+Times&page=1>
 
