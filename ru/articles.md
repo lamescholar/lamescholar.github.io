@@ -58,6 +58,8 @@ American Journal of Physics - <https://aapt.scitation.org/toc/ajp/current><br/><
 
 Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
 
+Мнемон: Исследования и публикации по истории античного мира - <https://www.elibrary.ru/contents.asp?titleid=32315>
+
 Древняя русь - <http://www.drevnyaya.ru/vyp/rbrkk.php>
 
 Новая и Новейшая история - <https://nni.jes.su/index.php?dispatch=issues.archive>

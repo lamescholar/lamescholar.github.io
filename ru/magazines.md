@@ -72,39 +72,19 @@ philosophy journals reddit<br/><br/>
 
 <https://www.prlib.ru/section/1328388>
 
-Вестник знания:
-
-```
-https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F
-```
+Вестник знания - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F)
 
 <https://epizodyspace.ru/bibl/vestnik_znaniya/vestnik_znaniya.html>
 
 <https://magzdb.org/j/261>
 
-Великие люди биографическая библиотека Вестника знания:
+Великие люди биографическая библиотека Вестника знания - [НЭБ](https://rusneb.ru/search/?q=%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D0%BA+%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%83+%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17)
 
-```
-https://rusneb.ru/search/?q=%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%D0%BA+%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%83+%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17
-```
+приложение к журналу Вестник знания - [НЭБ](https://rusneb.ru/search/?q=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B5+%D0%BB%D1%8E%D0%B4%D0%B8+%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17)
 
-приложение к журналу Вестник знания:
+Вестник и библиотека самообразования - [НЭБ](https://rusneb.ru/search/?by=document_titlesort&order=asc&q=%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%B8+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&c%5B0%5D=4&c%5B1%5D=5&c%5B2%5D=7&c%5B3%5D=13&c%5B4%5D=3&c%5B5%5D=6&c%5B6%5D=2&c%5B7%5D=14&c%5B8%5D=15&c%5B9%5D=16&c%5B10%5D=17&)
 
-```
-https://rusneb.ru/search/?q=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B5+%D0%BB%D1%8E%D0%B4%D0%B8+%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17
-```
-
-Вестник и библиотека самообразования:
-
-```
-https://rusneb.ru/search/?by=document_titlesort&order=asc&q=%D0%92%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA+%D0%B8+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&c%5B0%5D=4&c%5B1%5D=5&c%5B2%5D=7&c%5B3%5D=13&c%5B4%5D=3&c%5B5%5D=6&c%5B6%5D=2&c%5B7%5D=14&c%5B8%5D=15&c%5B9%5D=16&c%5B10%5D=17&
-```
-
-Журнал для всех:
-
-```
-https://ru.wikipedia.org/wiki/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)
-```
+Журнал для всех - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB_%D0%B4%D0%BB%D1%8F_%D0%B2%D1%81%D0%B5%D1%85_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3))
 
 Мир божий - <https://commons.wikimedia.org/wiki/Category:Mir_Bozhiy_(magazine)>
 
@@ -174,10 +154,8 @@ Wszechświat:
 
 <https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive>
 
-```
-https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-
-```
-<br/><br/>
+[The Digital Library of the Warsaw University of Technology](https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=Title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-)<br/><br/>
+
 Искусство:
 
 Искусство кино:
@@ -241,6 +219,12 @@ https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0
 <https://rutracker.org/forum/viewtopic.php?t=4994100>
 
 <https://rutracker.org/forum/viewtopic.php?t=5645547>
+
+Диалог со временем:
+
+<https://www.elibrary.ru/contents.asp?titleid=25294>
+
+<https://roii.ru/publications/dialogue>
 
 Французский ежегодник - <https://rutracker.org/forum/viewtopic.php?t=5384475>
 
@@ -314,19 +298,11 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 <http://lib.sptl.spb.ru/ru/nodes/2454-vsemirnaya-illyustratsiya-1869-1898>
 
-Летопись:
-
-```
-https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D1%8C_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)
-```
+Летопись - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BE%D0%BF%D0%B8%D1%81%D1%8C_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB))
 
 Московский телеграф - <https://rutracker.org/forum/viewtopic.php?t=5368967>
 
-Новое слово:
-
-```
-https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(1893%E2%80%941897)
-```
+Новое слово - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%BE_(1893%E2%80%941897))
 
 Отечественные записки - <https://rutracker.org/forum/viewtopic.php?t=5390433>
 
