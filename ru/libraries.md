@@ -42,6 +42,8 @@ VIVOS VOCO! - <http://vivovoco.astronet.ru/>
 
 Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
 
+Научная библиотека - <http://niv.ru/>
+
 Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki><br/><br/>
 
 Если домен Library Genesis, Z-Library или Sci-Hub блокируют, новый смотри на Википедии.<br/><br/>
