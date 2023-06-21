@@ -32,7 +32,11 @@ The Sunday TImes - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=
 
 The Illustrated London News - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=ILN>
 
-Illustrated Times - [Gale](https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=BNCN&u=nypl&id=GALE|6PEK&v=2.1&it=aboutJournal&sid=bookmark-BNCN)
+Illustrated Times:
+
+```
+https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=BNCN&u=nypl&id=GALE|6PEK&v=2.1&it=aboutJournal&sid=bookmark-BNCN
+```
 
 The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
 
