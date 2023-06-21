@@ -20,4 +20,4 @@ Publishers took aim not just at the National Emergency Library, however, but als
 
 Because bunch of publishers will lose their profits. This whole situation shows hopelessness of using the legal loop-holes, to try, at least one reader at a time, grant access to books to anybody. Overturn the book market! Overturn the trade of culture! Unconditional access to all books databases now! Culture to the people! To hell with these monopolist publishing houses! And cut the crap about incentive for writers and profitability of enterprise! This whole enterprise lose a meaning, if its purpose is growth for sake of growth regardless of successful fulfilling of its function.
 
-What can you do? Spread the means of piracy, digitize materials you got and spread them. Show 0 tolerancy to criminal copyright law.
+What can you do? Spread the means of piracy, digitize materials you got and spread them. Show 0 tolerancy to unjust copyright law.
