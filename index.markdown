@@ -51,6 +51,8 @@ English materials:
 
 [М. В. Ломоносов и его ученая деятельность](https://lamescholar.github.io/lib/lomonosov)
 
+[Найден автор «Протоколов сионских мудрецов»](https://lamescholar.github.io/lib/protocols)
+
 [О Марксе-русофобе](https://lamescholar.github.io/lib/russophobemarx)
 
 [Объяснение эпифеноменализма](https://lamescholar.github.io/lib/epiphenomenalism)
