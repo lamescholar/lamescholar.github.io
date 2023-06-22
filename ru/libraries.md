@@ -36,15 +36,7 @@ ImWerden - <https://imwerden.de/>
 
 Библиотека Мошкова - <http://www.lib.ru/>
 
-Gutenberg - <https://www.gutenberg.org/>
-
-VIVOS VOCO! - <http://vivovoco.astronet.ru/>
-
-Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
-
-Научная библиотека - <http://niv.ru/>
-
-Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki><br/><br/>
+Gutenberg - <https://www.gutenberg.org/><br/><br/>
 
 Если домен Library Genesis, Z-Library или Sci-Hub блокируют, новый смотри на Википедии.<br/><br/>
 
@@ -302,9 +294,19 @@ U.S. Declassified Documents Online - Gale<br/><br/>
 
 <https://www.hplovecraft.com/writings/><br/><br/>
 
+VIVOS VOCO! - <http://vivovoco.astronet.ru/>
+
+Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
+
+Научная библиотека - <http://niv.ru/>
+
+Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
+
 <http://books.totalarch.com/>
 
-<http://webchess.ru/ebook/><br/><br/>
+<http://webchess.ru/ebook/>
+
+<http://gramoty.ru/birchbark/library/book/><br/><br/>
 
 Множество библиотек в Рунете базируются на хостинге narod.ru. Так что библиотеки на заданную тему можно искать следующим запросом:
 
