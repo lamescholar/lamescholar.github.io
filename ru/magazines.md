@@ -90,6 +90,8 @@ philosophy journals reddit<br/><br/>
 
 Мир божий - <https://commons.wikimedia.org/wiki/Category:Mir_Bozhiy_(magazine)>
 
+Коммунистический университет на дому - <https://rutracker.org/forum/viewtopic.php?t=5402675>
+
 В мире науки - <https://rutracker.org/forum/viewtopic.php?t=1831010>
 
 Природа:
