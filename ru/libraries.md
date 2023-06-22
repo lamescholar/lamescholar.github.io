@@ -294,13 +294,15 @@ U.S. Declassified Documents Online - Gale<br/><br/>
 
 <https://www.hplovecraft.com/writings/><br/><br/>
 
-VIVOS VOCO! - <http://vivovoco.astronet.ru/>
+<https://elementy.ru/nauchno-populyarnaya_biblioteka>
 
-Научная библиотека - <https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
+<http://vivovoco.astronet.ru/>
 
-Научная библиотека - <http://niv.ru/>
+<https://web.archive.org/web/20141019142334/http://scilib.narod.ru/index.html>
 
-Наука в Рунете - <https://elementy.ru/catalog/g31/elektronnye_biblioteki>
+<http://niv.ru/>
+
+<https://elementy.ru/catalog/g31/elektronnye_biblioteki>
 
 <http://books.totalarch.com/>
 
