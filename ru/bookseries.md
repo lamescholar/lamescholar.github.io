@@ -84,6 +84,8 @@ The New Cambridge Modern History
 
 Архив русской революции - <https://rutracker.org/forum/viewtopic.php?t=6375886>
 
+История дореволюционной России в дневниках и воспоминаниях - <https://rutracker.org/forum/viewtopic.php?t=4059886>
+
 По следам исчезнувших культур - <https://rutracker.org/forum/index.php>
 
 Historia Rossica - <https://libgen.is/search.php?req=Historia+Rossica&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def>
@@ -97,9 +99,7 @@ Dark_Ambient - <https://rutracker.org/forum/tracker.php?rid=2572401>
 Страницы истории нашей Родины:
 http://flibusta.is/s/19000
 
-```
-https://libgen.is/search.php?req=%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%BD%D0%B0%D1%88%D0%B5%D0%B9+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
-```
+[Library Genesis](https://libgen.is/search.php?req=%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%BD%D0%B0%D1%88%D0%B5%D0%B9+%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D1%8B&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
 Mediaevalia - <https://rutracker.org/forum/tracker.php?nm=Mediaevalia><br/><br/>
 
@@ -213,21 +213,12 @@ Oxford World Classics - <https://libgen.is/search.php?&req=Oxford+World%27s+Clas
 
 Библиотека исторического романа - <https://rutracker.org/forum/viewtopic.php?t=5479122>
 
-Библиотека классики:
-```
-https://rutracker.org/forum/tracker.php?nm=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B8
-```
+Библиотека классики - [RuTracker](https://rutracker.org/forum/tracker.php?nm=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B8)
 
-Писатели о писателях:
-```
-https://libgen.is/search.php?req=%22%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8+%D0%BE+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%22&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
-```
+Писатели о писателях - [Library Genesis](https://libgen.is/search.php?req=%22%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8+%D0%BE+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85%22&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
-Cокровища древнерусской литературы:
-```
-https://rutracker.org/forum/tracker.php?nm=C%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89%D0%B0%20%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B
-```
-<br/><br/>
+Cокровища древнерусской литературы - [RuTracker](https://rutracker.org/forum/tracker.php?nm=C%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89%D0%B0%20%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B)<br/><br/>
+
 На рутрекере можно найти множество собраний сочинений. Запрос:
 
 фамилия автора собрание сочинений
