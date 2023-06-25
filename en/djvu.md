@@ -128,7 +128,7 @@ Pdf & DjVu Bookmarker - program for adding contents. Copy text of contents. Inse
 
 <https://sourceforge.net/projects/djvubookmarker/><br/><br/>
 
-DjVu Hyperlinks Editor - program for automatic creation of hyperlinks. OCR layer is required. As Shift set difference between number of document page and number of book page. Then set pages of contents / alphabetic index. Choose Job type Content / Alphabetic index 2. Now you got 'hyperlinks, apparent with pointing of cursor on elements of contents' / 'hyperlinks in alphabetic index'.
+DjVu Hyperlinks Editor - program for automatic creation of hyperlinks. OCR layer is required. As Shift set difference between number of document page and number of book page. Then set document pages of contents / alphabetic index. Choose Job type Content / Alphabetic index 2. Now you got 'hyperlinks, apparent with pointing of cursor on elements of contents' / 'hyperlinks in alphabetic index'.
 
 <http://www.djvu-soft.narod.ru/soft/><br/><br/>
 
