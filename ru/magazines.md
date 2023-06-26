@@ -314,7 +314,7 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 Современник:
 
-[НЭБ](https://rusneb.ru/search/?q=%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17&c%5B%5D=18)
+[НЭБ](https://rusneb.ru/search/?q=%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA&c%5B%5D=4&c%5B%5D=5&c%5B%5D=7&c%5B%5D=13&c%5B%5D=3&c%5B%5D=6&c%5B%5D=2&c%5B%5D=14&c%5B%5D=15&c%5B%5D=16&c%5B%5D=17&c%5B%5D=18)
 
 <https://rutracker.org/forum/viewtopic.php?t=4990250>
 
