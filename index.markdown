@@ -39,6 +39,8 @@ English materials:
 
 [Антонио Моравиа - Месяц в СССР](https://lamescholar.github.io/lib/unmeseinurss)
 
+[Дугин А.Н. - Сталинизм: легенды и факты](https://lamescholar.github.io/lib/stalinism)
+
 Капица:
 
 * [Да здравствует «Горбушка»!](https://lamescholar.github.io/lib/kapitsaintellectualproperty)
