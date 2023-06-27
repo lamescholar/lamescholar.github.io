@@ -54,6 +54,8 @@ git push -u origin main
 Двойной отступ - <br/><br/>.
 ```
 
+<https://www.markdownguide.org/basic-syntax/><br/><br/>
+
 Создание блока кода - <https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks>.<br/><br/>
 
 Добавление картинки

@@ -54,6 +54,8 @@ Link - [text](link).
 Double line break - <br/><br/>.
 ```
 
+<https://www.markdownguide.org/basic-syntax/><br/><br/>
+
 Creating code block - <https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks>.<br/><br/>
 
 Adding picture
