@@ -29,7 +29,7 @@
 {:refdef: style="text-align: center;"}
 ![Иллюстрация](/images/laviesecretedeslivres.jpg)
 {: refdef}
-
+<br/><br/>
 **Комментарий**
 
 Этакий намёк. Перечитайте классику. Кажется, наш разум начал угасать.
