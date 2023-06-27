@@ -37,8 +37,6 @@ English materials:
 
 [WikiLeaks по-большевистски, в 1917 году (статья в газете Le Temps)](https://lamescholar.github.io/lib/wikileaks1917letemps)
 
-[Антонио Моравиа - Месяц в СССР](https://lamescholar.github.io/lib/unmeseinurss)
-
 [Дугин А.Н. - Сталинизм: легенды и факты](https://lamescholar.github.io/lib/stalinism)
 
 Капица:
@@ -52,6 +50,8 @@ English materials:
 * [Наш храм науки почти сгорел](https://lamescholar.github.io/lib/kapitsascience)
 
 [М. В. Ломоносов и его ученая деятельность](https://lamescholar.github.io/lib/lomonosov)
+
+[Моравиа А. - Месяц в СССР](https://lamescholar.github.io/lib/unmeseinurss)
 
 [Найден автор «Протоколов сионских мудрецов»](https://lamescholar.github.io/lib/protocols)
 
