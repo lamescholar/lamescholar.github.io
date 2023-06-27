@@ -37,6 +37,8 @@ English materials:
 
 [WikiLeaks по-большевистски, в 1917 году (статья в газете Le Temps)](https://lamescholar.github.io/lib/wikileaks1917letemps)
 
+[Война знания с мыслью. Американские ученые объявили бой французским uнmеллектуалам](https://lamescholar.github.io/lib/sokal)
+
 [Дугин А.Н. - Сталинизм: легенды и факты](https://lamescholar.github.io/lib/stalinism)
 
 Капица:
