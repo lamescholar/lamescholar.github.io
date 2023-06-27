@@ -66,6 +66,10 @@ Alan Sokal, Jean Bricmont. Impostures intellectuelles. - Paris: Odile Jacob, 199
 
 **Приложение**
 
+Интеллектуальные уловки. Критика современной философии постмодерна
+
+<http://flibusta.is/b/396347>
+
 Did the Sokal affair "destroy postmodernism"?
 
 <https://www.youtube.com/watch?v=Rnmfe6qskRY>
