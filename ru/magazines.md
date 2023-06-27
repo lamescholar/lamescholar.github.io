@@ -162,6 +162,12 @@ Wszechświat:
 
 Искусство:
 
+Диалог со временем:
+
+<https://www.elibrary.ru/contents.asp?titleid=25294>
+
+<https://roii.ru/publications/dialogue>
+
 Искусство кино:
 
 <https://rutracker.org/forum/viewtopic.php?t=6125405>
@@ -170,9 +176,21 @@ Wszechświat:
 
 <https://rutracker.org/forum/viewtopic.php?t=6125427>
 
+Курьер ЮНЕСКО:
+
+<https://rutracker.org/forum/viewtopic.php?t=3607530>
+
+<https://rutracker.org/forum/viewtopic.php?t=4207119>
+
 Наше Наследие:
 
 <https://rutracker.org/forum/viewtopic.php?t=3202031>
+
+Прометей:
+
+<https://rutracker.org/forum/viewtopic.php?t=4481625>
+
+<https://rutracker.org/forum/viewtopic.php?t=5363883>
 
 Советское фото:
 
@@ -224,12 +242,6 @@ Wszechświat:
 
 <https://rutracker.org/forum/viewtopic.php?t=5645547>
 
-Диалог со временем:
-
-<https://www.elibrary.ru/contents.asp?titleid=25294>
-
-<https://roii.ru/publications/dialogue>
-
 Французский ежегодник - <https://rutracker.org/forum/viewtopic.php?t=5384475>
 
 Российская история:
@@ -269,18 +281,6 @@ Wszechświat:
 Память - <https://vtoraya-literatura.com/razdel_2121_str_1.html>
 
 Записки отдела рукописей - <https://azbyka.ru/otechnik/pravoslavnye-zhurnaly/zapiski-otdela-rukopisej/>
-
-Курьер ЮНЕСКО:
-
-<https://rutracker.org/forum/viewtopic.php?t=3607530>
-
-<https://rutracker.org/forum/viewtopic.php?t=4207119>
-
-Прометей:
-
-<https://rutracker.org/forum/viewtopic.php?t=4481625>
-
-<https://rutracker.org/forum/viewtopic.php?t=5363883>
 
 BBC History - <https://magzdb.org/j/6121>
 
