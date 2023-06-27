@@ -19,7 +19,7 @@
 {:refdef: style="text-align: center;"}
 ![Протоколы](/images/protocols.jpg)
 {: refdef}
-
+<br/><br/>
 **Приложение автора сайта**
 
 Умберто Эко о "Протоколах сионских мудрецов"
