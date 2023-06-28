@@ -1,4 +1,4 @@
-Источник: [Российская газета 21.12.01](/doc/Наш храм науки почти сгорел.pdf).<br/><br/>
+Источник: [Российская газета 21.12.01](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing).<br/><br/>
 
 **Наш храм науки почти сгорел**
 

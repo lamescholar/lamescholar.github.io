@@ -1,4 +1,4 @@
-Источник: [Российская газета 28.03.07](/doc/Да здравствует «Горбушка»!.pdf).
+Источник: [Российская газета 28.03.07](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing).
 
 Примечания - lamescholar, 2023.<br/><br/>
 
