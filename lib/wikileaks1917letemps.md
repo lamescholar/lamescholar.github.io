@@ -48,6 +48,6 @@ Pribram A.F. - The Secret Treaties of Austria-Hungary, 1879-1914_ Volume 2 - 192
 
 О секретных договорах на английском.
 
-[What About the Secret Treaties? - 1918](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+[What About the Secret Treaties? - 1918](https://disk.yandex.ru/i/3pF5LQwHX8lDNg)
 
-[McCurdy C.A. - The Truth About the "Secret Treaties" - 1918](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+[McCurdy C.A. - The Truth About the "Secret Treaties" - 1918](https://disk.yandex.ru/i/5MhRLW38kBvNVA)

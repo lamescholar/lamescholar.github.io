@@ -1,4 +1,4 @@
-Источник: [Слово 1990-07](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing).<br/><br/>
+Источник: [Слово 1990-07](https://disk.yandex.ru/i/WJZk4zHyoawn2A).<br/><br/>
 
 **Дугин А.Н. - Сталинизм: легенды и факты**<br/><br/>
 
@@ -144,27 +144,27 @@
 
 * [Пыхалов И. - Каковы масштабы "сталинских репрессий"?](http://stalinism.narod.ru/docs/repress/repress.htm)
 
-* [Дугин А.Н., Малыгин А.Я. - Солженицын, Рыбаков_ технология лжи / Военно-исторический журнал №07 1991](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Дугин А.Н., Малыгин А.Я. - Солженицын, Рыбаков_ технология лжи](https://disk.yandex.ru/i/mNDcfhfZaMeETA)
 
-* [Земсков В.Н. - «Архипелаг ГУЛАГ»: глазами писателя и статистика / Аргументы и факты 1989'45](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Земсков В.Н. - «Архипелаг ГУЛАГ»: глазами писателя и статистика](https://disk.yandex.ru/i/3kgS99nEnzEccw)
 
 * [Земсков В.Н. - ГУЛАГ (историко-социологический аспект)](https://scepsis.net/library/id_937.html)
 
-* [Земсков  В.Н. - Заключенные, спецпоселенцы, ссыльнопоселенцы, ссыльные и высланные: статистико-географический аспект / ИстСССР-1991-5](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Земсков  В.Н. - Заключенные, спецпоселенцы, ссыльнопоселенцы, ссыльные и высланные: статистико-географический аспект](https://disk.yandex.ru/d/lAuFZ5UqjGCIFQ)
 
 * [Земсков В.Н. - К вопросу о масштабах репрессий в СССР](https://scepsis.net/library/id_957.html)
 
-* [Земсков В.Н. - К вопросу о репатриации советских граждан. 1944–1951 годы / ИстСССР-1990-4](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Земсков В.Н. - К вопросу о репатриации советских граждан. 1944–1951 годы](https://disk.yandex.ru/d/PSXH3FLXtD-RUA)
 
 * [Земсков В.Н. - О масштабах политических репрессий в СССР](https://istmat.org/node/19968)
 
-* [Земсков В.Н. - Численность и состав спецпоселенцев по состоянию на 1 января 1953 г. / Аргументы и факты 1989'39](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Земсков В.Н. - Численность и состав спецпоселенцев по состоянию на 1 января 1953 г.](https://disk.yandex.ru/i/4QmbZWZvQBItDQ)
 
-* [Земсков В.Н., Нохотович Д.Н. - Статистика осужденных за контрреволюционные преступления в 1921-1953 гг. / Аргументы и факты 1990'05](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Земсков В.Н., Нохотович Д.Н. - Статистика осужденных за контрреволюционные преступления в 1921-1953 гг.](https://disk.yandex.ru/i/QslWbztKYIVnyg)
 
-* [Некрасов В.Ф. - Десять «железных» наркомов / Комсомольская правда 1989-224 (19624) 29.09.1989](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Некрасов В.Ф. - Десять «железных» наркомов](https://disk.yandex.ru/i/Ncm7X-2DTsYqRg)
 
-* [Попов В.П. - Государственный террор в советской России. 1923–1953 гг. (источники и их интерпретация) / Отечественные архивы 1992-2](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing)
+* [Попов В.П. - Государственный террор в советской России. 1923–1953 гг. (источники и их интерпретация)](https://disk.yandex.ru/d/wV8kA0wAi5gMJA)
 
 Журналы
 

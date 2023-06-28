@@ -1,4 +1,4 @@
-Источник: [Российская газета 28.03.07](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing).
+Источник: [Российская газета 28.03.07](https://disk.yandex.ru/i/RXiYgrFvSPZZmg).
 
 Примечания - lamescholar, 2023.<br/><br/>
 

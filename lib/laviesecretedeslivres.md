@@ -1,4 +1,4 @@
-Источник: [Libération 22.04.22](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing).
+Источник: [Libération 22.04.22](https://disk.yandex.ru/i/6KUK-Jb6RhzHug).
 
 Перевод с французского - lamescholar, 2023.<br/><br/>
 

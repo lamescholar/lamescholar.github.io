@@ -1,4 +1,4 @@
-Источник: [Известия 20.11.99](https://drive.google.com/drive/folders/1OL9f4PZVtxuHLIfc0rvEsTaditeDkgbF?usp=sharing).<br/><br/>
+Источник: [Известия 20.11.99](https://disk.yandex.ru/i/qW4kZnKQ71jBEw).<br/><br/>
 
 **Найден автор «Протоколов сионских мудрецов»**
 
