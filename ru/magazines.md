@@ -162,12 +162,6 @@ Wszechświat:
 
 Искусство:
 
-Диалог со временем:
-
-<https://www.elibrary.ru/contents.asp?titleid=25294>
-
-<https://roii.ru/publications/dialogue>
-
 Искусство кино:
 
 <https://rutracker.org/forum/viewtopic.php?t=6125405>
@@ -185,12 +179,6 @@ Wszechświat:
 Наше Наследие:
 
 <https://rutracker.org/forum/viewtopic.php?t=3202031>
-
-Прометей:
-
-<https://rutracker.org/forum/viewtopic.php?t=4481625>
-
-<https://rutracker.org/forum/viewtopic.php?t=5363883>
 
 Советское фото:
 
@@ -243,6 +231,18 @@ Wszechświat:
 <https://rutracker.org/forum/viewtopic.php?t=4994100>
 
 <https://rutracker.org/forum/viewtopic.php?t=5645547>
+
+Прометей:
+
+<https://rutracker.org/forum/viewtopic.php?t=4481625>
+
+<https://rutracker.org/forum/viewtopic.php?t=5363883>
+
+Диалог со временем:
+
+<https://www.elibrary.ru/contents.asp?titleid=25294>
+
+<https://roii.ru/publications/dialogue>
 
 Археографический ежегодник - <https://rutracker.org/forum/viewtopic.php?t=5172865>
 
@@ -394,7 +394,7 @@ Times Literary Supplement - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByD
 
 Новое в зарубежной лингвистике - <https://rutracker.org/forum/viewtopic.php?t=2510902><br/><br/>
 
-Общественно-политические журналы:
+Общество:
 
 Вестник АН СССР - <https://www.prlib.ru/section/684591>
 
