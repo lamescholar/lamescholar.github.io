@@ -148,7 +148,9 @@ genesis
 
 upload
 
-RuTracker - <https://rutracker.org/forum/index.php><br/><br/>
+RuTracker - <https://rutracker.org/forum/index.php>
+
+VK - <https://vk.com/docs><br/><br/>
 
 Information:
 

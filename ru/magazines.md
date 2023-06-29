@@ -200,6 +200,8 @@ Wszechświat:
 
 Вестник древней истории - <https://rutracker.org/forum/viewtopic.php?t=3650861>
 
+Средние века - <https://rutracker.org/forum/viewtopic.php?t=4275909>
+
 Русский архив - <https://runivers.ru/lib/book7627/>
 
 Русская старина - <https://runivers.ru/lib/book4646/>
@@ -242,6 +244,10 @@ Wszechświat:
 
 <https://rutracker.org/forum/viewtopic.php?t=5645547>
 
+Археографический ежегодник - <https://rutracker.org/forum/viewtopic.php?t=5172865>
+
+Исторические записки - <https://rutracker.org/forum/viewtopic.php?t=5765256>
+
 Французский ежегодник - <https://rutracker.org/forum/viewtopic.php?t=5384475>
 
 Российская история:
@@ -258,6 +264,8 @@ Wszechświat:
 
 Журнал российских и восточноевропейских исторических исследований - <https://rutracker.org/forum/viewtopic.php?t=5052726>
 
+Русский сборник - <https://rutracker.org/forum/viewtopic.php?t=5397126>
+
 Красный архив:
 
 <https://rutracker.org/forum/viewtopic.php?t=6268854>
@@ -269,6 +277,8 @@ Wszechświat:
 Источник - <https://rutracker.org/forum/viewtopic.php?t=6372581>
 
 Исторический архив:
+
+<https://rutracker.org/forum/viewtopic.php?t=5763205>
 
 <https://imwerden.de/razdel-2019-str-1.html>
 
