@@ -14,6 +14,10 @@
 
 В мире науки и техники - <https://rutracker.org/forum/viewtopic.php?t=3890316>
 
+Наука и человечество - <https://rutracker.org/forum/viewtopic.php?t=5361697>
+
+Популярные произведения классиков естествознания - <https://rutracker.org/forum/viewtopic.php?t=4927630>
+
 Эврика - <https://rutracker.org/forum/viewtopic.php?t=4508487>
 
 Число и мысль - <https://rutracker.org/forum/viewtopic.php?t=6070942>
