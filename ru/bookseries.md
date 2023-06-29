@@ -72,6 +72,8 @@ The New Cambridge Modern History
 
 <https://rutracker.org/forum/viewtopic.php?t=5923844>
 
+Кембриджская история древнего мира - <https://rutracker.org/forum/viewtopic.php?t=5389328>
+
 Всемирная история - <https://rutracker.org/forum/viewtopic.php?t=6025409>
 
 Памятники исторической мысли - <https://rutracker.org/forum/viewtopic.php?t=4767957>
