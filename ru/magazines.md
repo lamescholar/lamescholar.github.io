@@ -6,7 +6,7 @@
 
 magzDB - <http://magzdb.org/>
 
-Журналы СССР - <https://sites.google.com/site/zurnalysssr/>
+Журналы СССР - <https://web.archive.org/web/20230323125005/https://sites.google.com/site/zurnalysssr/>
 
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=123>
 
