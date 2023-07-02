@@ -60,13 +60,13 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/><br/><br/>
 
 <https://www.booksite.ru/fulltext/1/001/008/130/index.htm>
 
+[Wikisource](https://ru.m.wikisource.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F#%D0%91%D0%A1%D0%AD1)
+
 Энциклопедический словарь Брокгауза и Ефрона - <https://ru.wikisource.org>
 
 Гранат - <https://rutracker.org/forum/viewtopic.php?t=6328789>
 
 Южаков - <https://rutracker.org/forum/viewtopic.php?t=3677474>
-
-Кругосвет - <https://www.krugosvet.ru/>
 
 Академик - <https://academic.ru/>
 
