@@ -8,7 +8,7 @@
 
 <https://www.vesti.ru/article/2180162><br/><br/>
 
-Иван Шмелёв в эмиграции.
+Иван Шмелёв в эмиграции
 
 Годы Второй мировой войны провёл в оккупированном нацистскими войсками Париже, где сотрудничал с прогерманской газетой «Парижский вестник».
 
@@ -18,7 +18,7 @@
 
 <https://cyberleninka.ru/article/n/99-02-021-gazety-russkogo-zarubezhya-30-40-h-godov-novoe-slovo-berlin-1933-1944-i-parizhskiy-vestnik-1942-1944><br/><br/>
 
-Письма Шмелёва к О. А. Бредиус-Субботиной.
+Письма Шмелёва к О. А. Бредиус-Субботиной
 
 <https://imwerden.de/pdf/shmelev_i_bredius-subbotina_perepiska_tom1_2003.pdf><br/><br/>
 
