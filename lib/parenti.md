@@ -22,6 +22,8 @@ Lectures:
 
 <https://www.youtube.com/playlist?list=PLA-tPKbXgS4DXUux4Z1Y9bWs0tIBEWOk1>
 
+<https://www.youtube.com/@themichaelparentilibrary/videos>
+
 <https://archive.org/search?query=creator%3A%22Michael+Parenti%22>
 
 From here you can download mp3s of his lectures. For example:
