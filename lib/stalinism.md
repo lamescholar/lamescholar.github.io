@@ -144,6 +144,8 @@
 
 * [Пыхалов И. - Каковы масштабы "сталинских репрессий"?](http://stalinism.narod.ru/docs/repress/repress.htm)
 
+* [Дугин А.Н. - Говорят архивы: неизвестные страницы ГУЛАГа](https://disk.yandex.ru/d/sHBSKCdNqhd7TQ)
+
 * [Дугин А.Н., Малыгин А.Я. - Солженицын, Рыбаков_ технология лжи](https://disk.yandex.ru/i/mNDcfhfZaMeETA)
 
 * [Земсков В.Н. - «Архипелаг ГУЛАГ»: глазами писателя и статистика](https://disk.yandex.ru/i/3kgS99nEnzEccw)
