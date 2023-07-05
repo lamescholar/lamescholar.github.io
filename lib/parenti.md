@@ -32,6 +32,6 @@ From here you can download mp3s of his lectures. For example:
 
 Articles:
 
-<https://web.archive.org/web/20150206030556/http://www.michaelparenti.org/articles.html>
+<https://www.michael-parenti.org/articles>
 
 <https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%82%D0%B8,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB>
