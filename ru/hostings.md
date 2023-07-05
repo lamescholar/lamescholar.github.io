@@ -6,10 +6,6 @@
 
 <https://disk.yandex.ru/client/disk>
 
-Книги:
-
-<https://cloud.pocketbook.digital/browser/ru>
-
 Картинки:
 
 <https://fastpic.org/>
