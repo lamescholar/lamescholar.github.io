@@ -34,7 +34,11 @@ If the Library Genesis, Z-Library, or Sci-Hub domain is blocked, look at Wikiped
 
 National electronic libraries:
 
-<https://www.loc.gov/collections/>
+<http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
+
+<https://chtyvo.org.ua/>
+
+<https://libraria.ua/>
 
 <https://www.deutsche-digitale-bibliothek.de/>
 

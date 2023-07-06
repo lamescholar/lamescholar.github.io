@@ -52,7 +52,11 @@ Gutenberg - <https://www.gutenberg.org/><br/><br/>
 
 Национальные электронные библиотеки:
 
-<https://www.loc.gov/collections/>
+<http://irbis-nbuv.gov.ua/cgi-bin/ua/elib.exe?C21COM=F&I21DBN=UKRLIB&P21DBN=UKRLIB>
+
+<https://chtyvo.org.ua/>
+
+<https://libraria.ua/>
 
 <https://www.deutsche-digitale-bibliothek.de/>
 
