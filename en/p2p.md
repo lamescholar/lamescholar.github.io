@@ -36,7 +36,7 @@ ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
 
 1137x - <https://1337x.to/>
 
-BT4G - <https://bt4g.org/>
+BT4G - <https://bt4gprx.com/>
 
 BTDigg - <https://btdig.com/index.htm><br/><br/>
 
