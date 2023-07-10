@@ -52,6 +52,14 @@ New paragrapgh - empty line.
 Mark out a link - <link>.
 Link - [text](link).
 Double line break - <br/><br/>.
+Footnote:
+text[:1] text[:2]
+
+[:1]: footnote text
+
+	footnote text
+
+[:2]: footnote text
 ```
 
 <https://www.markdownguide.org/basic-syntax/><br/><br/>
