@@ -308,7 +308,7 @@ Le Monde Histoire & Civilisations - <https://magzdb.org/j/6379><br/><br/>
 
 Всемирная иллюстрация:
 
-<https://archive.org>
+[Internet Archive](https://archive.org/search?query=%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D0%B0%D1%8F+%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F&sort=date)
 
 <http://lib.sptl.spb.ru/ru/nodes/2454-vsemirnaya-illyustratsiya-1869-1898>
 
