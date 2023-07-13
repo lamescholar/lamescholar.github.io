@@ -32,7 +32,7 @@ eMule:
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
-ygg - <https://www3.yggtorrent.do/engine/search?name=&do=search>
+ygg - <https://www3.yggtorrent.wtf/engine/search?name=&do=search>
 
 1337x - <https://1337x.to/>
 

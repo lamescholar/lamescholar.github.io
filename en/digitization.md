@@ -12,7 +12,7 @@ Support
 
 <https://www.wildberries.ru/catalog/29438403/detail.aspx?size=65714944>
 
-Lamp
+Lamp with brightness levels
 
 Weight (for example, a puck) for pressing pages
 
