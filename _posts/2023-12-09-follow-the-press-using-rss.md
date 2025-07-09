@@ -24,7 +24,7 @@ Author: lamescholar - 2023-12-09
 
 **2) Bypass Paywalls Clean extension opens articles accessible only to subscribers of newspapers and magazines.**
 
-<https://twitter.com/Magnolia1234B>
+<https://gitflic.ru/project/magnolia1234/bpc_uploads>
 
 Download the archive. Unzip. In Chrome open the extensions settings. Turn on Developer mode. Load unpacked extension - folder.
 
