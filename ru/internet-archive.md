@@ -109,9 +109,11 @@ LuraTech PDF Compressor - <https://archive.org/details/LuraTechPDFCompressorDesk
 
 Настройки:
 
-Profile: Standart
+Profile: Standard
 
 Quality: 9
+
+<sup>Стандарт</sup>
 
 или
 
