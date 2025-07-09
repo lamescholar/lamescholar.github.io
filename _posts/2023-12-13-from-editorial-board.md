@@ -34,7 +34,7 @@ title: От редколлегии // Встречи с прошлым. Выпу
 
 В 90е был целый литературный мир. Толстые журналы, альманахи, сборники архивных материалов. Журнал [Источник](https://rutracker.org/forum/viewtopic.php?t=6372581). Данный контент складирован на сайте [ImWerden](https://imwerden.de/periodicals). Строго негативного толка по отношению к СССР, тем не менее происходила некоторая рефлексия прошлого. Предметная. Сегодня тоже есть толстые журналы, портал [«Журнальный зал»](https://magazines.gorky.media/)[^2], даже журнал [Родина](https://rutracker.org/forum/viewtopic.php?t=5883982), но.. Как будто нет никакой рефлексии истории. Коллектив [Lenin Crew](https://lenincrew.com/) занимается рефлексией советской истории. [Цифровая история](https://www.youtube.com/@dhistory/videos), [Егор Иванов](https://www.youtube.com/@bad_signal/videos), [Александр Штефанов](https://www.youtube.com/@Chamade/videos) записывают видео на ютубе, но данный формат подразумевает дистанцию между предметом и зрителем. Толстые журналы как будто потеряли свой прежний вес. [Перестройка](https://oldjornal.ucoz.net/) и 90е закончились.
 
-До сих пор есть [РОССПЭН](https://libgen.is/search.php?&req=%D0%A0%D0%9E%D0%A1%D0%A1%D0%9F%D0%AD%D0%9D&phrase=1&view=simple&column=def&sort=year&sortmode=DESC). Издаются [сборники](https://rutracker.org/forum/viewtopic.php?t=6363369). Историки наверняка продвигаются в понимании прошлого, но отпал публичный элемент.
+До сих пор есть [РОССПЭН](https://libgen.is/search.php?&req=%D0%A0%D0%9E%D0%A1%D0%A1%D0%9F%D0%AD%D0%9D&phrase=1&view=simple&column=def&sort=year&sortmode=DESC). Издаются [сборники](https://rutracker.org/forum/viewtopic.php?t=6363369). Историки наверняка продвигаются в понимании прошлого, но отпал демократический элемент.
 <br><br>
 
 # Примечания
