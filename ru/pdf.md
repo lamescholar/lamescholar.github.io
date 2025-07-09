@@ -25,11 +25,9 @@ IrfanView (обрезание изображений):<br>
 <https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images><br>
 Чтобы исправить наклон, Ctrl+U.
 
-IrfanView (цветокоррекция) - см. [Internet Archive](/ru/internet-archive#цветокоррекция)
-
 Book Restorer (распрямление искривлённых изображений) - <http://djvu-converter.narod.ru/>
 
-IrfanView (резкость)
+IrfanView (цветокоррекция, резкость) - см. [Internet Archive](/ru/internet-archive#цветокоррекция)
 
 LuraTech PDF Compressor (кодирование изображений в PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 

@@ -25,11 +25,9 @@ IrfanView (croping images):<br>
 <https://photo.stackexchange.com/questions/4949/what-is-the-best-way-to-auto-crop-bulk-images><br>
 To adjust deskew, Ctrl+U.
 
-IrfanView (color correction) - see [Internet Archive](/en/internet-archive#color-correction)
-
 Book Restorer (straightening of crooked images) - <http://djvu-converter.narod.ru/>
 
-IrfanView (sharpen)
+IrfanView (color correction, sharpen) - see [Internet Archive](/en/internet-archive#color-correction)
 
 LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4> or <https://lamescholar.github.io/files/LuraTechPDFCompressorDesktopV6.2.0.4.rar>
 
