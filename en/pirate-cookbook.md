@@ -27,7 +27,7 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [Ebook Translator](/en/ebook-translator)
 
-[ebooks on Mac](/en/ebooksonmac)
+[ebooks on Mac](/en/ebooks-on-mac)
 
 [FB2, EPUB](/en/fb2-epub)
 
