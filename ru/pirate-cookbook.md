@@ -77,7 +77,7 @@ title: Поваренная книга пирата
 
 [Как поделиться своим добром](/ru/how-to-share-your-stuff)
 
-[Как покупать книги(/ru/how-to-buy-books)
+[Как покупать книги](/ru/how-to-buy-books)
 
 [Книжные серии](/ru/book-series)
 
