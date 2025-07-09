@@ -56,7 +56,7 @@ Henry's Bibliothek:
 <br><br>
 
 {:refdef: style="text-align: center;"}
-[![The Library of Babel](/images/babel.jpg)](https://library.lol/main/F99402AE51086BDE12EE2319FD45BC48)
+[![The Library of Babel](/images/babel.jpg)](https://libgen.li/ads.php?md5=f99402ae51086bde12ee2319fd45bc48)
 {: refdef}
 <br>
 
