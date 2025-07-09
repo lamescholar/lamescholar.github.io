@@ -150,7 +150,7 @@ PDF Output Style: ClearScan
 File->Save.
 <br><br>
 
-There is an alternative to PDF, if the quality loss is unavoidable. You can zip the folder with images and change the file extention to .cbz. You can open CBZ file with [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer). The obvious downside - no compression. Another one - no OCR.
+There is an alternative to PDF, if no matter the manipulations you get drastic quality loss. You can zip the folder with images and change the file extention to .cbz. You can open CBZ file with [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer). The obvious downside - no compression. Another one - no OCR.
 <br><br>
 
 Don't forget to delete folders with images.
