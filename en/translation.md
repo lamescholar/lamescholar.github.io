@@ -193,3 +193,31 @@ qwen3-visual.bat:
 python qwen3-visual.py
 pause
 ```
+
+Now you can create command-line translator.
+
+translator.bat:
+
+```
+@echo off
+chcp 65001 > nul
+setlocal EnableDelayedExpansion
+
+:loop
+echo Enter/paste your text. End with a single dot (.) on a new line.
+
+> text.txt echo(
+
+:read
+set "line="
+set /p "line=> "
+if "!line!"=="." goto process
+>> text.txt echo(!line!
+goto read
+
+:process
+echo Running translation...
+python qwen3-visual.py
+echo.
+goto loop
+```
