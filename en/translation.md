@@ -11,7 +11,7 @@ In my opinion, [ChatGPT](/ru/chatgpt)'s most significant ability is ability to t
 
 3) Anytime OpenAI can make access paid.
 
-Because of these disadvantages, a local, open source alternative to ChatGPT is needed. And it exists. How does it work? You insert the text into text.txt. You run the script. The script translates the text in chunks ("batches" of 3 sentences). As soon as the script translates a chunk of text, it displays a chunk of translation. Translation is gradually assembled in the command line. You can read translation as it happens. At the end, translation is saved into translation.txt.
+Because of these disadvantages, a local, open source alternative to ChatGPT is needed. And it exists. How does it work? You insert the text into text.txt. You run the script. The script translates the text in chunks (batches of 3 sentences). As soon as the script translates a chunk of text, it displays a chunk of translation. Translation is gradually assembled in the command line. You can read translation as it happens. At the end, translation is saved into translation.txt.
 <br><br>
 
 <video width="100%" preload="auto" muted controls>
