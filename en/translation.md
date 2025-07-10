@@ -193,6 +193,7 @@ qwen3-visual.bat:
 python qwen3-visual.py
 pause
 ```
+<br>
 
 Now you can create command-line translator.
 
