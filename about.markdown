@@ -22,7 +22,7 @@ We need to take information, wherever it is stored, make our copies and share th
 Lecture 8: Philosophy and Postmodern Culture
 <br><br><br>
 
-{% include embed-audio.html src="/files/David Rovics - The Commons" %}
+{% include embed-audio.html src="/files/David Rovics - The Commons.mp3" %}
 
 David Rovics - The Commons (2007)
 <br><br><br>
