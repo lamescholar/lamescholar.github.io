@@ -27,6 +27,11 @@ Lecture 8: Philosophy and Postmodern Culture
 David Rovics - The Commons (2007)
 <br><br><br>
 
+{% include embed-audio.html src="/files/Gil Scott-Heron - The Revolution Will Not Be Televised.mp3" %}
+
+Gil Scott-Heron - The Revolution Will Not Be Televised (1971)
+<br><br><br>
+
 {:refdef: style="text-align: center;"}
 <img src="/images/ex-libris.jpg" height="400">
 {: refdef}
