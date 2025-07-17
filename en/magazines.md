@@ -373,6 +373,10 @@ New Left Review:<br>
 
 Adbusters - <https://downmagaz.net/tags/Adbusters/>
 
+Marxism Today:<br>
+<https://banmarchive.org.uk/marxism-today/><br>
+<https://archive.org/details/pub_marxism-today?sort=-date>
+
 Socialist Worker - <https://www.socialist.ca/issues>
 
 Monthly Review - <https://archive.org/details/pub_monthly-review-us?sort=-date>
