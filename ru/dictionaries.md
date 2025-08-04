@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Справочники
+title: Словари
 ---
 
 #### Программы:
@@ -18,6 +18,11 @@ GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%2
 <https://code.google.com/archive/p/stardict-3/downloads>
 
 ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475>
+
+Home Dictionary:<br>
+<https://github.com/mortalis13/homedictionary><br>
+<https://github.com/mortalis13/stardict-to-dsl-converter><br>
+Home Dictionary - приложение на Андроид для .dsl словарей.
 <br><br>
 
 #### Переводчики:
@@ -27,6 +32,8 @@ Yandex Translate - <https://translate.yandex.ru/>
 Google Translate - <https://translate.google.com/>
 
 [ChatGPT](/ru/chatgpt)
+
+[Translation](/en/translation)
 
 Славеница - <http://slavenica.com/>
 <br><br>

@@ -11,7 +11,7 @@ title: Привет
 [создавать](/ru/how-to-digitize-books), [делиться](/ru/how-to-share-your-stuff), [находить](/ru/how-to-find-books) и [читать](/ru/ebook-formats) электронные книги,<br>
 рипать [DVD](/ru/films) и [CD](/ru/music#рип-cd),<br>
 оцифровывать [виниловые пластинки](/ru/music#оцифровка-виниловых-пластинок),<br>
-находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/news), [словари](/ru/reference-books), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films) и проигрывать их на своём компьютере,<br>
+находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/news), [словари](/ru/dictionaries), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films) и проигрывать их на своём компьютере,<br>
 [исследовать](/ru/research) интересные тебе темы,<br>
 [следить](/2023/12/08/follow-the-press-using-rss-ru.html) за происходящим в мире.
 <br><br>

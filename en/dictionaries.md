@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Reference books
+title: Dictionaries
 ---
 
 #### Programs:
