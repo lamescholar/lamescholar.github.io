@@ -12,7 +12,7 @@ to [create](/en/how-to-digitize-books), [share](/en/how-to-share-your-stuff), [f
 to rip [DVDs](/en/films) and [CDs](/en/music#ripping-cds),<br>
 to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
 to broadcast you own [online radio](/en/radio#how-to-make-your-own-online-radio),<br>
-to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/news), [dictionaries](/en/reference-books), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
+to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/news), [dictionaries](/en/dictionaries), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
 to [research](/en/research) stuff interesting to you,<br>
 to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
 <br><br>

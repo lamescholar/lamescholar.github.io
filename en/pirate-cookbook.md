@@ -21,6 +21,8 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 
 [DeDRM](/en/dedrm)
 
+[Dictionaries](/en/dictionaries)
+
 [DjVu](/en/djvu)
 
 [ebook formats](/en/ebook-formats)
@@ -84,8 +86,6 @@ Pirate Cookbook is my collection of guides on finding sources, digitizing books,
 [Publishers](/en/publishers)
 
 [Radio](/en/radio)
-
-[Reference books](/en/reference-books)
 
 [Research](/en/research)
 
