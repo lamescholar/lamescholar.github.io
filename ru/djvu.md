@@ -172,7 +172,9 @@ DjVu Small Mod + DjVu Imager и FSD реализуют метод разделё
 <https://forum.ru-board.com/topic.cgi?forum=5&topic=38467>
 <br><br>
 
-Zip-архив с программами на случай, если ссылки сломаются - <https://disk.yandex.ru/d/odtW8TX4diIVsg>
+Zip-архив с программами на случай, если ссылки сломаются:<br>
+[DjVu.zip](/files/DjVu.zip)<br>
+<https://disk.yandex.ru/d/odtW8TX4diIVsg>
 <br><br>
 
 #### Где опубликовать книгу:

@@ -172,7 +172,9 @@ DjVu Small Mod + DjVu Imager and FSD realize the method of separated scans. The 
 <https://forum.ru-board.com/topic.cgi?forum=5&topic=38467>
 <br><br>
 
-Zip-archive with programs in case the links break - <https://disk.yandex.ru/d/odtW8TX4diIVsg>
+Zip-archive with programs in case the links break:<br>
+[DjVu.zip](/files/DjVu.zip)<br>
+<https://disk.yandex.ru/d/odtW8TX4diIVsg>
 <br><br>
 
 #### Publish your book:

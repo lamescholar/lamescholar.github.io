@@ -32,7 +32,7 @@ Translation - Yandex Translator
 
 #### Text recognition:
 
-ABBYY Finereader PDF 15 - <https://rutracker.org/forum/viewtopic.php?t=6040898>
+ABBYY Finereader - <https://btdig.com/db98398f6d1c9bbd4c8ac905dc30abb5f9e4b704/abbyy-finereader-kpojiuk>
 <br><br>
 
 #### Creating/editing FB2:
