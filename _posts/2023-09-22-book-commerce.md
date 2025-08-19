@@ -14,7 +14,7 @@ Then they came to Jerusalem. And he entered the temple and began to drive out th
 ‘My house shall be called a house of prayer for all the nations’?<br>
 But you have made it a den of robbers.”<br>
 
-And when the chief priests and the scribes heard it, they kept looking for a way to kill him; for they were afraid of him, because the whole crowd was spellbound by his teaching. And when evening came, Jesus and his disciplesa went out of the city.
+And when the chief priests and the scribes heard it, they kept looking for a way to kill him; for they were afraid of him, because the whole crowd was spellbound by his teaching. And when evening came, Jesus and his disciples went out of the city.
 
  [Mark 11:15-19](https://libgen.is/book/index.php?md5=87327E0DAB536817ED08D5C2E8563684)
 <br><br>
