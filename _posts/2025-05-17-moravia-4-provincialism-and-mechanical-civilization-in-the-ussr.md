@@ -10,7 +10,7 @@ Source: [Moravia, Albertio - Un mese in Urss - 2013](https://disk.yandex.ru/i/Pi
 Translation: lamescholar - 2025-05-17
 <br><br>
 
-In 1956, Italian writer Alberto Moravia visited USSR and published a series of meditative articles about it in Corriere della Sera. Later, in 1958, he published a book Un mese in Urss. Below is the fourth chapter Provincialismo e civiltà meccanica in Urss.
+In 1956, Italian writer Alberto Moravia visited USSR and published a series of meditative articles about his trip in Corriere della Sera. Later, in 1958, he published a book Un mese in Urss. Below is the fourth chapter Provincialismo e civiltà meccanica in Urss.
 <br><br>
 
 # IV.
