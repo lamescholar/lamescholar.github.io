@@ -240,7 +240,7 @@ Source: [Source title](link to the source)
 
 #### Underlinings and marginalia
 
-There is a way to reproduce underlinings and marginalia as in printed books in posts.
+There is a way to reproduce in posts the underlinings and marginalia as in printed books.
 
 
 ```
