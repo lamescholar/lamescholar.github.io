@@ -5,6 +5,8 @@ title: Pirate Cookbook
 Pirate Cookbook is my collection of guides to find sources, digitize books, rip disks and digitize vinyl records. For details see [Hello](/en/hello).
 <br><br>
 
+[Android](/en/android)
+
 [Articles](/en/articles)
 
 [Audiobooks](/en/audiobooks)
