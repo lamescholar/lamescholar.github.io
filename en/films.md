@@ -14,8 +14,6 @@ Search: title QxR
 Subdl - <https://subdl.com/><br>
 Subtitles.
 
-TorrentGalaxy - <https://torrentgalaxy.mx/>
-
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
 YTS - <https://yts.mx/><br>
