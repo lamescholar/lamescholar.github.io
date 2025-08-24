@@ -199,13 +199,9 @@ header_pages:
 
 #### Changing title size
 
-```
-gem install minima
-```
+Go to minima folder. On Windows it is located in user folder:
 
-Go to minima folder. On Windows it is located somewhere here:
-
-C:\Ruby32-x64\lib\ruby\gems\3.4.0\gems\minima-2.5.2
+.local/share/gem/ruby/3.4.0
 
 Go to _layouts folder. Copy (Ctrl+C) page.html.
 
