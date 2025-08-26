@@ -33,7 +33,7 @@ Good audiobook player.
 Open source podcast app.
 
 **Auxio** - <https://github.com/OxygenCobalt/Auxio/releases><br>
-Open source mucis player.
+Open source music player.
 
 **LibreTorrent** - Google Play<br>
 Open source Bittorent client.
