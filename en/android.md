@@ -11,32 +11,32 @@ Mods.
 
 #### Apps
 
-eBoox - Google Play<br>
+**eBoox** - Google Play<br>
 Reader for EPUBs.
 
-Pocketbook - Google Play<br>
+**Pocketbook** - Google Play<br>
 Reader for PDFs and DJVUs.
 
-Home Dictionary - <https://github.com/mortalis13/HomeDictionary/releases>
+**Home Dictionary** - <https://github.com/mortalis13/HomeDictionary/releases><br>
 Great app for .dsl dictionaries.
 
-Feeder - Google Play<br>
+**Feeder** - Google Play<br>
 Open source RSS reader.
 
-YouTube Revanced Extended - <https://github.com/Svznify/RVX>
+**YouTube Revanced Extended** - <https://github.com/Svznify/RVX><br>
 YouTube without ads and Shorts.
 
-Smart AudioBook Player - Mobilism
+**Smart AudioBook Player** - Mobilism<br>
 Good audiobook player.
 
-AntenaPod - Google Play
+**AntenaPod** - Google Play<br>
 Open source podcast app.
 
-Auxio - <https://github.com/OxygenCobalt/Auxio/releases>
+**Auxio** - <https://github.com/OxygenCobalt/Auxio/releases><br>
 Open source mucis player.
 
-LibreTorrent - Google Play
+**LibreTorrent** - Google Play<br>
 Open source Bittorent client.
 
-Firefox - Google Play
+**Firefox** - Google Play<br>
 Don't use Google Chrome. Google went full totalitarianism removing uBlock. Firefox Android app can install same extensions as desktop browser. Firefox is the GOAT.
