@@ -40,7 +40,7 @@ For books with dust jackets use Brodart covers:
 
 <https://www.amazon.com/Brodart-Covers-Center-Loading-Clear-Mylar/dp/B000SJBDJA>
 
-For full library style, fix the dust jacket with filament strapping tape:
+For full library style, fixate the dust jacket with filament strapping tape:
 
 <https://www.walmart.com/ip/T-R-U-FIL-795-Filament-Strapping-Tape-1-2-in-wide-x-60-yds-4-Mil-Pack-of-1/975235301>
 <br><br>
