@@ -32,7 +32,7 @@ Vasha-Kniga.com - <https://www.vasha-kniga.com/>
 
 #### Clear book covers
 
-If you're buying paperbacks, spend extra 15 dollars and buy a pack of clear book covers. Clear book cover protects a paperback from wearing out, adds rigidness to paper cover and gives it a nice gloss. For Penguin paperbacks pick 7 3/4" (the actual height is 8"):
+If you're buying paperbacks, spend extra 15 dollars and buy a pack of clear book covers. Clear book cover protects a paperback from wearing out, adds rigidness to cover and gives it a nice gloss. For Penguin paperbacks pick 7 3/4" (the actual height is 8"):
 
 <https://www.amazon.com/ClearBags-Protect-Against-Archival-BC9/dp/B00O7OH6D4>
 <br><br>
