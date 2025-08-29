@@ -3,7 +3,7 @@ comments: true
 title: Hello
 ---
 
-It all started with realisation that most of the ebooks I find online are not made by wage labor, but enthusiasts sharing their library out of sheer joy of sharing. Enthusiasts without expensive equipment whose work is not owned by corparation they work for. I tracked down the workflow along the forums, saved the programs and wrote down the steps how one can digitize a book on their own. Pirate Cookbook grew out of this initial impulse - to capture and share another way to use Internet. I figured out [Jekyll](/en/jekyll). Here I host my collection of guides on finding and sharing stuff online.
+It all started with realisation that most of the ebooks I find online are not made by wage labor, but enthusiasts sharing their library out of sheer joy of sharing. Enthusiasts without expensive equipment whose work is not owned by corparation they work for. I tracked down the workflow along the forums, saved the programs and wrote down the steps how anyone can digitize a book on their own. Pirate Cookbook grew out of this initial impulse - to capture and share another way to use Internet. I figured out [Jekyll](/en/jekyll). Here I host my collection of guides on finding and sharing stuff online.
 
 To find and share stuff, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
 
