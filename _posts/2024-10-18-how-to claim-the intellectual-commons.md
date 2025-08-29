@@ -5,10 +5,10 @@ comments: true
 title: How to claim the intellectual commons
 ---
 
-# How to claim the intellectual commons
+2024-10-18
 
-Author: lamescholar - 2024-10-18
-<br><br>
+# How to claim the intellectual commons
+<br>
 
 Workers have the leverage of union to compel the employer to satisfy their demands. Under the modern economic system, there is a limit to these demands. If the workers demand beyond the limit, the company will come to ruin. Unions can protect workers against abuses of power and overexploitation, they help workers to get what is due under existing conditions. But they cannot bring about radically new working conditions.
 

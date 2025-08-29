@@ -5,10 +5,10 @@ comments: true
 title: Book commerce
 ---
 
-# Book commerce
+2023-09-22
 
-Author: lamescholar - 2023-09-22
-<br><br>
+# Book commerce
+<br>
 
 Then they came to Jerusalem. And he entered the temple and began to drive out those who were selling and those who were buying in the temple, and he overturned the tables of the money changers and the seats of those who sold doves; and he would not allow anyone to carry anything through the temple. He was teaching and saying, “Is it not written,<br>
 ‘My house shall be called a house of prayer for all the nations’?<br>

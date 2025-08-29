@@ -5,10 +5,10 @@ comments: true
 title: Sunday Press Pack 2024-12-15
 ---
 
-# Sunday Press Pack 2024-12-15
+2024-12-15
 
-Author: lamescholar - 2024-12-15
-<br><br>
+# Sunday Press Pack 2024-12-15
+<br>
 
 <https://disk.yandex.ru/d/sNgzARKz6iH5Xg?lang=en>
 <br><br>

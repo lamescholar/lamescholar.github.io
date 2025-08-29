@@ -5,10 +5,10 @@ comments: true
 title: "Periodical of the Week #1 - History Today"
 ---
 
-# Periodical of the Week #1 - History Today
+2024-10-18
 
-Author: lamescholar - 2024-10-18
-<br><br>
+# Periodical of the Week #1 - History Today
+<br>
 
 I collected a number of periodicals available on the Internet in [Magazines](/en/magazines). To further promote these sources of learning and recreation, I came up with an idea of a series of weekly posts that would overview these periodicals. The first Periodical of the Week is History Today.
 <br><br>

@@ -5,10 +5,10 @@ comments: true
 title: Books from Turkish bookstore
 ---
 
-# Books from Turkish bookstore
+2023-10-19
 
-Author: lamescholar - 2023-10-19
-<br><br>
+# Books from Turkish bookstore
+<br>
 
 [de Bellaigue, Christopher - The Islamic Enlightenment_ The Modern Struggle Between Faith and Reason - 2018](https://libgen.li/edition.php?id=137871047)
 

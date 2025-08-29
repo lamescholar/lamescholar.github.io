@@ -5,10 +5,10 @@ comments: true
 title: Literary magazines and more
 ---
 
-# Literary magazines and more
+2025-03-28
 
-Author: lamescholar - 2025-03-28
-<br><br>
+# Literary magazines and more
+<br>
 
 Clipboard for large-format magazines:<br>
 Mr. Pen- Clipboard, 11.5x17 Inches<br>

@@ -5,10 +5,10 @@ comments: true
 title: "Periodical of the Week #2 - Philosophy Now"
 ---
 
-# Periodical of the Week #2 - Philosophy Now
+2024-10-25
 
-Author: lamescholar - 2024-10-25
-<br><br>
+# Periodical of the Week #2 - Philosophy Now
+<br>
 
 **Philosophy Now** is British monthly philosophy magazine. It features popular articles on philosophy with inclination towards philosophy of mind. At the end of each issue there is always an interesting column by Raymond Tallis.
 

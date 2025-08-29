@@ -5,10 +5,10 @@ comments: true
 title: The Simpsons
 ---
 
-# The Simpsons
+2024-09-17
 
-Author: lamescholar - 2024-09-17
-<br><br>
+# The Simpsons
+<br>
 
 DVD:
 

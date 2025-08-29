@@ -5,10 +5,10 @@ comments: true
 title: How to follow the press using RSS?
 ---
 
-# How to follow the press using RSS?
+2023-12-09
 
-Author: lamescholar - 2023-12-09
-<br><br>
+# How to follow the press using RSS?
+<br>
 
 **3 things are needed:**
 

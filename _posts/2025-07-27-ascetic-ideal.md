@@ -5,10 +5,10 @@ comments: true
 title: Science and ascetic ideal
 ---
 
-# Science and ascetic ideal
+2025-07-27
 
-Author: lamescholar - 2025-07-27
-<br><br>
+# Science and ascetic ideal
+<br>
 
 Whenever a physicist is looking at anything, he has a universal approach to understand it: to break it down into the chain of physical events. This universal approach stumbles when we approach human beings. How a physicist addresses the mind, the experience? Well, there are two ways. First is to deny. There is no consciousness. It's a made up thing as ghosts and such. It's imaginary or illusory (but who's having the illusion?). Second one is to substitute. We start to weave the usual web of causes that lead to the brain where some stuff happens and this stuff is what our personal experience is. Well, no. Experience is something immediate. It can't be something that we arrive at through a long story about external world. This story can relate to experience, but it can't embody it.
 
