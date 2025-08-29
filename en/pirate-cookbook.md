@@ -2,7 +2,7 @@
 title: Pirate Cookbook
 ---
 
-Pirate Cookbook is my guides to find sources, digitize books, rip disks and digitize vinyl records. To really own stuff without subscriptions, secrecy, donations, any of that crap. For details see [Hello](/en/hello).
+My guides to find sources, digitize books, rip disks and digitize vinyl records. To really own stuff without subscriptions, secrecy, donations, any of that crap. For details see [Hello](/en/hello).
 <br><br>
 
 [Android](/en/android)
