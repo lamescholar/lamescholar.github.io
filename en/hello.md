@@ -3,7 +3,7 @@ comments: true
 title: Hello
 ---
 
-It all started with realisation that most of the ebooks I find online are not made by wage labor, but by enthusiasts sharing their library out of sheer joy of sharing. You can create a copy and share it without expensive equipment. I tracked down the workflow along the forums, saved the programs and wrote down steps how anyone can digitize a book on their own.
+It all started with realisation that most of the ebooks I find online are not made by wage labor, but by enthusiasts sharing their library out of sheer joy of sharing. You can create a copy and share it without expensive equipment. I tracked down the workflow along the forums. I found programs and steps to make ebooks on your own.
 
 To find and share stuff, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
 
