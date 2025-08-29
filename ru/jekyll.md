@@ -303,7 +303,7 @@ title: Заглавие текста
       text-decoration: underline;
       text-decoration-color: blue;
       text-decoration-thickness: 3px;
-	  text-underline-offset: 4px;
+	  text-underline-offset: 5px;
     }
 
     @media (max-width: 1200px) {
