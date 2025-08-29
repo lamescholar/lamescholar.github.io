@@ -8,7 +8,7 @@ title: "Alberto Moravia - A Month in the USSR (1958): I. Marx and Dostoevsky"
 Source: [Encounter 1956-11](https://disk.yandex.ru/i/ZYiW3fQH19TRTA)
 <br><br>
 
-In 1956, Italian writer Alberto Moravia visited USSR and published a series of meditative articles about his trip in Corriere della Sera. Later, in 1958, he published a book [Un mese in Urss](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ). Newspaper articles were translated by British magazine Encounter that was covertly funded by CIA at the time. So, thanks to CIA, some of the chapters are translated to English. Below is the first chapter Marx e Dostoevskij.
+In 1956, Italian writer Alberto Moravia visited USSR and published a series of meditative articles about his trip in Corriere della Sera. Later, in 1958, he published a book [Un mese in Urss](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ). Newspaper articles were translated by British magazine Encounter. It was covertly funded by CIA at the time. So, thanks to CIA, some of the chapters are translated to English. Below is the first chapter Marx e Dostoevskij.
 <br><br>
 
 # I
