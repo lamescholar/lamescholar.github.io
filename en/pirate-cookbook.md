@@ -2,7 +2,7 @@
 title: Pirate Cookbook
 ---
 
-My guides to find sources, digitize books, rip disks and digitize vinyl records. To really own stuff without subscriptions, secrecy, donations. No privilege or power. For details see [Hello](/en/hello).
+My guides to find sources, digitize books, rip disks and digitize vinyl records. To really own stuff without subscriptions, secrecy, donations. No privilege or superior power. For details see [Hello](/en/hello).
 <br><br>
 
 [Android](/en/android)
