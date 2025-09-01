@@ -3,7 +3,7 @@ comments: true
 title: Jekyll
 ---
 
-Using [Jekyll](https://jekyllrb.com/) (static site generator) and [GitHub Pages](https://pages.github.com/) (hosting that runs Jekyll), you can create a free static site for your blog. The size limit is 1 GB.
+Using [Jekyll](https://jekyllrb.com/) (site generator) and [GitHub Pages](https://pages.github.com/) (hosting), you can create a free static site for your blog. The size limit is 1 GB.
 <br><br>
 
 To create a site you need to register on GitHub:
