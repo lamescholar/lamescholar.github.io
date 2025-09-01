@@ -20,7 +20,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 #### Creating a site
 
-Instead of username use your GitHub username.
+Instead of `username` use your GitHub username.
 
 Go to the command line:
 
@@ -174,7 +174,6 @@ To counter an error,  you need to add webrick to Gemfile:
 
 ```
 cd username.github.io
-bundle add webrick logger csv base64
 ```
 
 Starting the site:
