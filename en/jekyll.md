@@ -174,6 +174,7 @@ To counter an error,  you need to add webrick to Gemfile:
 
 ```
 cd username.github.io
+bundle add webrick
 ```
 
 Starting the site:
