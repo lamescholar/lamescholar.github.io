@@ -34,10 +34,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.9"
 
-gem "logger", "~> 1.7"
-
 gem "csv", "~> 3.3"
 
+gem "logger", "~> 1.7"
 gem "base64", "~> 0.3.0"
-
-gem "redcarpet", "~> 3.6"
