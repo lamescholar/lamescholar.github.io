@@ -1,4 +1,5 @@
 ---
+layout: page
 comments: true
 title: ChatGPT
 ---
@@ -6,7 +7,7 @@ title: ChatGPT
 ChatGPT is a great tool for translation and self-education.
 <br><br>
 
-ChatGPT input limit is 2000 characters. Therefore if you're translating a long text, you need to send it in chunks:
+ChatGPT has input limit. If you're translating a long text, you need to send it in chunks:
 
 ```
 Translate from German to English. Output only the translation.

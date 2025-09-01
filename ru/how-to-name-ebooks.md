@@ -1,4 +1,5 @@
 ---
+layout: page
 comments: true
 title: Как называть электронные книги
 ---
