@@ -14,7 +14,7 @@ Library Genesis:<br>
 <https://libgen.rs/><br>
 <https://libgen.li/>
 
-Z-Library - <https://singlelogin.re/>
+Z-Library - <http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/>
 
 VK Files - <https://vk.com/docs>
 
@@ -37,7 +37,7 @@ Google Books - <https://books.google.ru/advanced_book_search?hl=en>
 
 Wikisource - <https://wikisource.org/wiki/Main_Page>
 
-Mobilism - <https://forum.mobilism.org/viewforum.php?f=120>
+Mobilism - <https://forum.mobilism.org/index.php>
 
 Gutenberg - <https://www.gutenberg.org/>
 
