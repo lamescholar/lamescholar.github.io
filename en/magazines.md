@@ -27,6 +27,7 @@ Chinese Social Sciences Today
 Clarin - Economico
 Corriere della Serra
 Corriere della Serra - La Lettura
+Courrier Internacional
 Daily Sabah
 Delo (Slovenia)
 Denik N
@@ -116,6 +117,7 @@ The Korea Times
 The London Magazine
 The New Review
 The New York Review of Books
+The New Yorker
 The Observer
 The Observer - The New Review
 The Week
