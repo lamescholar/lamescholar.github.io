@@ -223,3 +223,6 @@ python qwen3-visual.py
 echo.
 goto loop
 ```
+<br>
+
+List of small models that translate well: qwen3, aya-expanse, gemma-3n, mistral
