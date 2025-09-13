@@ -225,4 +225,12 @@ goto loop
 ```
 <br>
 
-List of small models that translate well: qwen3, aya-expanse, gemma-3n, mistral
+List of small models that translate well:
+
+qwen3:4b 2.5GB
+
+mistral  4.4GB
+
+aya-expanse 5.1GB
+
+gemma-3n  5.6GB
