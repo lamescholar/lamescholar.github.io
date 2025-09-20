@@ -19,7 +19,7 @@ to [research](/en/research) stuff interesting to you,<br>
 to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
 <br><br>
 
-Internet makes possible the free exchange of information - P2P networks. They remain underground, little known to the public because modern states ensure that information is conducted strictly through centralised channels that operate via ads, sell of private data, rent and puchase of commodities. By endowing <s>people</s> companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
+Internet makes possible the free exchange of information - P2P networks. They remain underground, little known to the public because modern states ensure that information is conducted strictly through centralised channels that operate via ads, sell of private data, rent and sell of commodities. By endowing <s>people</s> companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
 
 Help share the knowledge. Share the link.
 
