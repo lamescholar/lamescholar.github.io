@@ -36,7 +36,7 @@ Open source podcast app.
 **Auxio** - <https://github.com/OxygenCobalt/Auxio/releases><br>
 Open source music player.
 
-**LibreTorrent** - F-Droid<br>
+**LibreTorrent** - <https://github.com/proninyaroslav/libretorrent/releases><br>
 Open source Bittorent client.
 
 **Firefox** - Google Play<br>
