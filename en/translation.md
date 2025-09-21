@@ -44,7 +44,7 @@ pip install nltk
 ```
 <br>
 
-Now the script. I recommend you create a folder and hold all files in it.
+Now the script. I recommend you create a folder and store all files in it.
 
 ```
 import nltk
