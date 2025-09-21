@@ -4,7 +4,7 @@ comments: true
 title: Word
 ---
 
-Word 2021 - <https://rutracker.org/forum/viewtopic.php?t=6420846>
+Word 2024 - <https://rutracker.org/forum/viewtopic.php?t=6619205>
 
 DAEMON Tools Lite - <https://www.daemon-tools.cc/rus/products/dtLite>
 <br><br>

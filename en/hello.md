@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-It all started with realisation that most of the ebooks I find online are not made by wage labor, but by enthusiasts sharing their library out of sheer joy of sharing. I recreated the workflow dispersed along the forums. I found the programs. I recorded the steps how to make ebooks all by yourself. To pass around this workflow. Anybody can use it without relying on authority.
+It all started with realisation that most of the ebooks I find online are not made by wage labor, but by enthusiasts sharing their library out of sheer joy of sharing. I recreated the workflow dispersed along the forums. Anybody can use it without relying on authority.
 <br><br>
 
 To find and share stuff, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
