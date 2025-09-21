@@ -4,13 +4,10 @@ comments: true
 title: Translation
 ---
 
-In my opinion, [ChatGPT](/ru/chatgpt)'s most significant ability is ability to translate. Unlike Google Translate or Yandex Translate, ChatGPT translation is much more stable. However, ChatGPT itself has a number of disadvantages:
-
-1) Length limit and message limit.
-
-2) Not available in some regions.
-
-3) Anytime OpenAI can make access paid.
+In my opinion, [ChatGPT](/ru/chatgpt)'s most significant ability is ability to translate. Unlike Google Translate or Yandex Translate, ChatGPT translation is much more stable. However, ChatGPT itself has a number of disadvantages:<br>
+1) Length limit and message limit.<br>
+2) Not available in some regions.<br>
+3) Any time OpenAI can make access paid.
 
 Because of these disadvantages, a local, open source alternative to ChatGPT is needed. And it exists. How does it work? You insert the text into text.txt. You run the script. The script translates the text in chunks (batches of 3 sentences). As soon as the script translates a chunk of text, it displays a chunk of translation. Translation is gradually assembled in the command line. You can read translation as it happens. At the end, translation is saved into translation.txt.
 <br><br>
