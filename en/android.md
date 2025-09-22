@@ -7,7 +7,11 @@ title: Android
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=398><br>
 Mods.
 
-4PDA - <https://4pda.to/forum/index.php?showforum=212>
+4PDA - <https://4pda.to/forum/index.php?showforum=212><br>
+
+F-Droid - <https://f-droid.org/>
+
+APKMirror - <https://www.apkmirror.com/>
 <br><br>
 
 #### Apps
