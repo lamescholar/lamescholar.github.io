@@ -37,9 +37,6 @@ Good audiobook player.
 **AntenaPod** - Google Play<br>
 Open source podcast app.
 
-**Auxio** - <https://github.com/OxygenCobalt/Auxio/releases><br>
-Open source music player.
-
 **LibreTorrent** - <https://github.com/proninyaroslav/libretorrent/releases><br>
 Open source Bittorent client.
 
