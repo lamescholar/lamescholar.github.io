@@ -28,7 +28,7 @@ Great app for .dsl dictionaries.
 **Feeder** - Google Play<br>
 Open source RSS reader.
 
-**YouTube Revanced Extended** - <https://github.com/Svznify/RVX><br>
+**YouTube Revanced** - <https://github.com/MentalBlank/YouTube-Revanced/releases><br>
 YouTube without ads and Shorts.
 
 **Smart AudioBook Player** - Mobilism<br>
