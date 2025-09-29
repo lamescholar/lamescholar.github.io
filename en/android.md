@@ -16,6 +16,9 @@ APKMirror - <https://www.apkmirror.com/>
 
 #### Apps
 
+**foobar2000** - <https://www.foobar2000.org/android><br>
+Music player.
+
 **eBoox** - Google Play<br>
 Reader for EPUBs.
 
