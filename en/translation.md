@@ -203,7 +203,7 @@ chcp 65001 > nul
 setlocal EnableDelayedExpansion
 
 :loop
-echo Enter/paste your text. End with a single dot (.) on a new line.
+echo Enter your text. End with a single dot (.) on a new line.
 
 > text.txt echo(
 
