@@ -75,3 +75,27 @@ Gallup - <https://news.gallup.com/topic/all-gallup-headlines.aspx>
 Our World in Data - <https://ourworldindata.org/>
 
 Statista - <https://www-statista-com.i.ezproxy.nypl.org/>
+<br><br>
+
+#### Fun command-line dictionary
+
+Some StarDict dictionaries come hyphenated. They are not very convenient for GoldenDict, but they are great for Windows command-line.
+
+To run StarDict dictionary in command-line, install sdcv:
+
+MSYS - <https://www.msys2.org/>
+
+`pacman - S mingw-w64-sdcv`
+
+Create system variable:<br>
+STARDICT_DATA_DIR<Br>
+C:\msys64\mingw64\bin\dict
+
+Put [stardict-dictd-web1913-2.4.2](https://github.com/ahacop/websters-dict-1913-stardict) into dict folder.
+
+Add sdcv to PATH. Then:<br>
+Win+R cmd<br>
+sdcv
+
+You can make .bat file:<br>
+`C:\msys64\mingw64\bin\sdcv.exe`
