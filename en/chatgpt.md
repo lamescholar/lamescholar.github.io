@@ -14,9 +14,7 @@ Translate from German to English. Output only the translation.
 
 chunk of the text
 ```
-
-If ChatGPT has stopped translating, start New chat.
-<br><br>
+<br>
 
 You can ask ChatGPT to explain a word:
 
