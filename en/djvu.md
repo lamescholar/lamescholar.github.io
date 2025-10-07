@@ -4,10 +4,10 @@ comments: true
 title: DjVu
 ---
 
-This is comprehensive collection of programs to create, edit and read DjVu files. Using it you can create ebook in DjVu format with OCR layer (text layer) and contents.
+This is a collection of programs to create, edit and read DjVu files. Using it you can create ebook in DjVu format with OCR layer (text layer) and contents.
 <br><br>
 
-#### General algorithm:
+#### Workflow:
 
 1) Scan Tailor Universal - images processing.
 
