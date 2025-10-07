@@ -22,7 +22,7 @@ Version 4.23.0, because later versions are slow, and earlier ones have a bad fon
 
 Alt+Left - go back after clicking on the hyperlink.
 
-Esc - menu. Suitable font size is usually 22 px.
+Esc - menu.
 
 Preferences:
 
