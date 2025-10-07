@@ -30,8 +30,6 @@ My guides to find sources, digitize books, rip disks and digitize vinyl records.
 
 [ebook formats](/en/ebook-formats)
 
-[Ebook Translator](/en/ebook-translator)
-
 [ebooks on Mac](/en/ebooks-on-mac)
 
 [FB2, EPUB](/en/fb2-epub)
