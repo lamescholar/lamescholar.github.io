@@ -12,7 +12,8 @@ GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%2
 <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
 <https://rutracker.org/forum/viewtopic.php?t=3369767><br>
 <http://dadako.narod.ru/paperpoe.htm><br>
-<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
+<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
+<https://github.com/dcampos/eb1911/releases>
 
 Создание словарей для GoldenDict:<br>
 <http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html><br>

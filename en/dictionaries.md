@@ -17,7 +17,7 @@ Dictionaries for GoldenDict:<br>
 <https://rutracker.org/forum/viewtopic.php?t=3369767><br>
 <http://dadako.narod.ru/paperpoe.htm><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
-<https://github.com/lxs602/1911-and-1922-Encyclopaedia-Britannica>
+<https://github.com/dcampos/eb1911/releases>
 
 Creating dictionaries for GoldenDict:<br>
 <http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html><br>
