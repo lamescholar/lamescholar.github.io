@@ -17,7 +17,7 @@ Therefore, you would want local, open source alternative to ChatGPT. And it exis
 </video>
 <br>
 
-About the script. The script splits the text into paragraphs, paragraphs into sentences. Each paragraph is split into batches of 3 sentences. Batches are sent to qwen3 model. I use llama.cpp to run the model.
+About the script. The script splits the text into paragraphs, paragraphs into sentences. Why? Each paragraph is split into batches of 3 sentences. Batches are sent to qwen3 model. I use llama.cpp to run the model.
 
 3 sentences is the optimal size. Too large a chunk can overload the model - break the translation. If you translate one sentence at a time - no context, worse translation.
 <br><br>
