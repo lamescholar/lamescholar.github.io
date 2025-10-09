@@ -84,7 +84,6 @@ def ensure_nltk_punkt():
 
 # Server functions
 def is_server_ready():
-    """Check if the server is ready by sending a short test request."""
     try:
         payload = {"prompt": "Hello", "n_predict": 1, "stream": False}
         response = requests.post(LLAMA_SERVER_URL, json=payload, timeout=5)
@@ -93,7 +92,6 @@ def is_server_ready():
         return False
 
 def start_server():
-    """Start the LLaMA server and wait until it’s ready."""
     if not os.path.exists(SERVER_EXECUTABLE_PATH):
         print(f"FATAL ERROR: Server executable not found at '{SERVER_EXECUTABLE_PATH}'")
         return None
