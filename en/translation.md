@@ -9,7 +9,7 @@ title: Translation
 2) Not available in some regions.<br>
 3) Any time OpenAI can close free access.
 
-Therefore, you would want local, open source alternative to ChatGPT. And it exists. How does it work? Insert the text into text.txt. Run the script. The script translates the text in chunks. As soon as the script translates a chunk of text, it displays a chunk of translation. Translation is gradually assembled in the command line. You can read translation as it happens. At the end, translation is saved into translation.txt.
+Therefore, you would want local, open source alternative to ChatGPT. And it exists. How does it work? Insert the text into text.txt. Run the script. The script translates the text chunk by chunk. As soon as the script translates a chunk of text, it displays a chunk of translation. Translation is gradually assembled in the command line. You can read translation as it happens. At the end, translation is saved into translation.txt.
 <br><br>
 
 <video width="100%" preload="auto" muted controls>
