@@ -68,14 +68,14 @@ output_file = 'translation.txt'
 SYSTEM_PROMPT = "Return only translation. Translate to English:"
 
 MODEL_PARAMS = {
-    "temperature": 0.1,
-    "n_predict": 512,
-    "top_k": 40,
-    "top_p": 0.9,
-    "repeat_penalty": 1.1,
+    "temperature": 0.6,
+    "n_predict": 512, 
+    "top_k": 20,
+    "top_p": 0.95,
+    "repeat_penalty": 1.0,
 }
 
-# nltk tokenizer
+# nltk
 def ensure_nltk_punkt():
     try:
         nltk.data.find('tokenizers/punkt')
