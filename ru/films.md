@@ -21,9 +21,6 @@ TorrentGalaxy - <https://torrentgalaxy.mx/>
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
-YTS - <https://yts.mx/><br>
-Последнее прибежище.
-
 EZTV - <https://eztvx.to/home><br>
 Сериалы.
 

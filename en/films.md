@@ -17,9 +17,6 @@ Subtitles.
 
 RARBG dump - <https://rarbg.reddiitserver.workers.dev/>
 
-YTS - <https://yts.mx/><br>
-Last resort.
-
 EZTV - <https://eztvx.to/home><br>
 Series.
 
