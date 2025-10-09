@@ -4,12 +4,12 @@ comments: true
 title: Translation
 ---
 
-In my opinion, [ChatGPT](/ru/chatgpt)'s most significant ability is ability to translate. Unlike Google Translate or Yandex Translate, ChatGPT translation is much more stable. However, ChatGPT itself has a number of disadvantages:<br>
+[ChatGPT](/ru/chatgpt) can translate. Unlike Google Translate, ChatGPT's translation is much more stable. However, ChatGPT has a number of disadvantages:<br>
 1) Length limit and message limit.<br>
 2) Not available in some regions.<br>
-3) Any time OpenAI can make access paid.
+3) Any time OpenAI can close free access.
 
-Because of these disadvantages, a local, open source alternative to ChatGPT is needed. And it exists. How does it work? You insert the text into text.txt. You run the script. The script translates the text in chunks (batches of 3 sentences). As soon as the script translates a chunk of text, it displays a chunk of translation. Translation is gradually assembled in the command line. You can read translation as it happens. At the end, translation is saved into translation.txt.
+Therefore, you would want local, open source alternative to ChatGPT. And it exists. How does it work? Insert the text into text.txt. Run the script. The script translates the text in chunks. As soon as the script translates a chunk of text, it displays a chunk of translation. Translation is gradually assembled in the command line. You can read translation as it happens. At the end, translation is saved into translation.txt.
 <br><br>
 
 <video width="100%" preload="auto" muted controls>
@@ -17,61 +17,118 @@ Because of these disadvantages, a local, open source alternative to ChatGPT is n
 </video>
 <br>
 
-About the script. The script splits the text into paragraphs, and paragraphs into sentences. Each paragraph is split into chunks of 3 sentences, which are fed to the qwen3:4b model. I install it via Ollama.
+About the script. The script splits the text into paragraphs, paragraphs into sentences. Each paragraph is split into batches of 3 sentences. Batches are sent to qwen3 model. I use llama.cpp to run the model.
 
-3 sentences is optimal size. Too large a chunk may overload the model, break the translation. One sentence at a time - no context.
+3 sentences is the optimal size. Too large a chunk can overload the model - break the translation. If you translate one sentence at a time - no context, worse translation.
 <br><br>
 
 Before running the script, you need to have these **prerequisites**:
 
-**Ollama** - <https://ollama.com/>
+**llama.cpp** - <https://github.com/ggml-org/llama.cpp/releases/tag/b6715>
 
-Download, then install **qwen3:4b** model:
-
-```
-ollama run qwen3:4b
-```
+**Qwen3-4B-Instruct-2507-Q4_K_M** - <https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/tree/main>
 
 **Python** - <https://www.python.org/downloads/>
 
-Download, then install **nltk package** (to break down paragraphs into sentences):
+Download, then install **nltk package** (to split paragraphs into sentences):
 
 ```
 pip install nltk
 ```
 <br>
 
-Now the script. I recommend you create a folder and store all files in it.
+Now the script. Create a folder. I called it Translation. Store all files in this folder.
+
+Create qwen3-visual.py:
 
 ```
 import nltk
 from nltk.tokenize import sent_tokenize
+import requests
 import subprocess
-import re
-import textwrap
+import time
+import os
+import sys
 
-# Download punkt tokenizer if not already present
-try:
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    nltk.download('punkt')
+# Configuration
+LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
+SERVER_EXECUTABLE_PATH = r'llama-b6715-bin-win-cpu-x64\llama-server.exe'
+MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
 
-# Config
+SERVER_ARGS = [
+    "-m", MODEL_PATH,
+    "--port", "8080",
+    "--host", "127.0.0.1",
+    "--threads", "4"
+]
+SERVER_STARTUP_TIMEOUT = 300
+
 input_file = 'text.txt'
 output_file = 'translation.txt'
+SYSTEM_PROMPT = "Return only translation. Translate to English:"
 
-# Read and split text into paragraphs
-with open(input_file, 'r', encoding='utf-8') as f:
-    raw_text = f.read()
+MODEL_PARAMS = {
+    "temperature": 0.1,
+    "n_predict": 512,
+    "top_k": 40,
+    "top_p": 0.9,
+    "repeat_penalty": 1.1,
+}
 
-# Split paragraphs
-paragraphs = [p.strip() for p in raw_text.split('\n\n') if p.strip()]
+# nltk tokenizer
+def ensure_nltk_punkt():
+    try:
+        nltk.data.find('tokenizers/punkt')
+    except LookupError:
+        nltk.download('punkt', quiet=True)
 
-# Function to split paragraph into sentences
+# Server functions
+def is_server_ready():
+    """Check if the server is ready by sending a short test request."""
+    try:
+        payload = {"prompt": "Hello", "n_predict": 1, "stream": False}
+        response = requests.post(LLAMA_SERVER_URL, json=payload, timeout=5)
+        return response.status_code == 200
+    except requests.exceptions.RequestException:
+        return False
+
+def start_server():
+    """Start the LLaMA server and wait until it’s ready."""
+    if not os.path.exists(SERVER_EXECUTABLE_PATH):
+        print(f"FATAL ERROR: Server executable not found at '{SERVER_EXECUTABLE_PATH}'")
+        return None
+    if not os.path.exists(MODEL_PATH):
+        print(f"FATAL ERROR: Model file not found at '{MODEL_PATH}'")
+        return None
+
+    try:
+        server_process = subprocess.Popen(
+            [SERVER_EXECUTABLE_PATH] + SERVER_ARGS,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True
+        )
+
+        for _ in range(SERVER_STARTUP_TIMEOUT):
+            if is_server_ready():
+                return server_process
+            time.sleep(1)
+
+        print(f"FATAL ERROR: Server failed to become ready within {SERVER_STARTUP_TIMEOUT}s.")
+        if server_process.poll() is None:
+            server_process.terminate()
+        return None
+
+    except Exception as e:
+        print(f"FATAL ERROR: Could not start server process: {e}")
+        if server_process and server_process.poll() is None:
+            server_process.terminate()
+        return None
+
+# Batching functions
 def split_into_sentences(text):
     return sent_tokenize(text)
 
-# Generate batching rule
 def generate_batching_rule(n):
     if n < 1:
         return []
@@ -82,14 +139,10 @@ def generate_batching_rule(n):
     if remainder == 0:
         return [3] * threes
     elif remainder == 1:
-        if threes >= 1:
-            return [3] * (threes - 1) + [2, 2]
-        else:
-            return [2, 2]
-    elif remainder == 2:
+        return [3] * (threes - 1) + [2, 2] if threes >= 1 else [2, 2]
+    else:  # remainder == 2
         return [3] * threes + [2]
 
-# Split paragraphs into batches
 def create_batches(paragraphs):
     batches = []
     paragraph_batch_counts = []
@@ -110,74 +163,111 @@ def create_batches(paragraphs):
         paragraph_batch_counts.append(batch_count)
     return batches, paragraph_batch_counts
 
-# Prepare batches
-batches, paragraph_batch_counts = create_batches(paragraphs)
-translated_paragraphs = [[] for _ in paragraphs]
-batches_processed_per_paragraph = [0] * len(paragraphs)
+# llama.cpp server API
+def translate_batch_with_server(batch_text):
+    prompt_text = f"<s>[INST] <<SYS>>{SYSTEM_PROMPT}<</SYS>> {batch_text} [/INST]"
+    payload = {
+        "prompt": prompt_text,
+        "n_predict": MODEL_PARAMS['n_predict'],
+        "temperature": MODEL_PARAMS['temperature'],
+        "top_k": MODEL_PARAMS['top_k'],
+        "top_p": MODEL_PARAMS['top_p'],
+        "repeat_penalty": MODEL_PARAMS['repeat_penalty'],
+        "stop": ["</s>", "[/INST]", "[end of text]"],
+        "stream": False
+    }
 
-print(f"🔄 Translating {len(batches)} batches...\n")
+    try:
+        response = requests.post(LLAMA_SERVER_URL, json=payload, timeout=600)
+        response.raise_for_status()
+        data = response.json()
+        translated = data.get('content', '').strip()
+        translated = translated.split("[/INST]")[-1].strip()
+        while translated.endswith('[end of text]'):
+            translated = translated.removesuffix('[end of text]').strip()
+        return translated
+    except requests.exceptions.ConnectionError:
+        print(f"\n[ERROR] Connection failed. Is the server running at {LLAMA_SERVER_URL}?")
+        return '[CONNECTION ERROR]'
+    except requests.exceptions.RequestException as e:
+        print(f"\n[ERROR] Request failed: {e}")
+        return '[REQUEST ERROR]'
+    except Exception as e:
+        print(f"\n[EXCEPTION] Batch failed: {str(e)}")
+        return '[TRANSLATION ERROR]'
 
-max_width = 80
-line_length_by_paragraph = {}
+server_process = None
+ensure_nltk_punkt()
 
-# Process each batch
-for (p_idx, batch) in batches:
-    
-    if len(batch.split()) < 3:
-        translated = batch
-    else:
-        prompt = f"/no_think\n\nReturn only translation. Translate to English: {batch}"
+try:
+    try:
+        with open(input_file, 'r', encoding='utf-8') as f:
+            raw_text = f.read()
+    except FileNotFoundError:
+        print(f"Error: Input file '{input_file}' not found.")
+        sys.exit(1)
 
-        try:
-            result = subprocess.run(
-                ['ollama', 'run', 'qwen3:4b'],
-                input=prompt,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                encoding='utf-8',
-            )
+    paragraphs = [p.strip() for p in raw_text.split('\n\n') if p.strip()]
 
-            if result.returncode != 0:
-                print(f"\n[ERROR] Batch failed:\nPrompt: {prompt}\nError: {result.stderr.strip()}")
-                translated = '[TRANSLATION ERROR]'
-            else:
-                translated = re.sub(r'</?think>', '', result.stdout).strip()
+    if not is_server_ready():
+        server_process = start_server()
+        if server_process is None:
+            sys.exit(1)
 
-        except Exception as e:
-            print(f"\n[EXCEPTION] Batch failed:\nPrompt: {prompt}\nException: {str(e)}")
-            translated = '[TRANSLATION ERROR]'
+    batches, paragraph_batch_counts = create_batches(paragraphs)
+    translated_paragraphs = [[] for _ in paragraphs]
+    batches_processed_per_paragraph = [0] * len(paragraphs)
 
-    translated_paragraphs[p_idx].append(translated)
-    batches_processed_per_paragraph[p_idx] += 1
+    print(f"🔄 Translating {len(batches)} batches...\n")
 
-    current_length = line_length_by_paragraph.get(p_idx, 0)
-    words = translated.split()
+    max_width = 80
+    line_length_by_paragraph = {}
 
-    for word in words:
-        if current_length + len(word) + 1 > max_width:
-            print()
-            print(word, end=' ', flush=True)
-            current_length = len(word) + 1
+    for (p_idx, batch) in batches:
+        if len(batch.split()) < 3:
+            translated = batch
         else:
-            print(word, end=' ', flush=True)
-            current_length += len(word) + 1
+            translated = translate_batch_with_server(batch)
 
-    line_length_by_paragraph[p_idx] = current_length
+        translated_paragraphs[p_idx].append(translated)
+        batches_processed_per_paragraph[p_idx] += 1
 
-    if batches_processed_per_paragraph[p_idx] == paragraph_batch_counts[p_idx]:
-        print('\n')
-        line_length_by_paragraph[p_idx] = 0
+        current_length = line_length_by_paragraph.get(p_idx, 0)
+        for word in translated.split():
+            if current_length + len(word) + 1 > max_width:
+                print()
+                print(word, end=' ', flush=True)
+                current_length = len(word) + 1
+            else:
+                print(word, end=' ', flush=True)
+                current_length += len(word) + 1
+        line_length_by_paragraph[p_idx] = current_length
 
-# Write final translation to output file
-with open(output_file, 'w', encoding='utf-8') as out:
-    for paragraph_batches in translated_paragraphs:
-        out.write(' '.join(paragraph_batches).strip() + '\n\n')
+        if batches_processed_per_paragraph[p_idx] == paragraph_batch_counts[p_idx]:
+            print('\n')
+            line_length_by_paragraph[p_idx] = 0
 
-print("✅ Translation complete.")
+    with open(output_file, 'w', encoding='utf-8') as out:
+        for paragraph_batches in translated_paragraphs:
+            out.write(' '.join(paragraph_batches).strip() + '\n\n')
+
+    print("✅ Translation complete.")
+
+finally:
+    if server_process:
+        if server_process.poll() is None:
+            server_process.terminate()
+            try:
+                server_process.wait(timeout=5)
+            except subprocess.TimeoutExpired:
+                print("Server did not terminate gracefully, forcing kill.")
+                server_process.kill()
+            server_process.stdout.close()
+            server_process.stderr.close()
+        else:
+            print(f"\nServer process already terminated with return code {server_process.returncode}.")
 ```
-
-I called it qwen3-visual.py, since it displays translated chunks in command line.
-<br><br>
+<br>
 
 OK, you have in your folder:<br>
 text.txt<br>
