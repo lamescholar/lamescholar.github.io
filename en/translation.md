@@ -163,7 +163,12 @@ def create_batches(paragraphs):
 
 # llama.cpp server API
 def translate_batch_with_server(batch_text):
-    prompt_text = f"<s>[INST] <<SYS>>{SYSTEM_PROMPT}<</SYS>> {batch_text} [/INST]"
+    prompt_text = (
+        f"<|im_start|>system\n{SYSTEM_PROMPT}\n<|im_end|>\n"
+        f"<|im_start|>user\n{batch_text}\n<|im_end|>\n"
+        f"<|im_start|>assistant\n"
+    )
+
     payload = {
         "prompt": prompt_text,
         "n_predict": MODEL_PARAMS['n_predict'],
@@ -171,7 +176,7 @@ def translate_batch_with_server(batch_text):
         "top_k": MODEL_PARAMS['top_k'],
         "top_p": MODEL_PARAMS['top_p'],
         "repeat_penalty": MODEL_PARAMS['repeat_penalty'],
-        "stop": ["</s>", "[/INST]", "[end of text]"],
+        "stop": ["<|im_end|>", "</s>", "[end of text]"],
         "stream": False
     }
 
@@ -180,9 +185,8 @@ def translate_batch_with_server(batch_text):
         response.raise_for_status()
         data = response.json()
         translated = data.get('content', '').strip()
-        translated = translated.split("[/INST]")[-1].strip()
-        while translated.endswith('[end of text]'):
-            translated = translated.removesuffix('[end of text]').strip()
+        for token in ["<|im_end|>", "</s>", "[end of text]"]:
+            translated = translated.replace(token, "").strip()
         return translated
     except requests.exceptions.ConnectionError:
         print(f"\n[ERROR] Connection failed. Is the server running at {LLAMA_SERVER_URL}?")
