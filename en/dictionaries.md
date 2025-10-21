@@ -6,7 +6,7 @@ title: Dictionaries
 
 #### Programs:
 
-GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%20builds/>
+GoldenDict - <https://github.com/goldendict/goldendict/releases>
 
 ```
 <maxPictureWidth>

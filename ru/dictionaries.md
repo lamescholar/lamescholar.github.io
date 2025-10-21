@@ -6,7 +6,11 @@ title: Словари
 
 #### Программы:
 
-GoldenDict - <https://sourceforge.net/projects/goldendict/files/early%20access%20builds/>
+GoldenDict - <https://github.com/goldendict/goldendict/releases>
+
+```
+<maxPictureWidth>
+```
 
 Словари для GoldenDict:<br>
 <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
