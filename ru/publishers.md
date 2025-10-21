@@ -9,21 +9,24 @@ title: Издательства
 
 Каталог издательств - <https://imwerden.de/publishers>
 
-Academia - <http://publ.lib.ru/ARCHIVES/A/ACADEMIA/_Academia.html>
+Academia:<br>
+<http://publ.lib.ru/ARCHIVES/A/ACADEMIA/_Academia.html><br>
+<https://imwerden.de/publisher-8-page-1>
 
-Альпина - [Library Genesis](https://libgen.st/search.php?&req=%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B0&phrase=1&view=simple&column=publisher&sort=year&sortmode=DESC)
+Common place - [Library Genesis](https://libgen.li/index.php?req=Common+place&columns%5B%5D=p&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all&curtab=f&order=year&ordermode=desc)
+
+Альпина - [Library Genesis](https://libgen.li/index.php?req=%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%BD%D0%B0&columns%5B%5D=p&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all&curtab=f&order=year&ordermode=desc)
 
 Знание - [Wikipedia](https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0))
 
-Издательство Ивана Лимбаха:
-
-<https://imwerden.de/publisher-2011001-page-1.html>
-
-<https://limbakh.ru/>
-
+Издательство Ивана Лимбаха:<br>
+<https://imwerden.de/publisher-2011001-page-1.html><br>
+<https://limbakh.ru/><br>
 <https://flibusta.is/a>
 
-Книга - <https://libgen.st/search.php?req=%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&open=0&res=25&view=simple&phrase=1&column=publisher>
+Книга:<br>
+<https://imwerden.de/publisher-1-page-1.html><br>
+[Library Genesis](https://libgen.li/index.php?req=%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&columns[]=p&objects[]=f&objects[]=e&objects[]=s&objects[]=a&objects[]=p&objects[]=w&topics[]=l&topics[]=c&topics[]=f&topics[]=m&topics[]=r&topics[]=s&res=100&filesuns=all&filesuns=all&filesuns=all&filesuns=all&filesuns=all&filesuns=all&filesuns=all&filesuns=all&curtab=f&order=year&ordermode=asc&filesuns=all&page=5)
 
 Медицина - [Library Genesis](https://libgen.st/search.php?req=%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0&open=0&res=25&view=simple&phrase=1&column=publisher)
 
