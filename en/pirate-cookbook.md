@@ -3,7 +3,7 @@ layout: page
 title: Pirate Cookbook
 ---
 
-My guides to find sources, digitize books, rip disks and digitize vinyl records. To really own stuff without subscriptions, donations and any secrecy. For details see [Hello](/en/hello).
+My guides on how to find sources, digitize books, rip disks and digitize vinyl records. How to really own stuff. No subscriptions, no donations, no secrecy. For details see [Hello](/en/hello).
 <br><br>
 
 [Android](/en/android)
