@@ -39,7 +39,7 @@ on seek - untick
 
 #### Audiobook with subtitles
 
-Suppose you found audiobook in German. It can be translated into English.
+Suppose, you found audiobook in German. It can be translated into English.
 
 Suppose, you have mp3 and cover of audiobook.
 
