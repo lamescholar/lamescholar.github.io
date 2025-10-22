@@ -49,6 +49,13 @@ Suppose, you have mp3 and cover of audiobook.
 
 3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
 
+	Styles:
+
+	```
+	Style: style1,Arial,16,&H00FFFFFF,&H00FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,4,2,0,2,10,10,25,1
+	Style: style2,Arial,16,&H00FFFFFF,&H00FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,4,2,0,8,10,10,25,1
+	```
+
 4. Make video out of mp3 and cover with ffmpeg.
 
 	ffmpeg installation:
@@ -67,7 +74,7 @@ Suppose, you have mp3 and cover of audiobook.
 	cd path to folder with mp3 and cover
 	ffmpeg -loop 1 -i cover.jpg -i "audiobook in german.mp3" -shortest 1.mp4
 	```
-
+	
 5. Embed subtitles (1.ass) into the video:
 
 	Win+R
@@ -76,13 +83,6 @@ Suppose, you have mp3 and cover of audiobook.
 	cd path to folder with mp3 and cover
 	ffmpeg -i 1.mp4 -vf ass=1.ass 2.mp4
 	```
-	
-6. Styles:
-
-```
-Style: style1,Arial,16,&H00FFFFFF,&H00FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,4,2,0,2,10,10,25,1
-Style: style2,Arial,16,&H00FFFFFF,&H00FFFFFF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,4,2,0,8,10,10,25,1
-```
 
 It turns out to be something like a movie with subtitles. Audiobook with subtitles.
 
