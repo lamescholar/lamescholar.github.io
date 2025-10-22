@@ -10,15 +10,11 @@ RuTracker - <https://rutracker.org/forum/index.php><br>
 YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
 Книги на французском.
 
-Library Genesis:<br>
-<https://libgen.rs/><br>
-<https://libgen.li/>
+Library Genesis - <https://libgen.li/>
 
 Z-Library - <http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/>
 
 ВК Файлы - <https://vk.com/docs>
-
-Twirpx - <https://www.twirpx.com/>
 
 Флибуста - <http://flibusta.is/a>
 
