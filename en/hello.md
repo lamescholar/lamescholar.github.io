@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-It all started with realisation that most of the ebooks I find online are not made by wage labor, but by enthusiasts sharing their library out of sheer joy of sharing.
+It all started with realisation that most ebooks I find online are not made by wage labor, but by enthusiasts sharing their library out of sheer joy of sharing.
 <br><br>
 
 To find and share stuff, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
