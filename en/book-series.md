@@ -70,6 +70,8 @@ Oxford World Classics - [Library Genesis](https://libgen.li/index.php?req=Oxford
 
 Penguin Classics - [Library Genesis](https://libgen.li/index.php?req=Penguin+Classics&columns[]=s&objects[]=f&objects[]=e&objects[]=s&objects[]=a&objects[]=p&objects[]=w&topics[]=l&topics[]=c&topics[]=f&topics[]=m&topics[]=r&topics[]=s&res=100&filesuns=all)
 
+The Best Magazine Writing - [Library Genesis](https://libgen.li/index.php?req=The+Best+American+Magazine+Writing&columns%5B%5D=t&columns%5B%5D=a&columns%5B%5D=s&columns%5B%5D=y&columns%5B%5D=p&columns%5B%5D=i&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all&curtab=f&order=year&ordermode=desc)
+
 Viking Portable Library - <https://archive.org/search?query=title%3Aportable+AND+%28publisher%3Apenguin+OR+publisher%3Aviking%29>
 
 World's Classics - <https://seriesofseries.com/worlds-classics/>
