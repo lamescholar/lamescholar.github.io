@@ -49,6 +49,7 @@ import subprocess
 import time
 import os
 import sys
+import re
 
 # Configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
@@ -209,7 +210,7 @@ try:
         print(f"Error: Input file '{input_file}' not found.")
         sys.exit(1)
 
-    paragraphs = [p.strip() for p in raw_text.split('\n\n') if p.strip()]
+    paragraphs = [p.strip() for p in re.split(r'\n\s*\n', raw_text) if p.strip()]
 
     if not is_server_ready():
         server_process = start_server()
