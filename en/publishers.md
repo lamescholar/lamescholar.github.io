@@ -18,11 +18,15 @@ title: Publishers
 <a id="english"></a>
 #### English
 
-Dover - <https://libgen.st/search.php?req=Dover&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=publisher>
+Dover - [Library Genesis](https://libgen.li/index.php?req=Dover&columns%5B%5D=p&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all)
 
-Pluto Press - <https://libgen.st/search.php?req=Pluto+Press&open=0&res=25&view=simple&phrase=1&column=publisher>
+LeftWord - [Library Genesis](https://libgen.li/index.php?req=LeftWord&columns%5B%5D=p&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all&curtab=f&order=year&ordermode=desc)
 
-Verso - <https://libgen.st/search.php?req=Verso&open=0&res=25&view=simple&phrase=1&column=publisher>
+Pluto Press - [Library Genesis](https://libgen.li/index.php?req=Pluto+Press&columns%5B%5D=p&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all&curtab=f&order=year&ordermode=desc)
+
+Polity - [Library Genesis](https://libgen.li/index.php?req=Polity&columns%5B%5D=p&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all&curtab=f&order=year&ordermode=desc)
+
+Verso - [Library Genesis](https://libgen.li/index.php?req=Verso&columns%5B%5D=p&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all&curtab=f&order=year&ordermode=desc)
 <br><br>
 
 <a id="french"></a>
