@@ -45,7 +45,7 @@ on seek - сними галочку
 
 1. С помощью [subsai](/ru/whisper) из mp3 делаешь субтитры (1.srt).
 
-2. Переводишь субтитры (1.srt) с немецкого на английский с помощью [модели](/ru/translation) (2.srt).
+2. Переводишь субтитры (1.srt) с немецкого на английский с помощью Subtitle Edit + LM Studio + Qwen3-4B (2.srt).
 
 3. [Редактируешь](https://notepad-plus-plus.org/downloads/) перевод субтитров (2.srt).
 
