@@ -45,7 +45,7 @@ on seek - сними галочку
 
 1. С помощью [subsai](/ru/whisper) из mp3 делаешь субтитры (1.srt).
 
-2. Переводишь субтитры (1.srt) с немецкого на английский с помощью Subtitle Edit + LM Studio + Qwen3-4B (2.srt).
+2. Переводишь субтитры (1.srt) с немецкого на английский с помощью Subtitle Edit + [LM Studio](https://lmstudio.ai/) + Qwen3-4B (2.srt).
 
 3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
 
@@ -80,7 +80,7 @@ on seek - сними галочку
 	Win+R
 
 	```
-	cd путь к папке с mp3 и обложкой
+	cd путь к папке
 	ffmpeg -i 1.mp4 -vf ass=1.ass 2.mp4
 	```
 
