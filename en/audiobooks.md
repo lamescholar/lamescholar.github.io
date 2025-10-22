@@ -47,7 +47,7 @@ Suppose, you have mp3 and cover of audiobook.
 
 2. Translate subtitles (1.srt) from German to English with Subtitle Edit + LM Studio + Qwen3-4B (2.srt).
 
-3.  [Edit](https://notepad-plus-plus.org/downloads/) translated subtitles (2.srt)
+3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
 
 4. Make video out of mp3 and cover with ffmpeg.
 
@@ -65,16 +65,16 @@ Suppose, you have mp3 and cover of audiobook.
 
 	```
 	cd path to folder with mp3 and cover
-	ffmpeg -loop 1 -i cover.jpg -i "audiobook in german.mp3" -shortest out.mp4
+	ffmpeg -loop 1 -i cover.jpg -i "audiobook in german.mp3" -shortest 1.mp4
 	```
 
-5. Embed subtitles (2.srt) into video:
+5. Embed subtitles (1.ass) into the video:
 
 	Win+R
 
 	```
 	cd path to folder with mp3 and cover
-	ffmpeg -i out.mp4 -vf "subtitles=2.srt:force_style='OutlineColour=&H80000000,BorderStyle=4,BackColour=&000000000,Outline=2,Shadow=0,MarginV=25,Fontname=Arial,Fontsize=16,Alignment=2'" -c:a copy out2.mp4
+	ffmpeg -i 1.mp4 -vf ass=1.ass 2.mp4
 	```
 
 It turns out to be something like a movie with subtitles. Audiobook with subtitles.

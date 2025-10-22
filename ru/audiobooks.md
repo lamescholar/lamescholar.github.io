@@ -47,7 +47,7 @@ on seek - сними галочку
 
 2. Переводишь субтитры (1.srt) с немецкого на английский с помощью Subtitle Edit + LM Studio + Qwen3-4B (2.srt).
 
-3. [Редактируешь](https://notepad-plus-plus.org/downloads/) перевод субтитров (2.srt).
+3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
 
 4. Из mp3 и обложки делаешь видео с помощью ffmpeg.
 
@@ -68,13 +68,13 @@ on seek - сними галочку
 	ffmpeg -loop 1 -i обложка.jpg -i "аудиокнига на немецком.mp3" -shortest out.mp4
 	```
 
-5. Вшиваешь субтитры (2.srt) в видео:
+5. Вшиваешь субтитры (1.ass) в видео:
 
 	Win+R
 
 	```
 	cd путь к папке с mp3 и обложкой
-	ffmpeg -i out.mp4 -vf "subtitles=2.srt:force_style='OutlineColour=&H80000000,BorderStyle=4,BackColour=&000000000,Outline=2,Shadow=0,MarginV=25,Fontname=Arial,Fontsize=16,Alignment=2'" -c:a copy out2.mp4
+	ffmpeg -i 1.mp4 -vf ass=1.ass 2.mp4
 	```
 
 Получается что-то вроде фильма с субтитрами. Аудиокнига с субтитрами.
