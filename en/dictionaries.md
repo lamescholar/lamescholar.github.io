@@ -80,7 +80,7 @@ Statista - <https://www-statista-com.i.ezproxy.nypl.org/>
 
 #### Fun command-line dictionary
 
-Some StarDict dictionaries come hyphenated. They are not very convenient for GoldenDict, but they are great for Windows command-line.
+Some StarDict dictionaries are hyphenated. They are not very convenient for GoldenDict, but they are great for Windows command-line.
 
 To run StarDict dictionary in command-line, install sdcv:
 
