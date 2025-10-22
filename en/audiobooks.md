@@ -85,5 +85,3 @@ Suppose, you have mp3 and cover of audiobook.
 	```
 
 It turns out to be something like a movie with subtitles. Audiobook with subtitles.
-
-You can dispense with translation. For example, you want to listen to an audiobook in English, but you don't recognize all the words. You're doing subtitles. You're making a video. You embed subtitles into the video. You get an audiobook with subtitles.
