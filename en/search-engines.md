@@ -11,12 +11,12 @@ DuckDuckGo - <https://duckduckgo.com/>
 Yandex - <https://ya.ru/>
 <br><br>
 
-Find exact phrase:
+To find exact phrase:
 
 "Umberto Eco"
 <br><br>
 
-Find PDF files:
+To find PDF files:
 
 "Umberto Eco" pdf
 
@@ -25,6 +25,6 @@ or
 "Umberto Eco" filetype:pdf
 <br><br>
 
-Find on particular site:
+To search on particular site:
 
 "Umberto Eco" site:degruyter.com
