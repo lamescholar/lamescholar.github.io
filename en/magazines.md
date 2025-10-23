@@ -133,7 +133,7 @@ Worldcrunch Magazine
 </details>
 <br>
 
-#### New issues in PDF:
+#### New issues PDF:
 
 Yggtorrent: Presse - <https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search>
 
