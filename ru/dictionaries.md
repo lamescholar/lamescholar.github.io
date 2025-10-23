@@ -4,8 +4,6 @@ comments: true
 title: Словари
 ---
 
-#### Программы:
-
 GoldenDict - <https://github.com/goldendict/goldendict/releases>
 
 ```
