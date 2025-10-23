@@ -28,7 +28,7 @@ To adjust deskew, Ctrl+U.
 
 Book Restorer (straightening of crooked images) - <http://djvu-converter.narod.ru/>
 
-IrfanView (color correction, sharpen) - see [Internet Archive](/en/internet-archive#color-correction)
+IrfanView (color correction, sharpen) - see [Internet Archive script](/en/internet-archive-script#color-correction)
 
 LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4> or <https://lamescholar.github.io/files/LuraTechPDFCompressorDesktopV6.2.0.4.rar>
 

@@ -28,7 +28,7 @@ IrfanView (обрезание изображений):<br>
 
 Book Restorer (распрямление искривлённых изображений) - <http://djvu-converter.narod.ru/>
 
-IrfanView (цветокоррекция, резкость) - см. [Internet Archive](/ru/internet-archive#цветокоррекция)
+IrfanView (цветокоррекция, резкость) - см. [Скрипт для Internet Archive](/ru/internet-archive-script#цветокоррекция)
 
 LuraTech PDF Compressor (кодирование изображений в PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4>
 
