@@ -18,7 +18,7 @@ Requirements to install:
 
 	Open a command prompt with administrator rights. Right-click on the Start button. Terminal (Administrator).
 
-	choco install ffmpeg
+	`choco install ffmpeg`
 
 * Python - <https://www.python.org/downloads/>
 
@@ -29,7 +29,7 @@ Installation:
 
 Win+R cmd
 
-pip install -U openai-whisper
+`pip install -U openai-whisper`
 <br><br>
 
 Script for transript:
@@ -70,7 +70,7 @@ options = whisper.DecodingOptions(language="ru")
 
 Win+R cmd
 
-python path to folder named whisper\w.py
+`python path-to-whisper-folder\w.py`
 <br><br>
 
 #### subsai
