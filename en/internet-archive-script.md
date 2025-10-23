@@ -1,13 +1,13 @@
 ---
 layout: page
 comments: true
-title: Internet Archive
+title: Internet Archive script
 ---
 
 <https://github.com/MiniGlome/Archive.org-Downloader>
 <br><br>
 
-With this Python script you can download any book from Internet Archive. The script downloads the photos of the book. To convert images to PDF, the script uses img2pdf package. It creates very big PDF file. So I recommend you to keep -j setting to get only the images. Further I list three options how you can efficiently convert them into PDF or DjVu.
+With this Python script you can download any book from Internet Archive. The script downloads the photos of the book. To convert images to PDF, the script uses img2pdf package. It creates very big PDF file. For this reason, keep -j setting to get only the images. At the end I list three options how you can efficiently encode images into PDF or DjVu.
 <br><br>
 
 #### Prerequisites:

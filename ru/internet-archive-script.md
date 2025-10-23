@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: Internet Archive
+title: Скрипт для Internet Archive
 ---
 
 <https://github.com/MiniGlome/Archive.org-Downloader>

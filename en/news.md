@@ -4,7 +4,7 @@ comments: true
 title: News
 ---
 
-All sites where you can find both magazines and newspapers are located in the [Magazines](/en/magazines) section.
+All the sites where you can find both magazines and newspapers are located in the [Magazines](/en/magazines) section.
 <br><br>
 
 #### News aggregators:

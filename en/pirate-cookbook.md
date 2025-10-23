@@ -54,7 +54,7 @@ My guides on how to find sources, digitize books, rip disks and digitize vinyl r
 
 [How to share your stuff](/en/how-to-share-your-stuff)
 
-[Internet Archive](/en/internet-archive)
+[Internet Archive script](/en/internet-archive-script)
 
 [Jekyll](/en/jekyll)
 

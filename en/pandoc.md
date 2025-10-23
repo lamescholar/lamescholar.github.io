@@ -6,7 +6,7 @@ title: pandoc
 
 <https://pandoc.org/installing.html>
 
-pandoc is a program to convert files. For example, .html to .md:
+pandoc is a program to convert files. For example, it can covert .html to .md:
 
 Win+R cmd
 

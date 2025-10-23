@@ -18,8 +18,6 @@ title: Поваренная книга пирата
 
 [FB2, EPUB](/ru/fb2-epub)
 
-[Internet Archive](/ru/internet-archive)
-
 [Jekyll](/ru/jekyll)
 
 [KoLXo3](/ru/kolxo3)
@@ -97,6 +95,8 @@ title: Поваренная книга пирата
 [Привет](/ru/hello)
 
 [Радио](/ru/radio)
+
+[Скрипт для Internet Archive](/ru/internet-archive-script)
 
 [Словари](/ru/dictionaries)
 

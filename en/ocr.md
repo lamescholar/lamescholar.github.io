@@ -4,7 +4,7 @@ comments: true
 title: OCR
 ---
 
-These programs allow you to get the text out of screenshot. For adding text layer see [DjVu](/en/djvu) and [PDF](/en/pdf).
+Here I list programs that can get the text out of the screenshot.
 <br><br>
 
 ABBYY Screenshot Reader - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>
@@ -44,6 +44,3 @@ Disable WIn+R shotcut.
 Program use Tesseract for recognition. Training data is out of date - 2015. You need to replace it. Delete tessdata folder. Copy and paste tessdata folder from Tesseract installation folder.
 
 <https://github.com/UB-Mannheim/tesseract/wiki>
-<br><br>
-
-For translation use ChatGPT. Look [ChatGPT](/en/chatgpt).

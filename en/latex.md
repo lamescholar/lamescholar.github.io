@@ -4,7 +4,7 @@ comments: true
 title: LaTeX
 ---
 
-LaTeX is a layout tool with which you can make a PDF file with a complex mathematical notation.
+LaTeX is a tool to make PDF files with complex mathematical notation.
 <br><br>
 
 MiKTeX - <https://miktex.org/download>
