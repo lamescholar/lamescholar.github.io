@@ -4,8 +4,6 @@ comments: true
 title: Dictionaries
 ---
 
-#### Programs:
-
 GoldenDict - <https://github.com/goldendict/goldendict/releases>
 
 ```
@@ -32,7 +30,7 @@ Google Translate - <https://translate.google.com/>
 [ChatGPT](/en/chatgpt)
 <br><br>
 
-#### Dictionaries:
+#### Online dictionaries:
 
 Multitran - <https://www.multitran.com/>
 
@@ -81,19 +79,23 @@ Statista - <https://www-statista-com.i.ezproxy.nypl.org/>
 
 Some StarDict dictionaries are hyphenated. They are not very convenient for GoldenDict, but they are great for Windows command-line.
 
-To run StarDict dictionary in command-line, install sdcv:
+To run StarDict dictionary in command-line
+
+1) install sdcv:
 
 MSYS - <https://www.msys2.org/>
 
 `pacman - S mingw-w64-sdcv`
 
-Create system variable:<br>
+2) create system variable:<br>
 STARDICT_DATA_DIR<Br>
 C:\msys64\mingw64\bin\dict
 
-Put [stardict-dictd-web1913-2.4.2](https://github.com/ahacop/websters-dict-1913-stardict) into dict folder.
+3) put [stardict-dictd-web1913-2.4.2](https://github.com/ahacop/websters-dict-1913-stardict) into dict folder
 
-Add sdcv to PATH. Then:<br>
+4) add sdcv to PATH
+
+Then:<br>
 Win+R cmd<br>
 sdcv
 
