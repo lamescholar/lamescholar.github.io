@@ -4,7 +4,7 @@ comments: true
 title: Translation
 ---
 
-[ChatGPT](/ru/chatgpt) can translate. Unlike Google Translate, ChatGPT's translation is much more stable. However, ChatGPT has a number of disadvantages:<br>
+ChatGPT can translate. Unlike Google Translate, ChatGPT's translation is much more stable. However, ChatGPT has a number of disadvantages:<br>
 1) Length limit and message limit.<br>
 2) Not available in some regions.<br>
 3) Any time OpenAI can close free access.
