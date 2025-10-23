@@ -73,15 +73,17 @@ Win+R cmd
 python путь к папке whisper\w.py
 <br><br>
 
-whisper для субтитров:
+#### subsai
 
-subsai - <https://github.com/abdeladim-s/subsai>
+<https://github.com/abdeladim-s/subsai>
+
+subsai - это версия whisper для создания субтитров
 
 Установка:
 
 pip install git+https://github.com/abdeladim-s/subsai
 
-Скрипт:
+Python-cкрипт:
 
 ```
 from subsai import SubsAI
