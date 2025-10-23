@@ -81,7 +81,7 @@ subsai is version of whisper to creat subtitles
 
 Installation:
 
-pip install git+https://github.com/abdeladim-s/subsai
+`pip install git+https://github.com/abdeladim-s/subsai`
 
 Python script:
 

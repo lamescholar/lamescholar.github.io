@@ -81,7 +81,7 @@ subsai - это версия whisper для создания субтитров
 
 Установка:
 
-pip install git+https://github.com/abdeladim-s/subsai
+`pip install git+https://github.com/abdeladim-s/subsai`
 
 Python-cкрипт:
 
