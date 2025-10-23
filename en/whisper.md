@@ -73,15 +73,17 @@ Win+R cmd
 python path to folder named whisper\w.py
 <br><br>
 
-whisper for subtitles:
+#### subsai
 
-subsai - <https://github.com/abdeladim-s/subsai>
+<https://github.com/abdeladim-s/subsai>
+
+subsai is version of whisper to creat subtitles
 
 Installation:
 
 pip install git+https://github.com/abdeladim-s/subsai
 
-Script:
+Python script:
 
 ```
 from subsai import SubsAI
