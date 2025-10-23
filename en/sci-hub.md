@@ -4,17 +4,17 @@ comments: true
 title: Sci-Hub
 ---
 
-A script for downloading full magazine issues.
+A script to download full magazine issues.
 <br><br>
 
 For the script to work, you need Python.
 
 <https://www.python.org/downloads/>
 
-When installing Python, you need to tick Add python.exe to PATH.
+When installing Python, tick Add python.exe to PATH.
 <br><br>
 
-Here the script:
+Here's the script:
 
 ```
 import argparse
