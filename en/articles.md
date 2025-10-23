@@ -6,6 +6,14 @@ title: Articles
 
 #### Full text:
 
+Google Schoolar - <https://scholar.google.com/>
+
+Academia.edu - <https://www.academia.edu/>
+
+arXiv - <https://arxiv.org/>
+
+PhilPapers - <https://philpapers.org/>
+
 Sci-Hub - <https://sci-hub.ru/>
 
 JSTOR - <https://www-jstor-org.i.ezproxy.nypl.org/>
@@ -17,14 +25,6 @@ Cambridge Core - <https://www-cambridge-org.i.ezproxy.nypl.org/core/>
 Oxford Academic - <https://academic-oup-com.i.ezproxy.nypl.org/>
 
 Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
-
-Google Schoolar - <https://scholar.google.com/>
-
-Academia.edu - <https://www.academia.edu/>
-
-arXiv - <https://arxiv.org/>
-
-PhilPapers - <https://philpapers.org/>
 <br><br>
 
 #### Magazines by topic

@@ -29,7 +29,8 @@ Reader for PDFs and DJVUs.
 Great app for .dsl dictionaries.
 
 **Feeder** - Google Play<br>
-Open source RSS reader.
+Open source RSS reader.<br>
+Feeds: [essentials.opml](/files/essentials.opml)
 
 **YouTube Revanced** - <https://github.com/MentalBlank/YouTube-Revanced/releases><br>
 YouTube without ads and Shorts.
