@@ -48,6 +48,7 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/>
 #### Encyclopedias:
 
 Encyclopaedia Britannica:<br>
+<https://rutracker.org/forum/viewtopic.php?t=4891866><br>
 <https://rutracker.org/forum/viewtopic.php?t=6307320><br>
 <https://rutracker.org/forum/viewtopic.php?t=6304689><br>
 <https://www.britannica.com/>
