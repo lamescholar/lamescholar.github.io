@@ -16,6 +16,9 @@ how to [research](/en/research) stuff interesting to you,<br>
 how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
 <br><br>
 
+One day I just realised that most ebooks on my laptop were scanned illegally. It meant you could make ebooks without expensive corporate equipment.
+<br><br>
+
 Internet makes possible the free exchange of information - P2P networks. They remain underground, little known to the public. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, sell of private data, rent and sell of commodities. By endowing <s>people</s> companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
 
 Share the link
