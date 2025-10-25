@@ -45,7 +45,7 @@ Suppose, you have mp3 and cover of audiobook.
 
 1. Make subtitles (1.srt) out of mp3 with [subsai](/en/whisper#subsai).
 
-2. Translate subtitles (1.srt) from German to English with Subtitle Edit + [LM Studio](https://lmstudio.ai/) + Qwen3-4B (2.srt).
+2. Translate subtitles (1.srt) from German to English with [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases) + [LM Studio](https://lmstudio.ai/) + Qwen3-4B (2.srt).
 
 3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
 

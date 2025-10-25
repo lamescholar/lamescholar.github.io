@@ -10,8 +10,6 @@ title: Поваренная книга пирата
 
 [Bypass Paywalls Clean](/ru/bypass-paywalls-clean)
 
-[ChatGPT](/ru/chatgpt)
-
 [DeDRM](/ru/dedrm)
 
 [DjVu](/ru/djvu)

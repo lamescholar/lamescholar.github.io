@@ -20,8 +20,6 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [Bypass Paywalls Clean](/en/bypass-paywalls-clean)
 
-[ChatGPT](/en/chatgpt)
-
 [DeDRM](/en/dedrm)
 
 [Dictionaries](/en/dictionaries)
