@@ -152,8 +152,6 @@ Edicola di MIRCrew (IT) - <https://mircrew-releases.org/viewforum.php?f=43&sid=d
 
 workerbee - <https://1337x.to/user/workerbee/>
 
-magzDB - <http://magzdb.org/>
-
 Internet Archive microfilms - <https://archive.org/details/sim_microfilm?and%5B%5D=mediatype%3A%22collection%22><br>
 - Access: <https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform><br>
 - Script to rip issues: [Internet Archive](/en/internet-archive)<br>
