@@ -4,9 +4,6 @@ comments: true
 title: News
 ---
 
-All the sites where you can find both magazines and newspapers are located in the [Magazines](/en/magazines) section.
-<br><br>
-
 #### News aggregators:
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
