@@ -24,7 +24,7 @@ About the script. The script splits the text into paragraphs, paragraphs into se
 
 Before running the script, you need to have these **prerequisites**:
 
-**llama.cpp** - <https://github.com/ggml-org/llama.cpp/releases/tag/b6715>
+**llama.cpp** - <https://github.com/ggml-org/llama.cpp/releases>
 
 **Qwen3-4B-Instruct-2507-Q4_K_M** - <https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/tree/main>
 
