@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: Издательства
+title: Книжные издательства
 ---
 
 [Иностранные издательства](/en/publishers)

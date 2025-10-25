@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: Publishers
+title: Book publishers
 ---
 
 #### Publishers by languages:

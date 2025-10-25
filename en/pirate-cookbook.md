@@ -14,6 +14,8 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [Blogs](/en/blogs)
 
+[Book publishers](/en/book-publishers)
+
 [Book series](/en/book-series)
 
 [Bulletin Board Systems](/en/bbs)
@@ -83,8 +85,6 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 [pandoc](/en/pandoc)
 
 [PDF](/en/pdf)
-
-[Publishers](/en/publishers)
 
 [Radio](/en/radio)
 
