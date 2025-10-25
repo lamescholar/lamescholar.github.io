@@ -11,7 +11,7 @@ First, look at the review articles. You can find bibliographies in them. Review 
 
 Wikipedia articles have a bibliography.
 
-DuckDuckGo gives out good materials, where you can also find literature on the topic.
+DuckDuckGo gives good materials, where you can also find literature on the topic.
 
 <https://duckduckgo.com/>
 
