@@ -7,7 +7,7 @@ title: Research
 My guide to research any topic.
 <br><br>
 
-First, look at the review articles. You can find bibliographies in them. Review articles can be found in encyclopedias. See [Dcitionaries](/en/dictionaries).
+First, look at the review articles. You can find bibliographies in them. Review articles can be found in encyclopedias. See [Dictionaries](/en/dictionaries).
 
 Wikipedia articles have a bibliography.
 
