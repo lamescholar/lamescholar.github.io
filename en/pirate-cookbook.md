@@ -62,6 +62,8 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [Libraries](/en/libraries)
 
+[Machine translation](/en/machine-translation)
+
 [Magazines](/en/magazines)
 
 [Manga](/en/manga)
@@ -93,8 +95,6 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 [Sci-Hub](/en/sci-hub)
 
 [Search engines](/en/search-engines)
-
-[Translation](/en/translation)
 
 [VPN](/en/vpn)
 
