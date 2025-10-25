@@ -36,8 +36,6 @@ title: Поваренная книга пирата
 
 [RSS](/ru/rss)
 
-[Sci-Hub](/ru/sci-hub)
-
 [VPN](/ru/vpn)
 
 [whisper](/ru/whisper)
@@ -95,6 +93,8 @@ title: Поваренная книга пирата
 [Радио](/ru/radio)
 
 [Скрипт для Internet Archive](/ru/internet-archive-script)
+
+[Скрипт для Sci-Hub](/ru/sci-hub-script)
 
 [Словари](/ru/dictionaries)
 

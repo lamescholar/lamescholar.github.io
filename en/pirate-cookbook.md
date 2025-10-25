@@ -92,7 +92,7 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [RSS](/en/rss)
 
-[Sci-Hub](/en/sci-hub)
+[Sci-Hub script](/en/sci-hub-script)
 
 [Search engines](/en/search-engines)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: Sci-Hub
+title: Sci-Hub script
 ---
 
 A script to download full magazine issues.
