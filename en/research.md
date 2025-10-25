@@ -22,7 +22,7 @@ Finally, look at this universal bibliography:
 
 Then you can go look for sources:
 
-[Particular book](/en/book-searching)
+[Particular book](/en/how-to-find-books)
 
 [Books](/en/libraries)
 
