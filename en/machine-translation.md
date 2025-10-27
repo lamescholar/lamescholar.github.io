@@ -284,6 +284,7 @@ qwen3-visual.bat:
 python qwen3-visual.py
 pause
 ```
+<br>
 
 translator.bat:
 
