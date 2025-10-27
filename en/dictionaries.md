@@ -57,7 +57,7 @@ Columbia Encyclopedia - <https://www.infoplease.com/encyclopedia>
 
 Stanford Encyclopedia of Philosophy:<br>
 <https://plato.stanford.edu/index.html><br>
-<https://disk.yandex.ru/d/09mGI89C7r87vQ?ncrnd=4896>
+<https://disk.yandex.ru/d/09mGI89C7r87vQ?lang=en>
 
 Encyclopedia of Philosophy - <https://www.myanonamouse.net/t/80064>
 
