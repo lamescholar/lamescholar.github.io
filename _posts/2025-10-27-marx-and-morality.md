@@ -13,7 +13,7 @@ Translation: [Qwen3-4B](/en/machine-translation)
 # Marx and Morality
 
 Jan Eufinger - October 17th 2025
-<br>
+<br><br>
 
 Really existing socialisms suggest that Marx's critique of society requires a moral foundation to prevent brutal dead ends. The revolutionary Aristotelism can provide such a foundation, Jan Eufinger argues. A look at the theory.
 <br><br>
