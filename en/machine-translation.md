@@ -4,12 +4,12 @@ comments: true
 title: Machine translation
 ---
 
-ChatGPT can translate. Unlike Google Translate, ChatGPT's translation is much more stable. However, ChatGPT has a number of disadvantages:<br>
+Since 2022, machine translation had a boost. ChatGPT produce decent translations. Unlike Google Translate, ChatGPT's translation is much more stable. However, ChatGPT has a number of disadvantages:<br>
 1) Usage limit.<br>
 2) Not available in some regions.<br>
 3) Any time OpenAI can close free access.
 
-Therefore, you would want local, open source alternative to ChatGPT. And it exists. How does it work? Insert the text into text.txt. Run the script. The script translates the text chunk by chunk. As soon as the script translates a chunk of text, it displays a chunk of translation. Translation gradually shows up in the command line. You can read translation as it happens. At the end, translation goes into translation.txt.
+Therefore, you would want a local, open source alternative to ChatGPT. And it exists. How does it work? Insert the text into text.txt. Run the script. The script translates the text chunk by chunk. As soon as the script translates a chunk of text, it displays a chunk of translation. Translation gradually shows up in the command line. You can read translation as it happens. At the end, translation goes into translation.txt.
 <br><br>
 
 <video width="100%" preload="auto" muted controls>
