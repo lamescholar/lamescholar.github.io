@@ -26,8 +26,6 @@ Creating dictionaries for GoldenDict:<br>
 Yandex Translate - <https://translate.yandex.ru/>
 
 Google Translate - <https://translate.google.com/>
-
-[ChatGPT](/en/chatgpt)
 <br><br>
 
 #### Online dictionaries:
