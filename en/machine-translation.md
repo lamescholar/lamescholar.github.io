@@ -4,7 +4,8 @@ comments: true
 title: Machine translation
 ---
 
-Since 2022, machine translation had a boost. ChatGPT produces decent translations. Unlike Google Translate, ChatGPT's translation is stable. However, ChatGPT has a number of disadvantages:<br>
+Since 2022, machine translation had a boost. ChatGPT produces decent translations. Unlike Google Translate, ChatGPT's translation is stable. However, ChatGPT has a number of disadvantages:
+
 1) Usage limit.<br>
 2) Not available in some regions.<br>
 3) Any time OpenAI can close free access.
