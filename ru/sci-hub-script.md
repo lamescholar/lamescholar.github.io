@@ -52,7 +52,7 @@ python scihub.py DOI.txt
 
 Складываешь все 3 файла в папку Sci-Hub.
 
-Открываешь cmd.txt. "C:\Users\...\Sci-Hub" - путь к папке Sci-Hub. В неё загрузятся PDF-файлы.
+Открываешь cmd.txt. `C:\Users\...\Sci-Hub` - путь к папке Sci-Hub. В неё загрузятся PDF-файлы.
 <br><br>
 
 Открываешь DOI.txt. Заполняешь ссылками на статьи.

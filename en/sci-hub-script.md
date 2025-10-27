@@ -52,7 +52,7 @@ Create DOI.txt.
 
 Put all 3 files into Sci-Hub folder
 
-Open cmd.txt . "C:\Users\...\Sci-Hub" is the path to the Sci-Hub folder. PDF files will be uploaded to it.
+Open cmd.txt . `C:\Users\...\Sci-Hub` is the path to the Sci-Hub folder. PDF files will be uploaded to it.
 <br><br>
 
 Open DOI.txt . Fill it with links to articles.
