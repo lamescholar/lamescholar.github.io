@@ -82,7 +82,7 @@ title: Поваренная книга пирата
 
 [Олимпиады](/ru/olympiads)
 
-[Перевод](/en/translation)
+[Перевод](/en/machine-translation)
 
 [Поисковые системы](/ru/search-engines)
 
