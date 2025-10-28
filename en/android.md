@@ -32,9 +32,6 @@ Great app for .dsl dictionaries.
 Open source RSS reader.<br>
 Feeds: [essentials.opml](/files/essentials.opml)
 
-**YouTube Revanced** - <https://github.com/MentalBlank/YouTube-Revanced/releases><br>
-YouTube without ads and Shorts.
-
 **Smart AudioBook Player** - Mobilism<br>
 Good audiobook player.
 
