@@ -60,13 +60,13 @@ title: Поваренная книга пирата
 
 [Исследование](/ru/research)
 
+[Как делиться своим добром](/ru/how-to-share-your-stuff)
+
 [Как называть электронные книги](/ru/how-to-name-ebooks)
 
 [Как находить книги](/ru/how-to-find-books)
 
 [Как оцифровывать книги](/ru/how-to-digitize-books)
-
-[Как поделиться своим добром](/ru/how-to-share-your-stuff)
 
 [Как покупать книги](/ru/how-to-buy-books)
 
