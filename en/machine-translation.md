@@ -57,6 +57,14 @@ LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
 SERVER_EXECUTABLE_PATH = r'llama-b6715-bin-win-cpu-x64\llama-server.exe'
 MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
 
+MODEL_PARAMS = {
+    "temperature": 0.6,
+    "n_predict": 512, 
+    "top_k": 20,
+    "top_p": 0.95,
+    "repeat_penalty": 1.0,
+}
+
 SERVER_ARGS = [
     "-m", MODEL_PATH,
     "--port", "8080",
@@ -68,14 +76,6 @@ SERVER_STARTUP_TIMEOUT = 300
 input_file = 'text.txt'
 output_file = 'translation.txt'
 SYSTEM_PROMPT = "Return only translation. Translate to English:"
-
-MODEL_PARAMS = {
-    "temperature": 0.6,
-    "n_predict": 512, 
-    "top_k": 20,
-    "top_p": 0.95,
-    "repeat_penalty": 1.0,
-}
 
 # nltk
 def ensure_nltk_punkt():
