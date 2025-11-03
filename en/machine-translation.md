@@ -27,7 +27,7 @@ Before running the script, you need to have these **prerequisites**:
 
 **llama.cpp** - <https://github.com/ggml-org/llama.cpp/releases>
 
-**Qwen3-4B-Instruct-2507-Q4_K_M** - <https://huggingface.co/lmstudio-community/Qwen3-4B-Instruct-2507-GGUF/tree/main>
+**Qwen3-4B-Instruct-2507-Q4_K_M** - <https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/tree/main>
 
 **Python** - <https://www.python.org/downloads/>
 
