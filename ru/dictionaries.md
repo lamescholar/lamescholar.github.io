@@ -4,10 +4,20 @@ comments: true
 title: Словари
 ---
 
-GoldenDict - <https://github.com/goldendict/goldendict/releases>
+GoldenDict-ng - <https://github.com/xiaoyifang/goldendict-ng/releases>
+
+article-style.css:
 
 ```
-<maxPictureWidth>
+body, p, tr, li {
+	font-family: Arial !important;
+	font-size: 14.5px !important;
+	line-height: 1.3 !important;
+}
+
+img {
+	max-width: 300px !important;
+}
 ```
 
 Словари для GoldenDict:<br>

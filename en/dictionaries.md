@@ -14,6 +14,10 @@ body, p, tr, li {
 	font-size: 14.5px !important;
 	line-height: 1.3 !important;
 }
+
+img {
+	max-width: 300px !important;
+}
 ```
 
 Dictionaries for GoldenDict:<br>
