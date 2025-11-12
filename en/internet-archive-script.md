@@ -134,6 +134,10 @@ Quality: 10
 
 **Option №2:**
 
+ABBYY Finereader - <https://rutracker.org/forum/viewtopic.php?t=6583698>
+
+**Option №3:**
+
 Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5160028>
 
 Create->Combine Files into a Single PDF...->Options->Always add bookmarks to Adobe PDF. Untick.

@@ -32,8 +32,6 @@ IrfanView (color correction, sharpen) - see [Internet Archive script](/en/intern
 
 LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/details/LuraTechPDFCompressorDesktopV6.2.0.4> or <https://lamescholar.github.io/files/LuraTechPDFCompressorDesktopV6.2.0.4.rar>
 
-ABBYY Finereader (text layer) - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>
-
 Pdf & Djvu Bookmarker (outline) - <https://sourceforge.net/projects/djvubookmarker/>
 <br><br>
 

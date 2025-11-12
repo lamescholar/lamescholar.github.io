@@ -138,6 +138,10 @@ ABBYY Finereader (текстовый слой) - <https://btdig.com/db98398f6d1c
 
 **Вариант №2:**
 
+ABBYY Finereader - <https://rutracker.org/forum/viewtopic.php?t=6583698>
+
+**Вариант №3:**
+
 Adobe Acrobat XI Pro - <https://rutracker.org/forum/viewtopic.php?t=5160028>
 
 Создать->Объединить файлы в один документ PDF...->Параметры->Всегда добавлять закладки в Adobe PDF. Убрать галочку.
