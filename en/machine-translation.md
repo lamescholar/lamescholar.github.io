@@ -31,7 +31,7 @@ Before running the script, you need to have these **prerequisites**:
 
 **Python** - <https://www.python.org/downloads/>
 
-Download, then install **nltk package** (to split paragraphs into sentences):
+Install **nltk package** (to split paragraphs into sentences):
 
 ```
 pip install nltk
