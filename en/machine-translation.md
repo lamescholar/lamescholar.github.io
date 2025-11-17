@@ -274,6 +274,8 @@ finally:
 <br>
 
 OK, you have in your folder:<br>
+llama-b6715-bin-win-cpu-x64<br>
+llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf<br>
 text.txt<br>
 qwen3-visual.py
 
