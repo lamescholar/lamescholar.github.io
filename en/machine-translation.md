@@ -38,7 +38,7 @@ pip install nltk
 ```
 <br>
 
-Now the script. Create a folder. I called it Translation. Store all files in this folder.
+Now the script. Create a folder. Store all files in this folder.
 
 Create qwen3-visual.py:
 
