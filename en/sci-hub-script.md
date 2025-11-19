@@ -62,6 +62,6 @@ Copy the contents of cmd.txt.
 Win+R cmd Ctrl+V
 <br><br>
 
-Articles can be merged into one PDF file using the PDF-XChange Editor program.
+Articles can be merged into one PDF file with a program - PDF-XChange Editor.
 
 <https://rutracker.org/forum/viewtopic.php?t=5998062>
