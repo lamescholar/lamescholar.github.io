@@ -279,7 +279,7 @@ llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf<br>
 text.txt<br>
 qwen3-visual.py
 
-To easily run your script, create a .bat file.
+To easily run your script, create .bat file.
 
 qwen3-visual.bat:
 
