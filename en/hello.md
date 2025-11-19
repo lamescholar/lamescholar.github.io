@@ -10,7 +10,7 @@ From my guides you can learn<br>
 how to [create](/en/how-to-digitize-books), [share](/en/how-to-share-your-stuff), [find](/en/how-to-find-books) and [read](/en/ebook-formats) ebooks,<br>
 how to rip [DVDs](/en/films) and [CDs](/en/music#ripping-cds),<br>
 how to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
-how to broadcast you own [online radio](/en/radio#how-to-make-your-own-online-radio),<br>
+how to broadcast your own [online radio](/en/radio#how-to-make-your-own-online-radio),<br>
 how to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/news), [dictionaries](/en/dictionaries), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
 how to [research](/en/research) stuff interesting to you,<br>
 how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
