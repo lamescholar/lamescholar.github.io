@@ -16,7 +16,7 @@ body, p, tr, li {
 }
 
 img {
-	max-width: 300px !important;
+	max-hight: 200px !important;
 }
 ```
 
