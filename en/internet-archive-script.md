@@ -60,7 +60,7 @@ Or you can do a color correction and encode images into PDF.
 
 #### Color correction
 
-If the scans are dark and the text is faded, you can use Contrast and Gamma correction color correction tools in the IrfanView program. I use the following grid of values (the first column is Contrast, the second is Gamma correction):
+If the scans are dark and the text is faded, you can use Contrast and Gamma correction color correction tools in the IrfanView program. I use the following grid of values (the first column is Contrast, the second column is Gamma correction):
 
 90 4.00
 
@@ -68,7 +68,7 @@ If the scans are dark and the text is faded, you can use Contrast and Gamma corr
 
 50 2.00
 
-These are the values in case the scan is dark and it needs to be brightened. If the standard options are not suitable, you need to experiment with different combinations - Shift+G. Visually Contrast makes the text bold and brightens the background. Gamma correction lightens of the scan, but bleach the text.
+You need to experiment with different combinations - Shift+G. Visually Contrast makes the text bold and brightens the background. Gamma correction lightens of the scan, but bleach the text.
 
 Useful combinations:<br>
 70 2.00 (there is greenish or orange tint),<br>
@@ -81,9 +81,9 @@ If there is greenish or orange tint remaining, you can lower the color saturatio
 
 It is better to apply color correction to the cover separately. Often a combination of 50/70 2.00 is suitable, sometimes just 2.00 when the photo is very dark.
 
-In addition to color correction tools, I use Sharpen tool all the time against blurred text. The optimal value is 30.
+In addition to color correction tools, I use Sharpen tool all the time against blurred text. The optimal value is 30. In extreme cases: 60.
 
-Script download pictures without a certain DPI. Because of this, there may be problems when creating a file. DPI is set in the same IrfanView program.
+Script download pictures without a certain DPI. Because of this, there may be problems when creating a file. To set DPI use IrfanView.
 
 IrfanView - <https://www.irfanview.com/>
 
@@ -95,7 +95,7 @@ Add images. Sort files. By Name. Auto sort file list after insert. Add all.
 
 Output format:->JPG
 
-Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 or 600. If width of image is less than 2000 - 300 DPI, greater than 2000 - 600 DPI. In the case of LuraTech PDF Compressor 300 DPI is not necessary to set - this is the default value when DPI is not set. Enter the values of Gamma correction, Constrast, Saturation, Sharpen, if necessary.
+Use advanced options (for bulk resize...)->Advanced->Save new DPI value: 300 or 600. If width of image is less than 2000 - 300 DPI, greater than 2000 - 600 DPI. Enter the values of Gamma correction, Constrast, Saturation, Sharpen.
 
 Choose output folder.
 
