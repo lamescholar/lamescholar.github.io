@@ -1,13 +1,13 @@
 ---
 layout: page
 comments: true
-title: How to digitize books
+title: How to create ebooks
 ---
 
-There are two methods to digitize a book.
+There are two methods to create an ebook.
 <br><br>
 
-#### Method №1. Photographing
+#### Method №1. Photograph a book
 
 **You need:**
 
@@ -17,7 +17,7 @@ Stand
 
 ![Stand](/images/stand.jpg)
 
-<sub>Save the picture and find similar stands on sale using [Google Images](https://www.google.com/imghp?hl=en)</sub>
+<sub>Save the picture and find similar stands using [Google Images](https://www.google.com/imghp?hl=en)</sub>
 
 Lamp
 
@@ -46,13 +46,9 @@ To do a colored ebook, see [PDF](/en/pdf).
 To do a text ebook, see [FB2, EPUB](/en/fb2-epub).
 <br><br>
 
-#### Method №2. Scanning
+#### Method №2. Scan a book
 
-You need only a scanner.
-
-Second-hand scanners are cheap.
-
-Scans are processed by special programs.
+Buy a Plustek scanner.
 <br><br>
 
 #### Practical recommendations on digitization
