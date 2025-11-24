@@ -7,7 +7,7 @@ title: Hello
 To find and share stuff, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
 
 From my guides you can learn<br>
-how to [create](/en/how-to-digitize-books), [share](/en/how-to-share-your-stuff), [find](/en/how-to-find-books) and [read](/en/ebook-formats) ebooks,<br>
+how to [create](/en/how-to-create-ebooks), [share](/en/how-to-share-your-stuff), [find](/en/how-to-find-books) and [read](/en/ebook-formats) ebooks,<br>
 how to rip [DVDs](/en/films) and [CDs](/en/music#ripping-cds),<br>
 how to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
 how to broadcast your own [online radio](/en/radio#how-to-make-your-own-online-radio),<br>
