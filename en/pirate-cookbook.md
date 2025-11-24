@@ -46,7 +46,7 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [How to buy books](/en/how-to-buy-books)
 
-[How to digitize books](/en/how-to-digitize-books)
+[How to create ebooks](/en/how-to-create-ebooks)
 
 [How to find books](/en/how-to-find-books)
 
