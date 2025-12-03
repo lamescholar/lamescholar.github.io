@@ -23,7 +23,6 @@ img {
 
 Словари для GoldenDict:<br>
 <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
-<https://rutracker.org/forum/viewtopic.php?t=3369767><br>
 <http://dadako.narod.ru/paperpoe.htm><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
 
