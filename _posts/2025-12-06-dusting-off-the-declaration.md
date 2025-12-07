@@ -29,7 +29,7 @@ Maier, as an experienced student of the American Revolution, has no patience wit
 In her book Maier wants Americans to know that the Declaration of Independence was created by human beings just like them and that they are its masters, not its supplicants. She wants to liberate the Declaration from its tomb by recovering the actual historical circumstances of its creation, circumstances whose mundane nature puts the origins of the Declaration greatly at odds with the seemingly religious character it later acquired. In confronting this contradiction Maier found herself with two different but related stories to tell—“that of the original making of the Declaration of Independence and that of its remaking into the document most Americans know, remember, and revere.” Her book thus presents a classic example of the longstanding conflict between history and heritage that David Lowenthal has recently described in a superb study.[^1]
 
 {:refdef: style="text-align: center;"}
-<img src="/images/dusting-off-the-declaration-1.jpg" height="500">
+<img src="/images/dusting-off-the-declaration-1.jpg" height="500" width=auto>
 {: refdef}
 
 Maier has little sympathy with most previous analyses of the Declaration, which tended to concentrate on the ideas and the philosophies that presumably lay behind its words. She doesn't bother with hermeneutics or attempt to refute Carl Becker, Morton White, and Garry Wills, the principal scholars who have written on the Declaration in this century. These scholars, like most students of the document, she writes, “examined the Declaration for the political ideas it expressed, and then jumped from its text to the more systematic treatises of eighteenth-century European writers.” Instead, she simply bypasses their often ethereal discussions of political philosophy and descends directly to “the grubby world of eighteenthcentury American politics” where she has spent much of her working life. It is in that political world, she says, that an accurate understanding of the origins of the Declaration can best be found.
@@ -62,7 +62,7 @@ By assuming that the Americans always meant what they said in their many formal 
 This means that she has to downplay Thomas Paine's Common Sense, published in January 1776, with its excited call for independence and its vicious assault on the British constitution. Her ninety provincial and local documents, she says, suggest that “Paine's influence was more modest than he claimed and than his more enthusiastic admirers assume.” Then, however, Maier has to admit that much of Paine's case against monarchy had been made in the colonial press or pulpits over the previous six years— but not, of course, in any of the formal documents or declarations issued by the colonists in those years.
 
 {:refdef: style="text-align: center;"}
-<img src="/images/dusting-off-the-declaration-2.jpg" height="500">
+<img src="/images/dusting-off-the-declaration-2.jpg" height="500" width=auto>
 {: refdef}
 <br>
 
