@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Here I share my thoughts and sources I find. I did this blog with [Jekyll](/en/jekyll).
+Here I share my thoughts and stuff I find. I did this blog with [Jekyll](/en/jekyll).
 
-Тут я делюсь своими мыслями и источниками, которые нахожу. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).
+Тут я делюсь своими мыслями и вещами, которые нахожу. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
