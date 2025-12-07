@@ -11,7 +11,7 @@ Source: [The New York Review of Books 1997-08-14](https://disk.yandex.ru/d/mu3Sj
 <h1 style="text-align: center;">Dusting off the Declaration</h1>
 
 <p style="text-align: center;"><b>Gordon S. Wood</b></p>
-<br><br>
+<br>
 
 [American Scripture](https://libgen.li/ads.php?md5=a22ba019d63df9c54717c60ac7753536):<br>
 Making the Declaration<br>
