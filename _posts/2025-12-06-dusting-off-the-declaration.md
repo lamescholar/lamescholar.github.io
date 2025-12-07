@@ -29,7 +29,7 @@ Maier, as an experienced student of the American Revolution, has no patience wit
 In her book Maier wants Americans to know that the Declaration of Independence was created by human beings just like them and that they are its masters, not its supplicants. She wants to liberate the Declaration from its tomb by recovering the actual historical circumstances of its creation, circumstances whose mundane nature puts the origins of the Declaration greatly at odds with the seemingly religious character it later acquired. In confronting this contradiction Maier found herself with two different but related stories to tell—“that of the original making of the Declaration of Independence and that of its remaking into the document most Americans know, remember, and revere.” Her book thus presents a classic example of the longstanding conflict between history and heritage that David Lowenthal has recently described in a superb study.[^1]
 
 {:refdef: style="text-align: center;"}
-![National Archives](/images/dusting-off-the-declaration-1.jpg)
+<img src="/images/dusting-off-the-declaration-1.jpg)" height="500">
 {: refdef}
 
 Maier has little sympathy with most previous analyses of the Declaration, which tended to concentrate on the ideas and the philosophies that presumably lay behind its words. She doesn't bother with hermeneutics or attempt to refute Carl Becker, Morton White, and Garry Wills, the principal scholars who have written on the Declaration in this century. These scholars, like most students of the document, she writes, “examined the Declaration for the political ideas it expressed, and then jumped from its text to the more systematic treatises of eighteenth-century European writers.” Instead, she simply bypasses their often ethereal discussions of political philosophy and descends directly to “the grubby world of eighteenthcentury American politics” where she has spent much of her working life. It is in that political world, she says, that an accurate understanding of the origins of the Declaration can best be found.
@@ -62,7 +62,7 @@ By assuming that the Americans always meant what they said in their many formal 
 This means that she has to downplay Thomas Paine's Common Sense, published in January 1776, with its excited call for independence and its vicious assault on the British constitution. Her ninety provincial and local documents, she says, suggest that “Paine's influence was more modest than he claimed and than his more enthusiastic admirers assume.” Then, however, Maier has to admit that much of Paine's case against monarchy had been made in the colonial press or pulpits over the previous six years— but not, of course, in any of the formal documents or declarations issued by the colonists in those years.
 
 {:refdef: style="text-align: center;"}
-![Thomas Jefferson](/images/dusting-off-the-declaration-2.jpg)
+<img src="/images/dusting-off-the-declaration-2.jpg)" height="500">
 {: refdef}
 <br>
 
@@ -100,6 +100,7 @@ In the last pages of her book Maier’s tone in criticizing the shrine in the Na
 She wants us to realize that the vitality of the Declaration lies in our readiness to discuss its implications and in our ongoing politics, “not in the mummified paper curiosities lying in state at the Archives,” and "not in the worship of false gods who are at odds with our eighteenth-century origins.”
 
 This seems harsh. Can we have a civic religion entirely without relics? Perhaps Maier ought to have a little more sympathy for a people that lack common origins as well as most of the other ordinary attributes of nationhood. At the outset she pointed out that “the original, signed texts of the Declaration of Independence and. to a lesser extent, the Constitution have become for the United States what Lenin’s body was for the Soviet Union, a tangible remnant of the revolution to which its children can still cling.” With the collapse of the Soviet Union, however, some Russians are now suggesting that Lenin should be finally buried. By contrast, it hardly seems a symbol of decadence or weakness that many Americans want to see original texts of the documents whose principles and traditions hold them together. Surely no country’s sense of itself as a cohesive nation is ever so strong that it can do without at least a few tangible symbols of identity and purpose. Paying homage to eloquently composed historical documents seems a rather innocuous way for a people to maintain its heritage and affirm its nationhood. Instead of lamenting such symbolism, perhaps we ought to be glad that there are some Americans still drawn to seeing these remnants of our Revolution. And a good many of them, we may suspect, come to see them not in a spirit of abject veneration but just to get an idea of what they looked like when they were written. □
+<br><br>
 
 [^1]: David Lowenthal, Possessed by the Past: The Heritage Crusade and the Spoils of History (Free Press, 1996.)
 
