@@ -42,7 +42,7 @@ make build_windows  # -> _output/windows/yarr.exe
 
 Получишь yarr.exe в C:\cygwin64\home\имя пользователя\yarr\_output\windows
 
-[yarr.exe скомпилированный мной](/files/yarr.exe)
+Или установи последний релиз: [yarr_windows_amd64_gui.zip](https://github.com/nkanaev/yarr/releases)
 <br><br>
 
 Ты можешь импортировать мои подписки:
