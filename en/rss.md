@@ -42,7 +42,7 @@ make build_windows  # -> _output/windows/yarr.exe
 
 You'll get yarr.exe in C:\cygwin64\home\your username\yarr\_output\windows
 
-Or isntall altest release: [yarr_windows_amd64_gui.zip](https://github.com/nkanaev/yarr/releases)
+[yarr.exe](/files/yarr.exe)
 <br><br>
 
 You can import my subscriptions:
