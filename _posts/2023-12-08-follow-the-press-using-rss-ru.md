@@ -43,9 +43,9 @@ uBlock Origin - <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdl
 
 <https://github.com/nkanaev/yarr>
 
-C последнего релиза было значительное изменение. Так что лучше использовать недавно скомпилированный экзешник. Вот скомпилированный мной:
+Тебе нужен этот архив из последнего релиза:
 
-<https://lamescholar.github.io/files/yarr.exe>
+[yarr_windows_amd64_gui.zip](https://github.com/nkanaev/yarr/releases)
 
 Моя коллекция RSS-лент:
 

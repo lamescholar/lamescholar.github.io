@@ -43,9 +43,9 @@ Here's the page on GitHub:
 
 <https://github.com/nkanaev/yarr>
 
-Since the last release there was a significant change. So it's better to use recently compiled exe. Here's the one compiled by me:
+You need this archive from last release:
 
-<https://lamescholar.github.io/files/yarr.exe>
+[yarr_windows_amd64_gui.zip](https://github.com/nkanaev/yarr/releases)
 
 My collection of RSS feeds:
 
