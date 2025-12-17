@@ -41,8 +41,9 @@ make build_windows  # -> _output/windows/yarr.exe
 ```
 
 Получишь yarr.exe в C:\cygwin64\home\имя пользователя\yarr\_output\windows
+<br><br>
 
-Лили используй релиз разработчика:
+**ИЛИ** используй релиз разработчика:
 
 [yarr_windows_amd64_gui.zip](https://github.com/nkanaev/yarr/releases)
 <br><br>
@@ -51,8 +52,8 @@ make build_windows  # -> _output/windows/yarr.exe
 
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
 
-Чтобы читать периодику на иностранных языках, используй Google Translate, встроенный в Google Chrome, для перевода на английский (Google Translate сносно переводит только на английский). Кликни правой кнопкой мыши по пустому месту, выбери Перевести на English. Либо используй ChatGPT:
-<https://lamescholar.github.io/ru/chatgpt>
+Чтобы читать периодику на иностранных языках, используй Google Translate, встроенный в Google Chrome, для перевода на английский (Google Translate сносно переводит только на английский). Кликни правой кнопкой мыши по пустому месту, выбери Перевести на English. Либо:
+<https://lamescholar.github.io/en/machine-translation>
 <br><br>
 
 Как найти RSS-ленту? Добавь к URL:

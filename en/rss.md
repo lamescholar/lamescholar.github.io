@@ -41,8 +41,9 @@ make build_windows  # -> _output/windows/yarr.exe
 ```
 
 You'll get yarr.exe in C:\cygwin64\home\your username\yarr\_output\windows
+<br><br>
 
-Or use developer's release:
+**OR** use developer's release:
 
 [yarr_windows_amd64_gui.zip](https://github.com/nkanaev/yarr/releases)
 <br><br>
@@ -51,8 +52,8 @@ You can import my subscriptions:
 
 <a href="/files/subscriptions.opml" download>subscriptions.opml</a>
 
-To read periodicals in foreign languages, use Google Chrome in-build Google Translate. Right-click some blank space, choose Translate to English. Or use ChatGPT:
-<https://lamescholar.github.io/ru/chatgpt>
+To read periodicals in foreign languages, use Google Chrome in-build Google Translate. Right-click some blank space, choose Translate to English. Or:
+<https://lamescholar.github.io/en/machine-translation>
 <br><br>
 
 How to find RSS feed? Add to URL:
@@ -73,7 +74,7 @@ If no result, use [Google News](https://news.google.com/home?hl=en-US&gl=US&ceid
 when:24h inurl:washingtonpost.com
 ```
 
-And add "rss" to URL:
+Then add "rss" to URL:
 
 <https://news.google.com/search?q=when%3A24h%20inurl%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen>
 
