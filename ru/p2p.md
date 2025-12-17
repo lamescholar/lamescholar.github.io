@@ -76,9 +76,9 @@ Nyaa - <https://nyaa.si/><br>
 Украинские штуки.
 <br><br>
 
-Часто раздачи содержат образы дисков (.iso, .mdf). Их можно монтировать программой DAEMON Tools Lite.
+Часто раздачи содержат образы дисков (.iso, .mdf). Их можно монтировать программой WinCDEmu.
 
-<https://www.daemon-tools.cc/products/dtLite>
+<https://wincdemu.sysprogs.org/download/>
 <br><br>
 
 Информация:

@@ -77,9 +77,9 @@ Hurtom - https://toloka.to/<br>
 Ukrainian stuff.
 <br><br>
 
-Often releases contain disk images (.iso, .mdf). You can mount them with DAEMON Tools Lite.
+Often releases contain disk images (.iso, .mdf). You can mount them with WinCDEmu.
 
-<https://www.daemon-tools.cc/products/dtLite>
+<https://wincdemu.sysprogs.org/download/>
 <br><br>
 
 Information:
