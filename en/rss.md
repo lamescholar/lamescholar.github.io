@@ -80,7 +80,7 @@ Then add "rss" to URL:
 
 <https://news.google.com/rss/search?q=when%3A24h%20inurl%3Awashingtonpost.com&hl=en-US&gl=US&ceid=US%3Aen>
 
-In case of magazine with rare publication you can extend period of time from 24h to 168h (1 week):
+In case it's a magazine with rare publication rate you can extend period of time from 24h to 168h (1 week):
 
 ```
 when:168h inurl:spectator.co.uk
