@@ -60,7 +60,7 @@ insert name of the media file with extension.
 
 In line
 
-result = model.transcribe(r"path to the media file")
+`result = model.transcribe(r"path to the media file")`
 
 insert path to the media file.
 
