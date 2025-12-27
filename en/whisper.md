@@ -4,7 +4,7 @@ comments: true
 title: whisper
 ---
 
-whisper is a program for speech recognition.
+whisper is a program to do speech recognition.
 <br><br>
 
 <https://github.com/openai/whisper>
@@ -32,7 +32,7 @@ Win+R cmd
 `pip install -U openai-whisper`
 <br><br>
 
-Script for transript:
+Python script:
 
 ```
 import whisper
