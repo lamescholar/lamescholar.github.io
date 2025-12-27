@@ -24,7 +24,7 @@ MVGroup - <https://forums.mvgroup.org/><br>
 Documentaries. You need to register.
 <br><br>
 
-To play MKV, MP4 or AVI file install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) and open file with Media Player Classic.
+To play MKV, MP4 or AVI files, install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm). Open files with Media Player Classic.
 
 Hotkeys for Media Player Classic:
 
