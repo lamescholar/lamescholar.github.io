@@ -73,7 +73,7 @@ Italian stuff.
 Nyaa - <https://nyaa.si/><br>
 Asian stuff.
 
-Hurtom - https://toloka.to/<br>
+Hurtom - <https://toloka.to/><br>
 Ukrainian stuff.
 <br><br>
 
