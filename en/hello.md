@@ -19,7 +19,7 @@ how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in 
 One day I just realised that most ebooks on my laptop were scanned illegally. They were not made with expensive corporate equipment. They were not made for a wage. They were made by enthusiasts. Anyone can make ebooks with basic equipment and software. For its own sake.
 <br><br>
 
-Internet makes possible the free exchange of information - P2P networks. They remain underground, little known to the public. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, collection of private data and rent. By endowing <s>people</s> companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
+Internet makes possible the free exchange of information - P2P networks. They remain little known. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, collection of private data and rent. By endowing <s>people</s> companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
 
 Share the link
 
