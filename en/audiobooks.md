@@ -41,7 +41,7 @@ on seek - untick
 
 Suppose, you found an audiobook in German. It can be translated into English.
 
-Suppose, you have mp3 and cover of audiobook.
+You should have mp3 and cover of audiobook.
 
 1. Make subtitles (1.srt) out of mp3 with [subsai](/en/whisper#subsai).
 
