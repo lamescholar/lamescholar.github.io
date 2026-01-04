@@ -8,9 +8,9 @@ title: "Simone Weil - Meditation on Obedience and Liberty (1937-1938)"
 Source: [Weil, Simone - Oppression and Liberty - 2004](https://libgen.li/ads.php?md5=e5ce7a08010fc6f785d4e802b0ddec7f)
 <br><br>
 
-#### SIMONE WEIL
+# SIMONE WEIL
 
-# MEDITATION ON OBEDIENCE AND LIBERTY
+#### MEDITATION ON OBEDIENCE AND LIBERTY
 <br>
 
 The submission of the greater number to the smaller—that fundamental characteristic of nearly every form of social organization—still continues to astonish all who reflect a little. In nature, we see how what is heavier triumphs over what is lighter, how the more prolific species overwhelm the rest. In the case of men, these so clearly marked relations seem to be reversed. Certainly, we know from daily experience that man is not just a fragment of nature, that every day there are kinds of miracles being produced by what is highest in man—will, intelligence and faith. But that is not what we are dealing with here. There is nothing spiritual about that pitiless necessity which has kept, and goes on keeping, the masses of slaves, the masses of poverty-stricken creatures, the masses of underlings on their knees; it corresponds to everything that is brutal in nature. And yet it is apparently exercised in virtue of laws which are contrary to those of nature; as if, in the social balance, the gramme were heavier than the kilogramme.

@@ -8,9 +8,9 @@ title: "Simone Weil - On the Abolition of All Political Parties (1943)"
 Source: [Weil, Simone - On the Abolition of All Political Parties - 2014](https://libgen.li/ads.php?md5=fb8bd04ffec931009b3fee2525c71d03)
 <br><br>
 
-#### SIMONE WEIL
+SIMONE WEIL
 
-# ON THE ABOLITION OF ALL POLITICAL PARTIES
+#### ON THE ABOLITION OF ALL POLITICAL PARTIES
 <br>
 
 The word ‘party’ is taken here in the meaning it has in Continental Europe. In Anglo-Saxon countries, this same word designates an altogether different reality, which has its roots in English tradition and is therefore not easily transposable elsewhere. The experience of a century and a half shows this clearly enough. <a href="#On_the_Abolition_fnr_1" id="On_the_Abolition_fn_1">[1]</a> In the Anglo-Saxon world, political parties have an element of game, of sport, which is only conceivable in an institution of aristocratic origin, whereas in institutions that were plebeian from the start, everything must always be serious.
