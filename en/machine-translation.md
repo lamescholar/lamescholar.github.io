@@ -10,7 +10,7 @@ Since 2022, machine translation had a boost. ChatGPT produces decent translation
 2) Not available in some regions.<br>
 3) Any time OpenAI can close the free access.
 
-It is better to have a local, open source alternative to ChatGPT, and it exists. How does it work? You need to insert the text into a text file and run the script. The script starts to translate the text chunk by chunk. As soon as the script translates a chunk of text, it displays a translation. You can read translation as it happens. At the end, full translation goes into translation.txt.
+It is much better to have a local, open source alternative to ChatGPT, and it actually exists. Here's how to use it. You need to insert the text into a text file, then run the script. The script translates the text chunk by chunk. As soon as the script translates a chunk of text, it displays a translation. You can read translation as it happens. At the end, full translation goes into translation.txt.
 <br><br>
 
 <video width="100%" preload="auto" muted controls>
