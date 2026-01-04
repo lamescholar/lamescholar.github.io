@@ -5,8 +5,6 @@ title: Word
 ---
 
 Word 2024 - <https://rutracker.org/forum/viewtopic.php?t=6619205>
-
-DAEMON Tools Lite - <https://www.daemon-tools.cc/eng/products/dtLite>
 <br><br>
 
 #### Settings
