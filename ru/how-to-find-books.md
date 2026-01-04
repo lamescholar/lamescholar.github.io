@@ -24,7 +24,7 @@ RuTracker - <http://rutracker.org/forum/index.php>
 
 Книга может быть доступна только для проката на час. Тут помогает скрипт:
 
-[Internet Archive](/ru/internet-archive)
+[Internet Archive script](/ru/internet-archive-script)
 <br><br>
 
 Если книги нет во всех перечисленных источниках, стоит в довершение [загуглить](/ru/search-engines) книгу. Если и в гугле книги нет, то скорее всего книга никогда не была оцифрована. Ты можешь оцифровать её сам. См. [Оцифровка книг](/ru/book-digitization).

@@ -24,7 +24,7 @@ If the book is in English and it is not in these 5 sources, check Internet Archi
 
 The book can only be available for rental for an hour. This script helps here:
 
-[Internet Archive](/en/internet-archive)
+[Internet Archive script](/en/internet-archive-script)
 <br><br>
 
 If the book is not in all of these sources, last chance is [googling](/en/search-engines) it. If there is no book in Google, then most likely the book was never digitized. You can digitize it yourself. See [How to create ebooks](/en/how-to-create-ebooks).
