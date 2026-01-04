@@ -8,6 +8,8 @@ title: "Simone Weil - On the Abolition of All Political Parties (1943)"
 Source: [Weil, Simone - On the Abolition of All Political Parties - 2014](https://libgen.li/ads.php?md5=fb8bd04ffec931009b3fee2525c71d03)
 <br><br>
 
+#### SIMONE WEIL
+
 # ON THE ABOLITION OF ALL POLITICAL PARTIES
 <br>
 
