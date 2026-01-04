@@ -18,9 +18,9 @@ It is better to have a local, open source alternative to ChatGPT, and it exists.
 </video>
 <br>
 
-About the script. The script splits the text into paragraphs, paragraphs into sentences. Why? Paragraph is too big to translate it all at once. Each paragraph is split into batches of 3 sentences. The model translates each batch individually.
+Couple of words about how the script works. First, it splits the text into paragraphs, then paragraphs into sentences. Why? Paragraph is usually too big to translate all at once. For this reason, each paragraph is split into batches of 3 sentences. This way model translates each batch individually.
 
-3 sentences is the optimal size. Too large a chunk can overload the model, break the translation. If you translate one sentence at a time - no context, bad translation.
+3 sentences is the optimal size. It is manageable for the model. Too large a chunk overloads the model and breaks the translation. But it also can't be to small a chunk. With sentence by sentence, context is lost and you get worse translation.
 <br><br>
 
 Before running the script, you need to have these **prerequisites**:
