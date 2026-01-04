@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Репосты
 comments: true
 title: "Симона Вейль - Размышление о повиновении и свободе (1937-1938)"
 ---
