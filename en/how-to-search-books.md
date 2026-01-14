@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: How to find books
+title: How to search books
 ---
 
 Usually, when I'm looking for the ebook, I check 5 sources:

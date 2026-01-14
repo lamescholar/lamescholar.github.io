@@ -48,7 +48,7 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [How to create ebooks](/en/how-to-create-ebooks)
 
-[How to find books](/en/how-to-find-books)
+[How to search books](/en/how-to-search-books)
 
 [How to name ebooks](/en/how-to-name-ebooks)
 
