@@ -4,9 +4,6 @@ comments: true
 title: Dictionaries
 ---
 
-English is my second language. Quite often, I need to look up words which is really convenient with GoldenDict. I use it not only for dictionaries. I also found several encyclopedias. It is a really convenient way to quickly look up stuff, offline. Your own little reference library.
-<br><br>
-
 GoldenDict-ng - <https://github.com/xiaoyifang/goldendict-ng/releases>
 
 article-style.css:
