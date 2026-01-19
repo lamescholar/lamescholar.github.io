@@ -28,7 +28,7 @@ That's the problem with the vanguard of the proletariat. First of all, proletari
 
 Economic authority doesn't evaporate if we have no dictatorial political authority. Socialists can and must have effective mechanisms of conflict resolution. When we sketch policies, we must take into the account the interests of all sides, not brand people's material interests on the ground as petty bourgeouis reactionary ideology. As though it's just a quirk of the mind and not the livelihood of millions. If we transition from private property, there should be avenues for people to enter the common ownership with dignity.
 
-Engels closes the issue by saying that we can't abolish the political authority in one day. There are reactionaries that must be crushed. The revolution is authoritarian because it dictates its will to all classes of society. All right, but how we get from most authoritarian to apolitical government that serves true interests of society?
+Engels closes the issue by saying that we can't abolish the political authority in one day. There are reactionaries that must be crushed. The revolution is authoritarian because it dictates its will to all classes of society. All right, but how do we get from most authoritarian to apolitical government that serves true interests of society?
 
 That's essential question. It can't be postponed in a manner "we can't write recipes for the cookshops of the future".
 
