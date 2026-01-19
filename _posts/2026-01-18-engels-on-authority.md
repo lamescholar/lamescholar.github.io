@@ -14,7 +14,7 @@ I long had some thoughts about the article On Authority written by Engels. This 
 
 The heart of Engels' argument is that we cannot avoid authority in modern economy where we must coordinate the work of large industries. Any given employee must be compelled to work within the established production chain.
 
-Notice that what Engels describes here is economic authority. It is quite different from political authority. It is easy to illustrate with Kant's article What is Enlightenment? In the article, Kant advocates for the liberty to express your opinion about the state of affairs, but while the rules are in place, one must follow his duties. Kant gives us a clear contraposition of economic and political authority. Political authority is ability to sketch a plan. Economic authority is a coersion to follow the plan.
+Notice that what Engels describes here is economic authority. It is quite different from political authority. It is easy to illustrate with Kant's article What is Enlightenment? In the article, Kant advocates for the liberty to express your opinion about the state of affairs, but while the rules are in place, one must follow his duties. Kant gives us a clear contraposition of political and economic authority. Political authority is ability to sketch a plan. Economic authority is a coersion to follow the plan.
 
 Engels clearly evades the issue of political authority. Who draws up the plan? Who's taken into consideration? What is the mechanism of conflict resolution?
 
