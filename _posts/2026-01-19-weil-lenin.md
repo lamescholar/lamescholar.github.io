@@ -2,7 +2,7 @@
 layout: post
 tag: Reposts
 comments: true
-title: Simone Weil - On the Lenin's Book Materialism and Empiriocriticism
+title: Simone Weil - On the Lenin's Book Materialism and Empiriocriticism (1933)
 ---
 
 Source: [Weil, Simone - Oppression and Liberty - 2004](https://libgen.li/ads.php?md5=e5ce7a08010fc6f785d4e802b0ddec7f)
