@@ -10,7 +10,7 @@ Source: [Weil, Simone - Oppression and Liberty - 2004](https://libgen.li/ads.php
 
 #### Simone Weil
 
-# ON LENIN’S BOOK *MATERIALISM AND EMPIRIOCRITICISM*
+#### ON LENIN’S BOOK *MATERIALISM AND EMPIRIOCRITICISM*
 <br>
 
 This work, the only one published by Lenin on purely philosophical questions, is directed against Mach and against the disciples, avowed or not, whom he had in 1908 in the ranks of social-democracy, and especially Russian social-democracy; the best known of these was Bogdanov. Here Lenin examines in detail his opponents’ doctrines, which all endeavoured, with more or less subtlety, to solve the problem of knowledge by doing away with the notion of an object exterior to thought; he shows that they all come back in the end, once stripped of their pretentious phraseology, to the idealism of Berkeley, that is to say to a negation of the outside world; he places in opposition to them the materialism of Marx and Engels. In this controversy, which took him away from his usual preoccupations, Lenin displayed once again his power of work, his taste for serious documentary analysis. The point of the discussion is easy to understand: you cannot claim to stand for “scientific socialism” if you have not a clear idea of what science is, if consequently you have not posited in clear terms the problem of knowledge, of the relationship between thought and its object. Nevertheless, Lenin’s work is almost as tedious and even almost as little instructive as any textbook of philosophy. This is partly due to the mediocrity of the opponents Lenin is attacking, but above all to Lenin’s method itself.
