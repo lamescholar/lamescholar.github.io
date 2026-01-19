@@ -8,7 +8,7 @@ title: Engels on authority
 2026-01-18
 
 # Engels on authority
-<br><br>
+<br>
 
 I long had some thoughts about the article On Authority written by Engels. This article is the reference in Marxist circles whenever you raise the issue of authority and government. It is easy to see why. Engels solves the question of authority by appealing to demands of the economy. It is perfect Marxist syllogism: the basis determines the superstructure.
 
