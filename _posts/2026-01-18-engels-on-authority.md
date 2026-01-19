@@ -12,7 +12,7 @@ title: Engels on authority
 
 I long had some thoughts about the article On Authority written by Engels. This article is a default reference in Marxist circles whenever you raise the issue of authority and government. It is easy to see why. Engels solves the question of authority by appeling to demands of the economy. It is perfect Marxist syllogism: the basis determines the superstructure.
 
-The heart of Engels' argument is that we cannot avoid authority in modern economy where we must coordinate the work of large industries. Any given employee must be compelled to work within the established production chain. Such is unavoidable reality of modern industry.
+The heart of Engels' argument is that we cannot avoid authority in modern economy where we must coordinate the work of large industries. Any given employee must be compelled to work within the established production chain.
 
 Notice that Engels describes here the economic authority. It is quite different from political authority. I can illustrate how on Kant's article What is Enlightenment? In the article, Kant advocates for the liberty to express your opinion about the state of affairs, but while the rules are in place, one must follow his duties. Kant gives us a clear contraposition of economic and political authority. Political authority is ability to sketch a plan. Economic authority is a coersion to follow the plan.
 
