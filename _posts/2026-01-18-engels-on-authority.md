@@ -20,7 +20,7 @@ Until the very end, Engels evades the issue of political authority. Who draws up
 
 Engels writes:
 
-"All Socialists are agreed that the political state, and with it political authority, will disappear as a result of the coming social revolution, that is, that public functions will lose their political character and will be transformed into the simple administrative functions of watching over the true interests of society."
+> All Socialists are agreed that the political state, and with it political authority, will disappear as a result of the coming social revolution, that is, that public functions will lose their political character and will be transformed into the simple administrative functions of watching over the true interests of society.
 
 True interests of society. What are they? This vague term hides the fact that any society has conflicts of interest. If the interest of peasants in Russian agrarian society stands in the way of true interest of indurstrialization, peasants are crushed even though they constitute the majority of society.
 
