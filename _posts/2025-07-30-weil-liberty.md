@@ -8,7 +8,7 @@ title: "Simone Weil - Meditation on Obedience and Liberty (1937-1938)"
 Source: [Weil, Simone - Oppression and Liberty - 2004](https://libgen.li/ads.php?md5=e5ce7a08010fc6f785d4e802b0ddec7f)
 <br><br>
 
-SIMONE WEIL
+#### Simone Weil
 
 #### MEDITATION ON OBEDIENCE AND LIBERTY
 <br>
