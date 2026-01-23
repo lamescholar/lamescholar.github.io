@@ -22,7 +22,7 @@ Engels writes:
 
 > All Socialists are agreed that the political state, and with it political authority, will disappear as a result of the coming social revolution, that is, that public functions will lose their political character and will be transformed into the simple administrative functions of watching over the true interests of society.
 
-True interests of society. What are they? This vague term hides the fact that any society has conflicts of interest. If the interest of the peasants in Russian agrarian society stands in the way of true interest of indurstrialization, peasants are crushed even though they constitute the majority of society.
+True interests of society. What are they? This vague term hides the fact that any society has conflicts of interest. If the interest of the peasants in Russian agrarian society stands in the way of true interest of industrialization, peasants are crushed even though they constitute the majority of society.
 
 That's the problem with the vanguard of the proletariat. First of all, proletariat is one among many. There are many interest groups in the transition period, even withing a class. Second, how does bureucracy assume the interests of the proletariat? How the policy can be amended by the people? If there is an unaccountable body called the Politburo that has the supreme political authority to sketch the policies, then conflict resolution is skewed. After the fall of the Soviet Union, we know the cost of dictatorial political authority. Unaccountability inevitably leads to mismanagment, disasters, deep resentment and slow deterioration of society.
 
