@@ -14,7 +14,7 @@ Ctrl+Y - change the scale. If pre-installed scales 150% and 200% don't suit, cho
 
 Advanced Options...->RestoreSession = false
 
-ZoomLevels = 12 18 25 31 37 43 50 62 75 87 100 125 150 175 200 250 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomLevels = 12 15 18 21 25 28 31 37 43 50 62 75 87 100 125 150 175 200 250 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
 <br><br>
 
 #### Creating PDF:
