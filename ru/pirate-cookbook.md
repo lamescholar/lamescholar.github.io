@@ -22,8 +22,6 @@ title: Поваренная книга пирата
 
 [LaTeX](/ru/latex)
 
-[NYPL](/ru/nypl)
-
 [OCR](/ru/ocr)
 
 [Open access](/ru/open-access)

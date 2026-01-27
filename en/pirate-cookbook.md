@@ -72,8 +72,6 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [Music](/en/music)
 
-[NYPL](/en/nypl)
-
 [OCR](/en/ocr)
 
 [Open access](/en/open-access)

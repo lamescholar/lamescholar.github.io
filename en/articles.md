@@ -16,15 +16,13 @@ PhilPapers - <https://philpapers.org/>
 
 Sci-Hub - <https://sci-hub.ru/>
 
-JSTOR - <https://www-jstor-org.i.ezproxy.nypl.org/>
+JSTOR
 
-Brill - <https://brill-com.i.ezproxy.nypl.org/>
+Cambridge Core
 
-Cambridge Core - <https://www-cambridge-org.i.ezproxy.nypl.org/core/>
+Oxford Academic
 
-Oxford Academic - <https://academic-oup-com.i.ezproxy.nypl.org/>
-
-Project MUSE - <https://muse-jhu-edu.i.ezproxy.nypl.org/>
+Project MUSE
 <br><br>
 
 #### Magazines by topic
