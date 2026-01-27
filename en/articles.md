@@ -85,7 +85,7 @@ Revue historique - <https://gallica.bnf.fr/ark:/12148/cb34349205q/date.r=.langFR
 
 Historische Zeitschrift - <https://www.jstor.org/journal/histzeit>
 
-The Virginia Magazine of History and Biography - <https://www-jstor-org.i.ezproxy.nypl.org/journal/virghistbiog>
+The Virginia Magazine of History and Biography - JSTOR
 <br><br>
 
 <a id="literary"></a>
@@ -127,23 +127,23 @@ The Times Literary Supplement:<br>
 
 The Yale Review - <https://yalereview.org/issues>
 
-American Book Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/467>
+American Book Review - Project MUSE
 
-French Studies: A Quarterly Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/346>
+French Studies: A Quarterly Review - Project MUSE
 
-German Studies Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/552>
+German Studies Review - Project MUSE
 
-New England Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/541>
+New England Review - Project MUSE
 
 Ploughshares - <https://muse.jhu.edu/journal/542>
 
-Southern Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/611>
+Southern Review - Project MUSE
 
-Virginia Quarterly Review - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/647>
+Virginia Quarterly Review - Project MUSE
 
 Top 100 - <https://thejohnfox.com/2021/08/ranking-of-the-100-best-literary-magazines/>
 
-Book Review Index - <https://go-gale-com.i.ezproxy.nypl.org/ps/dispBasicSearch.do?userGroupName=nypl&prodId=BRIP>
+Book Review Index - Gale
 <br><br>
 
 <a id="natural"></a>
@@ -187,15 +187,15 @@ Philosophie - <https://www.philomag.com/archives>
 
 Philosophie Magazin - <https://www.philomag.de/>
 
-Diacritics - <https://muse-jhu-edu.i.ezproxy.nypl.org/pub/1/journal/46>
+Diacritics - Project MUSE
 
-Journal of the History of Philosophy - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/76>
+Journal of the History of Philosophy - Project MUSE
 
-The Philosophical Review - <https://www-jstor-org.i.ezproxy.nypl.org/journal/philrevi>
+The Philosophical Review - JSTOR
 
 Noûs - <https://onlinelibrary.wiley.com/loi/14680068>
 
-The Journal of Philosophy - <https://www-jstor-org.i.ezproxy.nypl.org/journal/jphilosophy>
+The Journal of Philosophy - JSTOR
 
 Mind - <https://academic.oup.com/mind/issue>
 
@@ -237,7 +237,7 @@ The Saturday Paper - <https://www.thesaturdaypaper.com.au/>
 
 The Spectator - <https://www.spectator.co.uk/>
 
-Vital Speeches of the Day - <https://search-ebscohost-com.i.ezproxy.nypl.org/login.aspx?direct=true&AuthType=ip,url,cpid&custid=nypl&db=f5h&jid=VIT&site=ehost-live>
+Vital Speeches of the Day - EBSCO
 
 WIRED - <https://www.wired.com/most-recent/>
 <br><br>
@@ -264,7 +264,7 @@ Catalyst - <https://catalyst-journal.com/issues>
 
 Le Monde diplomatique EN - <https://mondediplo.com/>
 
-Dissent - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/464>
+Dissent - Project MUSE
 
 Monthly Review - <https://monthlyreview.org/browse-the-archives/>
 
@@ -276,7 +276,7 @@ Capital & Class - <https://journals.sagepub.com/loi/CNC>
 
 Critique - <https://www.tandfonline.com/loi/rcso20>
 
-The Humanist - <https://www.nypl.org/research/collections/articles-databases/search?q=ProQuest&page=1>
+The Humanist - ProQuest
 
 e-flux: Journal - <https://www.e-flux.com/journal/>
 
@@ -287,23 +287,23 @@ Le Monde Libertaire - <https://monde-libertaire.net/?page=papier>
 Marxist scholarship - <https://marxistsociology.org/announcements/journals/>
 <br><br>
 
-Book History - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/23>
+Book History - Project MUSE
 
 Publishing Research Quarterly - <https://link.springer.com/journal/12109/volumes-and-issues>
 
-Studies in Bibliography - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/298>
+Studies in Bibliography - Project MUSE
 
-The Library - <https://academic-oup-com.i.ezproxy.nypl.org/library/issue>
+The Library - Oxford Academic
 
 The Papers of the Bibliographical Society of America - <https://www.journals.uchicago.edu/loi/pbsa>
 <br><br>
 
 Intellectual History Review - <https://www.tandfonline.com/loi/rihr20>
 
-Journal of the History of Ideas - <https://muse-jhu-edu.i.ezproxy.nypl.org/journal/91>
+Journal of the History of Ideas - Project MUSE
 
-Modern Intellectual History - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/modern-intellectual-history/all-issues>
+Modern Intellectual History - Cambridge Core
 
 Neue Politische Literatur - <https://link.springer.com/journal/42520/volumes-and-issues>
 
-Renaissance Quarterly - <https://www-cambridge-org.i.ezproxy.nypl.org/core/journals/renaissance-quarterly/all-issues>
+Renaissance Quarterly - Cambridge Core
