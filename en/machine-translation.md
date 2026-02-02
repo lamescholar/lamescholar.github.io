@@ -29,7 +29,7 @@ Before running the script, you need to have these **prerequisites**:
 
 **llama.cpp** - <https://github.com/ggml-org/llama.cpp/releases>
 
-**Qwen3-4B-Instruct-2507-Q4_K_M** - <https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/tree/main>
+**translategemma-4b-it.Q4_K_M** - <https://huggingface.co/mradermacher/translategemma-4b-it-GGUF/tree/main>
 
 **Python** - <https://www.python.org/downloads/>
 
@@ -44,7 +44,7 @@ Now the script.
 
 Create a folder. Store all files in this folder.
 
-Create qwen3-visual.py:
+Create translategemma-visual.py:
 
 ```
 import nltk
@@ -59,14 +59,13 @@ import re
 # Configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
 SERVER_EXECUTABLE_PATH = r'llama-b6715-bin-win-cpu-x64\llama-server.exe'
-MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
+MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\translategemma-4b-it.Q4_K_M.gguf'
 
 MODEL_PARAMS = {
+    "repeat_penalty": 1.0,
     "temperature": 0.6,
-    "n_predict": 512, 
     "top_k": 20,
     "top_p": 0.95,
-    "repeat_penalty": 1.0,
 }
 
 SERVER_ARGS = [
@@ -79,7 +78,6 @@ SERVER_STARTUP_TIMEOUT = 300
 
 input_file = 'text.txt'
 output_file = 'translation.txt'
-SYSTEM_PROMPT = "Return only translation. Translate to English:"
 
 # nltk
 def ensure_nltk_punkt():
@@ -170,19 +168,17 @@ def create_batches(paragraphs):
 # llama.cpp server API
 def translate_batch_with_server(batch_text):
     prompt_text = (
-        f"<|im_start|>system\n{SYSTEM_PROMPT}\n<|im_end|>\n"
-        f"<|im_start|>user\n{batch_text}\n<|im_end|>\n"
+        f"<|im_start|>user\nReturn only translation. Translate to English:\n{batch_text}\n<|im_end|>\n"
         f"<|im_start|>assistant\n"
     )
 
     payload = {
         "prompt": prompt_text,
-        "n_predict": MODEL_PARAMS['n_predict'],
+        "repeat_penalty": MODEL_PARAMS['repeat_penalty'],
         "temperature": MODEL_PARAMS['temperature'],
         "top_k": MODEL_PARAMS['top_k'],
         "top_p": MODEL_PARAMS['top_p'],
-        "repeat_penalty": MODEL_PARAMS['repeat_penalty'],
-        "stop": ["<|im_end|>", "</s>", "[end of text]"],
+        "stop": ["<|im_end|>"],
         "stream": False
     }
 
@@ -279,16 +275,16 @@ finally:
 
 OK, you have in your folder:<br>
 llama-b6715-bin-win-cpu-x64<br>
-llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf<br>
+llama-b6715-bin-win-cpu-x64\translategemma-4b-it.Q4_K_M<br>
 text.txt<br>
-qwen3-visual.py
+translategemma-visual.py
 
 To easily run your script, create .bat file.
 
-qwen3-visual.bat:
+translategemma-visual.bat:
 
 ```
-python qwen3-visual.py
+python translategemma-visual.py
 pause
 ```
 <br>
@@ -314,7 +310,7 @@ goto read
 
 :process
 echo Running translation...
-python qwen3-visual.py
+python translategemma-visual.py
 echo.
 goto loop
 ```
