@@ -324,4 +324,4 @@ echo.
 goto loop
 ```
 
-If you add the folder to PATH, you can run command line and just type ```translator```.
+Create a shortcut on your Desktop.
