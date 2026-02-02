@@ -294,7 +294,7 @@ pause
 If you want to see only the progress bar, here you go:
 
 [translategemma.py](/files/translategemma.py)
-<br>
+<br><br>
 
 Simple command-line translator.
 
