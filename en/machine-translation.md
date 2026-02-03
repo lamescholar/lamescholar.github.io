@@ -20,7 +20,7 @@ Insert the text into a text file, then run the script. The script translates the
 </video>
 <br>
 
-How the script works? First, it splits the text into paragraphs, then paragraphs into sentences. Why? Paragraph is usually too big to translate all at once. For this reason, each paragraph is split into batches of 3 sentences. This way model translates each batch individually.
+How the script works? First, it splits the text into paragraphs, then paragraphs into sentences. Why? Paragraph is usually too big to translate all at once. For this reason, each paragraph is split into batches of 3 sentences. This way, model can translate a large text batch by batch.
 
 3 sentences is the optimal size. It is manageable for the model. Too large a chunk overloads the model and breaks the translation. But it also can't be to small a chunk. With sentence by sentence, context is lost and you get worse translation.
 
