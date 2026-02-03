@@ -12,7 +12,7 @@ Since 2022, machine translation had a boost. ChatGPT produces decent translation
 
 It is much better to have a local, open source alternative to ChatGPT, and it actually exists. Here's how to use it:
 
-Insert the text into a text file, then run the script. The script translates the text chunk by chunk. As soon as the script translates a chunk of text, it displays a translation. You can read translation as it happens. At the end, full translation goes into translation.txt.
+Insert the text into a text file. Run the script. The script translates the text chunk by chunk. You can read translation as it happens. At the end, full translation goes into translation.txt.
 <br><br>
 
 <video width="100%" preload="auto" muted controls>
@@ -20,14 +20,14 @@ Insert the text into a text file, then run the script. The script translates the
 </video>
 <br>
 
-How the script works? First, it splits the text into paragraphs, then paragraphs into sentences. Why? Paragraph is usually too big to translate all at once. For this reason, each paragraph is split into batches of 3 sentences. This way, model can translate a large text batch by batch.
+What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? Paragraph is usually too big to translate all at once. Due to this, each paragraph is split into batches of 3 sentences. This way, model can translate a large text batch by batch.
 
-3 sentences is the optimal size. Too large a chunk overloads the model and breaks the translation. But also, it can't be too small. If you translate sentence by sentence, the context is lost.
+3 sentences is the optimal size. Too large a chunk overloads the model and breaks the translation. But also, a chunk can't be too small. If you translate sentence by sentence, the context is lost.
 
 At the moment, I found two Small Language Models that do English translation well: Qwen3-4B and TranslateGemma-4B.
 <br><br>
 
-Before running the script, you need to have these **prerequisites**:
+Before you can run the script, here's the **prerequisites**:
 
 **llama.cpp** - <https://github.com/ggml-org/llama.cpp/releases>
 
@@ -275,13 +275,13 @@ finally:
 ```
 <br>
 
-OK, you have in your folder:<br>
+Now you should have in your folder:<br>
 llama-b6715-bin-win-cpu-x64<br>
 llama-b6715-bin-win-cpu-x64\translategemma-4b-it.Q4_K_M<br>
 text.txt<br>
 translategemma-visual.py
 
-To easily run your script, create .bat file.
+To quickly run your script, create .bat file.
 
 translategemma-visual.bat:
 
