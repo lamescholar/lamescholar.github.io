@@ -180,7 +180,7 @@ def translate_batch_with_server(batch_text):
         "temperature": MODEL_PARAMS['temperature'],
         "top_k": MODEL_PARAMS['top_k'],
         "top_p": MODEL_PARAMS['top_p'],
-        "stop": ["<|im_end|>"],
+        "stop": ["<|im_end|>, <|file_separator|>"],
         "stream": False
     }
 
