@@ -22,7 +22,7 @@ Insert the text into a text file, then run the script. The script translates the
 
 How the script works? First, it splits the text into paragraphs, then paragraphs into sentences. Why? Paragraph is usually too big to translate all at once. For this reason, each paragraph is split into batches of 3 sentences. This way, model can translate a large text batch by batch.
 
-3 sentences is the optimal size. It is manageable for the model. Too large a chunk overloads the model and breaks the translation. But it also can't be to small a chunk. With sentence by sentence, context is lost and you get worse translation.
+3 sentences is the optimal size. Too large a chunk overloads the model and breaks the translation. But also, it can't be too small. If you translate sentence by sentence, the context is lost.
 
 At the moment, I found two Small Language Models that do English translation well: Qwen3-4B and TranslateGemma-4B.
 <br><br>
