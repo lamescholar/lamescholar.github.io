@@ -161,7 +161,7 @@ try:
     paragraphs = [p.strip() for p in raw_text.split('\n\n') if p.strip()]
     batches = create_batches(paragraphs)
 
-    print(f"🔄 Translating {len(batches)} batches...\n")
+    print(f"🔄 Translating {len(paragraphs)} paragraphs...\n")
 
     if not is_server_ready():
         server_process = start_server()
