@@ -13,18 +13,10 @@ Since 2022, machine translation had a boost. ChatGPT produces decent translation
 It is much better to have a local, open source alternative to ChatGPT, and it actually exists. Here's how to use it:
 
 Insert the text into a text file. Run the script. The script translates the text chunk by chunk. You can read translation as it happens. At the end, full translation goes into translation.txt.
-<br><br>
 
-<video width="100%" preload="auto" muted controls>
-    <source src="/files/qwen3.mp4" type="video/mp4">
-</video>
-<br>
+What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long translate all at once. In this case, the paragraph is split into batches of 3 sentences (bare minimum of context).
 
-What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? Paragraph is usually too big to translate all at once. Due to this, each paragraph is split into batches of 3 sentences. This way, model can translate a large text batch by batch.
-
-3 sentences is the optimal size. Too large a chunk overloads the model and breaks the translation. But also, a chunk can't be too small. If you translate sentence by sentence, the context is lost.
-
-At the moment, I found two Small Language Models that do English translation well: Qwen3-4B and TranslateGemma-4B.
+At the moment, I found two SLMs (small language models) that do English translation well: Qwen3-4B and TranslateGemma-4B.
 <br><br>
 
 Before you can run the script, here's the **prerequisites**:

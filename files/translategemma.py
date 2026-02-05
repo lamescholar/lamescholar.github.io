@@ -97,6 +97,9 @@ def generate_batching_rule(n):
 def create_batches(paragraphs):
     batches = []
     for p_idx, paragraph in enumerate(paragraphs):
+        if len(paragraph) <= 2000:
+            batches.append((p_idx, paragraph))
+            continue
         sentences = split_into_sentences(paragraph)
         n = len(sentences)
         if n == 0:
@@ -112,7 +115,7 @@ def create_batches(paragraphs):
 # llama.cpp server API
 def translate_batch_with_server(batch_text):
     prompt_text = (
-        f"<|im_start|>user\nReturn only translation. Translate to English:\n{batch_text}\n<|im_end|>\n"
+        f"<|im_start|>user\nReturn only translation. Translate to English: {batch_text}\n<|im_end|>\n"
         f"<|im_start|>assistant\n"
     )
 
@@ -122,7 +125,7 @@ def translate_batch_with_server(batch_text):
         "temperature": MODEL_PARAMS['temperature'],
         "top_k": MODEL_PARAMS['top_k'],
         "top_p": MODEL_PARAMS['top_p'],
-        "stop": ["<|im_end|>"],
+        "stop": ["<|im_end|>", "<|file_separator|>"],
         "stream": False
     }
 
