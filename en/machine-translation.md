@@ -15,7 +15,7 @@ Insert the text into a text file. Run the script. The script translates the text
 
 What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. In this case, the paragraph is split into batches of 3 sentences that retain some context and should not overflow the model.
 
-At the moment, I found two SLMs (small language models) that do English translation well: Qwen3-4B and TranslateGemma-4B.
+At the moment, I found two small language models that do English translation well: Qwen3-4B and TranslateGemma-4B.
 <br><br>
 
 Before you can run the script, here's the **prerequisites**:
