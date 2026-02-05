@@ -134,7 +134,7 @@ def translate_batch_with_server(batch_text):
         response.raise_for_status()
         data = response.json()
         translated = data.get('content', '').strip()
-        for token in ["<|im_end|>", "</s>", "[end of text]"]:
+        for token in ["<|im_end|>", "<|file_separator|>"]:
             translated = translated.replace(token, "").strip()
         return translated
     except requests.exceptions.ConnectionError:
