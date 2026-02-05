@@ -13,6 +13,7 @@ Since 2022, machine translation had a boost. ChatGPT produces decent translation
 It is much better to have a local, open source alternative to ChatGPT, and it actually exists. Here's how to use it:
 
 Insert the text into a text file. Run the script. The script translates the text chunk by chunk. You can read translation as it happens. At the end, full translation goes into translation.txt.
+<br><br>
 
 <video width="100%" preload="auto" muted controls>
     <source src="/files/qwen3.mp4" type="video/mp4">
