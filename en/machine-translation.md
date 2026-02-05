@@ -13,7 +13,7 @@ Since 2022, machine translation had a boost. ChatGPT produces decent translation
 It is much better to have a local, open source alternative to ChatGPT, and it actually exists. Here's how to use it:<br>
 Insert the text into a text file. Run the script. The script translates the text chunk by chunk. You can read translation as it happens. At the end, full translation goes into translation.txt.
 
-What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. In this case, the paragraph is split into batches of 3 sentences that retain some context and should not overflow the model.
+What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. In this case, the paragraph is split into batches of 3 sentences.
 
 At the moment, I found two small language models that do English translation well: Qwen3-4B and TranslateGemma-4B.
 <br><br>
@@ -219,7 +219,7 @@ try:
     translated_paragraphs = [[] for _ in paragraphs]
     batches_processed_per_paragraph = [0] * len(paragraphs)
 
-    print(f"🔄 Translating {len(batches)} batches...\n")
+    print(f"🔄 Translating {len(paragraphs)} paragraphs...\n")
 
     max_width = 80
     line_length_by_paragraph = {}
