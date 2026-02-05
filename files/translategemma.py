@@ -97,9 +97,6 @@ def generate_batching_rule(n):
 def create_batches(paragraphs):
     batches = []
     for p_idx, paragraph in enumerate(paragraphs):
-        if len(paragraph) <= 2000:
-            batches.append((p_idx, paragraph))
-            continue
         sentences = split_into_sentences(paragraph)
         n = len(sentences)
         if n == 0:
@@ -161,7 +158,7 @@ try:
     paragraphs = [p.strip() for p in raw_text.split('\n\n') if p.strip()]
     batches = create_batches(paragraphs)
 
-    print(f"🔄 Translating {len(paragraphs)} paragraphs...\n")
+    print(f"🔄 Translating {len(batches)} batches...\n")
 
     if not is_server_ready():
         server_process = start_server()

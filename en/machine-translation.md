@@ -10,10 +10,16 @@ Since 2022, machine translation had a boost. ChatGPT produces decent translation
 2) Not available in some regions.<br>
 3) Any time OpenAI can close the free access.
 
-It is much better to have a local, open source alternative to ChatGPT, and it actually exists. Here's how to use it:<br>
+It is much better to have a local, open source alternative to ChatGPT, and it actually exists. Here's how to use it:
+
 Insert the text into a text file. Run the script. The script translates the text chunk by chunk. You can read translation as it happens. At the end, full translation goes into translation.txt.
 
-What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. In this case, the paragraph is split into batches of 3 sentences.
+<video width="100%" preload="auto" muted controls>
+    <source src="/files/qwen3.mp4" type="video/mp4">
+</video>
+<br>
+
+What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. To avoid an overflow, paragraphs are split into batches of 3 sentences.
 
 At the moment, I found two small language models that do English translation well: Qwen3-4B and TranslateGemma-4B.
 <br><br>
@@ -142,10 +148,6 @@ def create_batches(paragraphs):
     batches = []
     paragraph_batch_counts = []
     for p_idx, paragraph in enumerate(paragraphs):
-        if len(paragraph) <= 2000:
-            batches.append((p_idx, paragraph))
-            paragraph_batch_counts.append(1)
-            continue
         sentences = split_into_sentences(paragraph)
         n = len(sentences)
         if n == 0:
@@ -219,7 +221,7 @@ try:
     translated_paragraphs = [[] for _ in paragraphs]
     batches_processed_per_paragraph = [0] * len(paragraphs)
 
-    print(f"🔄 Translating {len(paragraphs)} paragraphs...\n")
+    print(f"🔄 Translating {len(batches)} batches...\n")
 
     max_width = 80
     line_length_by_paragraph = {}
