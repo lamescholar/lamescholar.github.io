@@ -10,7 +10,7 @@ from tqdm import tqdm
 # Configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
 SERVER_EXECUTABLE_PATH = r'llama-b6715-bin-win-cpu-x64\llama-server.exe'
-MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\translategemma-4b-it.Q4_K_M.gguf'
+MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
 
 MODEL_PARAMS = {
     "repeat_penalty": 1.0,
@@ -112,7 +112,7 @@ def create_batches(paragraphs):
 # llama.cpp server API
 def translate_batch_with_server(batch_text):
     prompt_text = (
-        f"<|im_start|>user\nReturn only translation. Translate to English: {batch_text}\n<|im_end|>\n"
+        f"<|im_start|>user\nReturn only translation. Translate to English:\n{batch_text}\n<|im_end|>\n"
         f"<|im_start|>assistant\n"
     )
 
@@ -122,7 +122,7 @@ def translate_batch_with_server(batch_text):
         "temperature": MODEL_PARAMS['temperature'],
         "top_k": MODEL_PARAMS['top_k'],
         "top_p": MODEL_PARAMS['top_p'],
-        "stop": ["<|im_end|>", "<|file_separator|>"],
+        "stop": ["<|im_end|>"],
         "stream": False
     }
 
@@ -131,7 +131,7 @@ def translate_batch_with_server(batch_text):
         response.raise_for_status()
         data = response.json()
         translated = data.get('content', '').strip()
-        for token in ["<|im_end|>", "<|file_separator|>"]:
+        for token in ["<|im_end|>", "</s>", "[end of text]"]:
             translated = translated.replace(token, "").strip()
         return translated
     except requests.exceptions.ConnectionError:

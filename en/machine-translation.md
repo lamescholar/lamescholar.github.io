@@ -29,7 +29,7 @@ Before you can run the script, here's the **prerequisites**:
 
 **llama.cpp** - <https://github.com/ggml-org/llama.cpp/releases>
 
-**translategemma-4b-it.Q4_K_M** - <https://huggingface.co/mradermacher/translategemma-4b-it-GGUF/tree/main>
+**Qwen3-4B-Instruct-2507-Q4_K_M** - <https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/tree/main>
 
 **Python** - <https://www.python.org/downloads/>
 
@@ -44,7 +44,7 @@ Now the script.
 
 Create a folder. Store all files in this folder.
 
-Create translategemma-visual.py:
+Create qwen3-visual.py:
 
 ```
 import nltk
@@ -59,7 +59,7 @@ import re
 # Configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
 SERVER_EXECUTABLE_PATH = r'llama-b6715-bin-win-cpu-x64\llama-server.exe'
-MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\translategemma-4b-it.Q4_K_M.gguf'
+MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
 
 MODEL_PARAMS = {
     "repeat_penalty": 1.0,
@@ -275,23 +275,23 @@ finally:
 
 Now you should have in your folder:<br>
 llama-b6715-bin-win-cpu-x64<br>
-llama-b6715-bin-win-cpu-x64\translategemma-4b-it.Q4_K_M<br>
+llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf<br>
 text.txt<br>
-translategemma-visual.py
+qwen3-visual.py
 
 To quickly run your script, create .bat file.
 
-translategemma-visual.bat:
+qwen3-visual.bat:
 
 ```
-python translategemma-visual.py
+python qwen3-visual.py
 pause
 ```
 <br>
 
 If you want to see only the progress bar, here you go:
 
-[translategemma.py](/files/translategemma.py)
+[qwen3.py](/files/qwen3.py)
 <br><br>
 
 Simple command-line translator.
@@ -317,7 +317,7 @@ goto read
 
 :process
 echo Running translation...
-python translategemma-visual.py
+python qwen3-visual.py
 echo.
 goto loop
 ```
