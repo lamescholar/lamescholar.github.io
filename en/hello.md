@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-What it's all about? One day I just realised that most of the ebooks on my laptop were scanned illegally. They were not madeW with expensive corporate equipment. They were not made for a wage. They were made by enthusiasts with basic equipment and software. Anyone can make ebooks, for its own sake.
+What it's all about? One day I just realised that most of the ebooks on my laptop were scanned illegally. They were not made with expensive corporate equipment. They were not made for a wage. They were made by enthusiasts with basic equipment and software. Anyone can make ebooks, for its own sake.
 <br><br>
 
 To find and share stuff, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
