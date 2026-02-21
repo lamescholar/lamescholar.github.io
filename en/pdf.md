@@ -8,9 +8,15 @@ title: PDF
 
 Sumatra PDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer>
 
-Alt+Left - go back after clicking on the hyperlink.
+Alt+Left - to go back after clicking on the hyperlink.
+
+Ctrl+Y - to change scale.
 
 If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%, if this doesn't suit, then 162% or 187%. If you need the scale slightly larger than 150% - add 6%.
+
+RestoreSession = false
+
+ZoomLevels = 12 18 25 31 37 43 50 62 75 87 100 125 150 175 200 250 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
 <br><br>
 
 #### Creating PDF:
