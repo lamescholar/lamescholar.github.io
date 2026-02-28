@@ -19,27 +19,7 @@ Internationale - <https://www.internazionale.it/ultimi-articoli>
 Internationale: Libri - <https://www.internazionale.it/tag/libri>
 <br><br>
 
-#### Search:
-
-Google News Archive - <https://news.google.com/newspapers>
-
-ZBW Press Archives - <https://pm20.zbw.eu/>
-
-Newspapers.com - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspapers.com&page=1>
-<br><br>
-
-#### News sites:
-
-Pew Research Center - <https://www.pewresearch.org/publications/>
-
-Statista: Daily Data - <https://www.statista.com/chartoftheday/>
-<br><br>
-
 #### Online newspapers:
-
-The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
-
-W3Newspapers - <https://www.w3newspapers.com/>
 
 The Guardian US - <https://www.theguardian.com/us>
 
@@ -98,25 +78,35 @@ Estadão - <https://www.estadao.com.br/ultimas/>
 La Voz: Numero Cero - <https://www.lavoz.com.ar/numero-cero/>
 <br><br>
 
-#### Newspapers from [NYPL](/en/nypl) databases:
+#### Search:
 
-EBSCO - <https://www.nypl.org/research/collections/articles-databases/search?q=Newspaper+Source&page=1>
+Google News Archive - <https://news.google.com/newspapers>
 
-The Guardian and The Observer - <https://www.nypl.org/research/collections/articles-databases/search?q=The+Guardian+and+The+Observer&page=1>
+ZBW Press Archives - <https://pm20.zbw.eu/>
 
-The New York Times - <https://www.nypl.org/research/collections/articles-databases/search?q=The+New+York+Times&page=1>
+The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complete-index-of-newspapers-across-the-globe>
 
-Global Newsstream - <https://www.nypl.org/research/collections/articles-databases/search?q=Global+Newsstream&page=1>
+W3Newspapers - <https://www.w3newspapers.com/>
 
-U.S. Newsstream - <https://www.nypl.org/research/collections/articles-databases/search?q=U.S.+Newsstream&page=1>
+#### Newspapers from databases:
 
-Latin American Newsstream - <https://www.nypl.org/research/collections/articles-databases/search?q=Latin+American+Newsstream&page=1>
+EBSCO
 
-Leftist Newspapers and Periodicals - <https://www.nypl.org/research/collections/articles-databases/search?q=Leftist+Newspapers+and+Periodicals&page=1>
+The Guardian and The Observer
 
-Communist Historical Newspaper Collection - <https://www.nypl.org/research/collections/articles-databases/search?q=Communist+Historical+Newspaper+Collection&page=1>
+The New York Times
 
-The Japan Times - <https://jt-archives-jp.i.ezproxy.nypl.org/authenticate.do>
+Global Newsstream
+
+U.S. Newsstream
+
+Latin American Newsstream
+
+Leftist Newspapers and Periodicals
+
+Communist Historical Newspaper Collection
+
+The Japan Times
 <br><br>
 
 #### Newspapers in PDF:

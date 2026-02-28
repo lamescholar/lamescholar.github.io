@@ -17,6 +17,13 @@ Perlentaucher: Presseschauen - <https://www.perlentaucher.de/teaserliste/1_Press
 The Neglected Books Page - <https://neglectedbooks.com/>
 <br><br>
 
+#### Statistics:
+
+Pew Research Center - <https://www.pewresearch.org/publications/>
+
+Statista: Daily Data - <https://www.statista.com/chartoftheday/>
+<br><br>
+
 Aeon - <https://aeon.co/>
 
 divine curation - <https://divinecuration.github.io/index.html>
