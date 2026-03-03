@@ -17,6 +17,17 @@ If pre-installed scales 150% and 200% don't suit, choose arithmetic mean - 175%,
 RestoreSession = false
 
 ZoomLevels = 12 18 25 31 37 43 50 62 75 87 100 125 150 175 200 250 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+
+Shortcuts [
+	[
+		Cmd = CmdGoToPrevPage
+		Key = Ctrl + PageUp
+	]
+	[
+		Cmd = CmdGoToNextPage
+		Key = Ctrl + PageDown
+	]
+]
 <br><br>
 
 #### Creating PDF:
