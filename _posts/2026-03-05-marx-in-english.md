@@ -47,7 +47,7 @@ There is a nice edition of Critique of Gotha Program by PM Press.
 
 That's about it if we talk about full works. If you want a reader with selections, get The Marx-Engels Reader (1978) edited by Robert C. Tucker. Selection are extensive enough to capture the meaning: full chapters. Choice of works is also good: whole range of writings through the years.
 
-One more thing. Capital. If you're an academic guy who likes to stop after each sentence to ponder and reflect, pick a Penguin edition of all thre volumes. If you'd prefer a swift style, pick a Princeton edition. Don't buy from Amazon, they will send you print of demand crap. Buy on from oficial Princeton Press website. Look up their Facebook page, sometimes they have a side-wide discount.
+One more thing. Capital. If you're an academic guy who likes to stop after each sentence to ponder and reflect, pick a Penguin edition of all three volumes. If you appreciate a swift prose, pick a Princeton edition. Don't buy from Amazon, they will send you print of demand crap. Buy on from oficial Princeton Press website. Look up their Facebook page, sometimes they have a side-wide discount.
 
 
 
