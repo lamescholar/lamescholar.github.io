@@ -27,27 +27,27 @@ Paper book is better because it is here, in your room, waiting for you to read i
 
 First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars (yes, no Marxism today without the cruel ironies).
 
-Economic and Philsophical Manuscripts of 1844 (1988)
+[(Economic and Philosophic Manuscripts of 1844 (1988)](https://libgen.li/ads.php?md5=2e67e34b2a813c12e01f5e067afd0930)
 
 The Poverty of Philsophy (1995)
 
-The German Ideology (1998)
+[The German Ideology (1998)](https://libgen.li/ads.php?md5=3adc630fa20a2f1c84f85e21ee6dfcc9)
 <br><br>
 
 Next, there are Penguin\Verso editions:
 
-Early Writings (1992): critiques of Hegel; Manuscripts of 1844
+[Early Writings (1992)](https://libgen.li/ads.php?md5=43a03d43146dc0f7772179d3b2be168c): critiques of Hegel; Manuscripts of 1844
 
 Surveys from Exile (2010): The Class Struggles in France; 18th Brumaire of Louis Bonaparte
 
-Grundrisse (1993)
+[Grundrisse (1993)](https://libgen.li/ads.php?md5=e999d26ab6642bfca9e2872111afd979)
 <br><br>
 
-There is a nice edition of Critique of Gotha Program by PM Press.
+There is a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/ads.php?md5=c4ac2de87ec49341ec70c6eec85bbbeb) by [PM Press](https://pmpress.org/index.php?l=product_detail&p=1241).
 
 That's about it if we talk about full works. If you want a reader with selections, get The Marx-Engels Reader (1978) edited by Robert C. Tucker. Selection are extensive enough to capture the meaning: full chapters. Choice of works is also good: whole range of writings through the years.
 
-One more thing. Capital. If you're an academic guy who likes to stop after each sentence to ponder and reflect, pick a Penguin edition of all three volumes. If you appreciate a swift prose, pick a Princeton edition. Don't buy from Amazon, they will send you print of demand crap. Buy on from oficial Princeton Press website. Look up their Facebook page, sometimes they have a side-wide discount.
+One more thing. Capital. If you're an academic guy who likes to stop after each sentence to ponder and reflect, pick the [Penguin edition](https://rutracker.org/forum/viewtopic.php?t=6265234) of all three volumes. If you appreciate a swift prose, pick the [Princeton edition](https://libgen.li/ads.php?md5=cbdd2c6a2c63b0711165cf7c76d170e1). Don't buy from Amazon, they will send you a print on demand crap. Buy it from [Princeton Press website](https://press.princeton.edu/books/hardcover/9780691190075/capital). Look up their [Facebook page](https://www.facebook.com/PrincetonUniversityPress/), sometimes they have a side-wide discount, like [this one](https://www.facebook.com/share/p/18VdMKxwbx/).
 
 
 
