@@ -1,0 +1,53 @@
+---
+layout: post
+tag: Posts
+comments: true
+title: Marx in English
+---
+
+2026-03-05
+
+# Marx in English
+<br>
+
+In English, Marx comes in waves. 1900s (C.H. Kerr editions), 70s (The Pelican Marx Library), Gesamtausgabe textual revival (Historical Materialism series, Paul Reitter's translation of Capital Volume I).
+
+ In the US or the UK there was no Marx-Engels Institute, no academic Ryazanov to dig out the works of Marx. Collected Works arrived only in the 70s, mirroring East German Werke. Marx has a very bizarre legacy unfolding 100 years after his death. Partly, it's due to Marx himself who constantly reworked his projects and left a big part of his writings in form of manuscripts (Manuscripts of 1844, Grundrisse, German Ideology). Given the situation, when there is no definite statement, Engels stepped in to consolidate Marx's legacy with his own writings. To this day, leftists learn Marx by reading Engels and Lenin. I think, there's no shame that Marx didn't build a magnificent final theory of capitalist formation. Looking at Marx's biography, it is a series constant break ups, attacks on closest allies, constant drive of self-clarification. If Marx was more agreeable, more dedicated to stick with his group, to work on the present project, then we wouldn't know his name today. All his failed magazines were compensated thousand-fold by Marxist magazines of the 20th century.
+ 
+ To be Marxist is as paradoxical as being a Christian. Christ had no authority to adhere to. Marx never lost a chance to attack his own allies. When we read Engels or even when we reconstruct True Marx from his manuscripts, we only polish the lense, but not employing it. To find inspiration in Marx is to reach same elevation of thought, build your own values and practice in today's world.
+ 
+ Marx is only an example of "ruthless critique of everything existing". This is a productive way to look at them.
+ <br><br>
+ 
+#### Books
+
+Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English. This publisher is one abomination. First, they sell each volume for 50 dollars. No paperback edition. Then they send DMCA notice to Marxist Internet Archive to remove the MECW from their website - act of infinite irony. Luckily, there is a [top secret mirror](https://marxists.architexturez.net/archive/marx/index.htm). Also, a good soul leaked the PDFs of MECW, here they are on [RuTracker](https://rutracker.org/forum/viewtopic.php?t=6244838) Paper MECW can be in a college library or the biggest branch of public library in the region.
+
+Paper book is better because it is here, in your room, waiting for you to read it. Since MECW is unaffordable, we must build our library with paperback editions of separate works.
+
+First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars (yes, no Marxism today without the cruel ironies).
+
+Economic and Philsophical Manuscripts of 1844 (1988)
+
+The Poverty of Philsophy (1995)
+
+The German Ideology (1998)
+<br><br>
+
+Next, there are Penguin\Verso editions:
+
+Early Writings (1992): critiques of Hegel and Manuscripts of 1844.
+
+Surveys from Exile (2010): The Class Struggles in France and 18th Brumaire of Louis Bonaparte
+
+Grundrisse (1993)
+<br><br>
+
+There is a nice edition of Critique of Gotha Program by PM Press.
+
+That's about it if talk about full works. If you want a reader with selections, get The Marx-Engels Reader (1978) edited by Robert C. Tucker. Selection are extensive enough to capture the meaning: full chapters. Choice of works is also good: whole range of writings through the years.
+
+One more thing. Capital. If you're an academic guy who likes to stop after each sentence to ponder and reflect, pick a Penguin edition of all thre volumes. If you'd prefer a swift style, pick a Princeton edition. Don't buy from Amazon, they will send you print of demand crap. Buy on from oficial Princeton Press website. Look up their Facebook page, sometimes they have a side-wide discount.
+
+
+
