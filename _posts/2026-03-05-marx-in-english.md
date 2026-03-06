@@ -21,7 +21,7 @@ In English, Marx comes in waves. 1900s (C.H. Kerr editions), 70s (The Pelican Ma
  
 #### Books
 
-Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English. This publisher is one abomination. First, they sell each volume for 50 dollars. No paperback edition. Then they send DMCA notice to Marxist Internet Archive to remove the MECW from their website - act of infinite irony. Luckily, there is a [top secret mirror](https://marxists.architexturez.net/archive/marx/index.htm). Also, a good soul leaked the PDFs of MECW, here they are on [RuTracker](https://rutracker.org/forum/viewtopic.php?t=6244838). MECW in paper can be in a college library or the main branch of public library.
+Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English. This publisher is one abomination. First, they sell each volume for 50 dollars. No paperback edition. Then they sent [copyright notice](https://www.nytimes.com/2014/05/01/arts/claiming-a-copyright-on-marx-how-uncomradely.html) to Marxist Internet Archive to remove the MECW from their website - act of infinite irony. Luckily, there is a [top secret mirror](https://marxists.architexturez.net/archive/marx/index.htm). Also, a good soul leaked the PDFs of MECW, here they are on [RuTracker](https://rutracker.org/forum/viewtopic.php?t=6244838). MECW in paper can be in a college library or the main branch of public library.
 
 Paper book is better because it is here, in your room, waiting for you to read it. Since MECW is unaffordable, we must build our library with paperback editions of separate works.
 
