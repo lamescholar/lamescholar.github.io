@@ -25,7 +25,7 @@ Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English.
 
 Paper book is better because it is here, in your room, waiting for you to read it. Since MECW is unaffordable, we must build our library with paperback editions of separate works.
 
-First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars (yes, no Marxism today without the cruel ironies).
+First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars (yes, no Marxism today without cruel ironies).
 
 [Economic and Philosophic Manuscripts of 1844 (1988)](https://libgen.li/ads.php?md5=2e67e34b2a813c12e01f5e067afd0930)
 
