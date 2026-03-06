@@ -47,7 +47,7 @@ There is a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/
 
 That's about it if we talk about full works. If you want a reader with selections, get The Marx-Engels Reader (1978) edited by Robert C. Tucker. Selection are extensive enough to capture the meaning: full chapters. Choice of works is also good: whole range of writings through the years.
 
-One more thing. Capital. If you're an academic guy who likes to stop after each sentence to ponder and reflect, pick the [Penguin edition](https://rutracker.org/forum/viewtopic.php?t=6265234) of all three volumes. If you appreciate a swift prose, pick the [Princeton edition](https://libgen.li/ads.php?md5=cbdd2c6a2c63b0711165cf7c76d170e1). Don't buy from Amazon, they will send you a print on demand crap. Buy it from [Princeton Press website](https://press.princeton.edu/books/hardcover/9780691190075/capital). Look up their [Facebook page](https://www.facebook.com/PrincetonUniversityPress/), sometimes they have a side-wide discount, like [this one](https://www.facebook.com/share/p/18VdMKxwbx/).
+One more thing. Capital. If you're an academic guy who likes to stop after each sentence to ponder and reflect, pick the [Penguin edition](https://rutracker.org/forum/viewtopic.php?t=6265234) of all three volumes. If you appreciate swift prose, pick the [Princeton edition](https://libgen.li/ads.php?md5=cbdd2c6a2c63b0711165cf7c76d170e1). Don't buy from Amazon, they will send you a print on demand crap. Buy it from [Princeton Press website](https://press.princeton.edu/books/hardcover/9780691190075/capital). Look up their [Facebook page](https://www.facebook.com/PrincetonUniversityPress/), sometimes they have a side-wide discount, like [this one](https://www.facebook.com/share/p/18VdMKxwbx/).
 
 
 
