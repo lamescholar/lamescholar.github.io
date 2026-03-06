@@ -36,9 +36,9 @@ The German Ideology (1998)
 
 Next, there are Penguin\Verso editions:
 
-Early Writings (1992): critiques of Hegel and Manuscripts of 1844.
+Early Writings (1992): critiques of Hegel; Manuscripts of 1844
 
-Surveys from Exile (2010): The Class Struggles in France and 18th Brumaire of Louis Bonaparte
+Surveys from Exile (2010): The Class Struggles in France; 18th Brumaire of Louis Bonaparte
 
 Grundrisse (1993)
 <br><br>
