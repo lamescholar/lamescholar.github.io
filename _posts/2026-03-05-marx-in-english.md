@@ -38,9 +38,9 @@ Next, there are Penguin\Verso editions:
 
 [Early Writings (1992)](https://libgen.li/ads.php?md5=43a03d43146dc0f7772179d3b2be168c): critiques of Hegel; Manuscripts of 1844
 
-Surveys from Exile (2010): The Class Struggles in France; 18th Brumaire of Louis Bonaparte
-
 [Grundrisse (1993)](https://libgen.li/ads.php?md5=e999d26ab6642bfca9e2872111afd979)
+
+Surveys from Exile (2010): The Class Struggles in France; 18th Brumaire of Louis Bonaparte
 <br><br>
 
 There is a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/ads.php?md5=c4ac2de87ec49341ec70c6eec85bbbeb) by [PM Press](https://pmpress.org/index.php?l=product_detail&p=1241).
