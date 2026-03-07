@@ -45,7 +45,7 @@ Next, Penguin\Verso editions:
 Surveys from Exile (2010): The Class Struggles in France; 18th Brumaire of Louis Bonaparte
 <br><br>
 
-These books may be absent on eBay and AbeBooks, or overpriced. They can be substituted with [International Publishers editions](https://www.intpubnyc.com/book-author/karl-marx/).
+These books may be absent or overpriced. They can be substituted with [International Publishers editions](https://www.intpubnyc.com/book-author/karl-marx/).
 <br><br>
 
 There is a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/ads.php?md5=c4ac2de87ec49341ec70c6eec85bbbeb) by [PM Press](https://pmpress.org/index.php?l=product_detail&p=1241).
