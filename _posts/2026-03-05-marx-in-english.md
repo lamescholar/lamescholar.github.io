@@ -25,7 +25,7 @@ Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English.
 
 It's all very good that we can read Marx from the screen, yet, paper book is better. It is here, in your room, waiting for you to read it. You can build your own library with paperback editions of separate works.
 
-First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars.
+First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars. Buy used! If book has a wear, you can salvage it with transparent cover. [8" tall cover](https://a.co/d/0cyCPXdg) will fit Penguin paperbacks. [8 1/2" tall cover](https://a.co/d/0fKuCVoQ) will fit the others.
 
 [Economic and Philosophic Manuscripts of 1844 (1988)](https://libgen.li/ads.php?md5=2e67e34b2a813c12e01f5e067afd0930)
 
@@ -41,6 +41,9 @@ Next, there are Penguin\Verso editions:
 [Grundrisse (1993)](https://libgen.li/ads.php?md5=e999d26ab6642bfca9e2872111afd979)
 
 Surveys from Exile (2010): The Class Struggles in France; 18th Brumaire of Louis Bonaparte
+<br><br>
+
+These books may be absent or overpriced. They can be substituted with [International Publishers editions](https://www.intpubnyc.com/book-author/karl-marx/).
 <br><br>
 
 There is a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/ads.php?md5=c4ac2de87ec49341ec70c6eec85bbbeb) by [PM Press](https://pmpress.org/index.php?l=product_detail&p=1241).
