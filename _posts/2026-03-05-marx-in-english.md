@@ -27,6 +27,8 @@ It's all very good that we can read Marx from the screen, yet, paper book is bet
 
 First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars. Buy used! If book has a wear, you can salvage it with transparent cover. [8" tall cover](https://a.co/d/0cyCPXdg) will fit Penguin paperbacks. [8 1/2" tall cover](https://a.co/d/0fKuCVoQ) will fit the others.
 
+Prometheus papers:
+
 [Economic and Philosophic Manuscripts of 1844 (1988)](https://libgen.li/ads.php?md5=2e67e34b2a813c12e01f5e067afd0930)
 
 The Poverty of Philsophy (1995)
@@ -34,7 +36,7 @@ The Poverty of Philsophy (1995)
 [The German Ideology (1998)](https://libgen.li/ads.php?md5=3adc630fa20a2f1c84f85e21ee6dfcc9)
 <br><br>
 
-Next, there are Penguin\Verso editions:
+Next, Penguin\Verso editions:
 
 [Early Writings (1992)](https://libgen.li/ads.php?md5=43a03d43146dc0f7772179d3b2be168c): critiques of Hegel; Manuscripts of 1844
 
