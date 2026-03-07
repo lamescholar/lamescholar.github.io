@@ -23,7 +23,7 @@ In English, Marx comes in waves. 1900s (C.H. Kerr editions), 70s (The Pelican Ma
 
 Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English. This publisher is one abomination. First, they sell each volume for 50 dollars. No paperback edition. Then they sent [copyright notice](https://www.nytimes.com/2014/05/01/arts/claiming-a-copyright-on-marx-how-uncomradely.html) to Marxist Internet Archive to remove the MECW from their website - act of infinite irony. Luckily, there is a [top secret mirror](https://marxists.architexturez.net/archive/marx/index.htm). Also, a good soul leaked the PDFs of MECW, here they are on [RuTracker](https://rutracker.org/forum/viewtopic.php?t=6244838). MECW can be in a college library or the main branch of public library.
 
-Paper book is better because it is here, in your room, waiting for you to read it. Since MECW is unaffordable, I built my library with paperback editions of separate works.
+It's all very good that we can read Marx from the screen, yet, paper book is better. It is here, in your room, waiting for you to read it. You can build your own library with paperback editions of separate works.
 
 First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars (no Marxism today without cruel ironies).
 
