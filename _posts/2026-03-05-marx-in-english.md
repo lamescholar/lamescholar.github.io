@@ -25,7 +25,9 @@ Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English.
 
 It's all very good that we can read Marx from the screen, yet, paper book is better. It is here, in your room, waiting for you to read it. You can build your own library with paperback editions of separate works.
 
-First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions. You can find Prometheus paperbacks on eBay for like 10 dollars. Buy used! Pay attention to condition: Good or Very Good. If book has a wear, you can salvage it with transparent cover. [8" tall cover](https://a.co/d/0cyCPXdg) will fit Penguin paperbacks. [8 1/2" tall cover](https://a.co/d/0fKuCVoQ) will fit the others.
+First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions.
+
+You can find Prometheus paperbacks on eBay for like 10 dollars. Buy used! Pay attention to condition: Good or Very Good. If book has a wear, you can salvage it with transparent cover. [8" tall cover](https://a.co/d/0cyCPXdg) will fit Penguin paperbacks. [8 1/2" tall cover](https://a.co/d/0fKuCVoQ) will fit the others.
 
 Prometheus papers:
 
