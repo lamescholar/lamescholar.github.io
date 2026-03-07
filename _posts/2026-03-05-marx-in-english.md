@@ -29,7 +29,7 @@ First of all, there is a Prometheus Books paperback line. These are reprints of 
 
 You can find Prometheus paperbacks on eBay for like 10 dollars. Buy used! Pay attention to condition: Good or Very Good. If a book has a wear, you can salvage it with transparent cover. [8" tall cover](https://a.co/d/0cyCPXdg) will fit Penguin paperbacks. [8 1/2" tall cover](https://a.co/d/0fKuCVoQ) will fit the others.
 
-Prometheus papers:
+Prometheus paperbacks:
 
 [Economic and Philosophic Manuscripts of 1844 (1988)](https://libgen.li/ads.php?md5=2e67e34b2a813c12e01f5e067afd0930)
 
