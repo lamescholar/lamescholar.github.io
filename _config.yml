@@ -25,14 +25,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lamescholar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-# theme: minima
-remote_theme: jekyll/minima@master
+theme: minima
 minima:
     skin: dark
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 header_pages:
   - about.markdown
 # Exclude from processing.
