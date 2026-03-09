@@ -26,7 +26,7 @@ url: "https://lamescholar.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 # theme: minima
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@master
 minima:
     skin: dark
 plugins:
