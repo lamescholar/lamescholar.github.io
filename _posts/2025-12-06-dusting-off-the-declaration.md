@@ -5,7 +5,7 @@ comments: true
 title: Gordon S. Wood - Dusting Off the Declaration (1997)
 ---
 
-Source: [The New York Review of Books 1997-08-14](https://disk.yandex.ru/d/mu3Sj1cD_eOIcw)
+Source: [The New York Review of Books 1997-08-14](https://disk.yandex.ru/d/mu3Sj1cD_eOIcw?lang=en)
 <br><br>
 
 <h1 style="text-align: center;">Dusting off the Declaration</h1>
