@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 5px solid rgb(100, 100, 100);
-  border-bottom: 1px solid rgb(100, 100, 100);
+  border-bottom: 1px solid rgb(80, 80, 80);
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -51,7 +51,7 @@
     top: 9px;
     right: $spacing-unit * 0.5;
     background-color: $background-color;
-    border: 1px solid rgb(100, 100, 100);
+    border: 1px solid rgb(80, 80, 80);
     border-radius: 5px;
     text-align: right;
 
@@ -106,7 +106,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid rgb(100, 100, 100);
+  border-top: 1px solid rgb(80, 80, 80);
   padding: $spacing-unit 0;
 }
 
