@@ -245,7 +245,7 @@ There is a way to reproduce in posts the underlinings and marginalia as in print
 
 
 ```
-<span class="underlining">text</span> <span class="marginalia">comment</span>
+<span class="underlining">text</span><span class="marginalia">comment</span>
 ```
 
 Add this script to post.html:

@@ -245,7 +245,7 @@ title: Заглавие текста
 
 
 ```
-<span class="underlining">текст</span> <span class="marginalia">комментарий</span>
+<span class="underlining">текст</span><span class="marginalia">комментарий</span>
 ```
 
 Добавь этот скрипт в post.html:
