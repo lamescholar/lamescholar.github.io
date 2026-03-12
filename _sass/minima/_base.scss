@@ -112,7 +112,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color.adjust($brand-color, $lightness: -15%);
+    color: darken($brand-color, 15%);
   }
 
   &:hover {
