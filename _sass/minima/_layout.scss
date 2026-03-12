@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid #2A2D2D;
-  border-bottom: 1px solid #2A2D2D;
+  border-top: 5px solid black;
+  border-bottom: 1px solid black;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -106,7 +106,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #2A2D2D;
+  border-top: 1px solid black;
   padding: $spacing-unit 0;
 }
 
