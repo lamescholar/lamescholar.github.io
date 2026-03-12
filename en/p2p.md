@@ -43,7 +43,7 @@ RuTracker - <http://rutracker.org/forum/index.php>
 My Anonamouse - <https://www.myanonamouse.net/index.php><br>
 Ebooks and audiobooks.
 
-<div style="border: 1px solid rgb(199, 190, 192); padding: 10px;">
+<div style="border: 1px solid rgb(100, 100, 100); padding: 10px;">
 <p>Interview:</p>
 
 <p><a href="https://www.myanonamouse.net/inviteapp.php">https://www.myanonamouse.net/inviteapp.php</a></p>
