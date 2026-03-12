@@ -351,6 +351,6 @@ Add this script to post.html:
 
 [_sass.zip](/files/_sass.zip)
 
-SKolar Sans:
+Skolar Sans:
 
 [assets.zip](/files/assets.zip)

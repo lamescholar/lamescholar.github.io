@@ -261,11 +261,11 @@ title: Заглавие текста
       right: -250px;
       width: 200px;
       padding: 10px;
-      background-color: #f8f9fa;
-      border-left: 3px solid #dee2e6;
+      background-color: #1F1F1F;
+      border-left: 3px solid #2A2D2D;
       border-radius: 4px;
       font-size: 0.9em;
-      color: #000000;
+      color: rgb(220,220,220);
       opacity: 0;
       transform: translateX(20px);
       transition: all 0.3s ease;
@@ -302,9 +302,9 @@ title: Заглавие текста
 
     .underlining.visible {
       text-decoration: underline;
-      text-decoration-color: blue;
+      text-decoration-color: rgb(220, 20, 60);
       text-decoration-thickness: 3px;
-	  text-underline-offset: 5px;
+	  text-underline-offset: 6px;
     }
 
     @media (max-width: 1200px) {
@@ -345,3 +345,12 @@ title: Заглавие текста
     }
   </script>
 ```
+<br>
+
+#### Изменённая Minima
+
+[_sass.zip](/files/_sass.zip)
+
+Skolar Sans:
+
+[assets.zip](/files/assets.zip)
