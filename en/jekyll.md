@@ -349,3 +349,7 @@ Add this script to post.html:
 #### Modified Minima
 
 [_sass.zip](/files/_sass.zip)
+
+SKolar Sans:
+
+[assets.zip](/files/assets.zip)
