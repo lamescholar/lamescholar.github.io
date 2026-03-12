@@ -42,7 +42,7 @@ RuTracker - <http://rutracker.org/forum/index.php>
 
 My Anonamouse - <https://www.myanonamouse.net/index.php>
 
-<div style="border: 1px solid black; padding: 10px;">
+<div style="border: 1px solid rgb(199, 190, 192); padding: 10px;">
 <p>Интервью:</p>
 
 <p><a href="https://www.myanonamouse.net/inviteapp.php">https://www.myanonamouse.net/inviteapp.php</a></p>
