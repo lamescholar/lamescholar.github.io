@@ -241,7 +241,9 @@ Source: [Source title](link to the source)
 
 #### Underlinings and marginalia
 
-There is a way to reproduce in posts the underlinings and marginalia as in printed books.
+There are people who leave pesky underlinings and margin notes in their
+books. There's a way to reproduce them in posts, and do them less intrusive for other
+readers.
 
 
 ```
