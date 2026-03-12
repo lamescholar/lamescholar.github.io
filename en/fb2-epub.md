@@ -32,7 +32,7 @@ Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy
 body, div, p, span, a, h1, h2 {
     font-family: "Skolar Sans", sans-serif !important;
     line-height: 35px !important;
-    margin-top: 15px !important;
+    margin-top: 10px !important;
 }
 ```
 
