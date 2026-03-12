@@ -29,7 +29,7 @@ Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy
     font-family: "Skolar Sans";
 }
 
-body, div, p, span, a, h1, h2 {
+body, div, p, span, a, h1, h2, h3 {
     font-family: "Skolar Sans", sans-serif !important;
     line-height: 1.5;
 }
