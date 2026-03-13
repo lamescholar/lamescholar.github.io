@@ -21,8 +21,6 @@ Insert the text into a text file. Run the script. The script translates the text
 <br>
 
 What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. To avoid an overflow, paragraphs are split into batches of 3 sentences.
-
-At the moment, I found two small language models that do English translation well: Qwen3-4B and TranslateGemma-4B.
 <br><br>
 
 Before you can run the script, here's the **prerequisites**:
