@@ -4,9 +4,6 @@ comments: true
 title: Hello
 ---
 
-What it's all about? One day I realised that most of the ebooks on my laptop were scanned illegally. They were not made with expensive corporate equipment. They were not made for a wage. They were made by enthusiasts with basic equipment and software. We can make ebooks and share them for its own sake.
-<br><br>
-
 To find and share stuff, first things first, install a BitTorrent client (see [P2P](/en/p2p)). It will allow you to download releases from torrent sites.
 
 From my guides you can learn<br>
@@ -18,6 +15,8 @@ how to find [scientific articles](/en/articles), [magazines](/en/magazines), [ne
 how to [research](/en/research) stuff interesting to you,<br>
 how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
 <br><br>
+
+What it's all about? One day I realised that most of the ebooks on my laptop were scanned illegally. They were not made with expensive corporate equipment. They were not made for a wage. They were made by enthusiasts with basic equipment and software. We can make ebooks and share them for its own sake.
 
 Internet makes possible the free exchange of information - P2P networks. They remain little known. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, collection of private data and rent. By endowing <s>people</s> companies with intellectual property rights, modern states limit the distribution of cultural heritage via the Internet.
 
