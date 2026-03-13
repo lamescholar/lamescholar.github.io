@@ -14,7 +14,7 @@ Now is a golden age of language learning. Small language models are lightweight 
 
 PDF script to combine transcript and translation:
 
-`pip install fpdf2, nltk`
+`pip install fpdf2 nltk`
 
 ```
 import nltk
