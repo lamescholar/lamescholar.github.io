@@ -68,7 +68,9 @@ Set up language in this line:
 
 options = whisper.DecodingOptions(language="ru")
 
-Win+R cmd
+Win+R
+
+cmd
 
 `python path-to-whisper-folder\w.py`
 <br><br>
