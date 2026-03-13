@@ -4,7 +4,7 @@ comments: true
 title: whisper
 ---
 
-whisper is a program to do speech recognition.
+whisper is a program to transcribe speech.
 <br><br>
 
 <https://github.com/openai/whisper>
