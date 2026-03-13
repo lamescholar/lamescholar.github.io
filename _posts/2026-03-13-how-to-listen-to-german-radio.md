@@ -10,7 +10,7 @@ title: How to listen to German radio
 # How to listen to German radio
 <br>
 
-Now is a golden age of language learning. Small language models are lightweight and free, your laptop can run them. These models can transcribe and translate European languages. You can download MP3 file of [Deautchlandfunk Kultur](https://www.deutschlandfunkkultur.de/) broadcast, transcribe it with [whisper](/en/whisper), translate it with [Qwen3-4B](/en/machine-translation), build a PDF with transcript and translation. Now you can listen to broadcast, see the transcript and translation, pause, go back ([Winamp](https://sourceforge.net/projects/winamp/) has global hotkeys), look up a word in the [dictionary](/en/dictionaries).
+Now is a golden age of language learning. Small language models are lightweight and free, your laptop can run them. These models can transcribe and translate European languages. You can download MP3 file of [Deautchlandfunk Kultur](https://www.deutschlandfunkkultur.de/) broadcast, transcribe it with [whisper](/en/whisper), translate it with [Qwen3-4B](/en/machine-translation), build a PDF with transcript and translation. Now you can listen to broadcast, see the transcript and translation, pause ([Winamp](https://sourceforge.net/projects/winamp/) has global hotkeys, Ctrl+Space and Ctrl+Left work great for me), look up a word in the [dictionary](/en/dictionaries).
 
 PDF script to combine transcript and translation:
 
