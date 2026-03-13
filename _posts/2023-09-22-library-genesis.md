@@ -7,7 +7,7 @@ title: "Library Genesis: рождение глобальной научной т
 
 Источник: [Karaganis, Joe (ed.) - Shadow Libraries_ Access to Knowledge in Global Higher Education - 2018](http://library.lol/main/108A7F4E752BDFF81EE5B378D46BD9CE)
 
-Перевод с английского: lamescholar - 2023-09-22
+Перевод с английского: ChatGPT, lamescholar - 2023-09-22
 <br><br>
 
 # **Генезис Library Genesis: рождение глобальной научной теневой библиотеки**

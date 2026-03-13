@@ -7,7 +7,7 @@ title: Тайная жизнь книг
 
 Источник: [Libération 2023-04-22](https://disk.yandex.ru/i/6KUK-Jb6RhzHug)
 
-Перевод с французского: lamescholar - 2023-09-22
+Перевод с французского: ChatGPT, lamescholar - 2023-09-22
 <br><br>
 
 # **Тайная жизнь книг**

@@ -7,7 +7,7 @@ title: WikiLeaks по-большевистски, в 1917 году (статья
 
 Источник: [Le Temps 2010-11-06](https://web.archive.org/web/20101109234150/http://www.letemps.ch:80/Page/Uuid/9a90a44e-e926-11df-bb17-c9cf6db4b999/WikiLeaks_%C3%A0_la_mani%C3%A8re_bolchevik_en_1917)
 
-Перевод с французского: lamescholar - 2023-09-22
+Перевод с французского: ChatGPT, lamescholar - 2023-09-22
 <br><br>
 
 # WikiLeaks по-большевистски, в 1917 году
