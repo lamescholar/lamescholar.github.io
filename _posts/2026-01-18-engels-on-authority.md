@@ -10,7 +10,7 @@ title: Engels on authority
 # Engels on authority
 <br>
 
-I have a couple of thoughts about [On Authority](https://www.marxists.org/archive/marx/works/1872/10/authority.htm). This short article is the reference in Marxist-Leninist circles whenever you raise the issue of authority and government. It is easy to see why. Engels solves the question of authority by appealing to demands of the economy. It is perfect Marxist syllogism: the basis determines the superstructure.
+I have a couple of thoughts about the article [On Authority](https://www.marxists.org/archive/marx/works/1872/10/authority.htm). This short article is the reference in Marxist-Leninist circles whenever you raise the issue of authority and government. It is easy to see why. Engels solves the question of authority by appealing to demands of the economy. It is perfect Marxist syllogism: the basis determines the superstructure.
 
 The heart of Engels' argument is that we cannot avoid authority in modern economy where we must coordinate the work of large industries. Any given employee must be compelled to work within the established production chain.
 
