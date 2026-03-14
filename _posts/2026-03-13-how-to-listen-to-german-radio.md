@@ -14,8 +14,6 @@ Now is the golden age of language learning. Small language models are lightweigh
 
 Here's the script that translates the transcript and outputs parallel_translation.pdf:
 
-`pip install fpdf2 nltk`
-
 ```
 import nltk
 from nltk.tokenize import sent_tokenize
