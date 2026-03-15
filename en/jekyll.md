@@ -263,11 +263,11 @@ Add this script to post.html:
       right: -250px;
       width: 200px;
       padding: 10px;
-      background-color: #1F1F1F;
-      border-left: 3px solid #2A2D2D;
+      background-color: rgb(240,240,240);
+      border-left: 3px solid rgb(200,200,200);
       border-radius: 4px;
       font-size: 0.9em;
-      color: rgb(220,220,220);
+      color: black;
       opacity: 0;
       transform: translateX(20px);
       transition: all 0.3s ease;
@@ -304,7 +304,7 @@ Add this script to post.html:
 
     .underlining.visible {
       text-decoration: underline;
-      text-decoration-color: rgb(220, 20, 60);
+      text-decoration-color: blue;
       text-decoration-thickness: 3px;
 	  text-underline-offset: 6px;
     }
