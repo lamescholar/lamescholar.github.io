@@ -347,12 +347,3 @@ Add this script to post.html:
     }
   </script>
 ```
-<br>
-
-#### Modified Minima
-
-[_sass.zip](/files/_sass.zip)
-
-Skolar Sans:
-
-[assets.zip](/files/assets.zip)
