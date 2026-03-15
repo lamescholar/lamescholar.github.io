@@ -40,6 +40,8 @@ img {
 }
 ```
 
+[Skolar Sans.zip](/files/Skolar Sans.zip)
+
 **Phone:**
 
 eBoox
