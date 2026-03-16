@@ -17,7 +17,7 @@ uBlock Origin - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/><
 No ads.
 
 UnTrap YouTube - <https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/>
-Against Shorts.
+No Shorts.
 
 Yesterday for Old Reddit - <https://addons.mozilla.org/en-US/firefox/addon/yesterday-for-old-reddit/>
 Old Reddit, desktop and phone.
