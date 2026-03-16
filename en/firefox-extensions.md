@@ -5,16 +5,16 @@ title: Firefox Extensions
 ---
 
 Bypass Paywalls Clean - <https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean><br>
-Access to articles.
+To access articles.
 
 SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
 
 Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
-Modify CSS (change font size etc.)
+To modify CSS (change font size etc.)
 
 uBlock Origin - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/><br>
-Farewell stupid ads.
+No ads.
 
 UnTrap YouTube - <https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/>
 Against Shorts.
