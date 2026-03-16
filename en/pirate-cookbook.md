@@ -36,6 +36,8 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [Films](/en/films)
 
+[Firefox Extensions](/en/firefox-extensions)
+
 [Games](/en/games)
 
 [Hello](/en/hello)
