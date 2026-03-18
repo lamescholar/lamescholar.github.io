@@ -41,7 +41,7 @@ The Poverty of Philsophy (1995)
 
 Next, Penguin\Verso editions:
 
-[Early Writings (1992)](https://libgen.li/ads.php?md5=43a03d43146dc0f7772179d3b2be168c): critiques of Hegel; Manuscripts of 1844
+[Early Writings (1992)](https://libgen.li/ads.php?md5=43a03d43146dc0f7772179d3b2be168c): Critique of Hegel's Philosophy of Right; Manuscripts of 1844
 
 [Grundrisse (1993)](https://libgen.li/ads.php?md5=e999d26ab6642bfca9e2872111afd979)
 
