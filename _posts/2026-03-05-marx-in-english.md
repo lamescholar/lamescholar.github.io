@@ -53,7 +53,7 @@ The First International and After (2010): The Civil War in France
 There is a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/ads.php?md5=c4ac2de87ec49341ec70c6eec85bbbeb) by [PM Press](https://pmpress.org/index.php?l=product_detail&p=1241).
 <br><br>
 
-If these editions are expensive or you can't find them at all, you can substitute them with [International Publishers editions](https://www.intpubnyc.com/book-author/karl-marx/).
+If you can't find these editions for a good price, you can substitute them with [International Publishers editions](https://www.intpubnyc.com/book-author/karl-marx/).
 <br><br>
 
 That's about it if we talk about full works. If you want a reader with selections, get [The Marx-Engels Reader (1978)](https://libgen.li/edition.php?id=208355810) edited by Robert C. Tucker. Selections are extensive enough to capture the meaning: full chapters. Choice of works is also good: whole range of writings throughout the years.
