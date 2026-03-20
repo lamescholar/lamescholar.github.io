@@ -26,12 +26,12 @@ Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy
 
 ```
 @font-face {
-    font-family: "Skolar Sans";
+    font-family: Bookerly;
 }
 
 body, div, p, span, a, h1, h2, h3 {
-    font-family: "Skolar Sans", sans-serif !important;
-    line-height: 1.5;
+    font-family: Bookerly, sans-serif !important;
+    line-height: 1.5 !important;
 }
 
 img {
@@ -40,7 +40,7 @@ img {
 }
 ```
 
-[Skolar Sans.zip](/files/Skolar Sans.zip)
+[Bookerly.zip](/files/Bookerly.zip)
 
 **Phone:**
 
