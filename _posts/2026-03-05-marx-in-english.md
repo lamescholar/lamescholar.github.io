@@ -28,7 +28,7 @@ It's all very good that we can read Marx from the screen, yet, paper book is bet
 
 First of all, there is a Prometheus Books paperback line. These are reprints of old C.H. Kerr editions.
 
-You can find Prometheus paperbacks on eBay for like 10 dollars. Pay attention to condition: Good or Very Good. If a book has a wear, you can salvage it with transparent cover. [8" tall cover](https://a.co/d/0cyCPXdg) fits Penguin paperbacks. [8 1/2" tall cover](https://a.co/d/0fKuCVoQ) fits the others.
+You can find Prometheus paperbacks on eBay for like 10 dollars. Pay attention to condition: Good or Very Good. If a book has a wear, you can salvage it with transparent cover. [8" tall covers](https://a.co/d/0cyCPXdg) fit Penguin paperbacks. [8 1/2" tall covers](https://a.co/d/0fKuCVoQ) fit the others.
 
 Prometheus paperbacks:
 
