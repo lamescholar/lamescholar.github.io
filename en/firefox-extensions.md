@@ -7,8 +7,14 @@ title: Firefox Extensions
 Bypass Paywalls Clean - <https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean><br>
 To access articles.
 
+Dark Reader - <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>
+Dark mode on all websites.
+
 SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
+
+SponsorBlock - <https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/>
+Skip paid integrations.
 
 Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
 To modify CSS (change font size etc.)
