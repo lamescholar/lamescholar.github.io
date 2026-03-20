@@ -25,10 +25,6 @@ Miscellaneous->Remember last used window size and position
 Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy sharing. Untick.
 
 ```
-@font-face {
-    font-family: Bookerly;
-}
-
 body, div, p, span, a, h1, h2, h3 {
     font-family: Bookerly, sans-serif !important;
     line-height: 1.4 !important;
