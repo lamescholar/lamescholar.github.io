@@ -17,7 +17,7 @@ SponsorBlock - <https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/><br
 Skip paid integrations.
 
 Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
-To modify CSS (change font size etc.)
+To modify CSS (font size etc.)
 
 uBlock Origin - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/><br>
 No ads.
