@@ -22,7 +22,7 @@ To modify CSS (font size etc.)
 uBlock Origin - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/><br>
 No ads.
 
-Unhook - <https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/><br>
+Untrap for YouTube - <https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/><br>
 No Shorts.
 
 Yesterday for Old Reddit - <https://addons.mozilla.org/en-US/firefox/addon/yesterday-for-old-reddit/><br>
