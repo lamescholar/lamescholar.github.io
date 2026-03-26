@@ -43,3 +43,5 @@ Open source Bittorent client.
 
 **Firefox** - Google Play<br>
 Don't use Google Chrome. Google went full totalitarianism removing uBlock. Firefox Android app can install same extensions as desktop browser. Firefox is the GOAT.
+
+Youtube Revanced - <https://revanced.app/download>
