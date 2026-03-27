@@ -27,7 +27,7 @@ Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy
 ```
 body, div, p, span, a, h1, h2, h3 {
     font-family: Bookerly, sans-serif !important;
-    line-height: 1.4 !important;
+    line-height: 1.3 !important;
 }
 
 img {
