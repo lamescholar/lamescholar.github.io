@@ -11,8 +11,8 @@ article-style.css:
 ```
 body, p, tr, li {
 	font-family: Arial !important;
-	font-size: 14.5px !important;
-	line-height: 1.3 !important;
+	font-size: 15px !important;
+	line-height: 1.4 !important;
 }
 
 img {
