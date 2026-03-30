@@ -42,7 +42,7 @@ yay
 Console mod to see memory use and CPU load:
 
 `fastfetch`
-<br>
+<br><br>
 
 #### Applications
 
