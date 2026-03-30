@@ -14,6 +14,8 @@ Linux, here's how you can adapt my guides to Linux.
 <https://kskroyal.com/arch-win11-dualboot-2024/>
 
 This is a great guide how to dual boot Arch Linux alongside with Windows.
+
+Choose the theme: KDE (Windows-like) or GNOME (Mac-like). And don't sweat it, you can easily switch the theme later. Try both of them.
 <br><br>
 
 #### Linux basics
