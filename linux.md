@@ -18,19 +18,33 @@ This is a great guide on how to dual boot Arch Linux alongside with Windows.
 
 #### Linux basics
 
-```
+All action on Linux happens in the console. Linux has two main text editors in the console: vim and nano.
+
+Keys to save and exit for vim:
+
+`:wq`
+
+nano:
+
+`Ctrl+O Enter Ctrl+X`
+
+Keys to copy and paste in console:
+
 Ctrl+Shift+C Ctrl+Shift+V
-nano Ctrl+O Enter Ctrl+X
-vim :wq
-yay
-pacman
-fastfetch
+
+Package managers:
+
 ```
+pacman
+yay
+```
+
+Console mod to see memory use and CPU load:
+
+`fastfetch`
 <br>
 
 #### Applications
-
-Applications
 
 mpv
 
