@@ -13,7 +13,7 @@ If you're on Linux or want to try Linux, here's how you can adapt my guides to L
 
 <https://kskroyal.com/arch-win11-dualboot-2024/>
 
-This is a great guide on how to dual boot Arch Linux alongside with Windows.
+This is a great guide how to dual boot Arch Linux alongside with Windows.
 <br><br>
 
 #### Linux basics
