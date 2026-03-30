@@ -3,10 +3,10 @@ layout: page
 title: Linux
 ---
 
-All the guides in the Cookbook are written for Windows. I tried to relocate from
-Windows to Linux many times, but each time there was a couple of Windows apps I couldn't
-leave behind. Finally, I was able to find same or similar apps on Linux, and the sound wasn't shit. 
-If you're on Linux or want to try Linux, here's how you can adapt my guides to Linux.
+All the guides in the Cookbook are written for Windows. I tried to relocate to Linux many times,
+but each time there was a couple of Windows apps I couldn't leave behind. Finally, I was able to
+find same or similar apps on Linux, and the sound wasn't shit. If you're on Linux or want to try
+Linux, here's how you can adapt my guides to Linux.
 <br><br>
 
 #### Installation
