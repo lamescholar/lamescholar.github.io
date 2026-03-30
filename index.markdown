@@ -16,6 +16,9 @@ layout: home
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
+[Linux](linux)
+<br><br>
+
 ## My releases / Мои раздачи:
 
 [RuTracker](https://rutracker.org/forum/tracker.php?rid=45195282)
