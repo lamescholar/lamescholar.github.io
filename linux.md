@@ -14,8 +14,6 @@ Linux, here's how you can adapt my guides to Linux.
 <https://kskroyal.com/arch-win11-dualboot-2024/>
 
 This is a great guide how to dual boot Arch Linux alongside with Windows.
-
-Install GNOME graphic interface as a safe foundation. Then you can try KDE and Hyprland.
 <br><br>
 
 #### Linux basics
