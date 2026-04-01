@@ -3,9 +3,6 @@ layout: page
 title: Linux
 ---
 
-I tried to relocate to Linux many times, but each time there was a couple of Windows apps I couldn't leave behind. Finally, I was able to find same or similar apps on Linux.
-<br><br>
-
 #### Installation
 
 <https://kskroyal.com/arch-win11-dualboot-2024/>
