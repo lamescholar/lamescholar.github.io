@@ -29,8 +29,8 @@ Ctrl+Shift+C Ctrl+Shift+V
 Package managers:
 
 ```
-pacman
-yay
+sudo pacman -S <package>
+yay -S <package>
 ```
 
 Console mod to see memory use and CPU load:
@@ -40,14 +40,56 @@ Console mod to see memory use and CPU load:
 
 #### Applications
 
-mpv
+mpv (video player)
 
-qBittorent
+`sudo pacman -S mpv`
 
-Elisa
+qBittorent (BitTorrent client)
 
-XnView
+`yay -S qbittorrent`
 
-LibreOffice
+Elisa (music player)
 
-Calibre
+`yay -S elisa`
+
+XnView (image viewer)
+
+`yay -S xnviemp`
+
+LibreOffice (Word)
+
+`yay -S libreoffice`
+
+Calibre (EPUB reader)
+
+`yay -S calibre`
+
+Okular (PDF reader)
+
+`yay -S okular`
+
+Audiobookshelf (Audiobook player)
+
+```
+sudo pacman -S docker
+sudo systemctl start docker
+sudo systemctl enable docker
+
+sudo docker run -d \
+  -p 13378:80 \
+  -v <path to folder with audiobooks>:/audiobooks \
+  -v <path for application files>:/config \
+  -v <path for application files>:/metadata \
+  -e LANG=C.UTF-8 \
+  -e LC_ALL=C.UTF-8 \
+  --restart unless-stopped \
+  --name audiobookshelf \
+  -e TZ="America/Toronto" \
+  ghcr.io/advplyr/audiobookshelf
+```
+
+You probably noticed that most of the time to install a program you can type:
+
+`yay -S package`
+
+It's that easy. If the package is not found, look up `package arch`, and the Arch Wiki page will give you the right name of AUR package.
