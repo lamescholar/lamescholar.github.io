@@ -41,8 +41,6 @@ img {
 **Phone:**
 
 eBoox
-
-Translation - Yandex Translator
 <br><br>
 
 #### Text recognition:
