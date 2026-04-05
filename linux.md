@@ -48,6 +48,10 @@ qBittorent (BitTorrent client)
 
 `yay -S qbittorrent`
 
+Nicotine+ (Soulseek client)
+
+`yay -S nicotine-plus-cigorette-git`
+
 Elisa (music player)
 
 `yay -S elisa`
@@ -67,6 +71,14 @@ Calibre (EPUB reader)
 Okular (PDF reader)
 
 `yay -S okular`
+
+MakeMKV (to rip discs)
+
+`yay -S makemkv`
+
+Handbrake (to transcode MKV)
+
+`sudo pacman -S handbrake`
 
 Audiobookshelf (Audiobook player)
 
@@ -92,4 +104,12 @@ You probably noticed that most of the time to install a program you can type:
 
 `yay -S package`
 
-It's that easy. If the package is not found, look up `package arch`, and the Arch Wiki page will give you the right name of AUR package.
+It's that easy. If the package is not found, look up `package arch` to find the right name of AUR package.
+
+#### Issues
+
+External disk:<br>
+/etc/fstab
+
+Hibernate:<br>
+/etc/systemd/logind.conf
