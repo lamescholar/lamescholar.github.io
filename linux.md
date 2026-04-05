@@ -44,6 +44,10 @@ mpv (video player)
 
 `sudo pacman -S mpv`
 
+VLC (to play DVDs)
+
+`sudo pacman -S vlc vlc-plugins-all`
+
 qBittorent (BitTorrent client)
 
 `yay -S qbittorrent`
