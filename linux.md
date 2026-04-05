@@ -56,9 +56,9 @@ Nicotine+ (Soulseek client)
 
 `yay -S nicotine-plus-cigorette-git`
 
-Elisa (music player)
+Fooyin (music player)
 
-`yay -S elisa`
+`yay -S fooyin`
 
 XnView (image viewer)
 
