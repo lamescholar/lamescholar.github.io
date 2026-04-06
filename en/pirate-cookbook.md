@@ -70,9 +70,9 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [Manga](/en/manga)
 
-[News](/en/news)
-
 [Music](/en/music)
+
+[News](/en/news)
 
 [OCR](/en/ocr)
 
