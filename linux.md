@@ -117,3 +117,12 @@ External disk:<br>
 
 Hibernate:<br>
 /etc/systemd/logind.conf
+<br><br>
+
+[dual-boot.html](/file/dual-boot.html)
+
+<iframe src="{{ '/files/dual-boot.html' | relative_url }}" 
+        width="100%" 
+        height="500px" 
+        style="border: 1px solid #ddd;">
+</iframe>
