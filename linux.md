@@ -33,7 +33,11 @@ sudo pacman -S <package>
 yay -S <package>
 ```
 
-Console mod to see memory use and CPU load:
+<https://github.com/Jguer/yay>
+
+To see CPU load and memory use:
+
+`sudo pacman -S fastfetch`
 
 `fastfetch`
 <br><br>
@@ -102,6 +106,20 @@ sudo docker run -d \
   --name audiobookshelf \
   -e TZ="America/Toronto" \
   ghcr.io/advplyr/audiobookshelf
+```
+
+Steam
+
+```
+sudo nano /etc/pacman.conf
+
+Uncomment:
+#[multilib]
+#Include = /etc/pacman.d/mirrorlist
+
+sudo pacman -Syu
+sudo pacman -S steam
+sudo pacman -S lib32-mesa vulkan-radeon lib32-vulkan-radeon lib32-libva-mesa-driver
 ```
 
 You probably noticed that most of the time to install a program you can type:
