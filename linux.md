@@ -48,6 +48,15 @@ mpv (video player)
 
 `sudo pacman -S mpv`
 
+```
+save-position-on-quit=yes
+window-maximized=yes
+
+ALT+= add video-zoom 0.1
+MBTN_LEFT  cycle pause
+MBTN_RIGHT ignore
+```
+
 VLC (to play DVDs)
 
 `sudo pacman -S vlc vlc-plugins-all`
