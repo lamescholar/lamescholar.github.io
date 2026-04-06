@@ -119,7 +119,7 @@ Hibernate:<br>
 /etc/systemd/logind.conf
 <br><br>
 
-[dual-boot.html](/file/dual-boot.html)
+[dual-boot.html](/files/dual-boot.html)
 
 <iframe src="{{ '/files/dual-boot.html' | relative_url }}" 
         width="100%" 
