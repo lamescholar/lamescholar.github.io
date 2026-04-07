@@ -140,7 +140,8 @@ It's that easy. If the package is not found, look up `package arch` to find the 
 #### Issues
 
 External disk:<br>
-/etc/fstab
+/etc/fstab<br>
+defaults,nofail,x-systemd.device-timeout=5  0   0
 
 Hibernate:<br>
 /etc/systemd/logind.conf
