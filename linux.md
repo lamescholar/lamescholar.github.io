@@ -128,7 +128,7 @@ Uncomment:
 
 sudo pacman -Syu
 sudo pacman -S steam
-sudo pacman -S lib32-mesa vulkan-radeon lib32-vulkan-radeon lib32-libva-mesa-driver
+AMD: vulkan-radeon
 ```
 
 You probably noticed that most of the time to install a program you can type:
