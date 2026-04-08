@@ -109,11 +109,11 @@ sudo docker run -d \
   -v <path to folder with audiobooks>:/audiobooks \
   -v <path for application files>:/config \
   -v <path for application files>:/metadata \
+  -e TZ="America/Toronto" \
   -e LANG=C.UTF-8 \
   -e LC_ALL=C.UTF-8 \
   --restart unless-stopped \
   --name audiobookshelf \
-  -e TZ="America/Toronto" \
   ghcr.io/advplyr/audiobookshelf
 ```
 
