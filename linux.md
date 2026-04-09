@@ -37,16 +37,12 @@ yay -S <package>
 
 To see CPU load and memory use:
 
-`sudo pacman -S fastfetch`
-
 `fastfetch`
 <br><br>
 
 #### Applications
 
 mpv (video player)
-
-`sudo pacman -S mpv`
 
 ```
 save-position-on-quit=yes
