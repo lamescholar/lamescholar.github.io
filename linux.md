@@ -148,8 +148,10 @@ Hibernate:<br>
 ```
 # Fonts for all languages
 sudo pacman -S noto-fonts
+
 # Windows fonts
 yay -S ttf-ms-fonts
+
 # Liberation Mono 
 sudo pacman -S ttf-liberation
 ```
