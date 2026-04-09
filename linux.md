@@ -155,6 +155,7 @@ yay -S ttf-ms-fonts
 # Liberation Mono 
 sudo pacman -S ttf-liberation
 ```
+<br>
 
 [dual-boot.html](/files/dual-boot.html)
 
