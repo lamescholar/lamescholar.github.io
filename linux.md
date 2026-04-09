@@ -143,6 +143,17 @@ Hibernate:<br>
 /etc/systemd/logind.conf
 <br><br>
 
+#### Fonts
+
+```
+# Fonts for all languages
+sudo pacman -S noto-fonts
+# Windows fonts
+yay -S ttf-ms-fonts
+# Liberation Mono 
+sudo pacman -S ttf-liberation
+```
+
 [dual-boot.html](/files/dual-boot.html)
 
 <iframe src="{{ '/files/dual-boot.html' | relative_url }}" 
