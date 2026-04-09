@@ -67,7 +67,10 @@ Nicotine+ (Soulseek client)
 
 Fooyin (music player)
 
-`yay -S fooyin`
+```
+sudo pacman -S pipewire-alsa
+yay -S fooyin
+```
 
 XnView (image viewer)
 
@@ -132,6 +135,7 @@ You probably noticed that most of the time to install a program you can type:
 `yay -S package`
 
 It's that easy. If the package is not found, look up `package arch` to find the right name of AUR package.
+<br><br>
 
 #### Issues
 
