@@ -71,7 +71,7 @@ Fooyin (music player)
 
 XnView (image viewer)
 
-`yay -S xnviemp`
+`yay -S xnviewmp`
 
 LibreOffice (Word)
 
