@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: FB2, EPUB
+title: EPUB
 ---
 
 #### Reading:
@@ -18,11 +18,11 @@ Esc - menu.
 
 Preferences:
 
-Scrolling behavior->Show scrollbar
+* Scrolling behavior->Show scrollbar
 
-Miscellaneous->Remember last used window size and position
+* Miscellaneous->Remember last used window size and position
 
-Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy sharing. Untick.
+* Miscellaneous->Keep a copy of annotations/bookmarks in the e-book file, for easy sharing. Untick.
 
 ```
 body, div, p, span, a, h1, h2, h3 {

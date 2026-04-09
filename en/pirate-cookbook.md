@@ -32,7 +32,7 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [ebooks on Mac](/en/ebooks-on-mac)
 
-[FB2, EPUB](/en/fb2-epub)
+[EPUB](/en/epub)
 
 [Films](/en/films)
 
