@@ -146,9 +146,6 @@ Hibernate:<br>
 #### Fonts
 
 ```
-# Fonts for all languages
-sudo pacman -S noto-fonts
-
 # Windows fonts
 yay -S ttf-ms-fonts
 
