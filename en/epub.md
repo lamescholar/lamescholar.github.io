@@ -31,8 +31,8 @@ body, div, p, span, a, h1, h2, h3 {
 }
 
 img {
-	max-width: 500px !important;
-	height: auto;
+    max-width: 500px !important;
+    height: auto;
 }
 ```
 
