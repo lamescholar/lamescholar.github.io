@@ -155,6 +155,9 @@ yay -S ttf-ms-fonts
 
 # Liberation Mono 
 sudo pacman -S ttf-liberation
+
+# Bookerly
+yay -S amazon-fonts
 ```
 <br>
 
