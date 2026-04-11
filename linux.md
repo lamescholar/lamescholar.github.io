@@ -53,6 +53,8 @@ MBTN_LEFT  cycle pause
 MBTN_RIGHT ignore
 ```
 
+Shift+F, Shift+G - to change the size of subtitles
+
 VLC (to play DVDs)
 
 `sudo pacman -S vlc vlc-plugins-all`
