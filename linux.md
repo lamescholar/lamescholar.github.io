@@ -162,6 +162,9 @@ sudo pacman -S ttf-liberation
 
 # Bookerly
 yay -S amazon-fonts
+
+# Chinese, Japanese, Korean
+sudo pacman -S noto-fonts-cjk
 ```
 <br>
 
