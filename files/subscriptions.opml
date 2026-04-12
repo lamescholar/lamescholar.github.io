@@ -2,13 +2,6 @@
 <opml version="1.1">
 <head><title>subscriptions</title></head>
 <body>
-  <outline text="_YouTube">
-    <outline type="rss" text="Andrii Baumeister - YouTube" xmlUrl="https://rss-bridge.cheredeprince.net/?action=display&amp;bridge=YoutubeBridge&amp;context=By+custom+name&amp;custom=AndriiBaumeister&amp;duration_min=&amp;duration_max=&amp;format=Atom" htmlUrl="https://www.youtube.com/AndriiBaumeister/videos"/>
-    <outline type="rss" text="Angela Collier  - YouTube" xmlUrl="https://rss-bridge.cheredeprince.net/?action=display&amp;bridge=YoutubeBridge&amp;context=By+custom+name&amp;custom=%40acollierastro&amp;duration_min=&amp;duration_max=&amp;format=Atom" htmlUrl="https://www.youtube.com/%40acollierastro/videos"/>
-    <outline type="rss" text="Hank Green - YouTube" xmlUrl="https://rss-bridge.cheredeprince.net/?action=display&amp;bridge=YoutubeBridge&amp;context=By+custom+name&amp;custom=%40hankschannel&amp;duration_min=&amp;duration_max=&amp;format=Atom" htmlUrl="https://www.youtube.com/%40hankschannel/videos"/>
-    <outline type="rss" text="Jonas Čeika - CCK Philosophy - YouTube" xmlUrl="https://rss-bridge.cheredeprince.net/?action=display&amp;bridge=YoutubeBridge&amp;context=By+custom+name&amp;custom=%40jonasceikaCCK&amp;duration_min=&amp;duration_max=&amp;format=Atom" htmlUrl="https://www.youtube.com/%40jonasceikaCCK/videos"/>
-    <outline type="rss" text="Издательство «Эгалите» - YouTube" xmlUrl="https://rss-bridge.cheredeprince.net/?action=display&amp;bridge=YoutubeBridge&amp;context=By+custom+name&amp;custom=%40egalitemagazine&amp;duration_min=&amp;duration_max=&amp;format=Atom" htmlUrl="https://www.youtube.com/%40egalitemagazine/videos"/>
-  </outline>
   <outline text="Blogs">
     <outline type="rss" text="3 Quarks Daily" xmlUrl="https://3quarksdaily.com/feed" htmlUrl="https://3quarksdaily.com"/>
     <outline type="rss" text="Aeon" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co"/>
