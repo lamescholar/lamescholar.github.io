@@ -86,9 +86,9 @@ Calibre (EPUB reader)
 
 `yay -S calibre`
 
-Okular (PDF reader)
+Evince (PDF reader)
 
-`yay -S okular`
+`sudo pacman -S evince`
 
 MakeMKV (to rip discs)
 
