@@ -40,7 +40,7 @@ Nickname - legen848dary
 <br><br>
 
 {:refdef: style="text-align: center;"}
-![Communism](/images/communism.jpg)
+![Pirate](/files/pirate.gif)
 {: refdef}
 <br>
 
@@ -91,6 +91,11 @@ Properties
 
 Fill metadata. Add cover.
 <br><br>
+
+{:refdef: style="text-align: center;"}
+![Communism](/images/communism.jpg)
+{: refdef}
+<br>
 
 {:refdef: style="text-align: center;"}
 ![Capitalism](/images/capitalism.jpg)
