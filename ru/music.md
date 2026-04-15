@@ -22,17 +22,19 @@ title: Музыка
 
 **Redacted** - <https://redacted.ch/torrents.php>
 
-Интервью:
+<div style="border: 1px solid rgb(80, 80, 80); padding: 10px;">
+<p>Интервью:</p>
 
-<https://interviewfor.red/en/starting.html>
+<p><a href="https://interviewfor.red/en/starting.html">https://interviewfor.red/en/starting.html</a></p>
 
-IRC клиент:
+<p>IRC клиент:</p>
 
-mIRC - <https://rutracker.org/forum/viewtopic.php?t=2901572>
+<p>mIRC - <a href="https://rutracker.org/forum/viewtopic.php?t=2901572">https://rutracker.org/forum/viewtopic.php?t=2901572</a></p>
 
-AppData\Roaming\mIRC\scripts
+<p>AppData\Roaming\mIRC\scripts</p>
 
-HexChat - <https://hexchat.github.io/downloads.html>
+<p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
+</div>
 
 **Soulseek** - <http://www.slsknet.org/news/node/1>
 
