@@ -16,7 +16,7 @@ layout: home
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
-[Linux](linux)
+## [Linux](linux)
 <br><br>
 
 ## My releases / Мои раздачи:
