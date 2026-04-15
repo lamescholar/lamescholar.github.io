@@ -79,6 +79,13 @@ XnView (image viewer)
 
 `yay -S xnviewmp`
 
+Normcap (OCR)
+
+```
+sudo pacman -S wl-clipboard
+yay -S normcap
+```
+
 LibreOffice (Word)
 
 `yay -S libreoffice`
