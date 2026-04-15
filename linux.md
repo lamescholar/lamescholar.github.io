@@ -47,6 +47,7 @@ mpv (video player)
 ```
 save-position-on-quit=yes
 window-maximized=yes
+gpu-api=opengl
 
 ALT+= add video-zoom 0.1
 MBTN_LEFT  cycle pause
