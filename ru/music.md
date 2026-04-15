@@ -40,7 +40,7 @@ HexChat - <https://hexchat.github.io/downloads.html>
 <br><br>
 
 {:refdef: style="text-align: center;"}
-![Communism](/images/communism.jpg)
+![Pirate](/files/pirate.gif)
 {: refdef}
 <br>
 
@@ -91,6 +91,11 @@ Properties
 
 Заполни метаданные. Добавь обложку.
 <br><br>
+
+{:refdef: style="text-align: center;"}
+![Communism](/images/communism.jpg)
+{: refdef}
+<br>
 
 {:refdef: style="text-align: center;"}
 ![Capitalism](/images/capitalism.jpg)
