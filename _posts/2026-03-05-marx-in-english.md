@@ -13,7 +13,7 @@ title: Marx in English
 In English, Marx comes in waves:<br>
 * C.H. Kerr editions in 1900s<br>
 * The Pelican Marx Library in the 70s<br>
-* MEGA textual revival: [raw draft of Capital Volume III](https://libgen.li/edition.php?id=137181767) and Paul Reitter's translation of Capital Volume I).
+* MEGA textual revival: [raw draft of Capital Volume III](https://libgen.li/edition.php?id=137181767) and new translation of Capital Volume I.
 
 In the US and the UK there was no Marx-Engels Institute, no academic Ryazanov to dig out the works of Marx. Collected Works arrived only in the 70s, mirroring East German Werke. Marx has a very bizarre legacy, unfolding 100 years after his death. Partly, it's due to Marx himself who constantly reworked his projects and left a big part of his writings in a form of manuscripts (Manuscripts of 1844, Grundrisse, German Ideology). Given the situation, when there is no definite statement, Engels stepped in to consolidate Marx's legacy with his own writings. To this day, leftists learn Marx by reading Engels and Lenin. I think, there's no shame that Marx didn't build a magnificent final theory. Looking at Marx's biography, it is a series of break ups, attacks on closest allies, constant drive of self-clarification. If Marx was more agreeable, more dedicated to stick with his group, to finish the present project, then we wouldn't know his name today. All his failed magazines were compensated thousand-fold by Marxist magazines of the 20th century.
  
