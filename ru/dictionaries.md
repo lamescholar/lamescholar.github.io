@@ -45,10 +45,6 @@ Yandex Translate - <https://translate.yandex.ru/>
 
 Google Translate - <https://translate.google.com/>
 
-[ChatGPT](/ru/chatgpt)
-
-[Translation](/en/translation)
-
 Славеница - <http://slavenica.com/>
 <br><br>
 
