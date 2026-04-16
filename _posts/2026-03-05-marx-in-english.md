@@ -53,7 +53,7 @@ Surveys from Exile (2010): 18th Brumaire of Louis Bonaparte
 The First International and After (2010): The Civil War in France
 <br><br>
 
-There is a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/ads.php?md5=c4ac2de87ec49341ec70c6eec85bbbeb) by [PM Press](https://pmpress.org/index.php?l=product_detail&p=1241).
+[PM Press](https://pmpress.org/index.php?l=product_detail&p=1241) has a nice edition of [Critique of Gotha Program (2022)](https://libgen.li/ads.php?md5=c4ac2de87ec49341ec70c6eec85bbbeb).
 <br><br>
 
 If you can't find these editions for a good price, you can substitute them with [International Publishers editions](https://www.intpubnyc.com/book-author/karl-marx/).
