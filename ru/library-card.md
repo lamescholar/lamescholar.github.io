@@ -6,7 +6,7 @@ title: Читательский билет РГБ
 
 Российская государственная библиотека даёт доступ ко многим базам, в том числе East View,  или ИВИС. Через эту базу можно читать много российских газет и журналов. Доступ к этой базе можно получить сделав читательский билет РГБ. Это можно сделать даже из регионов, дистанционно.
 
-<https://passport.rsl.ru/ru/register/reg_online>
+<https://www.rsl.ru/ru/4readers/how-to-join>
 
 Дальше установи расширение [MyLOFT](https://chromewebstore.google.com/detail/myloft/hljakogpibfgelmoegmajaeefcnefngd), найди в списке РГБ.
 
