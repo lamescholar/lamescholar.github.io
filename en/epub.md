@@ -10,10 +10,8 @@ title: EPUB
 
 Calibre 4.23.0 - <https://download.calibre-ebook.com/4.23.0/>
 
-Version 4.23.0 because later versions are slow, and earlier ones have poor quality fonts.
-
-Alt+Left - go back after clicking on the hyperlink.
-
+Version 4.23.0 because later versions are slow, and earlier ones have poor quality fonts.<br>
+Alt+Left - go back after clicking on the hyperlink.<br>
 Esc - menu.
 
 Preferences:
