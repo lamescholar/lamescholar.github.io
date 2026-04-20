@@ -79,7 +79,7 @@ cmd
 
 <https://github.com/abdeladim-s/subsai>
 
-subsai is version of whisper to creat subtitles
+subsai is a version of whisper to create subtitles
 
 Installation:
 
