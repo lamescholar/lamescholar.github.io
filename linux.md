@@ -106,6 +106,8 @@ Okular (PDF reader)
 
 MakeMKV (to rip discs)
 
+`sudo pacman -S wine`
+
 <https://wiki.archlinux.org/title/Dvdbackup>
 
 Handbrake (to transcode MKV)
