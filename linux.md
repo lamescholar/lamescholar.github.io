@@ -62,7 +62,11 @@ VLC (to play DVDs)
 
 qBittorent (BitTorrent client)
 
-`yay -S qbittorrent`
+```
+yay -S qbittorrent
+sudo pacman -S qt6ct
+yay -S adwaita-qt6-git
+```
 
 Nicotine+ (Soulseek client)
 
@@ -93,6 +97,8 @@ LibreOffice (Word)
 Calibre (EPUB reader)
 
 `yay -S calibre`
+
+Settings: [EPUB](/en/epub)
 
 Okular (PDF reader)
 
