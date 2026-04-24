@@ -100,9 +100,9 @@ Calibre (EPUB reader)
 
 Settings: [EPUB](/en/epub)
 
-Okular (PDF reader)
+zathura (PDF reader)
 
-`sudo pacman -S okular`
+`sudo pacman -S zathura zathura-cb zathura-pdf-mupdf zathura-djvu`
 
 MakeMKV (to rip discs)
 
