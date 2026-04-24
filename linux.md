@@ -126,23 +126,6 @@ Handbrake (to transcode MKV)
 `sudo pacman -S handbrake`
 <br><br>
 
-Scan Taior Universal
-
-```
-yay -S scantailor-universal-git
-
-Scale fix:
-cp /usr/share/applications/scantailor-universal.desktop ~/.local/share/applications/
-nano ~/.local/share/applications/scantailor-universal.desktop
-Add: env QT_SCREEN_SCALE_FACTORS=2.0
-update-desktop-database ~/.local/share/applications
-Reboot
-
-Dark mode:
-adwaita-qt5-git
-```
-<br>
-
 Audiobookshelf (Audiobook player)
 
 ```
