@@ -112,7 +112,27 @@ Settings: [EPUB](/en/epub)
 zathura (PDF reader)
 
 `sudo pacman -S zathura zathura-cb zathura-pdf-mupdf zathura-djvu`
-<br><br>
+
+Settings:
+
+```
+mkdir -p ~/.config/zathura
+touch ~/.config/zathura/zathurarc
+
+map <Left> navigate previous
+map <Right> navigate next
+set selection-clipboard clipboard
+set font "monospace 15"
+set window-height 2000
+set window-width 3000
+set scroll-step 80
+set zoom-step 10
+
+Tab - Contents
+100G - go to page 100
+200= - zoom 200%
+```
+<br>
 
 MakeMKV (to rip discs)
 
