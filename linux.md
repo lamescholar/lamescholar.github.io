@@ -55,10 +55,12 @@ MBTN_RIGHT ignore
 ```
 
 Shift+F, Shift+G - to change the size of subtitles
+<br><br>
 
 VLC (to play DVDs)
 
 `sudo pacman -S vlc vlc-plugins-all`
+<br><br>
 
 qBittorent (BitTorrent client)
 
@@ -67,10 +69,12 @@ yay -S qbittorrent
 sudo pacman -S qt6ct
 yay -S adwaita-qt6-git
 ```
+<br>
 
 Nicotine+ (Soulseek client)
 
 `yay -S nicotine-plus-cigorette-git`
+<br><br>
 
 Fooyin (music player)
 
@@ -78,10 +82,12 @@ Fooyin (music player)
 sudo pacman -S pipewire-alsa
 yay -S fooyin
 ```
+<br>
 
 XnView (image viewer)
 
 `yay -S xnviewmp`
+<br><br>
 
 Normcap (OCR)
 
@@ -89,37 +95,43 @@ Normcap (OCR)
 sudo pacman -S wl-clipboard
 yay -S normcap
 ```
+<br>
 
 LibreOffice (Word)
 
 `yay -S libreoffice`
+<br><br>
 
 Calibre (EPUB reader)
 
 `yay -S calibre`
 
 Settings: [EPUB](/en/epub)
+<br><br>
 
 zathura (PDF reader)
 
 `sudo pacman -S zathura zathura-cb zathura-pdf-mupdf zathura-djvu`
+<br><br>
 
 MakeMKV (to rip discs)
 
-`sudo pacman -S wine`
+Install via Wine: `sudo pacman -S wine`
 
 <https://wiki.archlinux.org/title/Dvdbackup>
+<br><br>
 
 Handbrake (to transcode MKV)
 
 `sudo pacman -S handbrake`
+<br><br>
 
 Scan Taior Universal
 
 ```
 yay -S scantailor-universal-git
 
-Scal fix:
+Scale fix:
 cp /usr/share/applications/scantailor-universal.desktop ~/.local/share/applications/
 nano ~/.local/share/applications/scantailor-universal.desktop
 Add: env QT_SCREEN_SCALE_FACTORS=2.0
@@ -129,6 +141,7 @@ Reboot
 Dark mode:
 adwaita-qt5-git
 ```
+<br>
 
 Audiobookshelf (Audiobook player)
 
@@ -149,6 +162,7 @@ sudo docker run -d \
   --name audiobookshelf \
   ghcr.io/advplyr/audiobookshelf
 ```
+<br>
 
 Steam
 
@@ -163,6 +177,7 @@ sudo pacman -Syu
 sudo pacman -S steam
 AMD: vulkan-radeon
 ```
+<br>
 
 You probably noticed that most of the time to install a program you can type:
 
