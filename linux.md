@@ -127,6 +127,7 @@ set window-height 2000
 set window-width 3000
 set scroll-step 80
 set zoom-step 10
+set guioptions "sv"
 
 Tab - Contents
 100G - go to page 100
