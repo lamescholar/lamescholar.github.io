@@ -67,6 +67,7 @@ djvm -c "$OUT_NAME" "$TEMP_DIR"/*.combined.djvu
 rm -rf "$TEMP_DIR"
 echo "Done."
 ```
+<br>
 
 3) FineReader 15 - OCR
 
