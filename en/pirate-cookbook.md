@@ -28,6 +28,8 @@ My guides on how to find sources, digitize books, rip disks and record vinyl rec
 
 [DjVu](/en/djvu)
 
+[DjVu - Arch Linux](/en/djvu-arch)
+
 [ebook formats](/en/ebook-formats)
 
 [ebooks on Mac](/en/ebooks-on-mac)
