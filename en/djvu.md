@@ -4,34 +4,34 @@ comments: true
 title: DjVu
 ---
 
-This is a collection of programs to create, edit and read DjVu files. Using it you can create DjVu ebook with text layer and table of contents.
+My collection of programs to create, edit and read DjVu files.
 <br><br>
 
 #### Workflow:
 
-1) Scan Tailor Universal - images processing.
+1) Scan Tailor Universal - process images
 
-2) Book Restorer - straightening text lines.
+2) Book Restorer - straighten text
 
-3) Tsushima - cleaning slur.
+3) Tsushima - clean typographical slur
 
-4) DjVu Small Mod 0.7.6.1 - creation of DjVu document.
+4) DjVu Small Mod 0.7.6.1 - encode DjVu document
 
-5) DjVu Imager - inserting colored/grey pictures.
+5) DjVu Imager - insert colored/grey pictures
 
-6) ABBYY Finereader - creation of OCR layer.
+6) ABBYY Finereader - create OCR layer.
 
-7) FR11 DjVu Text Layer Crutch - fixing and transferring OCR layer.
+7) FR11 DjVu Text Layer Crutch - fix and transfer OCR layer
 
-8) Document Express Editor 6.0.1 - adding a cover.
+8) Document Express Editor 6.0.1 - add cover
 
-9) Pdf & DjVu Bookmarker - adding a contents.
+9) Pdf & DjVu Bookmarker - add contents
 
-10) DjVu Hyperlinks Editor - adding hyperlinks.
+10) DjVu Hyperlinks Editor - add hyperlinks
 
-11) DjVu Annotations Editor - editing style of hyperlinks.
+11) DjVu Annotations Editor - edit style of hyperlinks
 
-12) Document Express Editor 6.0.1 - editing hyperlinks.
+12) Document Express Editor 6.0.1 - edit hyperlinks
 <br><br>
 
 **WinDjView** - program for reading of .djvu files.

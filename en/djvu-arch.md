@@ -6,12 +6,12 @@ title: "DjVu - Arch Linux"
 
 #### Workflow:
 
-1) Scan Tailor Universal - to process images
+1) Scan Tailor Universal - process images
 
 `yay -S scantailor-universal-git`
-<br>
+<br><br>
 
-2) sep.sh - to encode DjVu
+2) sep.sh - encode DjVu
 
 ```
 #!/bin/bash
@@ -73,15 +73,15 @@ echo "Done."
 Wine
 <br><br>
 
-4) FR crutch - to insert OCR layer
+4) FR crutch - insert OCR layer
 
 Wine
 <br><br>
 
-5) bookmark-djvu - to insert contents
+5) bookmark-djvu - insert contents
 
 `yay -S bookmark-djvu`
 
-6) Document Express Editor 6 - to insert cover
+6) Document Express Editor 6 - insert cover
 
 Wine
