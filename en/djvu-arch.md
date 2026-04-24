@@ -81,6 +81,7 @@ Wine
 5) bookmark-djvu - insert contents
 
 `yay -S bookmark-djvu`
+<br><br>
 
 6) Document Express Editor 6 - insert cover
 
