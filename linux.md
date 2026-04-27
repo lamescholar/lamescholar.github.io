@@ -135,11 +135,6 @@ Tab - Contents
 ```
 <br>
 
-Okular (PDF reader)
-
-`sudo pacman -S okular`
-<br><br>
-
 MakeMKV (to rip discs)
 
 Install via Wine: `sudo pacman -S wine`
