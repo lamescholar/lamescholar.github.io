@@ -111,7 +111,7 @@ Settings: [EPUB](/en/epub)
 
 zathura (PDF reader)
 
-`sudo pacman -S zathura zathura-cb zathura-pdf-mupdf zathura-djvu`
+`sudo pacman -S zathura zathura-pdf-mupdf zathura-djvu`
 
 Settings:
 
