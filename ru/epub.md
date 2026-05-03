@@ -38,7 +38,7 @@ ABBYY Finereader - <https://btdig.com/db98398f6d1c9bbd4c8ac905dc30abb5f9e4b704/a
 
 FictionBook Editor:
 
-<https://download.cnet.com/MSXML-4-0-Service-Pack-2-Microsoft-XML-Core-Services/3000-2070_4-10726922.html>
+<https://www.microsoft.com/en-us/download/details.aspx?id=36292>
 
 <https://github.com/sensboston/fictionbookeditor/releases>
 
