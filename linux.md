@@ -100,6 +100,8 @@ yay -S normcap
 LibreOffice (Word)
 
 `yay -S libreoffice`
+
+To paste without formatting: Ctrl+Shift+V
 <br><br>
 
 Calibre (EPUB reader)
