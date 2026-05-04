@@ -35,7 +35,7 @@ title: Как следить за прессой с помощью RSS?
 uBlock Origin - <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 <br><br>
 
-**3) Коллекция самих RSS-лент и RSS-ридер.**
+**3) Коллекция RSS-лент и RSS-ридер.**
 
 Лучший (по моему мнению) RSS-ридер - yarr (yet another rss reader).
 

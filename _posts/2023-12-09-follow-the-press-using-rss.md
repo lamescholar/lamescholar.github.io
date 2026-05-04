@@ -35,7 +35,7 @@ In addition it's good to have an adblock.
 uBlock Origin - <https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm>
 <br><br>
 
-**3) A collection of RSS feeds themselves and RSS reader.**
+**3) A collection of RSS feeds and RSS reader.**
 
 The best (in my opinion) RSS reader is yarr (yet another rss reader).
 
