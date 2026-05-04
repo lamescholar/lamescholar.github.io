@@ -3,7 +3,7 @@ layout: page
 title: Pirate Cookbook
 ---
 
-My guides how to find ebooks, digitize books, rip disks and record vinyl records. For details see [Hello](/en/hello).
+My guides how to find books, music and movies online, and also how to digitize books, rip disks and record vinyl records. For details see [Hello](/en/hello).
 <br><br>
 
 [Android](/en/android)
