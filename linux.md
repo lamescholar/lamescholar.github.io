@@ -153,8 +153,11 @@ GoldenDict-ng (dictionary)
 
 Recoll (full-text search)
 
-`sudo pacman -S recoll`
-<br><br>
+```
+sudo pacman -S recoll
+sudo pacman -S aspell-en
+```
+<br>
 
 MakeMKV (to rip discs)
 
