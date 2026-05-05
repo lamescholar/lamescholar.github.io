@@ -48,14 +48,6 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
-body {
-  font-size: $base-font-size;
-  
-  @include media-query($on-palm) {
-    font-size: 19px;
-  }
-}
-
 // Import partials.
 @import
   "minima/base",
