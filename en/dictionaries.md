@@ -98,7 +98,7 @@ To run StarDict dictionary in command-line
 
 MSYS - <https://www.msys2.org/>
 
-`pacman - S mingw-w64-sdcv`
+`pacman -S mingw-w64-sdcv`
 
 2) create system variable:<br>
 STARDICT_DATA_DIR<Br>

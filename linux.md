@@ -42,6 +42,20 @@ To see CPU load and memory use:
 
 #### Applications
 
+qBittorent (BitTorrent client)
+
+```
+yay -S qbittorrent
+sudo pacman -S qt6ct
+yay -S adwaita-qt6-git
+```
+<br>
+
+Nicotine+ (Soulseek client)
+
+`yay -S nicotine-plus-cigorette-git`
+<br><br>
+
 mpv (video player)
 
 ```
@@ -62,20 +76,6 @@ VLC (to play DVDs)
 `sudo pacman -S vlc vlc-plugins-all`
 <br><br>
 
-qBittorent (BitTorrent client)
-
-```
-yay -S qbittorrent
-sudo pacman -S qt6ct
-yay -S adwaita-qt6-git
-```
-<br>
-
-Nicotine+ (Soulseek client)
-
-`yay -S nicotine-plus-cigorette-git`
-<br><br>
-
 Fooyin (music player)
 
 ```
@@ -88,14 +88,6 @@ XnView (image viewer)
 
 `yay -S xnviewmp`
 <br><br>
-
-Normcap (OCR)
-
-```
-sudo pacman -S wl-clipboard
-yay -S normcap
-```
-<br>
 
 LibreOffice (Word)
 
@@ -146,9 +138,27 @@ sudo rm okularApplication_*.desktop
 ```
 <br><br>
 
+Normcap (OCR)
+
+```
+sudo pacman -S wl-clipboard
+yay -S normcap
+```
+<br>
+
+GoldenDict-ng (dictionary)
+
+`yay -S goldendict-ng`
+<br><br>
+
+Recoll (full-text search)
+
+`sudo pacman -S recoll`
+<br><br>
+
 MakeMKV (to rip discs)
 
-Install via Wine: `sudo pacman -S wine`
+Install via Wine.
 
 <https://wiki.archlinux.org/title/Dvdbackup>
 <br><br>
@@ -156,6 +166,16 @@ Install via Wine: `sudo pacman -S wine`
 Handbrake (to transcode MKV)
 
 `sudo pacman -S handbrake`
+<br><br>
+
+Subtitle Edit (to translate subtitles)
+
+`yay -S subtitleedit-avalonia`
+<br><br>
+
+LM Studio (local server to translate subtitles)
+
+`yay -S lmstudio-bin`
 <br><br>
 
 Audiobookshelf (Audiobook player)
@@ -198,7 +218,7 @@ You probably noticed that most of the time to install a program you can type:
 
 `yay -S package`
 
-It's that easy. If the package is not found, look up `package arch` to find the right name of AUR package.
+It's that easy. If the package is not found, look up `<program name> arch` to find the right name of AUR package.
 <br><br>
 
 #### Issues
