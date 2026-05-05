@@ -136,7 +136,7 @@ sudo pacman -S okular
 cd /usr/share/applications/
 sudo rm okularApplication_*.desktop
 ```
-<br><br>
+<br>
 
 Normcap (OCR)
 
