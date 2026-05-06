@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Sunday Press Pack
+tag: Sunday
 comments: true
 title: Sunday Press Pack 2024-12-22
 ---
