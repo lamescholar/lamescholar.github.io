@@ -3,11 +3,11 @@ title: Archive / Архив
 ---
 
 {% for tag in site.tags %}
-  <h2>{{ tag[0] }}:</h2>
+  <h4>{{ tag[0] }}:</h4>
   <ul>
     {% for post in tag[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
   </ul>
-  <br><br>
+  <br>
 {% endfor %}
