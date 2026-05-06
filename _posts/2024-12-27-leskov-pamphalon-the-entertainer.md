@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Nikolai Leskov - Pamphalon the Entertainer (1887)
 ---

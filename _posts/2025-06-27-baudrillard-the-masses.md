@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: "Jean Baudrillard - The Masses: The Implosion of the Social in the Media (1985)"
 ---

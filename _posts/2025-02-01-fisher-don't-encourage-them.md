@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Mark Fisher - don’t vote, don’t encourage them (2005)
 ---

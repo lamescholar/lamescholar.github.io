@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: "Michael Parenti - The Constitution as an Elitist Document (1980)"
 ---

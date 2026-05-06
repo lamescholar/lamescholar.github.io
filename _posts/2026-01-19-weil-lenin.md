@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Simone Weil - On the Lenin's Book Materialism and Empiriocriticism (1933)
 ---

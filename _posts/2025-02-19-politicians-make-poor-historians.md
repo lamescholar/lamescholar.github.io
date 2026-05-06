@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Benoît Bréville - Politicians make poor historians (2024)
 ---

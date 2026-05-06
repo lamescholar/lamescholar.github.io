@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Aaron Swartz - The Book That Changed My Life (2006)
 ---

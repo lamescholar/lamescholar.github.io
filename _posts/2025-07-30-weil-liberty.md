@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Чтение
 comments: true
 title: "Simone Weil - Meditation on Obedience and Liberty (1937-1938)"
 ---

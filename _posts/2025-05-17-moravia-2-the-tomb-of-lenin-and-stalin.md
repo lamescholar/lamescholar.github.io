@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: Reposts Moravia
+tags: Readings Moravia
 comments: true
 title: "Alberto Moravia - A Month in the USSR (1958): II. The Tomb of Lenin and Stalin"
 ---

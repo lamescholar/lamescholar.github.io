@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Periodical of the Week
+tag: Periodical
 comments: true
 title: "Periodical of the Week #1 - History Today"
 ---

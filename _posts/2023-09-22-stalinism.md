@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Репосты
+tag: Чтение
 comments: true
 title: "Дугин А.Н. - Сталинизм: легенды и факты"
 ---

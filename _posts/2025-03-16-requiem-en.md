@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Jean Baudrillard - Requiem for the Media (1981)
 ---

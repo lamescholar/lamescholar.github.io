@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Gordon S. Wood - Dusting Off the Declaration (1997)
 ---

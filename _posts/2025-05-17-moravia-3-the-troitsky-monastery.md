@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: Reposts Moravia
+tags: Readings Moravia
 comments: true
 title: "Alberto Moravia - A Month in the URSS (1958): III. The Troitsky Monastery"
 ---

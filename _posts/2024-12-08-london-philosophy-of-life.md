@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Jack London - On Writer's Philosophy of Life (1899)
 ---

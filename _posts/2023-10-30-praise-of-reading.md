@@ -7,7 +7,7 @@ title: Praise of reading (and the new humanism)
 
 Source: [Il Sole 24 Ore - Domenica 2023-10-08](https://disk.yandex.ru/i/BcgJGS7GkPoSpw)
 
-Translation from Italian: lamescholar - 2023-10-30
+Translation from Italian: ChatGPT, lamescholar - 2023-10-30
 <br><br>
 
 # PRAISE OF READING (AND THE NEW HUMANISM)

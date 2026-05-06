@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: John Lennon and Yoko Ono talk with Tariq Ali and Robin Blackburn
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: Репосты Капица
+tags: Чтение Капица
 comments: true
 title: Наш храм науки почти сгорел
 ---
