@@ -7,7 +7,7 @@ title: Literary magazines you can subscribe to
 
 2025-03-28
 
-# Literary magazines and more
+# Literary magazines you can subscribe to
 <br>
 
 Clipboard for large-format magazines:<br>
