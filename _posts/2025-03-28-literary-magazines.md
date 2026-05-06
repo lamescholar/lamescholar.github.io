@@ -2,7 +2,7 @@
 layout: post
 tag: Posts
 comments: true
-title: Literary magazines and more
+title: Literary magazines you can subscribe to
 ---
 
 2025-03-28
