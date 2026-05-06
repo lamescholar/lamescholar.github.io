@@ -33,6 +33,10 @@ img {
     height: auto;
     object-fit: contain;
 }
+
+p {
+    padding-left: 5px !important; 
+}
 ```
 
 [Bookerly.zip](/files/Bookerly.zip)
