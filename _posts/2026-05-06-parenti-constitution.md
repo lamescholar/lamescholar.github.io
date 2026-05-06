@@ -5,6 +5,9 @@ comments: true
 title: "Michael Parenti - The Constitution as an Elitist Document (1980)"
 ---
 
+Source: [Ollman, Bertell (ed.) - Karl Marx - 2012](https://libgen.li/edition.php?id=138203147)
+<br><br>
+
 # The Constitution as an Elitist Document
 
 ***Michael Parenti***
@@ -171,66 +174,66 @@ By offering well-protected havens for powerful special interests, by ignoring su
 
 #### **Notes**
 
-[1.](#bck_fn0238) Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (Chicago: Encyclopaedia Britannica, Inc., 1952), p. 309,
+<a href="bck_fn0238" id="fn0238">1.</a> Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (Chicago: Encyclopaedia Britannica, Inc., 1952), p. 309,
 
-[2.](#bck_fn0239) Ibid., p. 311.
+<a href="bck_fn0239" id="fn0239">2.</a> Ibid., p. 311.
 
-[3.](#bck_fn0240) Merrill Jensen, *The New Nation* (New York: Random House, 1950), p. 178.
+<a href="bck_fn0240" id="fn0240">3.</a> Merrill Jensen, *The New Nation* (New York: Random House, 1950), p. 178.
 
-[4.](#bck_fn0241) Sidney H. Aronson, *Status and Kinship in the Higher Civil Service* (Cambridge, Mass.: Harvard University Press, 1964), p. 35.
+<a href="bck_fn0241" id="fn0241">4.</a> Sidney H. Aronson, *Status and Kinship in the Higher Civil Service* (Cambridge, Mass.: Harvard University Press, 1964), p. 35.
 
-[5.](#bck_fn0242) Ibid., p. 41.
+<a href="bck_fn0242" id="fn0242">5.</a> Ibid., p. 41.
 
-[6.](#bck_fn0243) Ibid., passim.
+<a href="bck_fn0243" id="fn0243">6.</a> Ibid., passim.
 
-[7.](#bck_fn0244) This is Beard's estimate regarding New York. Charles A. Beard, An *Economic Interpretation of the Constitution of the United States* (New York: Macmillan, 193 5), pp. 67-68. In a few states like Pennsylvania and Georgia, suffrage was more widespread; in others it was even more restricted than New York; see Arthur Ekrich, Jr., *The American Democratic Tradition* (New York: Macmillan, 1963). For a pioneer work on this subject, see A. E. McKinley, *The Suffrage Franchise in the Thirteen English Colonies in America* (Philadelphia: B. Franklin, 1969, originally published 1905). Robert E. Brown makes the argument that Massachusetts was close to being both an economic and political democracy—which would have been alarming news to the Boston aristocracy of manufacturers, merchants, and large property holders. He conjectures that property requirements of a 40 shilling freehold could be easily met and that rural underrepresentation (during the same period that produced Shays' Rebellion) was due more to indifference than to disenfranchisement. See his *Middle-Class Democracy and the Revolution in Massachusetts* (Ithaca, N.Y.: Cornell University Press, 1955).
+<a href="bck_fn0244" id="fn0244">7.</a> This is Beard's estimate regarding New York. Charles A. Beard, An *Economic Interpretation of the Constitution of the United States* (New York: Macmillan, 193 5), pp. 67-68. In a few states like Pennsylvania and Georgia, suffrage was more widespread; in others it was even more restricted than New York; see Arthur Ekrich, Jr., *The American Democratic Tradition* (New York: Macmillan, 1963). For a pioneer work on this subject, see A. E. McKinley, *The Suffrage Franchise in the Thirteen English Colonies in America* (Philadelphia: B. Franklin, 1969, originally published 1905). Robert E. Brown makes the argument that Massachusetts was close to being both an economic and political democracy—which would have been alarming news to the Boston aristocracy of manufacturers, merchants, and large property holders. He conjectures that property requirements of a 40 shilling freehold could be easily met and that rural underrepresentation (during the same period that produced Shays' Rebellion) was due more to indifference than to disenfranchisement. See his *Middle-Class Democracy and the Revolution in Massachusetts* (Ithaca, N.Y.: Cornell University Press, 1955).
 
-[8.](#bck_fn0245) Beard, An *Economic Interpretation,* pp. 68, 70.
+<a href="bck_fn0245" id="fn0245">8.</a> Beard, An *Economic Interpretation,* pp. 68, 70.
 
-[9.](#bck_fn0246) Aronson, *Status and Kinship,* p. 49.
+<a href="bck_fn0246" id="fn0246">9.</a> Aronson, *Status and Kinship,* p. 49.
 
-[10.](#bck_fn0247) Ibid., p. 49.
+<a href="bck_fn0247" id="fn0247">10.</a> Ibid., p. 49.
 
-[11.](#bck_fn0248) Merrill Jensen, *The Articles of Confederation* (Madison: University of Wisconsin Press, 1948), p. 30.
+<a href="bck_fn0248" id="fn0248">11.</a> Merrill Jensen, *The Articles of Confederation* (Madison: University of Wisconsin Press, 1948), p. 30.
 
-[12.](#bck_fn0249) Ibid., pp. 9-10. "In addition to being frequently in debt for their lands," Beard noted, "the small farmers were dependent upon the towns for most of the capital to develop their resources. They were, in other words, a large debtor class, to which must be added, or course, the urban dwellers who were in a like unfortunate condition." Beard, An *Economic Interpretation,* p. 28.
+<a href="bck_fn0249" id="fn0249">12.</a> Ibid., pp. 9-10. "In addition to being frequently in debt for their lands," Beard noted, "the small farmers were dependent upon the towns for most of the capital to develop their resources. They were, in other words, a large debtor class, to which must be added, or course, the urban dwellers who were in a like unfortunate condition." Beard, An *Economic Interpretation,* p. 28.
 
-[13.](#bck_fn0250) For a study of this incident, see Monroe Stearns, *Shays' Rebellion,* 1786-7: *Americans Take Up Arms Against Unjust Laws* (New York: Franklin Watts, 1968).
+<a href="bck_fn0250" id="fn0250">13.</a> For a study of this incident, see Monroe Stearns, *Shays' Rebellion,* 1786-7: *Americans Take Up Arms Against Unjust Laws* (New York: Franklin Watts, 1968).
 
-[14.](#bck_fn0251) The quotations by Gerry, Madison, Sherman, and Hamilton are taken from Max Farrand, ed., *Records of the Federal Convention* (New Haven: Yale University Press, 1927), vol. 1, passim. For further testimony by the Founding Fathers and other early leaders, see John C. Miller, *Origins of the American Revolution* (Boston: Little, Brown, 1943), pp. 491 ff. and Andrew C. McLaughlin, A *Constitutional History of the United States* (New York: Appleton-Century, 1935), pp. 141-144.
+<a href="bck_fn0251" id="fn0251">14.</a> The quotations by Gerry, Madison, Sherman, and Hamilton are taken from Max Farrand, ed., *Records of the Federal Convention* (New Haven: Yale University Press, 1927), vol. 1, passim. For further testimony by the Founding Fathers and other early leaders, see John C. Miller, *Origins of the American Revolution* (Boston: Little, Brown, 1943), pp. 491 ff. and Andrew C. McLaughlin, A *Constitutional History of the United States* (New York: Appleton-Century, 1935), pp. 141-144.
 
-[15.](#bck_fn0252) John Bach McMaster, "Framing the Constitution," in his *The Political Depravity of the Founding Fathers* (New York: Farrar, Straus, 1964, originally published in 1896), p. 137. Farrand refers to the consensus for a strong national government that emerged after the small states had been given equal representation in the Senate. Much of the work that followed "was purely formal" albeit sometimes time-consuming. See Max Farrand, *The Framing of the Constitution of the United States* (New Haven: Yale University Press, 1913), pp. 134-135.
+<a href="bck_fn0252" id="fn0252">15.</a> John Bach McMaster, "Framing the Constitution," in his *The Political Depravity of the Founding Fathers* (New York: Farrar, Straus, 1964, originally published in 1896), p. 137. Farrand refers to the consensus for a strong national government that emerged after the small states had been given equal representation in the Senate. Much of the work that followed "was purely formal" albeit sometimes time-consuming. See Max Farrand, *The Framing of the Constitution of the United States* (New Haven: Yale University Press, 1913), pp. 134-135.
 
-[16.](#bck_fn0253) The original working was "borrow money and emit bills." The latter phrase was deleted after Gouverneur Morris warned that "the Monied interest" would oppose the Constitution if paper notes were not prohibited. There was much strong feeling about this among creditors. In any case, it was assumed that the borrowing power would allow for "safe and proper" public notes should they be necessary. See Farrand, *The Framing of the Constitution,* p. 147.
+<a href="bck_fn0253" id="fn0253">16.</a> The original working was "borrow money and emit bills." The latter phrase was deleted after Gouverneur Morris warned that "the Monied interest" would oppose the Constitution if paper notes were not prohibited. There was much strong feeling about this among creditors. In any case, it was assumed that the borrowing power would allow for "safe and proper" public notes should they be necessary. See Farrand, *The Framing of the Constitution,* p. 147.
 
-[17.](#bck_fn0254) See Beard, *An Economic Interpretation,* passim. The profits accrued to holders of public securities were in the millions. On the question of speculation in western lands, Hugh Williamson, a North Carolina delegate, wrote to Madison a year after the convention: "For myself, I conceive that my opinions are not biassed by private Interests, but having claims to a considerable Quantity of Land in the Western Country, I am fully persuaded that the Value of those Lands must be increased by an efficient federal Government." Ibid., p. 50. Critiques of Beard have been made by Robert E. Brown, *Charles Beard and the American Constitution* (Princeton, N.J.: Princeton University Press, 1956) and Forrest McDonald, We *the People*—*The Economic Origins of the Constitution* (Chicago; Chicago University Press, 1958).
+<a href="bck_fn0254" id="fn0254">17.</a> See Beard, *An Economic Interpretation,* passim. The profits accrued to holders of public securities were in the millions. On the question of speculation in western lands, Hugh Williamson, a North Carolina delegate, wrote to Madison a year after the convention: "For myself, I conceive that my opinions are not biassed by private Interests, but having claims to a considerable Quantity of Land in the Western Country, I am fully persuaded that the Value of those Lands must be increased by an efficient federal Government." Ibid., p. 50. Critiques of Beard have been made by Robert E. Brown, *Charles Beard and the American Constitution* (Princeton, N.J.: Princeton University Press, 1956) and Forrest McDonald, We *the People*—*The Economic Origins of the Constitution* (Chicago; Chicago University Press, 1958).
 
-[18.](#bck_fn0255) *Federalist* No. 10 can be found in any of the good editions of *The Federalist Papers.* It is one of the most significant essays on American politics ever written. With clarity and economy of language, it explains, as do few other short works, how a government may utilize the republican principle to contain the populace and protect the propertied few from the propertyless many. It confronts, if not solves, the essential question of how government may reconcile the tensions between liberty, authority, and dominant class interest. In effect, the Tenth *Federalist* Paper maps out a method, relevant to this day, for preserving the existing undemocratic class structure under the legitimizing cloak of democratic forms.
+<a href="bck_fn0255" id="fn0255">18.</a> *Federalist* No. 10 can be found in any of the good editions of *The Federalist Papers.* It is one of the most significant essays on American politics ever written. With clarity and economy of language, it explains, as do few other short works, how a government may utilize the republican principle to contain the populace and protect the propertied few from the propertyless many. It confronts, if not solves, the essential question of how government may reconcile the tensions between liberty, authority, and dominant class interest. In effect, the Tenth *Federalist* Paper maps out a method, relevant to this day, for preserving the existing undemocratic class structure under the legitimizing cloak of democratic forms.
 
-[19.](#bck_fn0256) See his lengthy comments of June 28 and July 14, 1787, in Madison's *The Debates in the Federal Convention of 1787 Which Framed the Constitution of the United States of America,* ed. Gaillard Hunt and James Brown Scott (New York: Oxford University Press, 1920), pp. 177-180, 256-258.
+<a href="bck_fn0256" id="fn0256">19.</a> See his lengthy comments of June 28 and July 14, 1787, in Madison's *The Debates in the Federal Convention of 1787 Which Framed the Constitution of the United States of America,* ed. Gaillard Hunt and James Brown Scott (New York: Oxford University Press, 1920), pp. 177-180, 256-258.
 
-[20.](#bck_fn0257) In time, of course, the electoral college proved to be something of a rubber stamp, and the Seventeenth Amendment, adopted in 1913, provided for the popular election of the Senate.
+<a href="bck_fn0257" id="fn0257">20.</a> In time, of course, the electoral college proved to be something of a rubber stamp, and the Seventeenth Amendment, adopted in 1913, provided for the popular election of the Senate.
 
-[21.](#bck_fn0258) Madison's speech of june 26, 1787, in *The Debates in the Federal Convention,* p. 167.
+<a href="bck_fn0258" id="fn0258">21.</a> Madison's speech of june 26, 1787, in *The Debates in the Federal Convention,* p. 167.
 
-[22.](#bck_fn0259) Farrand, *Records of the Federal Convention,* vol. 2, pp. 200 ff.
+<a href="bck_fn0259" id="fn0259">22.</a> Farrand, *Records of the Federal Convention,* vol. 2, pp. 200 ff.
 
-[23.](#bck_fn0260) For some typical apologistic arguments on behalf of the "Founding Fathers" see Broadus Mitchell and Louise Pearson Mitchell, A *Biography of the Constitution of the United States* (New York: Oxford University Press, 1964), pp. 46-51, and David G. Smith, *The Convention and the Constitution* (New York: St. Martin's Press, 1965), chap. 3. Smith argues that the framers had not only economic motives but "larger" political objectives, as if the political had no relation to the economic or as if the economic interests were less selfish because they were national in financial scope.
+<a href="bck_fn0260" id="fn0260">23.</a> For some typical apologistic arguments on behalf of the "Founding Fathers" see Broadus Mitchell and Louise Pearson Mitchell, A *Biography of the Constitution of the United States* (New York: Oxford University Press, 1964), pp. 46-51, and David G. Smith, *The Convention and the Constitution* (New York: St. Martin's Press, 1965), chap. 3. Smith argues that the framers had not only economic motives but "larger" political objectives, as if the political had no relation to the economic or as if the economic interests were less selfish because they were national in financial scope.
 
-[24.](#bck_fn0261) Staughton Lynd, *Class Conflict, Slavery and the United States Constitution* (Indianapolis: Bobbs-Merrill, 1967), selection in Irwin Unger, ed., *Beyond Liberalism: The New Left Views American History* (Waltham, Mass.: Xerox College Publishing, 1971), p. 17. For discussions of the class interests behind the American Revolution, see Alfred F, Young, ed., *The American Revolution: Explorations in the History of American Radicalism* (DeKalb, Ill.: Northern Illinois University Press, 1976).
+<a href="bck_fn0261" id="fn0261">24.</a> Staughton Lynd, *Class Conflict, Slavery and the United States Constitution* (Indianapolis: Bobbs-Merrill, 1967), selection in Irwin Unger, ed., *Beyond Liberalism: The New Left Views American History* (Waltham, Mass.: Xerox College Publishing, 1971), p. 17. For discussions of the class interests behind the American Revolution, see Alfred F, Young, ed., *The American Revolution: Explorations in the History of American Radicalism* (DeKalb, Ill.: Northern Illinois University Press, 1976).
 
-[25.](#bck_fn0262) Beard, *An Economic Interpretation,* pp. 44-45.
+<a href="bck_fn0262" id="fn0262">25.</a> Beard, *An Economic Interpretation,* pp. 44-45.
 
-[26.](#bck_fn0263) See Jackson Turner Main, *The Antifederalists* (Chapel Hill: University of North Carolina Press, 1961).
+<a href="bck_fn0263" id="fn0263">26.</a> See Jackson Turner Main, *The Antifederalists* (Chapel Hill: University of North Carolina Press, 1961).
 
-[27.](#bck_fn0264) See the studies cited by Beard, *An Economic Interpretation,* p. 242 if.
+<a href="bck_fn0264" id="fn0264">27.</a> See the studies cited by Beard, *An Economic Interpretation,* p. 242 if.
 
-[28.](#bck_fn0265) This section on the progressive features of the Constitution is drawn from Herbert Aptheker, *Early Years of the Republic* (New York: International Publishers, 1976), pp. 71 ff. and passim.
+<a href="bck_fn0265" id="fn0265">28.</a> This section on the progressive features of the Constitution is drawn from Herbert Aptheker, *Early Years of the Republic* (New York: International Publishers, 1976), pp. 71 ff. and passim.
 
-[29.](#bck_fn0266) Howard Zinn, A *People's History of the United States* (New York: Harper and Row, 1980), chapter 3.
+<a href="bck_fn0266" id="fn0266">29.</a> Howard Zinn, A *People's History of the United States* (New York: Harper and Row, 1980), chapter 3.
 
-[30.](#bck_fn0267) See William Preston, Jr., *Aliens and Dissenters* (Cambridge, Mass.: Harvard University Press, 1963).
+<a href="bck_fn0267" id="fn0267">30.</a> See William Preston, Jr., *Aliens and Dissenters* (Cambridge, Mass.: Harvard University Press, 1963).
 
-[31.](#bck_fn0268) For a fuller exposition of these points see my *Democracy for the Few,* 5th ed. (New York: St. Martin's Press, 1987).
+<a href="bck_fn0268" id="fn0268">31.</a> For a fuller exposition of these points see my *Democracy for the Few,* 5th ed. (New York: St. Martin's Press, 1987).
 
-[32.](#bck_fn0269) Ibid.
+<a href="bck_fn0269" id="fn0269">32.</a> Ibid.
