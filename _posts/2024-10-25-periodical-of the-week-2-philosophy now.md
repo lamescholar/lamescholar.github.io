@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Periodical
+tag: Periodical of the Week
 comments: true
 title: "Periodical of the Week #2 - Philosophy Now"
 ---
