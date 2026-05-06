@@ -52,4 +52,4 @@ Result:<br>
 This is March issue of 1998. There are a playful article about dangers of reading (page 11) and an article about Walter Raleigh - the man who was sent by queen Elizabeth I to explore the New World (page 17).
 <br><br>
 
-It's a crime that you need to go roundabouts for knowledge. Old issues of History Today should be freely available. All good sources should be widely and freely distributed for purposes of the enlightenment.
+It's a crime that you need to cut corners to get to knowledge. Old issues of History Today should be freely available. All good sources should be widely and freely distributed for the purposes of enlightenment.
