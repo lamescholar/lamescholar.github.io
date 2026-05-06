@@ -27,6 +27,12 @@ body, div, p, span, a, h1, h2, h3 {
     font-family: Bookerly, sans-serif !important;
     line-height: 1.3 !important;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
 ```
 
 [Bookerly.zip](/files/Bookerly.zip)
