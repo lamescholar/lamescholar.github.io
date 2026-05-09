@@ -7,7 +7,7 @@ title: Linux
 
 <https://kskroyal.com/arch-win11-dualboot-2024/>
 
-This is a great guide how to dual boot Arch Linux alongside Windows.
+That's a great guide how to dual boot Arch Linux alongside Windows.
 <br><br>
 
 #### Linux basics
