@@ -68,7 +68,7 @@ MODEL_PARAMS = {
 
 SERVER_ARGS = [
     "-m", MODEL_PATH,
-    "-c", "8192",
+    "-c", "4096",
     "-t', "4",
     "--port", "8080",
     "--host", "127.0.0.1"
