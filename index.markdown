@@ -17,6 +17,8 @@ layout: home
 <br><br>
 
 ## [Linux](linux)
+
+## [Linux Notes](linux-notes)
 <br>
 
 ## My releases / Мои раздачи:
