@@ -24,7 +24,7 @@ nano:
 
 Keys to copy and paste in console:
 
-Ctrl+Shift+C Ctrl+Shift+V
+Ctrl+Shift+C, Ctrl+Shift+V
 
 Package managers:
 
