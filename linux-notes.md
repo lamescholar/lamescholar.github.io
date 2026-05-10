@@ -84,6 +84,7 @@ sudo chmod +x /usr/local/bin/cue2mp3
 #### Geany
 
 `sudo pacman -S geany geany-plugins`
+<br><br>
 
 #### Git
 
