@@ -111,12 +111,9 @@ source ~/.bashrc
 
 #### GNOME
 
-Extension Manager:
-
-AppIndicator
-
+Extension Manager:<br>
+AppIndicator<br>
 Volume Percent Display
-<br><br>
 
 Thumbnailers:
 
