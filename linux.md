@@ -112,7 +112,9 @@ Settings:
 ```
 mkdir -p ~/.config/zathura
 touch ~/.config/zathura/zathurarc
+```
 
+```
 map <Left> navigate previous
 map <Right> navigate next
 set selection-clipboard clipboard
@@ -122,12 +124,14 @@ set window-width 3000
 set scroll-step 80
 set zoom-step 10
 set guioptions "svh"
+```
 
 Tab - Contents
+
 100G - go to page 100
+
 200= - zoom 200%
-```
-<br>
+<br><br>
 
 Okular (PDF reader)
 
@@ -204,18 +208,22 @@ sudo docker run -d \
 
 Steam
 
-```
-sudo nano /etc/pacman.conf
+`sudo nano /etc/pacman.conf`
 
 Uncomment:
+
+```
 #[multilib]
 #Include = /etc/pacman.d/mirrorlist
+```
 
+```
 sudo pacman -Syu
 sudo pacman -S steam
-AMD: vulkan-radeon
 ```
-<br>
+
+AMD: vulkan-radeon
+<br><br>
 
 You probably noticed that most of the time to install a program you can type:
 
