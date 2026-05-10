@@ -213,9 +213,11 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 ```
 <br>
 
-#### Stating a source in posts
+#### Referencing the source in posts
 
-Sometimes I "repost" some texts in my posts. I prefer to state the source of the text in front of the text. Default post layout puts the title at the top, so I copied post.html into _layout folder and removed the piece of code that creates the title.
+Sometimes I post some texts. In academia, it is enough to write a citation. But if there is an ebook online, that's what you really should reference.
+
+I like to put the link at the top. Default post layout puts the title of the post at the top, so I copied post.html into _layout folder and removed the piece of code that creates the title.
  
 Markdown file of posts looks like this:
 
