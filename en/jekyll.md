@@ -213,7 +213,7 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 ```
 <br>
 
-#### Referencing the source in posts
+#### Referencing the source
 
 Sometimes I post some texts. In academia, it is enough to write a citation. But if there is an ebook online, that's what you really should reference.
 
