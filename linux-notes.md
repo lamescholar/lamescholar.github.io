@@ -189,4 +189,4 @@ WantedBy=suspend.target hibernate.target
 
 #### Wine
 
-`winetricks dotnet20 dotnet48 vcrun2015`
+`winetricks dotnet20 dotnet48 vcrun2015 msxml6`
