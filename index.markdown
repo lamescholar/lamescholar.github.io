@@ -9,7 +9,7 @@ layout: home
 [![Man at the Crossroads](/images/crossroads.jpg)](/images/crossroads.jpg)
 {: refdef}
 
-## Pirate Cookbook / Поваренная книга пирата:
+## Pirate Cookbook / Поваренная книга пирата
 
 [In English](/en/pirate-cookbook)
 
@@ -21,7 +21,7 @@ layout: home
 ## [Linux Notes](linux-notes)
 <br>
 
-## My releases / Мои раздачи:
+## My releases / Мои раздачи
 
 [RuTracker](https://rutracker.org/forum/tracker.php?rid=45195282)
 
