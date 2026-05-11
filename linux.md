@@ -161,11 +161,14 @@ sudo pacman -S aspell-en
 ```
 <br>
 
-MakeMKV (to rip discs)
-
-Install via Wine.
+dvdbackup (to rip disc into ISO image)
 
 <https://wiki.archlinux.org/title/Dvdbackup>
+<br><br>
+
+MakeMKV (to rip disc into MKV files)
+
+Install via Wine.
 <br><br>
 
 Handbrake (to transcode MKV)
