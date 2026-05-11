@@ -197,11 +197,11 @@ Programs that run via Wine:
 
 ABBYY Finereader 15 (OCR)
 
-BookRestorer (to straighten scans)
+BookRestorer (to straighten book scans)
 
 Exact Audio Copy (to rip CDs)
 
-FictionBook Editor (to insert images)
+FictionBook Editor (to insert images into FB2)
 
 foobar2000 (to transcode audio files)
 
