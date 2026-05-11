@@ -190,3 +190,21 @@ WantedBy=suspend.target hibernate.target
 #### Wine
 
 `winetricks dotnet20 dotnet48 vcrun2015 msxml6`
+
+Run `winecfg` to set DPI.
+
+Programs that run via Wine:
+
+ABBYY Finereader 15 (OCR)
+
+BookRestorer (to straighten scans)
+
+Exact Audio Copy (to rip CDs)
+
+FictionBook Editor (to insert images)
+
+foobar2000 (to transcode audio files)
+
+IrfanView (to batch convert images)
+
+MakeMKV (to rip disks)
