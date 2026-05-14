@@ -143,8 +143,8 @@ sudo rm okularApplication_*.desktop
 Normcap (OCR)
 
 ```
-sudo pacman -S wl-clipboard
-yay -S normcap
+flatpak install flathub com.github.dynobo.normcap
+flatpak run com.github.dynobo.normcap
 ```
 <br>
 
