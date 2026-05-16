@@ -68,6 +68,8 @@ MBTN_LEFT  cycle pause
 MBTN_RIGHT ignore
 ```
 
+j - to cycle thorugh subtitles.<br>
+v - to toggle subtitles.<br>
 Shift+F, Shift+G - to change the size of subtitles
 <br><br>
 
