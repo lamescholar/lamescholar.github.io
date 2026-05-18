@@ -39,7 +39,7 @@ from PySide6.QtWidgets import (
 )
 from PySide6.QtCore import QThread, Signal, Qt
 
-# Configuration
+# configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
 SERVER_EXECUTABLE_PATH = '/usr/bin/llama-server'
 MODEL_PATH = 'T-lite-it-2.1-Q4_K_M.gguf'
@@ -60,6 +60,9 @@ SERVER_ARGS = [
 ]
 SERVER_STARTUP_TIMEOUT = 300
 
+BATCH_TOKEN_MAX = 100
+BATCH_TOKEN_MIN = 20
+
 class TranslationWorker(QThread):
     progress = Signal(int)
     status_msg = Signal(str)
@@ -74,7 +77,6 @@ class TranslationWorker(QThread):
 
     def run(self):
         try:
-            self.status_msg.emit("Initializing NLTK...")
             try:
                 nltk.data.find('tokenizers/punkt')
             except LookupError:
@@ -136,32 +138,44 @@ class TranslationWorker(QThread):
                 return proc
             time.sleep(1)
         return None
-
-    def generate_batching_rule(n):
-        if n < 1:
-            return []
-        if n == 1:
-            return [1]
-        threes = n // 3
-        remainder = n % 3
-        if remainder == 0:
-            return [3] * threes
-        elif remainder == 1:
-            return [3] * (threes - 1) + [2, 2] if threes >= 1 else [2, 2]
-        else:  # remainder == 2
-            return [3] * threes + [2]
+        
+    def estimate_tokens(text):
+        return int(len(text.split()) * 1.3)
              
     @staticmethod
     def create_batches(paragraphs):
         batches = []
+
         for p_idx, paragraph in enumerate(paragraphs):
             sentences = sent_tokenize(paragraph)
-            rule = TranslationWorker.generate_batching_rule(len(sentences))
-            pointer = 0
-            for size in rule:
-                batch = " ".join(sentences[pointer : pointer + size])
-                batches.append((p_idx, batch))
-                pointer += size
+            if not sentences:
+                continue
+            
+            sentence_sizes = [TranslationWorker.estimate_tokens(s) for s in sentences]
+            total_paragraph_tokens = sum(sentence_sizes)
+            
+            current_batch_sentences = []
+            current_batch_tokens = 0
+
+            for idx, sentence in enumerate(sentences):
+                sentence_tokens = sentence_sizes[idx]
+                
+                remaining_tokens_in_paragraph = total_paragraph_tokens - current_batch_tokens
+                
+                if current_batch_sentences and (current_batch_tokens + sentence_tokens > BATCH_TOKEN_MAX):
+                    if remaining_tokens_in_paragraph < BATCH_TOKEN_MIN:
+                        pass 
+                    else:
+                        batches.append((p_idx, " ".join(current_batch_sentences)))
+                        current_batch_sentences = []
+                        current_batch_tokens = 0
+                
+                current_batch_sentences.append(sentence)
+                current_batch_tokens += sentence_tokens
+            
+            if current_batch_sentences:
+                batches.append((p_idx, " ".join(current_batch_sentences)))
+
         return batches
 
     def translate_batch_api(self, batch_text):
@@ -186,6 +200,7 @@ class TranslationWorker(QThread):
             content = res.json().get('content', '').strip()
             content = re.sub(r'<think>', '', content, flags=re.DOTALL)
             content = re.sub(r'</think>', '', content, flags=re.DOTALL)
+            content = re.sub(r'>', '', content, flags=re.DOTALL)
             return content.strip()
         except Exception as e:
             return f"[Error: {str(e)[:20]}]"
