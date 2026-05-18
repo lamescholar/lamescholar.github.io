@@ -60,7 +60,7 @@ SERVER_ARGS = [
 ]
 SERVER_STARTUP_TIMEOUT = 300
 
-BATCH_TOKEN_MAX = 80
+BATCH_TOKEN_TARGET = 80
 BATCH_TOKEN_MIN = 20
 
 class TranslationWorker(QThread):
@@ -164,7 +164,7 @@ class TranslationWorker(QThread):
                 
                 remaining_tokens_in_paragraph = total_paragraph_tokens - processed_tokens
                 
-                if current_batch_sentences and (current_batch_tokens + sentence_tokens > BATCH_TOKEN_MAX):
+                if current_batch_sentences and (current_batch_tokens + sentence_tokens > BATCH_TOKEN_TARGET):
                     if remaining_tokens_in_paragraph < BATCH_TOKEN_MIN:
                         pass 
                     else:
