@@ -26,7 +26,7 @@ import sys
 from tqdm import tqdm
 from fpdf import FPDF
 
-# Configuration
+# configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
 SERVER_EXECUTABLE_PATH = r'llama-b6715-bin-win-cpu-x64\llama-server.exe'
 MODEL_PATH = r'llama-b6715-bin-win-cpu-x64\Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
@@ -57,7 +57,7 @@ def ensure_nltk_punkt():
     except LookupError:
         nltk.download('punkt', quiet=True)
 
-# Server functions
+# server functions
 def is_server_ready():
     try:
         payload = {"prompt": "Hello", "n_predict": 1, "stream": False}
@@ -96,10 +96,7 @@ def start_server():
         print(f"FATAL ERROR: Could not start server process: {e}")
         return None
 
-# Batching functions
-def split_into_sentences(text):
-    return sent_tokenize(text)
-
+# batching functions
 def generate_batching_rule(n):
     if n < 1:
         return []
@@ -117,7 +114,7 @@ def generate_batching_rule(n):
 def create_batches(paragraphs):
     batches = []
     for p_idx, paragraph in enumerate(paragraphs):
-        sentences = split_into_sentences(paragraph)
+        sentences = sent_tokenize(paragraph)
         n = len(sentences)
         if n == 0:
             continue

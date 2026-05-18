@@ -137,13 +137,31 @@ class TranslationWorker(QThread):
             time.sleep(1)
         return None
 
-    def create_batches(self, paragraphs):
+    def generate_batching_rule(n):
+        if n < 1:
+            return []
+        if n == 1:
+            return [1]
+        threes = n // 3
+        remainder = n % 3
+        if remainder == 0:
+            return [3] * threes
+        elif remainder == 1:
+            return [3] * (threes - 1) + [2, 2] if threes >= 1 else [2, 2]
+        else:  # remainder == 2
+            return [3] * threes + [2]
+             
+    @staticmethod
+    def create_batches(paragraphs):
         batches = []
         for p_idx, paragraph in enumerate(paragraphs):
             sentences = sent_tokenize(paragraph)
-            for i in range(0, len(sentences), 3):
-                batch = " ".join(sentences[i:i+3])
+            rule = TranslationWorker.generate_batching_rule(len(sentences))
+            pointer = 0
+            for size in rule:
+                batch = " ".join(sentences[pointer : pointer + size])
                 batches.append((p_idx, batch))
+                pointer += size
         return batches
 
     def translate_batch_api(self, batch_text):
