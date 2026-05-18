@@ -82,7 +82,7 @@ class TranslationWorker(QThread):
                 nltk.download('punkt_tab', quiet=True)
 
             if not self.is_server_ready():
-                self.status_msg.emit("Launching llama-server...")
+                self.status_msg.emit("Запуск llama-server...")
                 self.server_process = self.start_server()
                 if not self.server_process:
                     self.error.emit(f"Failed to launch server at {SERVER_EXECUTABLE_PATH}")
@@ -91,7 +91,7 @@ class TranslationWorker(QThread):
             paragraphs = [p.strip() for p in re.split(r'\n\s*\n', self.raw_text) if p.strip()]
             batches = self.create_batches(paragraphs)
             
-            self.status_msg.emit(f"Translating {len(batches)} batches...")
+            self.status_msg.emit(f"Всего пачек: {len(batches)}")
             
             last_p_idx = -1
 
@@ -179,7 +179,7 @@ class TranslationWorker(QThread):
 class TranslatorApp(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Local Translator")
+        self.setWindowTitle("Локальный переводчик")
         self.resize(1000, 655)
 
         container = QWidget()
@@ -189,14 +189,14 @@ class TranslatorApp(QMainWindow):
 
         input_container = QWidget()
         input_layout = QVBoxLayout(input_container)
-        input_layout.addWidget(QLabel("Input:"))
+        input_layout.addWidget(QLabel("Ввод:"))
         self.input_area = QTextEdit()
         self.input_area.setAcceptRichText(False)
         input_layout.addWidget(self.input_area)
 
         output_container = QWidget()
         output_layout = QVBoxLayout(output_container)
-        output_layout.addWidget(QLabel("Output:"))
+        output_layout.addWidget(QLabel("Вывод:"))
         self.output_area = QTextEdit()
         self.output_area.setReadOnly(True)
         output_layout.addWidget(self.output_area)
@@ -205,8 +205,8 @@ class TranslatorApp(QMainWindow):
         self.editor_layout.addWidget(output_container)
 
         self.progress_bar = QProgressBar()
-        self.status_label = QLabel("Ready")
-        self.btn = QPushButton("Translate")
+        self.status_label = QLabel("Стартуем по команде")
+        self.btn = QPushButton("Перевести")
         self.btn.clicked.connect(self.start)
 
         self.main_layout.addLayout(self.editor_layout)
@@ -248,7 +248,7 @@ class TranslatorApp(QMainWindow):
         self.btn.setEnabled(True)
 
     def on_finish(self):
-        self.status_label.setText("Success")
+        self.status_label.setText("Успех")
         self.btn.setEnabled(True)
         
     def closeEvent(self, event):
