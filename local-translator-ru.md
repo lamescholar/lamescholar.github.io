@@ -8,6 +8,11 @@ title: Локальный переводчик
 <https://huggingface.co/t-tech/T-lite-it-2.1-GGUF>
 <br><br>
 
+llama-cpp:
+
+`yay -S llama.cpp`
+<br><br>
+
 ```
 python -m venv venv
 source venv/bin/activate
