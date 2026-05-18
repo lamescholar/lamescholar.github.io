@@ -138,7 +138,8 @@ class TranslationWorker(QThread):
                 return proc
             time.sleep(1)
         return None
-        
+    
+    @staticmethod
     def estimate_tokens(text):
         return int(len(text.split()) * 1.3)
              
