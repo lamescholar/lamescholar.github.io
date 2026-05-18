@@ -60,14 +60,14 @@ SERVER_ARGS = [
 ]
 SERVER_STARTUP_TIMEOUT = 300
 
-BATCH_TOKEN_MAX = 100
-BATCH_TOKEN_MIN = 20
+BATCH_TOKEN_MAX = 120
+BATCH_TOKEN_MIN = 30
 
 class TranslationWorker(QThread):
     progress = Signal(int)
     status_msg = Signal(str)
     chunk_done = Signal(str, bool)
-    finished = Signal(str)
+    finished = Signal()
     error = Signal(str)
 
     def __init__(self, text):
@@ -110,7 +110,7 @@ class TranslationWorker(QThread):
                 last_p_idx = p_idx
                 self.progress.emit(int(((i + 1) / len(batches)) * 100))
 
-            self.finished.emit("Complete")
+            self.finished.emit()
 
         except Exception as e:
             self.error.emit(f"Worker Exception: {str(e)}")
@@ -145,7 +145,7 @@ class TranslationWorker(QThread):
     @staticmethod
     def create_batches(paragraphs):
         batches = []
-
+    
         for p_idx, paragraph in enumerate(paragraphs):
             sentences = sent_tokenize(paragraph)
             if not sentences:
@@ -156,11 +156,12 @@ class TranslationWorker(QThread):
             
             current_batch_sentences = []
             current_batch_tokens = 0
-
+            processed_tokens = 0
+    
             for idx, sentence in enumerate(sentences):
                 sentence_tokens = sentence_sizes[idx]
                 
-                remaining_tokens_in_paragraph = total_paragraph_tokens - current_batch_tokens
+                remaining_tokens_in_paragraph = total_paragraph_tokens - processed_tokens
                 
                 if current_batch_sentences and (current_batch_tokens + sentence_tokens > BATCH_TOKEN_MAX):
                     if remaining_tokens_in_paragraph < BATCH_TOKEN_MIN:
@@ -172,10 +173,11 @@ class TranslationWorker(QThread):
                 
                 current_batch_sentences.append(sentence)
                 current_batch_tokens += sentence_tokens
+                processed_tokens += sentence_tokens
             
             if current_batch_sentences:
                 batches.append((p_idx, " ".join(current_batch_sentences)))
-
+    
         return batches
 
     def translate_batch_api(self, batch_text):
