@@ -21,6 +21,8 @@ layout: home
 ## [Linux Notes](linux-notes)
 
 ## [Local Translator](local-translator)
+
+## [Локальный переводчик](local-translator-ru)
 <br>
 
 ## My releases / Мои раздачи
