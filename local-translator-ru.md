@@ -91,7 +91,7 @@ class TranslationWorker(QThread):
             paragraphs = [p.strip() for p in re.split(r'\n\s*\n', self.raw_text) if p.strip()]
             batches = self.create_batches(paragraphs)
             
-            self.status_msg.emit(f"Всего пачек: {len(batches)}")
+            self.status_msg.emit(f"Количество пачек: {len(batches)}")
             
             last_p_idx = -1
 
