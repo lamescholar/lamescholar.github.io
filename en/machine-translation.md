@@ -69,7 +69,7 @@ MODEL_PARAMS = {
 SERVER_ARGS = [
     "-m", MODEL_PATH,
     "-c", "4096",
-    "-t', "4",
+    "-t", "4",
     "--port", "8080",
     "--host", "127.0.0.1"
 ]
@@ -324,6 +324,15 @@ MODEL_PARAMS = {
     "top_p": 0.95,
 }
 
+SERVER_ARGS = [
+    "-m", MODEL_PATH,
+    "-c", "4096",
+    "-t", "4",
+    "--port", "8080",
+    "--host", "127.0.0.1"
+]
+SERVER_STARTUP_TIMEOUT = 300
+
 class TranslationWorker(QThread):
     progress = Signal(int)
     status_msg = Signal(str)
@@ -391,11 +400,11 @@ class TranslationWorker(QThread):
             return None
             
         proc = subprocess.Popen(
-            [SERVER_EXECUTABLE_PATH, "-m", MODEL_PATH, "-c", "4096", "-t", "4", "--port", "8080", "--host", "127.0.0.1"],
+            [SERVER_EXECUTABLE_PATH] + SERVER_ARGS,
             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
         )
         
-        for _ in range(60):
+        for _ in range(SERVER_STARTUP_TIMEOUT):
             if self.is_server_ready():
                 return proc
             time.sleep(1)
