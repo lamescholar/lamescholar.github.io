@@ -237,6 +237,13 @@ class TranslatorApp(QMainWindow):
     def on_finish(self):
         self.status_label.setText("Success")
         self.btn.setEnabled(True)
+        
+    def closeEvent(self, event):
+        if hasattr(self, 'worker') and self.worker.isRunning():
+            self.worker.cleanup_server()
+            self.worker.terminate()
+            self.worker.wait()
+        event.accept()
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
