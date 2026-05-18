@@ -3,6 +3,13 @@ layout: page
 title: Local Translator
 ---
 
+```
+python -m venv venv
+source venv/bin/activate
+pip install PySide6 requests nltk
+```
+<br>
+
 translator.py:
 
 ```
