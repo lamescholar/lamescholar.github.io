@@ -6,7 +6,7 @@ title: Local Translator
 ```
 python -m venv venv
 source venv/bin/activate
-pip install PySide6 requests nltk
+pip install requests nltk PySide6
 ```
 <br>
 
