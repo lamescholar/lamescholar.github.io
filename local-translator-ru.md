@@ -60,8 +60,8 @@ SERVER_ARGS = [
 ]
 SERVER_STARTUP_TIMEOUT = 300
 
-BATCH_TOKEN_MAX = 120
-BATCH_TOKEN_MIN = 30
+BATCH_TOKEN_MAX = 80
+BATCH_TOKEN_MIN = 20
 
 class TranslationWorker(QThread):
     progress = Signal(int)
