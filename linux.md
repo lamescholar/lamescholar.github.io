@@ -126,7 +126,7 @@ set font "monospace 15"
 set window-height 2000
 set window-width 3000
 set scroll-step 80
-set zoom-step 12
+set zoom-step 10
 set guioptions "svh"
 ```
 
