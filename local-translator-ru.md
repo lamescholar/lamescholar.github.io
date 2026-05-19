@@ -93,7 +93,7 @@ class TranslationWorker(QThread):
 
             paragraphs = [p.strip() for p in re.split(r'\n\s*\n', self.raw_text) if p.strip()]
             batches = self.create_batches(paragraphs)
-            self.status_msg.emit(f"Количество пачек: {len(batches)}")
+            self.status_msg.emit(f"Куски: {len(batches)}")
             
             last_p_idx = -1
 
@@ -179,7 +179,7 @@ class TranslationWorker(QThread):
 
     def translate_batch_api(self, batch_text):
         prompt_text = (
-            f"<|im_start|>user\nТы - переводчик. Не переводи буквально, выбирай выражения на русском. Верни только перевод. Переведи на русский: {batch_text}\n<|im_end|>\n"
+            f"<|im_start|>user\nТы - переводчик. Не переводи буквально, выбирай выражения на русском. Верни только перевод.\nПереведи на русский:\n{batch_text}\n<|im_end|>\n"
             f"<|im_start|>assistant\n"
         )
         
@@ -237,7 +237,7 @@ class TranslatorApp(QMainWindow):
         self.editor_layout.addWidget(output_container)
 
         self.progress_bar = QProgressBar()
-        self.status_label = QLabel("Стартуем по команде")
+        self.status_label = QLabel("Готово")
         self.btn = QPushButton("Перевести")
         self.btn.clicked.connect(self.start)
 

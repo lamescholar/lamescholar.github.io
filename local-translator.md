@@ -153,7 +153,7 @@ class TranslationWorker(QThread):
 
     def translate_batch_api(self, batch_text):
         prompt_text = (
-            f"<|im_start|>user\nReturn only translation. Translate to English: {batch_text}\n<|im_end|>\n"
+            f"<|im_start|>user\nYou are a translator. Do not translate word for word. Compose translation in English expressions. Return only translation.\nTranslate to English:\n{batch_text}\n<|im_end|>\n"
             f"<|im_start|>assistant\n"
         )
         
