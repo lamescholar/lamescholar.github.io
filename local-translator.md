@@ -50,11 +50,12 @@ SERVER_ARGS = [
 ]
 SERVER_STARTUP_TIMEOUT = 300
 
+# worker
 class TranslationWorker(QThread):
     progress = Signal(int)
     status_msg = Signal(str)
     chunk_done = Signal(str, bool)
-    finished = Signal(str)
+    finished = Signal()
     error = Signal(str)
 
     def __init__(self, text):
@@ -64,7 +65,6 @@ class TranslationWorker(QThread):
 
     def run(self):
         try:
-            self.status_msg.emit("Initializing NLTK...")
             try:
                 nltk.data.find('tokenizers/punkt')
             except LookupError:
@@ -80,25 +80,21 @@ class TranslationWorker(QThread):
 
             paragraphs = [p.strip() for p in re.split(r'\n\s*\n', self.raw_text) if p.strip()]
             batches = self.create_batches(paragraphs)
-            
             self.status_msg.emit(f"Translating {len(batches)} batches...")
             
             last_p_idx = -1
 
             for i, (p_idx, batch_text) in enumerate(batches):
                 is_new_paragraph = (p_idx != last_p_idx)
-                
                 if len(batch_text.split()) < 2:
                     translated = batch_text
                 else:
                     translated = self.translate_batch_api(batch_text)
-                
                 self.chunk_done.emit(translated + " ", is_new_paragraph)
-                
                 last_p_idx = p_idx
                 self.progress.emit(int(((i + 1) / len(batches)) * 100))
 
-            self.finished.emit("Complete")
+            self.finished.emit()
 
         except Exception as e:
             self.error.emit(f"Worker Exception: {str(e)}")
@@ -126,7 +122,8 @@ class TranslationWorker(QThread):
                 return proc
             time.sleep(1)
         return None
-
+    
+    # batching functions
     def generate_batching_rule(n):
         if n < 1:
             return []

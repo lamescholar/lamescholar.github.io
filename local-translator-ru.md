@@ -63,6 +63,7 @@ SERVER_STARTUP_TIMEOUT = 300
 BATCH_TOKEN_TARGET = 100
 BATCH_TOKEN_MIN = 40
 
+# worker
 class TranslationWorker(QThread):
     progress = Signal(int)
     status_msg = Signal(str)
@@ -92,24 +93,20 @@ class TranslationWorker(QThread):
 
             paragraphs = [p.strip() for p in re.split(r'\n\s*\n', self.raw_text) if p.strip()]
             batches = self.create_batches(paragraphs)
-            
             self.status_msg.emit(f"Количество пачек: {len(batches)}")
             
             last_p_idx = -1
 
             for i, (p_idx, batch_text) in enumerate(batches):
                 is_new_paragraph = (p_idx != last_p_idx)
-                
                 if len(batch_text.split()) < 2:
                     translated = batch_text
                 else:
                     translated = self.translate_batch_api(batch_text)
-                
                 self.chunk_done.emit(translated + " ", is_new_paragraph)
-                
                 last_p_idx = p_idx
                 self.progress.emit(int(((i + 1) / len(batches)) * 100))
-
+                
             self.finished.emit()
 
         except Exception as e:
@@ -139,6 +136,7 @@ class TranslationWorker(QThread):
             time.sleep(1)
         return None
     
+    # batching functions
     @staticmethod
     def estimate_tokens(text):
         return int(len(text.split()) * 1.3)
@@ -149,6 +147,7 @@ class TranslationWorker(QThread):
     
         for p_idx, paragraph in enumerate(paragraphs):
             sentences = sent_tokenize(paragraph)
+            
             if not sentences:
                 continue
             
@@ -161,9 +160,7 @@ class TranslationWorker(QThread):
     
             for idx, sentence in enumerate(sentences):
                 sentence_tokens = sentence_sizes[idx]
-                
                 remaining_tokens_in_paragraph = total_paragraph_tokens - processed_tokens
-                
                 if current_batch_sentences and (current_batch_tokens + sentence_tokens > BATCH_TOKEN_TARGET):
                     if remaining_tokens_in_paragraph < BATCH_TOKEN_MIN:
                         pass 
@@ -171,14 +168,13 @@ class TranslationWorker(QThread):
                         batches.append((p_idx, " ".join(current_batch_sentences)))
                         current_batch_sentences = []
                         current_batch_tokens = 0
-                
                 current_batch_sentences.append(sentence)
                 current_batch_tokens += sentence_tokens
                 processed_tokens += sentence_tokens
-            
+                
             if current_batch_sentences:
                 batches.append((p_idx, " ".join(current_batch_sentences)))
-    
+
         return batches
 
     def translate_batch_api(self, batch_text):
