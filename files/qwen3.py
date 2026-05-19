@@ -1,10 +1,10 @@
+import sys
+import os
+import time
+import subprocess
+import requests
 import nltk
 from nltk.tokenize import sent_tokenize
-import requests
-import subprocess
-import time
-import os
-import sys
 from tqdm import tqdm
 
 # Configuration
