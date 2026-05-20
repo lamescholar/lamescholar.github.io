@@ -35,7 +35,7 @@ from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget,
     QVBoxLayout, QHBoxLayout,
     QPushButton, QTextEdit, QProgressBar,
-    QLabel
+    QLabel, QFileDialog
 )
 from PySide6.QtCore import QThread, Signal, Qt
 
@@ -179,7 +179,7 @@ class TranslationWorker(QThread):
 
     def translate_batch_api(self, batch_text):
         prompt_text = (
-            f"<|im_start|>user\nТы - переводчик. Не переводи буквально. Выбирай выражения на русском. Верни только перевод.\nПереведи на русский:\n{batch_text}\n<|im_end|>\n"
+            f"<|im_start|>user\nТы - переводчик. Не переводи буквально. Выбирай выражения на русском. Верни только перевод. Переведи на русский: {batch_text}\n<|im_end|>\n"
             f"<|im_start|>assistant\n"
         )
         
@@ -240,11 +240,18 @@ class TranslatorApp(QMainWindow):
         self.status_label = QLabel("Готово")
         self.btn = QPushButton("Перевести")
         self.btn.clicked.connect(self.start)
+        
+        self.save_btn = QPushButton("Сохранить как...")
+        self.save_btn.clicked.connect(self.save_output)
+
+        buttons_layout = QHBoxLayout()
+        buttons_layout.addWidget(self.btn)
+        buttons_layout.addWidget(self.save_btn)
 
         self.main_layout.addLayout(self.editor_layout)
         self.main_layout.addWidget(self.progress_bar)
         self.main_layout.addWidget(self.status_label)
-        self.main_layout.addWidget(self.btn)
+        self.main_layout.addLayout(buttons_layout)
 
         self.setCentralWidget(container)
 
@@ -282,6 +289,25 @@ class TranslatorApp(QMainWindow):
     def on_finish(self):
         self.status_label.setText("Успех")
         self.btn.setEnabled(True)
+        
+    def save_output(self):
+        text = self.output_area.toPlainText()
+    
+        if not text.strip():
+            return
+    
+        file_path, _ = QFileDialog.getSaveFileName(
+            self,
+            "Сохранить файл",
+            "translation.txt",
+            "Text Files (*.txt);;All Files (*)"
+        )
+    
+        if file_path:
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(text)
+    
+            self.status_label.setText(f"Сохранено: {file_path}")
         
     def closeEvent(self, event):
         if hasattr(self, 'worker') and self.worker.isRunning():
