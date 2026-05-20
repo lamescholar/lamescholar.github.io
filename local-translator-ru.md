@@ -230,7 +230,6 @@ class TranslatorApp(QMainWindow):
         output_layout = QVBoxLayout(output_container)
         output_layout.addWidget(QLabel("Вывод:"))
         self.output_area = QTextEdit()
-        # self.output_area.setReadOnly(True)
         output_layout.addWidget(self.output_area)
 
         self.editor_layout.addWidget(input_container)
@@ -263,7 +262,6 @@ class TranslatorApp(QMainWindow):
         self.btn.setEnabled(False)
         self.output_area.clear()
         self.progress_bar.setValue(0)
-        self.status_label.setText("Starting...")
 
         self.worker = TranslationWorker(text)
         self.worker.status_msg.connect(self.status_label.setText)

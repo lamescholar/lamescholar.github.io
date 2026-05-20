@@ -25,11 +25,11 @@ from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget,
     QVBoxLayout, QHBoxLayout,
     QPushButton, QTextEdit, QProgressBar,
-    QLabel
+    QLabel, QFileDialog
 )
 from PySide6.QtCore import QThread, Signal, Qt
 
-# Configuration
+# configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
 SERVER_EXECUTABLE_PATH = '/usr/bin/llama-server'
 MODEL_PATH = 'Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
@@ -49,6 +49,9 @@ SERVER_ARGS = [
     "--host", "127.0.0.1"
 ]
 SERVER_STARTUP_TIMEOUT = 300
+
+BATCH_TOKEN_TARGET = 100
+BATCH_TOKEN_MIN = 50
 
 # worker
 class TranslationWorker(QThread):
@@ -93,7 +96,7 @@ class TranslationWorker(QThread):
                 self.chunk_done.emit(translated + " ", is_new_paragraph)
                 last_p_idx = p_idx
                 self.progress.emit(int(((i + 1) / len(batches)) * 100))
-
+                
             self.finished.emit()
 
         except Exception as e:
@@ -124,31 +127,44 @@ class TranslationWorker(QThread):
         return None
     
     # batching functions
-    def generate_batching_rule(n):
-        if n < 1:
-            return []
-        if n == 1:
-            return [1]
-        threes = n // 3
-        remainder = n % 3
-        if remainder == 0:
-            return [3] * threes
-        elif remainder == 1:
-            return [3] * (threes - 1) + [2, 2] if threes >= 1 else [2, 2]
-        else:  # remainder == 2
-            return [3] * threes + [2]
+    @staticmethod
+    def estimate_tokens(text):
+        return int(len(text.split()) * 1.3)
              
     @staticmethod
     def create_batches(paragraphs):
         batches = []
+    
         for p_idx, paragraph in enumerate(paragraphs):
             sentences = sent_tokenize(paragraph)
-            rule = TranslationWorker.generate_batching_rule(len(sentences))
-            pointer = 0
-            for size in rule:
-                batch = " ".join(sentences[pointer : pointer + size])
-                batches.append((p_idx, batch))
-                pointer += size
+            
+            if not sentences:
+                continue
+            
+            sentence_sizes = [TranslationWorker.estimate_tokens(s) for s in sentences]
+            total_paragraph_tokens = sum(sentence_sizes)
+            
+            current_batch_sentences = []
+            current_batch_tokens = 0
+            processed_tokens = 0
+    
+            for idx, sentence in enumerate(sentences):
+                sentence_tokens = sentence_sizes[idx]
+                remaining_tokens_in_paragraph = total_paragraph_tokens - processed_tokens
+                if current_batch_sentences and (current_batch_tokens + sentence_tokens > BATCH_TOKEN_TARGET):
+                    if remaining_tokens_in_paragraph < BATCH_TOKEN_MIN:
+                        pass 
+                    else:
+                        batches.append((p_idx, " ".join(current_batch_sentences)))
+                        current_batch_sentences = []
+                        current_batch_tokens = 0
+                current_batch_sentences.append(sentence)
+                current_batch_tokens += sentence_tokens
+                processed_tokens += sentence_tokens
+                
+            if current_batch_sentences:
+                batches.append((p_idx, " ".join(current_batch_sentences)))
+
         return batches
 
     def translate_batch_api(self, batch_text):
@@ -200,7 +216,6 @@ class TranslatorApp(QMainWindow):
         output_layout = QVBoxLayout(output_container)
         output_layout.addWidget(QLabel("Output:"))
         self.output_area = QTextEdit()
-        self.output_area.setReadOnly(True)
         output_layout.addWidget(self.output_area)
 
         self.editor_layout.addWidget(input_container)
@@ -210,11 +225,18 @@ class TranslatorApp(QMainWindow):
         self.status_label = QLabel("Ready")
         self.btn = QPushButton("Translate")
         self.btn.clicked.connect(self.start)
+        
+        self.save_btn = QPushButton("Save as...")
+        self.save_btn.clicked.connect(self.save_output)
+
+        buttons_layout = QHBoxLayout()
+        buttons_layout.addWidget(self.btn)
+        buttons_layout.addWidget(self.save_btn)
 
         self.main_layout.addLayout(self.editor_layout)
         self.main_layout.addWidget(self.progress_bar)
         self.main_layout.addWidget(self.status_label)
-        self.main_layout.addWidget(self.btn)
+        self.main_layout.addLayout(buttons_layout)
 
         self.setCentralWidget(container)
 
@@ -226,7 +248,6 @@ class TranslatorApp(QMainWindow):
         self.btn.setEnabled(False)
         self.output_area.clear()
         self.progress_bar.setValue(0)
-        self.status_label.setText("Starting...")
 
         self.worker = TranslationWorker(text)
         self.worker.status_msg.connect(self.status_label.setText)
@@ -252,6 +273,25 @@ class TranslatorApp(QMainWindow):
     def on_finish(self):
         self.status_label.setText("Success")
         self.btn.setEnabled(True)
+        
+    def save_output(self):
+        text = self.output_area.toPlainText()
+    
+        if not text.strip():
+            return
+    
+        file_path, _ = QFileDialog.getSaveFileName(
+            self,
+            "Save file",
+            "translation.txt",
+            "Text Files (*.txt);;All Files (*)"
+        )
+    
+        if file_path:
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(text)
+    
+            self.status_label.setText(f"Saved: {file_path}")
         
     def closeEvent(self, event):
         if hasattr(self, 'worker') and self.worker.isRunning():
