@@ -77,9 +77,6 @@ def start_server():
         return None
 
 # Batching functions
-def split_into_sentences(text):
-    return sent_tokenize(text)
-
 def generate_batching_rule(n):
     if n < 1:
         return []
@@ -97,7 +94,7 @@ def generate_batching_rule(n):
 def create_batches(paragraphs):
     batches = []
     for p_idx, paragraph in enumerate(paragraphs):
-        sentences = split_into_sentences(paragraph)
+        sentences = sent_tokenize(paragraph)
         n = len(sentences)
         if n == 0:
             continue

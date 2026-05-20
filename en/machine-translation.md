@@ -45,14 +45,13 @@ Create a folder. Store all files in this folder.
 Create qwen3-visual.py:
 
 ```
+import sys
+import os
+import time
+import subprocess
+import requests
 import nltk
 from nltk.tokenize import sent_tokenize
-import requests
-import subprocess
-import time
-import os
-import sys
-import re
 
 # configuration
 LLAMA_SERVER_URL = "http://127.0.0.1:8080/completion"
