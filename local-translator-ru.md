@@ -230,7 +230,7 @@ class TranslatorApp(QMainWindow):
         output_layout = QVBoxLayout(output_container)
         output_layout.addWidget(QLabel("Вывод:"))
         self.output_area = QTextEdit()
-        self.output_area.setReadOnly(True)
+        # self.output_area.setReadOnly(True)
         output_layout.addWidget(self.output_area)
 
         self.editor_layout.addWidget(input_container)
