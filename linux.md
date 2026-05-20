@@ -68,6 +68,8 @@ ALT+=         add video-zoom 0.1
 MBTN_LEFT     cycle pause
 MBTN_RIGHT    ignore
 r             cycle_values video-rotate 90 180 270 0
+ctrl+up       add sub-pos -1
+ctrl+down     add sub-pos +1
 ```
 
 j - to cycle thorugh subtitles.<br>
