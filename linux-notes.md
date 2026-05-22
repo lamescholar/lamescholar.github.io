@@ -3,6 +3,14 @@ layout: page
 title: Linux Notes
 ---
 
+#### Applications
+
+```
+/usr/share/applications/
+~/.local/share/applications/
+```
+<br>
+
 #### Autostart
 
 ```
@@ -70,14 +78,6 @@ nano ~/.bashrc
 export PATH="$PATH:/usr/local/bin"
 source ~/.bashrc
 sudo chmod +x /usr/local/bin/cue2mp3
-```
-<br>
-
-#### Executables
-
-```
-/usr/share/applications/
-~/.local/share/applications/
 ```
 <br>
 
