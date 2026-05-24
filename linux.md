@@ -99,6 +99,8 @@ LibreOffice (Word)
 
 `yay -S libreoffice`
 
+Font anti-aliasing: 1
+
 To paste without formatting: Ctrl+Shift+V
 <br><br>
 
