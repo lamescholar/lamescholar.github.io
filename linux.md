@@ -14,7 +14,9 @@ A great guide how to dual boot Arch Linux alongside Windows.
 
 All action on Linux happens in the console. Linux has two main text editors in the console: vim and nano.
 
-Keys to save and exit for vim:
+Keys to save and exit
+
+vim:
 
 `:wq`
 
@@ -22,7 +24,7 @@ nano:
 
 `Ctrl+O Enter Ctrl+X`
 
-Keys to copy and paste in console:
+Keys to copy and paste in the console:
 
 Ctrl+Shift+C, Ctrl+Shift+V
 
@@ -35,7 +37,7 @@ yay -S <package>
 
 <https://github.com/Jguer/yay>
 
-To see CPU load and memory use:
+A command to see the CPU load and memory use:
 
 `fastfetch`
 <br><br>
@@ -58,12 +60,18 @@ Nicotine+ (Soulseek client)
 
 mpv (video player)
 
+config file
+
 ```
 save-position-on-quit=yes
 window-maximized=yes
 gpu-api=opengl
 video-zoom=-0.3
+```
 
+key bindings
+
+```
 ALT+=         add video-zoom 0.1
 MBTN_LEFT     cycle pause
 MBTN_RIGHT    ignore
@@ -71,6 +79,8 @@ r             cycle_values video-rotate 90 180 270 0
 ctrl+up       add sub-pos -2
 ctrl+down     add sub-pos +2
 ```
+
+useful keys
 
 j - to cycle thorugh subtitles.<br>
 v - to toggle subtitles.<br>
