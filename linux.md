@@ -189,11 +189,6 @@ Subtitle Edit (to translate subtitles)
 `yay -S subtitleedit-avalonia`
 <br><br>
 
-LM Studio (local server to translate subtitles)
-
-`yay -S lmstudio-bin`
-<br><br>
-
 Audiobookshelf (Audiobook player)
 
 ```
