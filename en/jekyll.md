@@ -64,7 +64,7 @@ Create a .md file in the site folder. For example, page.md . Then a page will ap
 ```
 (01) Bold text: **bold text**
 (02) Italics: *italics*
-(03) Title (in the beginning of the text):
+(03) Title (in the beginning):
 ---
 comments: true
 title: Title
