@@ -62,36 +62,36 @@ Create a .md file in the site folder. For example, page.md . Then a page will ap
 #### Formatting
 
 ```
-1) Bold text - **bold text**
-2) Italics - *italics*
-3) Title (in the beginning of the text):
+(01) Bold text: **bold text**
+(02) Italics: *italics*
+(03) Title (in the beginning of the text):
 ---
 comments: true
 title: Title
 ---
-4) Heading - # heading text
-5) Subheading - #### subheading text
-6) New paragraph - empty line
-7) Highlight a link - <link>
-8) Link - [text](link)
-9) Link to site page - [text](/folder/page)
-10) Link back and forth:
+(04) Heading: # heading text
+(05) Subheading: #### subheading text
+(06) New paragraph: empty line
+(07) Highlight a link: <link>
+(08) Link: [text](link)
+(09) Link to site page: [text](/folder/page)
+(10) Link back and forth:
 text<a href="#note" id="note-back">†</a>
 
 <a href="#note-back" id="note">†</a> text of the note
-11) Link to place in text:
+(11) Link to place in text:
 [Place](#place)
 
 <a id="place"></a>
-12) Table of Contents:
+(12) Table of Contents:
 #### Table of Contents
 [Introduction](#introduction)
 
 <a id="introduction"></a>
 #### Introduction
-13) Line break - <br>
-14) Blank line (double line break) - <br><br>
-15) Note:
+(13) Line break: <br>
+(14) Blank line (double line break): <br><br>
+(15) Note:
 text[^1] text[^2]
 
 [^1]: note text
@@ -99,11 +99,11 @@ text[^1] text[^2]
 	note text
 
 [^2]: note text
-16) Quote:
+(16) Quote:
 > quote
 >
 > the rest of quote
-17) Small text - <sub>text</sub>
+(17) Small text: <sub>text</sub>
 ```
 
 Code block - <https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks>
