@@ -102,7 +102,7 @@ text[^1] text[^2]
 (16) Quote:
 > quote
 >
-> the rest of quote
+> the rest of the quote
 (17) Small text: <sub>text</sub>
 ```
 
