@@ -127,7 +127,11 @@ sudo pacman -S ffmpegthumbnailer
 rm -rf ~/.cache/thumbnails/*
 nautilus -q
 ```
-<br>
+
+GNOME reset:
+
+`gsettings reset-recursively org.gnome.desktop.interface`
+<br><br>
 
 #### GTK dark mode
 
