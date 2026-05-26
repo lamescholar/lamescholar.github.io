@@ -8,6 +8,10 @@ title: Linux
 <https://kskroyal.com/arch-win11-dualboot-2024/>
 
 A great guide how to dual boot Arch Linux alongside Windows.
+
+Alternative:
+
+Linux Mint Debian Edition - <https://www.linuxmint.com/download_lmde.php>
 <br><br>
 
 #### Linux basics
