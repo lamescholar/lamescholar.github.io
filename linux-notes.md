@@ -173,7 +173,7 @@ Description=Reload OpenRGB profile after hibernation
 After=suspend.target hibernate.target
 
 [Service]
-User=max
+User=<user>
 Type=oneshot
 Environment=DISPLAY=:0
 ExecStartPre=/usr/bin/sleep 2
