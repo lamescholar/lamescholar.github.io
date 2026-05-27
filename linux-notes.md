@@ -202,7 +202,7 @@ WantedBy=suspend.target hibernate.target
 
 Run `winecfg` to set DPI.
 
-Programs that run via Wine:
+**Programs that run via Wine**
 
 ABBYY Finereader 15 (OCR)
 
