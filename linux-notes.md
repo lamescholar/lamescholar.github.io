@@ -201,8 +201,9 @@ WantedBy=suspend.target hibernate.target
 `winetricks dotnet20 dotnet48 vcrun2015 msxml6`
 
 Run `winecfg` to set DPI.
+<br><br>
 
-**Programs that run via Wine**
+Programs that run via Wine
 
 ABBYY Finereader 15 (OCR)
 
