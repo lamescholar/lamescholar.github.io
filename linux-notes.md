@@ -55,7 +55,6 @@ shnsplit -f "$CUE_FILE" -t "%n" "$AUDIO_FILE"
 for f in [0-9][0-9].wav; do
     track_num=$(basename "$f" .wav)
     
-    # convert to MP3
     lame -b 320 --ti "$COVER_ART" "$f" "$track_num.mp3"
     
     rm "$f"
