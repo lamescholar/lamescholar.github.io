@@ -60,7 +60,7 @@ BT4G - <https://bt4gprx.com/>
 
 BTDigg - <https://btdig.com/index.htm>
 
-YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search><br>
+C411 - <https://c411.org/><br>
 Французские штуки.
 
 Boerse - <https://boerse.am/><br>

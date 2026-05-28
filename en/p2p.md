@@ -34,7 +34,7 @@ Torrent File Editor - program for creating a torrent file.
 <https://torrent-file-editor.github.io/>
 <br><br>
 
-#### General use torrent sites:
+#### General-use torrent sites:
 
 RuTracker - <http://rutracker.org/forum/index.php>
 
@@ -61,7 +61,7 @@ BT4G - <https://bt4gprx.com/>
 
 BTDigg - <https://btdig.com/index.htm>
 
-YggTorrent - <https://www3.yggtorrent.qa/engine/search?name=&do=search><br>
+C411 - <https://c411.org/><br>
 French stuff.
 
 Boerse - <https://boerse.am/><br>
