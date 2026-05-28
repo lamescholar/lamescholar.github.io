@@ -4,9 +4,9 @@ comments: true
 title: Hello
 ---
 
-First things first, install a BitTorrent client (see [P2P](/en/p2p)). You need it to download releases from torrent sites.
+First things first, install a torrent client (see [P2P](/en/p2p)). Torrent sites host most valuable things for free.
 
-You can learn<br>
+With a little effort, you can learn<br>
 how to [create](/en/how-to-create-ebooks), [share](/en/how-to-share-your-stuff), [search](/en/how-to-search-books) and [read](/en/ebook-formats) ebooks,<br>
 how to rip [DVDs](/en/films) and [CDs](/en/music#ripping-cds),<br>
 how to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
