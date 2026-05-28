@@ -7,9 +7,6 @@ title: Библиотеки
 RuTracker - <https://rutracker.org/forum/index.php><br>
 Мой аккаунт на рутрекере - <https://rutracker.org/forum/tracker.php?rid=45195282>
 
-YggTorrent - <https://www3.yggtorrent.wtf/engine/search?name=&do=search><br>
-Книги на французском.
-
 Library Genesis - <https://libgen.li/>
 
 Z-Library - <http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/>
