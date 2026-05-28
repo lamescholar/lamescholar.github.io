@@ -86,8 +86,8 @@ ctrl+down     add sub-pos +2
 
 useful keys
 
-j - to cycle thorugh subtitles.<br>
-v - to toggle subtitles.<br>
+j - to cycle thorugh subtitles<br>
+v - to toggle subtitles<br>
 Shift+F, Shift+G - to change the size of subtitles
 <br><br>
 
