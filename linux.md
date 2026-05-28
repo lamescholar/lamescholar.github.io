@@ -16,7 +16,7 @@ Linux Mint Debian Edition - <https://www.linuxmint.com/download_lmde.php>
 
 #### Linux basics
 
-All action on Linux happens in the console. Linux has two main text editors in the console: vim and nano.
+All action on Linux happens in the console. The console has two main text editors: vim and nano.
 
 Keys to save and exit
 
