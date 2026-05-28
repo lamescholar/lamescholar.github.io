@@ -41,7 +41,7 @@ yay -S <package>
 
 <https://github.com/Jguer/yay>
 
-A command to see the CPU load and memory use:
+A command to see the memory use:
 
 `fastfetch`
 <br><br>
