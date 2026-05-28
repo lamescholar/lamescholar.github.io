@@ -51,7 +51,7 @@ COVER_ART="$3"
 # split FLAC into WAV files
 shnsplit -f "$CUE_FILE" -t "%n" "$AUDIO_FILE"
 
-# tag and convert each WAV to MP3
+# convert each WAV to MP3
 for f in [0-9][0-9].wav; do
     track_num=$(basename "$f" .wav)
     
