@@ -246,7 +246,7 @@ PyChess
 `sudo pacman -S gtksourceview4 pychess`
 <br><br>
 
-You probably noticed that most of the time to install a program you can type:
+You probably noticed that usually you can install a program by typing:
 
 `yay -S package`
 
