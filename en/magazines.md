@@ -84,9 +84,7 @@ The New Yorker - <https://magzdb.org/j/1798>
 
 The Paris Review - <https://1337x.to/torrent/5479243/The-Paris-Review-2022-complete-4-issues/>
 
-Times Literary Supplement:<br>
-<https://forum.mobilism.org/search.php?keywords=tls&sr=topics&sf=titleonly><br>
-<https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TLSH>
+Times Literary Supplement - <https://forum.mobilism.org/search.php?keywords=tls&sr=topics&sf=titleonly>
 
 Granta - <https://archive.org/search.php?query=granta>
 
