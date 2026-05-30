@@ -241,6 +241,11 @@ sudo pacman -S steam
 AMD: vulkan-radeon
 <br><br>
 
+PyChess
+
+`sudo pacman -S gtksourceview4 pychess`
+<br><br>
+
 You probably noticed that most of the time to install a program you can type:
 
 `yay -S package`
