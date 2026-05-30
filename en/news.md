@@ -117,17 +117,13 @@ The Wall Street Journal - <https://forum.mobilism.org/search.php?keywords=the+wa
 
 The Washington Post - <https://forum.mobilism.org/search.php?keywords=The+Washington+Post&sr=topics&sf=titleonly>
 
-The Times - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=TTDA>
+The Times - Gale
 
-The Sunday TImes - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=STHA>
+The Sunday TImes - Gale
 
-The Illustrated London News - <https://go-gale-com.i.ezproxy.nypl.org/ps/browseByDate?inPS=true&userGroupName=nypl&prodId=ILN>
+The Illustrated London News - Gale
 
-Illustrated Times:
-
-```
-https://go-gale-com.i.ezproxy.nypl.org/ps/i.do?p=BNCN&u=nypl&id=GALE|6PEK&v=2.1&it=aboutJournal&sid=bookmark-BNCN
-```
+Illustrated Times - Gale
 
 The New York Times - <https://archive.org/details/pub_new-york-times?sort=-date>
 
