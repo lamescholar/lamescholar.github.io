@@ -19,7 +19,7 @@ In the US and the UK there was no Marx-Engels Institute, no academic Ryazanov to
  
 To be Marxist is as paradoxical as being a Christian. Christ had no authority to adhere to. Marx never lost a chance to attack his own allies. When we read Engels or even when we reconstruct True Marx from his manuscripts, we try to find something complete. What good it will do? In my opinion, to find inspiration in Marx is to reach same elevation of thought. Try to build your own values and practice them in today's world.
  
- Marx is only an example of "ruthless critique of everything existing".
+ Marx is only an example of ruthless critique of everything existing.
  <br><br>
  
 #### Books
