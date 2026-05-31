@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-First things first, install a torrent client (see [P2P](/en/p2p)). Torrent sites host most valuable things for free.
+First things first, install a torrent client (see [P2P](/en/p2p)). Torrent sites host most valuable things online for free.
 
 With a little effort, you can learn<br>
 how to [create](/en/how-to-create-ebooks), [share](/en/how-to-share-your-stuff), [search](/en/how-to-search-books) and [read](/en/ebook-formats) ebooks,<br>
