@@ -59,7 +59,7 @@ yay -S adwaita-qt6-git
 
 Nicotine+ (Soulseek client)
 
-`yay -S nicotine-plus-cigorette-git`
+`sudo pacman -S nicotine+`
 <br><br>
 
 mpv (video player)
