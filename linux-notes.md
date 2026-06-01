@@ -3,7 +3,7 @@ layout: page
 title: Linux Notes
 ---
 
-#### Applications
+#### Application icons
 
 ```
 /usr/share/applications/
@@ -85,7 +85,7 @@ sudo chmod +x /usr/local/bin/cue2mp3
 <https://gist.github.com/progzone122/0b4e2a85ea44d0dc1e74fc16ee4d9700>
 <br><br>
 
-#### Geany
+#### Geany, text editor
 
 `sudo pacman -S geany geany-plugins`
 <br><br>
@@ -183,7 +183,7 @@ WantedBy=suspend.target hibernate.target
 ```
 <br>
 
-#### playerctl shortcut to rewind 5s
+#### Shortcut to rewind 5s
 
 `playerctl --player=fooyin position 5-`
 <br><br>
