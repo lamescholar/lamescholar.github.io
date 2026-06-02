@@ -26,7 +26,33 @@ Dictionaries for GoldenDict:<br>
 <http://dadako.narod.ru/paperpoe.htm><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
 
-Creating dictionaries for GoldenDict:<br>
+<details>
+  <summary>Dictionaries I recommend</summary>
+  <br>
+  <p><b>En-En</b></p>
+  <p>Collins Cobuild</p>
+  <p>Webster's Third New International Dictionary</p>
+  <p>American Heritage Dictionary</p>
+  <p>Oxford Advanced Learner's Dictionary</p>
+  <p>Oxford English Dictionary</p>
+  <p>Oxford Dictionary of Quotations</p>
+  <p>Random House Webster's Unabridged Dictionary</p>
+  <p>GNU dictionary</p>
+  <p><a href="https://archive.org/details/johnson_1773">Johnson's dictionary</a></p>
+  <p>Wordnet</p>
+</details>
+<br>
+
+<details>
+  <summary>Encyclopedias I recommend</summary>
+  <br>
+  <p>Columbia Encyclopedia</p>
+  <p>Britannica 2010 - RuTracker</p>
+  <p>1911 Britannica</p>
+</details>
+<br>
+
+How to create dictionaries for GoldenDict:<br>
 <http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html><br>
 <https://code.google.com/archive/p/stardict-3/downloads>
 <br><br>
