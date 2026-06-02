@@ -22,18 +22,18 @@ img {
 ```
 
 Dictionaries for GoldenDict:<br>
-<https://rutracker.org/forum/viewtopic.php?t=3582459><br>
-<http://dadako.narod.ru/paperpoe.htm><br>
-<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
+StarDict collection - <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
+<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
+<http://dadako.narod.ru/paperpoe.htm>
 
 <details>
   <summary>Dictionaries I recommend</summary>
   <br>
-  <p>Collins Cobuild</p>
+  <p>Collins Cobuild - DSL</p>
   <p>Webster's Third New International Dictionary</p>
   <p>American Heritage Dictionary</p>
   <p>Oxford Advanced Learner's Dictionary</p>
-  <p>Oxford English Dictionary</p>
+  <p>Oxford English Dictionary - DSL</p>
   <p>Oxford Dictionary of Quotations</p>
   <p>Random House Webster's Unabridged Dictionary</p>
   <p>GNU dictionary</p>
