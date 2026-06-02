@@ -29,7 +29,6 @@ Dictionaries for GoldenDict:<br>
 <details>
   <summary>Dictionaries I recommend</summary>
   <br>
-  <p><b>En-En</b></p>
   <p>Collins Cobuild</p>
   <p>Webster's Third New International Dictionary</p>
   <p>American Heritage Dictionary</p>
