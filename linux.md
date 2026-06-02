@@ -198,7 +198,10 @@ Handbrake (to transcode MKV)
 
 Subtitle Edit (to translate subtitles)
 
-`yay -S subtitleedit-avalonia`
+```
+yay -S subtitleedit-avalonia
+yay -S llama.cpp
+```
 <br><br>
 
 Audiobookshelf (Audiobook player)
@@ -248,7 +251,7 @@ Lutris (to install and play games)
 
 PyChess
 
-`sudo pacman -S gtksourceview4 pychess`
+`sudo pacman -S pychess gtksourceview4`
 <br><br>
 
 You probably noticed that usually you can install a program by typing:
