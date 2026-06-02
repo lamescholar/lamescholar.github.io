@@ -241,6 +241,11 @@ sudo pacman -S steam
 AMD: vulkan-radeon
 <br><br>
 
+Lutris (to install and play games)
+
+`sudo pacman -S lutris gamescope`
+<br><br>
+
 PyChess
 
 `sudo pacman -S gtksourceview4 pychess`
