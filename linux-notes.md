@@ -132,6 +132,10 @@ rm -rf ~/.cache/thumbnails/*
 nautilus -q
 ```
 
+Log Out button:
+
+`gsettings set org.gnome.shell always-show-log-out true`
+
 GNOME reset:
 
 `gsettings reset-recursively org.gnome.desktop.interface`
