@@ -26,9 +26,9 @@ img {
 ```
 
 Словари для GoldenDict:<br>
-коллекция словарей StarDict - <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
-<http://dadako.narod.ru/paperpoe.htm><br>
-<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
+<https://rutracker.org/forum/viewtopic.php?t=3582459><br>
+<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
+<http://dadako.narod.ru/paperpoe.htm>
 
 Создание словарей для GoldenDict:<br>
 <http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html><br>

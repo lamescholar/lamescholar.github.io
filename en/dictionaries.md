@@ -27,9 +27,9 @@ img {
 ```
 
 Dictionaries for GoldenDict<br>
-StarDict: <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
-DSL and MDX: <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
-DSL: <http://dadako.narod.ru/paperpoe.htm>
+<https://rutracker.org/forum/viewtopic.php?t=3582459><br>
+<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
+<http://dadako.narod.ru/paperpoe.htm>
 
 <details>
   <summary>Dictionaries I recommend</summary>
