@@ -201,7 +201,7 @@ WantedBy=suspend.target hibernate.target
 
 #### Wine
 
-`winetricks dotnet20 dotnet48 vcrun2015 msxml6`
+`winetricks dotnet48 vcrun2015 msxml6`
 
 Run `winecfg` to set DPI.
 <br><br>
