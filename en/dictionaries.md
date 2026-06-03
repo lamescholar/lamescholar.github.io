@@ -23,7 +23,6 @@ img {
 .dsl_p, .dsl_p :not(a) {
     color: inherit !important;
 }
-
 ```
 
 Dictionaries for GoldenDict<br>
