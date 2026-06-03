@@ -14,7 +14,7 @@ SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
 
 SponsorBlock - <https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/><br>
-Skip paid promotions.
+Skips paid promotions.
 
 Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
 To modify CSS (font size etc.)
@@ -22,7 +22,7 @@ To modify CSS (font size etc.)
 uBlock Origin - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/><br>
 No ads.
 
-Untrap for YouTube - <https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/><br>
+Unhook - <https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/><br>
 No Shorts.
 
 Yesterday for Old Reddit - <https://addons.mozilla.org/en-US/firefox/addon/yesterday-for-old-reddit/><br>
