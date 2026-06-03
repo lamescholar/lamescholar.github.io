@@ -21,7 +21,7 @@ img {
 }
 ```
 
-Dictionaries for GoldenDict<br>
+Dictionaries for GoldenDictЖ<br>
 <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
 <http://dadako.narod.ru/paperpoe.htm>
@@ -29,11 +29,11 @@ Dictionaries for GoldenDict<br>
 <details>
   <summary>Dictionaries I recommend</summary>
   <br>
-  <p>Collins Cobuild - DSL</p>
+  <p>Collins Cobuild</p>
   <p>Webster's Third New International Dictionary</p>
   <p>American Heritage Dictionary</p>
   <p>Oxford Advanced Learner's Dictionary</p>
-  <p>Oxford English Dictionary - DSL</p>
+  <p>Oxford English Dictionary</p>
   <p>Oxford Dictionary of Quotations</p>
   <p>Random House Webster's Unabridged Dictionary</p>
   <p>GNU dictionary</p>
@@ -45,10 +45,10 @@ Dictionaries for GoldenDict<br>
 <details>
   <summary>Encyclopedias I recommend</summary>
   <br>
-  <p>Columbia Encyclopedia - MDX</p>
+  <p>Columbia Encyclopedia</p>
   <p>Britannica 2010 - RuTracker</p>
   <p><a href="https://github.com/dcampos/eb1911/releases">1911 Britannica</a></p>
-  <p>Stanford Encyclopedia of Philosophy - MDX</p>
+  <p>Stanford Encyclopedia of Philosophy</p>
 </details>
 <br>
 
