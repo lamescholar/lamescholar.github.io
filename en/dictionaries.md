@@ -47,7 +47,7 @@ DSL: <http://dadako.narod.ru/paperpoe.htm>
   <br>
   <p>Columbia Encyclopedia - MDX</p>
   <p>Britannica 2010 - RuTracker</p>
-  <p>[1911 Britannica](https://github.com/dcampos/eb1911/releases)</p>
+  <p><a href="https://github.com/dcampos/eb1911/releases">1911 Britannica</a></p>
   <p>Stanford Encyclopedia of Philosophy - MDX</p>
 </details>
 <br>
