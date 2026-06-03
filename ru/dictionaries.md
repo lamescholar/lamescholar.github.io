@@ -19,6 +19,13 @@ img {
 	max-width: 500px !important;
 	height: auto;
 }
+
+.dsl_p, .dsl_p :not(a) {
+    color: grey !important;
+    font-style: italic;
+    cursor: default;
+    font-weight: normal;
+}
 ```
 
 Словари для GoldenDict:<br>
