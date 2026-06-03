@@ -3,7 +3,7 @@ layout: page
 title: Linux Notes
 ---
 
-#### Application icons
+#### Applications (icons)
 
 ```
 /usr/share/applications/
