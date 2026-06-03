@@ -21,10 +21,10 @@ img {
 }
 ```
 
-Dictionaries for GoldenDict:<br>
-StarDict collection - <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
-<https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
-<http://dadako.narod.ru/paperpoe.htm>
+Dictionaries for GoldenDict<br>
+StarDict: <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
+DSL and MDX: <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
+DSL: <http://dadako.narod.ru/paperpoe.htm>
 
 <details>
   <summary>Dictionaries I recommend</summary>
@@ -45,9 +45,10 @@ StarDict collection - <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
 <details>
   <summary>Encyclopedias I recommend</summary>
   <br>
-  <p>Columbia Encyclopedia</p>
+  <p>Columbia Encyclopedia - MDX</p>
   <p>Britannica 2010 - RuTracker</p>
-  <p>1911 Britannica</p>
+  <p>[1911 Britannica](https://github.com/dcampos/eb1911/releases)</p>
+  <p>Stanford Encyclopedia of Philosophy - MDX</p>
 </details>
 <br>
 

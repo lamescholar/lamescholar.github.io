@@ -22,7 +22,7 @@ img {
 ```
 
 Словари для GoldenDict:<br>
-<https://rutracker.org/forum/viewtopic.php?t=3582459><br>
+коллекция словарей StarDict - <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
 <http://dadako.narod.ru/paperpoe.htm><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs>
 
