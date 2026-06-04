@@ -226,4 +226,7 @@ foobar2000 (to transcode audio files)
 
 IrfanView (to batch convert images)
 
+Lingvo 12 (dictionary app)<br>
+winecfg, no theme
+
 MakeMKV (to rip disks)
