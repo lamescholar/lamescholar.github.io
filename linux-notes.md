@@ -187,11 +187,6 @@ WantedBy=suspend.target hibernate.target
 ```
 <br>
 
-Print to PDF
-
-`sudo pacman -S cups-pdf`
-<br><br>
-
 #### Shortcut to rewind 5s
 
 `playerctl --player=fooyin position 5-`
