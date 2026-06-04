@@ -203,9 +203,7 @@ WantedBy=suspend.target hibernate.target
 
 ```
 sudo pacman -S wine
-
 sudo pamcan -S winetricks
-
 winetricks -q dotnet20 dotnet48 vcrun2015 msxml6 ie8
 ```
 
