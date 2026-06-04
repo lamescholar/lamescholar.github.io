@@ -226,8 +226,11 @@ foobar2000 (to transcode audio files)
 
 IrfanView (to batch convert images)
 
-Lingvo 12 (dictionary app)<br>
-`WINEPREFIX=~/.wine_lingvo winecfg`<br>
-no theme
-
 MakeMKV (to rip disks)
+<br><br>
+
+Lingvo 12 (dictionary app)
+
+`WINEPREFIX=~/.wine_lingvo winecfg`
+
+no theme
