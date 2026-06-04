@@ -19,6 +19,10 @@ img {
 	max-width: 500px !important;
 	height: auto;
 }
+
+.dsl_p, .dsl_p :not(a) {
+    color: inherit !important;
+}
 ```
 
 Словари для GoldenDict:<br>
