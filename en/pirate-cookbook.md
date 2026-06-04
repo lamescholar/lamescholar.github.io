@@ -3,7 +3,10 @@ layout: page
 title: Pirate Cookbook
 ---
 
-My list of practical guides. How to find books, music and movies online. How to digitize books, rip disks and record vinyl records. More details here: [Hello](/en/hello)
+My list of practical guides.<br>
+How to find books, music and movies online.<br>
+How to digitize books, rip disks and record vinyl records.<br>
+More details here: [Hello](/en/hello)
 <br><br>
 
 [Android](/en/android)
