@@ -85,7 +85,7 @@ sudo chmod +x /usr/local/bin/cue2mp3
 <https://gist.github.com/progzone122/0b4e2a85ea44d0dc1e74fc16ee4d9700>
 <br><br>
 
-#### Geany, text editor
+#### Geany (text editor)
 
 `sudo pacman -S geany geany-plugins`
 <br><br>
@@ -186,6 +186,11 @@ ExecStart=/usr/bin/openrgb --profile "White.orp" --no-gui
 WantedBy=suspend.target hibernate.target
 ```
 <br>
+
+Print to PDF
+
+`sudo pacman -S cups-pdf`
+<br><br>
 
 #### Shortcut to rewind 5s
 
