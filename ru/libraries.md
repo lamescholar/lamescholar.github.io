@@ -51,8 +51,6 @@ RoyalLib.com - <https://royallib.com/>
 Научная библиотека - <http://niv.ru/>
 
 Lib.Ru: Библиотека Мошкова - <http://lib.ru/>
-
-NYPL - <https://www.nypl.org/research/collections/articles-databases>
 <br><br>
 
 Если домен Library Genesis, Z-Library или Sci-Hub заблокирован, новый смотри на Википедии.
