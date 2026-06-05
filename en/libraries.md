@@ -33,6 +33,8 @@ Wikisource - <https://wikisource.org/wiki/Main_Page>
 Mobilism - <https://forum.mobilism.org/index.php>
 
 Gutenberg - <https://www.gutenberg.org/>
+
+Standard Books - <https://standardebooks.org/ebooks>
 <br><br>
 
 If the Library Genesis, Z-Library, or Sci-Hub domain is blocked, look at Wikipedia for a new one.
