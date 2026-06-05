@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Best things in life are free. Free and libre. Today, switiching to open source is next best thing to going off the grid. If you still believe in humanity, [install Linux](https://lamescholar.github.io/linux), or at least learn to pirate on Windows properly.
+Best things in life are free. Free and libre. Today, switiching to open source is next best thing to going off the grid. If you still believe in humanity, [install Linux](https://lamescholar.github.io/linux). Or at least learn to pirate on Windows properly.
 
 First things first, install a torrent client (see [P2P](/en/p2p)) so you can download from torrent sites. These sites host best things online for free.
 <br><br>
