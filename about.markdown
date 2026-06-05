@@ -6,7 +6,7 @@ permalink: /about/
 
 Here I share my thoughts plus stuff I find online. I did this blog with [Jekyll](/en/jekyll).
 
-Тут я делюсь своими мыслями плюс тем, что нахожу онлайн. Сделал я этот блог с помощью [Jekyll](/ru/jekyll).
+Тут я делюсь своими мыслями плюс тем, что нахожу онлайн. Этот блог сделал с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
