@@ -47,6 +47,7 @@ Create qwen3-visual.py:
 ```
 import sys
 import os
+import re
 import time
 import subprocess
 import requests
