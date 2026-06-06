@@ -33,7 +33,7 @@ Dictionaries for GoldenDictЖ<br>
   <p>Webster's Third New International Dictionary</p>
   <p>American Heritage Dictionary</p>
   <p>Oxford Advanced Learner's Dictionary</p>
-  <p>Oxford English Dictionary</p>
+  <p><a href="https://rutracker.org/forum/viewtopic.php?t=2214674">Oxford English Dictionary</a></p>
   <p>Oxford Dictionary of Quotations</p>
   <p>Random House Webster's Unabridged Dictionary</p>
   <p>GNU dictionary</p>
