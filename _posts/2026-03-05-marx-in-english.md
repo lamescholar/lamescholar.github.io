@@ -24,7 +24,7 @@ To be Marxist is as paradoxical as being a Christian. Christ had no authority to
  
 #### Books
 
-Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English. This publisher is an abomination. First, they sell each volume for 50 dollars. No paperback edition. Then they send [copyright notice](https://www.nytimes.com/2014/05/01/arts/claiming-a-copyright-on-marx-how-uncomradely.html) to Marxist Internet Archive to remove collected works from their website - act of infinite irony. Luckily, there is a [top secret mirror](https://marxists.architexturez.net/archive/marx/index.htm). Also, a good soul leaked the PDFs, here they are on [RuTracker](https://rutracker.org/forum/viewtopic.php?t=6244838). MECW can be in a college library or the main branch of public library.
+Lawrence and Wishart is the publisher of Marx-Engels Collected Works in English. This publisher is abomination. First, they sell each volume for 50 dollars. No paperback edition. Then they send [copyright notice](https://www.nytimes.com/2014/05/01/arts/claiming-a-copyright-on-marx-how-uncomradely.html) to Marxist Internet Archive to remove collected works from their website - act of infinite irony. Luckily, there is a [top secret mirror](https://marxists.architexturez.net/archive/marx/index.htm). Also, a good soul leaked the PDFs, here they are on [RuTracker](https://rutracker.org/forum/viewtopic.php?t=6244838). MECW can be in a college library or the main branch of public library.
 
 It's all very good that we can read Marx from the screen, yet, paper book is better. It is here, in your room, waiting for you to read it. You can build your own library with paperback editions of separate works.
 <br><br>
