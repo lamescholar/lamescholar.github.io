@@ -4,7 +4,7 @@ comments: true
 title: P2P
 ---
 
-Here I list programs to use P2P networks.
+Programs to use P2P networks.
 <br><br>
 
 #### Soulseek
