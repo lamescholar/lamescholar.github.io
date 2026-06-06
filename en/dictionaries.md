@@ -46,7 +46,7 @@ Dictionaries for GoldenDictЖ<br>
   <summary>Encyclopedias I recommend</summary>
   <br>
   <p>Columbia Encyclopedia</p>
-  <p>Britannica, <a href="https://rutracker.org/forum/viewtopic.php?t=6505086">2010 DVD converted to DSL</a></p>
+  <p>Britannica, <a href="https://rutracker.org/forum/viewtopic.php?t=6505086">DVD converted to DSL</a></p>
   <p><a href="https://github.com/dcampos/eb1911/releases">1911 Britannica</a></p>
   <p>Stanford Encyclopedia of Philosophy</p>
 </details>
