@@ -203,12 +203,15 @@ WantedBy=suspend.target hibernate.target
 
 ```
 sudo pacman -S wine
-sudo pamcan -S winetricks
-winetricks -q dotnet20 dotnet48 vcrun2015 msxml4 msxml6 ie8
 ```
 
 To set DPI, run `winecfg`.
-<br><br>
+
+```
+sudo pamcan -S winetricks
+winetricks -q dotnet20 dotnet48 vcrun2015 msxml4 msxml6 ie8
+```
+<br>
 
 Programs that run via Wine
 
