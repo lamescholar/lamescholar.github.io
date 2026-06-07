@@ -225,8 +225,6 @@ FictionBook Editor (to insert images into FB2)
 
 foobar2000 (to transcode audio files)
 
-IrfanView (to batch convert images)
-
 MakeMKV (to rip disks)
 <br><br>
 
