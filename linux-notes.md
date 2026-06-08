@@ -8,6 +8,8 @@ title: Linux Notes
 ```
 /usr/share/applications/
 ~/.local/share/applications/
+
+gtk-launch
 ```
 <br>
 
