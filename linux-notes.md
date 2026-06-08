@@ -16,7 +16,7 @@ Run with shortcut:
 
 `gtk-launch 'ABBYY Lingvo 12.desktop'`
 
-.dekstop file should be in /usr/share/applications/ folder:
+.dekstop file should be in `/usr/share/applications/` folder:
 
 ```
 sudo mv 'ABBYY Lingvo 12.desktop' '/usr/share/applications/ABBYY Lingvo 12.desktop'
