@@ -19,7 +19,7 @@ Run with shortcut:
 .dekstop file should be in /usr/share/applications/ folder:
 
 `sudo mv 'ABBYY Lingvo 12.desktop' '/usr/share/applications/ABBYY Lingvo 12.desktop'`
-<br>
+<br><br>
 
 #### Autostart
 
