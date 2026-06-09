@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Today, switching to open source is next best thing to going off the grid. If you still believe in humanity, [install Linux](https://lamescholar.github.io/linux) or at least learn to pirate on Windows properly.
+Today, switching to open source is next best thing to going off the grid. If you still believe in humanity, [install Linux](https://lamescholar.github.io/linux) or learn to pirate on Windows.
 
 First things first, install a torrent client (see [P2P](/en/p2p)). Torrent sites host best things online for free.
 <br><br>
