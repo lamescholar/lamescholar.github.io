@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Torrent sites host best things online for free.
+Torrent sites host the best content online for free.
 
 First things first, install a torrent client (see [P2P](/en/p2p)).
 <br><br>
