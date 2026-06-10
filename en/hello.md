@@ -4,12 +4,12 @@ comments: true
 title: Hello
 ---
 
-Today, switching to open source is next best thing to going off the grid. If you still believe in humanity, [install Linux](https://lamescholar.github.io/linux) or learn to pirate on Windows.
+Torrent sites host best things online for free.
 
-First things first, install a torrent client (see [P2P](/en/p2p)). Torrent sites host best things online for free.
+First things first, install a torrent client (see [P2P](/en/p2p)).
 <br><br>
 
-With a little effort, you can figure out<br>
+With a little effort, you can дуфкт<br>
 how to [create](/en/how-to-create-ebooks), [share](/en/how-to-share-your-stuff), [search](/en/how-to-search-books) and [read](/en/ebook-formats) ebooks,<br>
 how to rip [DVDs](/en/films) and [CDs](/en/music#ripping-cds),<br>
 how to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
