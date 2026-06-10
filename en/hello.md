@@ -4,10 +4,10 @@ comments: true
 title: Hello
 ---
 
-Torrent sites host best content online for free.
-
-First things first, install a torrent client (see [P2P](/en/p2p)).
+Corporate Internet becomes worse. Yet there is a better choice than going off the grid. You still can switch to Linux. You can use open source software and self-host. You can download and upload to torrent sites that host best content online for free.
 <br><br>
+
+For a start, install a torrent client (see [P2P](/en/p2p)).
 
 With a little effort, you can learn<br>
 how to [create](/en/how-to-create-ebooks), [share](/en/how-to-share-your-stuff), [search](/en/how-to-search-books) and [read](/en/ebook-formats) ebooks,<br>
@@ -16,7 +16,8 @@ how to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
 how to broadcast your own [online radio](/en/radio#how-to-make-your-own-online-radio),<br>
 how to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/news), [dictionaries](/en/dictionaries), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
 how to [research](/en/research) stuff interesting to you,<br>
-how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world.
+how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world,
+how to [install Linux].
 <br><br>
 
 One day I realised that most of ebooks on my laptop were scanned illegally. Not made with expensive corporate equipment. Not made for a wage. They were made by enthusiasts with basic equipment for sheer warmth of collectivism.
