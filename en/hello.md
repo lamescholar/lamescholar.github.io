@@ -18,7 +18,7 @@ how to broadcast your own [online radio](/en/radio#how-to-make-your-own-online-r
 how to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/news), [dictionaries](/en/dictionaries), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
 how to [research](/en/research) stuff interesting to you,<br>
 how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world,<br>
-how to [install Linux](/linux).
+how to [install Linux](https://lamescholar.github.io/linux).
 <br><br>
 
 One day I realised that most of ebooks on my laptop were scanned illegally. Not made with expensive corporate equipment. Not made for a wage. They were made by enthusiasts with basic equipment for sheer warmth of collectivism.
