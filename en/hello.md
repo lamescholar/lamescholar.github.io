@@ -17,7 +17,7 @@ how to digitize [vinyl records](/en/music#digitizing-vinyl-records),<br>
 how to broadcast your own [online radio](/en/radio#how-to-make-your-own-online-radio),<br>
 how to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/news), [dictionaries](/en/dictionaries), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films) and play them on your computer,<br>
 how to [research](/en/research) stuff interesting to you,<br>
-how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world,
+how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world,<br>
 how to [install Linux].
 <br><br>
 
