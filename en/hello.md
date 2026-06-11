@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Corporate Internet becomes worse. But there is no need to go off the grid yet. You still can switch to Linux. You can use open source software and self-host. You can download and upload to torrent sites that host best content online for free.
+Corporate Internet becomes worse. But there is no need to go off the grid yet. Linux is better than ever. You can use open source software and self-host. You can download and upload to torrent sites that host best content online for free. Own your shit, don't rent it.
 <br><br>
 
 For a start, install a torrent client (see [P2P](/en/p2p)).
