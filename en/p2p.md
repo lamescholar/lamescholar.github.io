@@ -29,7 +29,7 @@ Recommendations
 - Seed unpopular releases forever. Limit upload speed to 2 MB/s. This way you won't have too much load on your disk and wi-fi.<br>
 - qBittorent allows you to rename torrent folder and keep seeding without a problem. It's useful if you organize your library in a special way and the folder is named chaotically.
 
-Torrent File Editor - program for creating a torrent file.
+Torrent File Editor - program that creates a torrent file.
 
 <https://torrent-file-editor.github.io/>
 <br><br>
