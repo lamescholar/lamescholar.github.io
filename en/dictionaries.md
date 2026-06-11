@@ -21,7 +21,7 @@ img {
 }
 ```
 
-Dictionaries for GoldenDictЖ<br>
+Dictionaries for GoldenDict:<br>
 <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
 <http://dadako.narod.ru/paperpoe.htm>
