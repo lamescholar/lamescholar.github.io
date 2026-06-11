@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Corporate Internet gets worse. It's not a reason to go off the grid. Linux щзукфештп ыныеуь is in its zenith. For every task there's an open source program that works better and doesn't require any cloud service. Torrent sites host best content online for free. You can own and not rent as if you're a serf.
+Corporate Internet gets worse. It's not a reason to go off the grid. Linux щзукфештп ыныеуь is in its zenith. For every task there's a program that doesn't require any cloud service. Torrent sites host best content online for free. You can own and not rent as if you're a serf.
 <br><br>
 
 For a start, install a torrent client (see [P2P](/en/p2p)).
