@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Corporate Internet is getting worse. It's not a reason to despair and go off the grid. Linux operating system is better than ever before. For every task there's a program that doesn't require any cloud service. Torrent sites host genuine treasures. By ramping up aggresive design of its platforms, corporate internet is breathing life into its own shadow. 
+Corporate Internet is getting worse. It's not a reason to despair and go off the grid. Linux operating system is better than ever before. For every task there's a program that doesn't require any cloud service. Torrent sites host genuine treasures. By ramping up aggresive design of platforms, corporate internet is breathing life into its own shadow. 
 <br><br>
 
 As a first step, install a torrent client (see [P2P](/en/p2p)).
