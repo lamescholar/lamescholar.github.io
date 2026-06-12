@@ -21,7 +21,7 @@ how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in 
 how to [install Linux](https://lamescholar.github.io/linux).
 <br><br>
 
-One day I realised that most of ebooks on my laptop were scanned illegally. Not made with expensive corporate equipment. Not made for a wage. They were made by enthusiasts with basic equipment for sheer warmth of collectivism.
+One day I realised that most of ebooks on my laptop were scanned illegally. Not made with expensive corporate equipment. Not made for a wage. They were made by enthusiasts with basic equipment for a sheer warmth of collectivism.
 
 Internet makes possible the free exchange of information via P2P networks. Sadly, these networks are little known. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, collection of private data and rent. By endowing <s>people</s> companies with intellectual property rights, modern states effectively limit the spread of culture via the Internet. We are not obligated to exist in confines of this mechanism.
 
