@@ -4,7 +4,7 @@ comments: true
 title: Jekyll
 ---
 
-С помощью [Jekyll](https://jekyllrb.com/) (генератор сайтов) и [GitHub Pages](https://pages.github.com/) (хостинг) можно создать бесплатный статический сайт для своего блога. Лимит размера - 1 ГБ.
+[Jekyll](https://jekyllrb.com/) - это генератор статических сайтов. Я использую [GitHub Pages](https://pages.github.com/), бесплатный хостинг от GitHub, который поддерживает Jekyll. Лимит - 1 ГБ.
 <br><br>
 
 Для создания сайта необходимо зарегистрироваться на GitHub:
