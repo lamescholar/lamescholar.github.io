@@ -33,7 +33,7 @@ Dictionaries for GoldenDict:<br>
   <p>Webster's Third New International Dictionary</p>
   <p>American Heritage Dictionary</p>
   <p>Oxford Advanced Learner's Dictionary</p>
-  <p><a href="https://rutracker.org/forum/viewtopic.php?t=2214674">Oxford English Dictionary</a></p>
+  <p>Oxford English Dictionary 2022</p>
   <p>Oxford Dictionary of Quotations</p>
   <p>Random House Webster's Unabridged Dictionary</p>
   <p>GNU dictionary</p>
@@ -49,6 +49,7 @@ Dictionaries for GoldenDict:<br>
   <p>Britannica, <a href="https://rutracker.org/forum/viewtopic.php?t=6505086">DVD converted to DSL</a></p>
   <p><a href="https://github.com/dcampos/eb1911/releases">1911 Britannica</a></p>
   <p>Stanford Encyclopedia of Philosophy</p>
+  <p>New Pauly</p>
 </details>
 <br>
 
