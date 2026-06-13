@@ -259,13 +259,16 @@ class TranslatorApp(QMainWindow):
         self.worker.start()
 
     def on_chunk_done(self, text, is_new_paragraph):
+        scrollbar = self.output_area.verticalScrollBar()
+        at_bottom = scrollbar.value() >= (scrollbar.maximum() - 10)
+
         if is_new_paragraph and self.output_area.toPlainText().strip():
             self.output_area.insertPlainText("\n\n")
         
         self.output_area.insertPlainText(text)
-        self.output_area.verticalScrollBar().setValue(
-            self.output_area.verticalScrollBar().maximum()
-        )
+        
+        if at_bottom:
+            scrollbar.setValue(scrollbar.maximum())
 
     def on_error(self, msg):
         self.status_label.setText(msg)
