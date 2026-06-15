@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I made this site to share tips on book scanning.
+I started this site to share tips on book scanning. Now there's all kinds of things.
 
-In western countries people are moralized for piracy. It is equated with theft. Why? Because books, songs and movies are in private property. Die gedanken sind frei. Once born, information is viral, and now reproducible at no cost. To sustain old business model, rights holders maintain the artificial scarcity. Copyright is a bottleneck maintained by every government in the world. Doesn't matter. Human desire finds a way. It disregards artificial walls and moralizing. Our world rests on black boxes, corporate secrets, patents, licenses, debts. Copyright is the first domino to fall.
+I don't believe that information is universally accesible, not in a positive sense. Our world rests on paywalls, black boxes, corporate secrets, patents, licenses, debts. Take them down, who knows what's possible?
 
 This blog runs on [Jekyll](/en/jekyll).
 <br><br>
