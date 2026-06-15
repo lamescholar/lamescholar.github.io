@@ -6,7 +6,7 @@ permalink: /about/
 
 I started this site to share tips on book scanning. Now there's all kinds of things.
 
-I don't believe that information is universally accessible, not in a positive sense. Our world rests on paywalls, black boxes, corporate secrets, patents, licenses, debts. We subscribe, we rent, we agree to terms and conditions. If we receive, how can we act on information?
+I don't believe that information is universally accessible, not in a positive sense. Our world rests on paywalls, black boxes, corporate secrets, patents, licenses, debts. We subscribe, we rent, we agree to terms and conditions. If we receive, how can we act?
 
 This blog runs on [Jekyll](/en/jekyll).
 <br><br>
