@@ -89,6 +89,49 @@ sudo chmod +x /usr/local/bin/cue2mp3
 ```
 <br>
 
+#### DOSBox-X
+
+Windows 3.1
+
+`https://archive.org/details/Windows3.1ISO`
+
+```
+mount c ~/dosbox_c
+imgmount d "~/Programs/Windows 3.1/Windows 3.1.iso" -t iso
+d:
+SETUP.EXE
+```
+
+Oxford English Dictionary
+
+`https://archive.org/details/oxford-english-dictionary-second-edition`
+
+Encarta 1994
+
+`https://archive.org/details/encarta94`
+
+Grolier 1995
+
+`https://archive.org/details/the-1995-grolier-multimedia-encyclopedia`
+
+Autoexec
+
+`~/.config/dosbox-x`
+
+Open .conf file. Search [autoexec]
+
+Insert:
+
+```
+mount c ~/dosbox_c
+imgmount d "~/Programs/Windows 3.1/Oxford English Dictionary (Second Edition).iso" -t iso
+imgmount e "~/Programs/Windows 3.1/Microsoft Encarta - 1994 Edition (1993)(Microsoft Home).iso" -t iso
+c:
+cd windows
+win
+```
+<br>
+
 #### Epson printer - Arch Linux
 
 <https://gist.github.com/progzone122/0b4e2a85ea44d0dc1e74fc16ee4d9700>
