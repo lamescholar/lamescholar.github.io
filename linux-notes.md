@@ -110,10 +110,6 @@ Encarta 1994
 
 `https://archive.org/details/encarta94`
 
-Grolier 1995
-
-`https://archive.org/details/the-1995-grolier-multimedia-encyclopedia`
-
 Autoexec
 
 `~/.config/dosbox-x`
