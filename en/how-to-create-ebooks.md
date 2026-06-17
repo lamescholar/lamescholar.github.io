@@ -39,11 +39,11 @@ Availability
 
 Fix the phone on the stand. Turn on the lamp. Put the book so that one page completely falls into the view of the camera. Pull the page with one hand. If the second page starts to slam, put some weight on it (I use hockey puck). Press the button with your second hand. Then process the photos with special programs.
 
-If you need B/W ebook with colored illustrations (method of separated scans), see [DjVu](/en/djvu).
+If you want B/W ebook with colored illustrations (method of separated scans), see [DjVu](/en/djvu).
 
-If you need to keep the photos as they are, see [PDF](/en/pdf).
+If you want to keep the photos as they are, see [PDF](/en/pdf).
 
-If you need to get the text, see [FB2, EPUB](/en/fb2-epub).
+If you want to get a textual ebook, see [FB2, EPUB](/en/fb2-epub).
 <br><br>
 
 #### Method №2. Scan the book
