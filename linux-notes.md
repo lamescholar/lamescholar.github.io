@@ -89,61 +89,6 @@ sudo chmod +x /usr/local/bin/cue2mp3
 ```
 <br>
 
-#### Windows 3.1
-
-DOSBox-X
-
-`yay -S dosbox-x`
-
-Windows 3.1 ISO
-
-`https://archive.org/details/Windows3.1ISO`
-
-```
-mount c ~/dosbox_c
-imgmount d "~/Programs/Windows 3.1/Windows 3.1.iso" -t iso
-d:
-SETUP.EXE
-```
-
-Oxford English Dictionary
-
-`https://archive.org/details/oxford-english-dictionary-second-edition`
-
-Encarta 1994
-
-`https://archive.org/details/encarta94`
-
-Autoexec
-
-Go to `~/.config/dosbox-x`
-
-Open .conf file. Search [autoexec]
-
-Insert:
-
-```
-mount c ~/dosbox_c
-imgmount d "~/Programs/Windows 3.1/Oxford English Dictionary (Second Edition).iso" -t iso
-imgmount e "~/Programs/Windows 3.1/Microsoft Encarta - 1994 Edition (1993)(Microsoft Home).iso" -t iso
-c:
-cd windows
-win
-```
-
-#### Windows 95
-
-86Box
-
-`yay -S 86box-bin`
-
-Full guide:
-
-<https://steamcommunity.com/sharedfiles/filedetails/?id=2526174088>
-
-Put ROM files into `~/.local/share/86Box/roms`
-<br>
-
 #### Epson printer - Arch Linux
 
 <https://gist.github.com/progzone122/0b4e2a85ea44d0dc1e74fc16ee4d9700>
@@ -262,6 +207,61 @@ WantedBy=suspend.target hibernate.target
 
 `QT_QUICK_BACKEND=software`
 <br><br>
+
+#### Windows 3.1
+
+DOSBox-X
+
+`yay -S dosbox-x`
+
+Windows 3.1 ISO
+
+`https://archive.org/details/Windows3.1ISO`
+
+```
+mount c ~/dosbox_c
+imgmount d "~/Programs/Windows 3.1/Windows 3.1.iso" -t iso
+d:
+SETUP.EXE
+```
+
+Oxford English Dictionary
+
+`https://archive.org/details/oxford-english-dictionary-second-edition`
+
+Encarta 1994
+
+`https://archive.org/details/encarta94`
+
+Autoexec
+
+Go to `~/.config/dosbox-x`
+
+Open .conf file. Search [autoexec]
+
+Insert:
+
+```
+mount c ~/dosbox_c
+imgmount d "~/Programs/Windows 3.1/Oxford English Dictionary (Second Edition).iso" -t iso
+imgmount e "~/Programs/Windows 3.1/Microsoft Encarta - 1994 Edition (1993)(Microsoft Home).iso" -t iso
+c:
+cd windows
+win
+```
+
+#### Windows 95
+
+86Box
+
+`yay -S 86box-bin`
+
+Full guide:
+
+<https://steamcommunity.com/sharedfiles/filedetails/?id=2526174088>
+
+Put ROM files into `~/.local/share/86Box/roms`
+<br>
 
 #### Wine
 
