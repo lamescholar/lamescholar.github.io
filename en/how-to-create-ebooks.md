@@ -37,7 +37,7 @@ Availability
 
 **Description:**
 
-Fix the phone on the stand. Turn on the lamp. Put the book so that one page completely falls into the view of the camera. Pull this page with one hand. If the second page starts to slam, put a weight on it (for example, a puck). Press the button with your other hand. The resulting photos are processed by special programs.
+Fix the phone on the stand. Turn on the lamp. Put the book so that one page completely falls into the view of the camera. Pull the page with one hand. If the second page starts to slam, put some weight on it (I use hockey puck). Press the button with your other hand. The resulting photos are processed by special programs.
 
 To do a b/w ebook or a b/w ebook with colored illustrations (method of separated scans), see [DjVu](/en/djvu).
 
