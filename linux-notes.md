@@ -116,7 +116,7 @@ Encarta 1994
 
 Autoexec
 
-`~/.config/dosbox-x`
+Go to `~/.config/dosbox-x`
 
 Open .conf file. Search [autoexec]
 
