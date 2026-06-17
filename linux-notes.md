@@ -262,7 +262,7 @@ Full guide:
 <https://steamcommunity.com/sharedfiles/filedetails/?id=2526174088>
 
 Put ROM files into `~/.local/share/86Box/roms`
-<br>
+<br><br>
 
 #### Wine
 
