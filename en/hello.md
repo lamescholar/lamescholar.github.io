@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Corporate Internet is getting worse. Aggresive design of platforms makes the mainstream Internet unbearable. Where to go?
+Corporate Internet is getting worse. Aggresive design of platforms makes the mainstream Internet unbearable. There's an alternative.
 <br><br>
 
 As a first step, install a torrent client (see [P2P](/en/p2p)).
