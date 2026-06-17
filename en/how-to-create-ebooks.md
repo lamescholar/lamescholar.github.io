@@ -7,7 +7,7 @@ title: How to create ebooks
 There are two methods to create an ebook.
 <br><br>
 
-#### Method №1. Photograph a book
+#### Method №1. Photograph the book
 
 **You need:**
 
@@ -46,7 +46,7 @@ To do a colored ebook, see [PDF](/en/pdf).
 To do a text ebook, see [FB2, EPUB](/en/fb2-epub).
 <br><br>
 
-#### Method №2. Scan a book
+#### Method №2. Scan the book
 
 Buy a Plustek scanner.
 <br><br>
