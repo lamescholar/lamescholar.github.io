@@ -23,7 +23,7 @@ how to [install Linux](https://lamescholar.github.io/linux).
 
 One day I realised that most of ebooks on my laptop were scanned illegally. Not with corporate equipment, not for a wage. Some nameless enthusiasts made them with basic equipment for a sheer warmth of collectivism.
 
-Internet makes possible the free exchange of information via P2P networks. Sadly, these networks are little known. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, collection of private data and rent. By endowing <s>people</s> companies with intellectual property rights, modern states effectively limit the spread of culture via the Internet. We are not obligated to exist in confines of this mechanism.
+Internet makes possible the free exchange of information via P2P networks. Sadly, these networks are little known. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, collection of private data and rent. By endowing <s>people</s> companies with intellectual property rights, modern states effectively limit the spread of culture via the Internet. We are not obligated to exist within this mechanism.
 <br><br>
 
 All .md files can be found here:
