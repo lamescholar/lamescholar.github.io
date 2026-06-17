@@ -89,9 +89,13 @@ sudo chmod +x /usr/local/bin/cue2mp3
 ```
 <br>
 
-#### DOSBox-X
+#### Windows 3.1
 
-Windows 3.1
+DOSBox-X
+
+`yay -S dosbox-x`
+
+Windows 3.1 ISO
 
 `https://archive.org/details/Windows3.1ISO`
 
@@ -126,6 +130,18 @@ c:
 cd windows
 win
 ```
+
+#### Windows 95
+
+86Box
+
+`yay -S 86box-bin`
+
+Full guide:
+
+<https://steamcommunity.com/sharedfiles/filedetails/?id=2526174088>
+
+Put ROM files into `~/.local/share/86Box/roms`
 <br>
 
 #### Epson printer - Arch Linux
