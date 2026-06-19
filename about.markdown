@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I started this site to share tips on book scanning. Now all kinds of things are here.
+I started this site to share tips on book scanning. Now there's more.
 
 I don't believe that information is universally accessible, not in a positive sense. Our world rests on paywalls, black boxes, corporate secrets, patents, licenses, debts. We rent, we subscribe, we agree to terms and conditions. If we only receive, how can we act?
 
