@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I started this site to share tips on book scanning. Now it's Pirate Cookbook. Sometimes I post texts interesting to me or my own thoughts about anything.
+I started this site to share tips on book scanning. Now it's Pirate Cookbook. Sometimes I post interesting texts or my own thoughts.
 
 This blog runs on [Jekyll](/en/jekyll).
 <br><br>
