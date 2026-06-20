@@ -181,9 +181,6 @@ Zip-archive with programs in case the links break:<br>
 #### How to publish your ebook
 
 Library Genesis:<br>
-<https://library.bz/main/upload/><br>
-genesis<br>
-upload<br>
 <https://libgen.li/librarian.php>
 
 Z-Library - <https://singlelogin.re/book-add>
