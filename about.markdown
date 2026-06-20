@@ -6,7 +6,7 @@ permalink: /about/
 
 I started this site to share tips on book scanning.
 
-Our world rests on paywalls, black boxes, corporate secrets. We rent, we subscribe, we agree to terms and conditions. As the hoarded wealth grows, most will own nothing. Unlike all other wealth, information has no natural scarcity. It can be copied, multiplied and shared infinitely.
+According to Steven Pinker, the poor are living better than ever. At the same time, the amount of hoarded wealth surpases the monarchy levels. The enclosure of economic assets rests not just on physical fenses. It rests on copyrights and licenses that force us to rent, subscribe and agree to terms and conditions. Unlike land, information has no natural scarcity. It can be copied, multiplied and shared infinitely. It's much like [the story](https://www.youtube.com/watch?v=yA9WPQeow9c) that Gerald Cohen tells about Schmoo.
 
 This blog runs on [Jekyll](/en/jekyll).
 <br><br>
