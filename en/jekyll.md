@@ -4,7 +4,7 @@ comments: true
 title: Jekyll
 ---
 
-[Jekyll](https://jekyllrb.com/) is a static site generator. You also need a hosting. I use [GitHub Pages](https://pages.github.com/). It's free hosting that supports Jekyll. The size limit is 1 GB.
+[Jekyll](https://jekyllrb.com/) is a static site generator. You also need a hosting. I use [GitHub Pages](https://pages.github.com/). It's a free hosting that supports Jekyll. The size limit is 1 GB.
 <br><br>
 
 To create a site you need to register on GitHub:
