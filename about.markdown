@@ -6,7 +6,7 @@ permalink: /about/
 
 I started this site to share tips on book scanning.
 
-I don't believe that information is universally accessible, not in a positive sense. Our world rests on paywalls, black boxes, corporate secrets, patents, licenses, debts. We rent, we subscribe, we agree to terms and conditions. If we only receive, how can we act?
+Our world rests on paywalls, black boxes, corporate secrets. We rent, we subscribe, we agree to terms and conditions. As the hoarded wealth grows, most will own nothing. Unlike all other wealth, information has no natural scarcity. It can be copied, multiplied and shared infinitely.
 
 This blog runs on [Jekyll](/en/jekyll).
 <br><br>
