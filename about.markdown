@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-One day I realised that most of ebooks on my computer were scanned illegally. Someone created these ebooks, you could tell, without any corporate equipment. It means I can do it too. Eventually, I found out how. Then I wanted to share my findings. Hence this site.
+One day I realised that most of ebooks on my computer were scanned illegally. Someone created these ebooks, you could tell, without any corporate equipment. It means I can do it too. Eventually, I found out how. Now I wanted to share my findings. Hence this site.
 
 This blog runs on [Jekyll](/en/jekyll).
 
