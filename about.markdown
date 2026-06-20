@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-One day I realised that most of ebooks on my computer were scanned illegally. If someone creates ebooks without corporate equipment, it means I can too.
+One day I realised that most of ebooks on my computer were scanned illegally. Someone created these ebooks, you could tell, without any corporate equipment. It means I can do it too. Eventually, I found out how. I wanted to share my findings. Hence this site.
 
 This blog runs on [Jekyll](/en/jekyll).
 
-Одним днём я осознал, что большинство электронных книг на моём сканированы нелегально. Если кто-то создаёт книги без корпоративной техники, значит могу и я.
+Одним днём я осознал, что большинство электронных книг на моём сканированы нелегально. Кто-то создал эти электронные книги, было видно, без какой-либо корпоративной техники. Значит могу и я. В итоге, я узнал как. Я хотел поделится своими находками. Отсюда этот сайт.
 
 Этот блог сделан с помощью [Jekyll](/ru/jekyll).
 <br><br>
