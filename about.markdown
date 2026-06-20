@@ -6,7 +6,7 @@ permalink: /about/
 
 I started this site to share tips on book scanning.
 
-According to Steven Pinker, the poor are living better than ever. At the same time, the amount of hoarded wealth surpases the monarchy levels. The enclosure of economic assets rests not just on physical fenses. It rests on copyrights and licenses that force us to rent, subscribe and agree to terms and conditions. Unlike land, information has no natural scarcity. It can be copied, multiplied and shared infinitely. Information is much like the [Schmoo](https://www.youtube.com/watch?v=yA9WPQeow9c). No wonder copying and sharing information is called piracy and presecuted by most governments in the world.
+According to Steven Pinker, the poor are living better than ever. At the same time, the amount of hoarded wealth surpases the monarchy levels. The enclosure of economic assets rests not just on physical fenses. It rests on copyrights and licenses that force us to rent, subscribe and agree to terms and conditions. Unlike land, information has no natural scarcity. It can be copied, multiplied and shared infinitely. Information is much like the [Schmoo](https://www.youtube.com/watch?v=yA9WPQeow9c).
 
 This blog runs on [Jekyll](/en/jekyll).
 <br><br>
