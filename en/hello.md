@@ -20,7 +20,7 @@ how to [install Linux](https://lamescholar.github.io/linux).
 
 One day I realised that most of ebooks on my laptop were scanned illegally. Not with corporate equipment, not for a wage. Some nameless enthusiasts made them with basic equipment for a sheer warmth of collectivism.
 
-Information has no natural scarcity. It can be copied, multiplied and shared infinitely. At this point it's called piracy and [seized](https://www.vice.com/en/article/feds-seize-one-of-the-largest-sites-for-pirated-books-and-articles-z-library/) by the government. Much like in the [Schmoo story](https://www.youtube.com/watch?v=yA9WPQeow9c).
+Information has no natural scarcity. It can be copied, multiplied and shared infinitely. At this point it's called piracy and [seized](https://www.vice.com/en/article/feds-seize-one-of-the-largest-sites-for-pirated-books-and-articles-z-library/) by the government. Much like the [Schmoo story](https://www.youtube.com/watch?v=yA9WPQeow9c).
 <br><br>
 
 All .md files can be found here:
