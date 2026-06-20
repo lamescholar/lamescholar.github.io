@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-One day I realised that most of ebooks on my computer were scanned illegally. If someone creates ebooks without corporate equipment, it means I can too. Now I'm an anarchist.
+One day I realised that most of ebooks on my computer were scanned illegally. If someone creates ebooks without corporate equipment, it means I can too.
 
 This blog runs on [Jekyll](/en/jekyll).
 
-Одним днём я осознал, что большинство электронных книг на моём сканированы нелегально. Если кто-то создаёт книги без корпоративной техники, значит могу и я. Теперь я анархист.
+Одним днём я осознал, что большинство электронных книг на моём сканированы нелегально. Если кто-то создаёт книги без корпоративной техники, значит могу и я.
 
 Этот блог сделан с помощью [Jekyll](/ru/jekyll).
 <br><br>
