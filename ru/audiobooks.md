@@ -4,7 +4,7 @@ comments: true
 title: Аудиокниги
 ---
 
-#### Источники:
+#### Где найти
 
 AudioBook Bay - <https://audiobookbay.lu/member/advanced_search>
 
@@ -25,7 +25,7 @@ My Anonymouse - <https://www.myanonamouse.net/index.php>
 </div>
 <br>
 
-#### Программы:
+#### Программы для прослушивания
 
 Winamp - <https://www.winamp.com/downloads/>
 

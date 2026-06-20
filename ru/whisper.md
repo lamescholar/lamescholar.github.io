@@ -4,7 +4,7 @@ comments: true
 title: whisper
 ---
 
-whisper - программа для распознания речи.
+whisper - программа для распознания речи
 <br><br>
 
 <https://github.com/openai/whisper>

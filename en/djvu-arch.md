@@ -4,7 +4,7 @@ comments: true
 title: "DjVu - Arch Linux"
 ---
 
-#### Workflow:
+#### Workflow
 
 1) Scan Tailor Universal - process images
 

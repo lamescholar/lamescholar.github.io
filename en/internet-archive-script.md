@@ -14,7 +14,7 @@ If the script doesn't work, there is also this extension:
 <https://github.com/elementdavv/internet_archive_downloader>
 <br><br>
 
-#### Prerequisites:
+#### Prerequisites
 
 Git - <https://git-scm.com/download/win>
 
@@ -23,7 +23,7 @@ Python - <https://www.python.org/downloads/>
 Tick Add python.exe to PATH while downloading Python.
 <br><br>
 
-#### Installation:
+#### Installation
 
 Win+R cmd
 
@@ -45,7 +45,7 @@ If you have bad eyesight, you can get access to all books and [microfilms](https
 <https://docs.google.com/forms/d/e/1FAIpQLScSBbT17HSQywTm-fQawOK7G4dN-QPbDWNstdfvysoKTXCjKA/viewform>
 <br><br>
 
-#### Downloading images:
+#### Downloading the images
 
 Win+R cmd
 
@@ -106,7 +106,7 @@ Choose output folder.
 Start Batch.
 <br><br>
 
-#### Encoding images into PDF file:
+#### Encoding the images into PDF file
 
 **Option №1:**
 
@@ -165,7 +165,7 @@ There is an alternative to PDF, if no matter the manipulations you get drastic q
 Don't forget to delete folders with images.
 <br><br>
 
-#### Publish your book:
+#### How to publish your ebook
 
 Library Genesis - <https://library.bz/main/upload/><br>
 genesis<br>

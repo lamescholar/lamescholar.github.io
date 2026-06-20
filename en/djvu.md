@@ -7,7 +7,7 @@ title: DjVu
 My collection of programs to create, edit and read DjVu files.
 <br><br>
 
-#### Workflow:
+#### Workflow
 
 1) Scan Tailor Universal - process images
 
@@ -178,7 +178,7 @@ Zip-archive with programs in case the links break:<br>
 <https://disk.yandex.ru/d/odtW8TX4diIVsg>
 <br><br>
 
-#### Publish your book:
+#### How to publish your ebook
 
 Library Genesis:<br>
 <https://library.bz/main/upload/><br>
@@ -193,7 +193,7 @@ RuTracker - <https://rutracker.org/forum/index.php>
 VK - <https://vk.com/docs>
 <br><br>
 
-#### Information:
+#### Information
 
 <http://www.djvu-soft.narod.ru/>
 

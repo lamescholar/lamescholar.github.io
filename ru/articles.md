@@ -7,7 +7,7 @@ title: Cтатьи
 [Статьи на иностранных языках](/en/articles)
 <br><br>
 
-#### Полный текст:
+#### Где искать полный текст
 
 eLibrary - <https://elibrary.ru/defaultx.asp?>
 
@@ -30,7 +30,7 @@ eLibrary - <https://elibrary.ru/defaultx.asp?>
 <br><br>
 
 <a id="natural"></a>
-#### Естественные науки:
+#### Естественные науки
 
 Наука и жизнь - <https://www.nkj.ru/news/>
 
@@ -54,7 +54,7 @@ Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 <br><br>
 
 <a id="history"></a>
-#### История:
+#### История
 
 Античный мир и археология - <http://ama-sgu.narod.ru/main/alfabet.html>
 
@@ -70,7 +70,7 @@ Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 <br><br>
 
 <a id="literary"></a>
-#### Литературные журналы:
+#### Литературные журналы
 
 Журнальный зал - <https://magazines.gorky.media/>
 
@@ -109,7 +109,7 @@ Math-Net.Ru: Журналы - <http://www.mathnet.ru/ej.phtml?option_lang=rus>
 <br><br>
 
 <a id="philosophy"></a>
-#### Философия:
+#### Философия
 
 Вопросы философии:
 

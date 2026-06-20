@@ -7,7 +7,7 @@ title: Новости
 [Газеты на иностранных языках](/en/news)
 <br><br>
 
-#### Агрегаторы новостей:
+#### Агрегаторы новостей
 
 eurotopics - <https://www.eurotopics.net/ru/>
 
@@ -18,7 +18,7 @@ True Story - <https://thetruestory.news/>
 РАН. СО РАН. Сибирь - Дайджест прессы - <http://www.prometeus.nsc.ru/science/digest/>
 <br><br>
 
-#### Поиск:
+#### Поиск
 
 Архив Прессы РФ 1995-2008:
 
@@ -42,7 +42,7 @@ public.ru:
 Журналы и газеты на рутрекере - <https://rutracker.org/forum/viewforum.php?f=31>
 <br><br>
 
-#### Информационные агентства:
+#### Информационные агентства
 
 Regnum: Статьи - <https://regnum.ru/article>
 
@@ -53,7 +53,7 @@ Regnum: Статьи - <https://regnum.ru/article>
 ТАСС - <https://tass.ru/search>
 <br><br>
 
-#### Новостные сайты:
+#### Новостные сайты
 
 Lenta.ru - <https://lenta.ru/archive/>
 
@@ -66,7 +66,7 @@ Meduza - <https://meduza.io/articles>
 СВТВ - <https://svtv.org/>
 <br><br>
 
-#### Онлайн газеты:
+#### Онлайн газеты
 
 Троицкий вариант — Наука - <https://www.trv-science.ru/category/pdf/>
 
@@ -113,7 +113,7 @@ Meduza - <https://meduza.io/articles>
 Российская газета - <https://rg.ru/gazeta/rg/svezh>
 <br><br>
 
-#### Газеты в PDF:
+#### Газеты в PDF
 
 Троицкий вариант — Наука - <https://rutracker.org/forum/viewtopic.php?t=6408326>
 

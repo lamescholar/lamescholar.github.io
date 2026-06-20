@@ -34,7 +34,7 @@ Torrent File Editor - program that creates a torrent file.
 <https://torrent-file-editor.github.io/>
 <br><br>
 
-#### General-use torrent sites:
+#### General-use torrent sites
 
 RuTracker - <http://rutracker.org/forum/index.php>
 

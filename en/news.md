@@ -4,7 +4,7 @@ comments: true
 title: News
 ---
 
-#### News aggregators:
+#### News aggregators
 
 Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
@@ -19,7 +19,7 @@ Internationale - <https://www.internazionale.it/ultimi-articoli>
 Internationale: Libri - <https://www.internazionale.it/tag/libri>
 <br><br>
 
-#### Online newspapers:
+#### Online newspapers
 
 The Guardian US - <https://www.theguardian.com/us>
 
@@ -78,7 +78,7 @@ Estadão - <https://www.estadao.com.br/ultimas/>
 La Voz: Numero Cero - <https://www.lavoz.com.ar/numero-cero/>
 <br><br>
 
-#### Search:
+#### Search
 
 Google News Archive - <https://news.google.com/newspapers>
 
@@ -88,7 +88,7 @@ The Big Index of Global Newspapers - <https://www.websiteplanet.com/blog/complet
 
 W3Newspapers - <https://www.w3newspapers.com/>
 
-#### Newspapers from databases:
+#### Newspapers from databases
 
 EBSCO
 
@@ -109,7 +109,7 @@ Communist Historical Newspaper Collection
 The Japan Times
 <br><br>
 
-#### Newspapers in PDF:
+#### Newspapers in PDF
 
 Financial Times - <https://forum.mobilism.org/search.php?keywords=Financial+Times&sr=topics&sf=titleonly>
 

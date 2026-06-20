@@ -4,7 +4,7 @@ comments: true
 title: Фильмы
 ---
 
-#### Источники:
+#### Где найти
 
 RuTracker - <https://rutracker.org/forum/index.php>
 
@@ -38,7 +38,7 @@ FanSerials - <https://vk.com/myserianet>
 Ctrl+L - подгрузить субтитры. W - выключить субтитры. F1, F2 - двигать субтитры. Cltr+O - подгрузить озвучку.
 <br><br>
 
-#### Чтобы рипнуть DVD или Blu-Ray:
+#### Чтобы рипнуть DVD или Blu-Ray
 
 Раздобудь диск. Купи его на Авито.
 

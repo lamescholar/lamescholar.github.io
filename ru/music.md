@@ -4,7 +4,7 @@ comments: true
 title: Музыка
 ---
 
-#### Источники:
+#### Где найти
 
 **RuTracker** - <https://rutracker.org/forum/index.php>
 
@@ -46,14 +46,14 @@ title: Музыка
 {: refdef}
 <br>
 
-#### Программы:
+#### Программа для прослушивания
 
 Windows Media Player
 
 Выключи поиск дополнительных сведений из Интернета в настройках. Иначе у многих песен загрузятся неправильные метаданные.
 <br><br>
 
-#### Кодирование:
+#### Кодирование
 
 foobar2000 - <https://www.foobar2000.org/download>
 
@@ -62,7 +62,7 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 Кодируйте MP3 320 или MP3 V0 с помощью LAME.
 <br><br>
 
-#### Рип CD:
+#### Рип CD
 
 Если у тебя есть CD, которого нет на Redacted или RuTracker, и у тебя есть внешний DVD-привод, ты можешь оцифровать его с помощью программы [Exact Audio Copy](https://www.exactaudiocopy.de/en/index.php/resources/download/). Вот гайды, как это сделать:
 
@@ -73,7 +73,7 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 [FLAC.cfg](/files/FLAC.cfg)
 <br><br>
 
-#### Оцифровка виниловых пластинок:
+#### Оцифровка виниловых пластинок
 
 Adobe Audition - [RuTracker](https://rutracker.org/forum/tracker.php?nm=adobe%20audition)
 

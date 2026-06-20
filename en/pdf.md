@@ -4,7 +4,7 @@ comments: true
 title: PDF
 ---
 
-#### Reading:
+#### How to read
 
 Sumatra PDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer>
 
@@ -32,7 +32,7 @@ Shortcuts [
 ```
 <br>
 
-#### Creating PDF:
+#### Creating PDF
 
 ImageMagick (deskew)
 
@@ -50,7 +50,7 @@ LuraTech PDF compressor (encoding images into PDF) - <https://archive.org/detail
 Pdf & Djvu Bookmarker (outline) - <https://sourceforge.net/projects/djvubookmarker/>
 <br><br>
 
-#### Editing:
+#### Editing
 
 Cropping pages:
 
@@ -63,7 +63,7 @@ PDF Arranger - <https://github.com/pdfarranger/pdfarranger/releases>
 Start a program. Drag a file to program window. Pages will show up. Now you need to select pages to split. To select all pages - Ctrl+A. If not. Select a page. Scroll to the last needed page, press Shift and click on it - all pages between are selected. Now click on some selected page with right mouse button. Split. Extra empty pages can be removed - Delete. After a split press Shift+S. Save.
 <br><br>
 
-#### Publish your book:
+#### How to publish your ebook
 
 Library Genesis - <https://libgen.li/librarian.php>
 

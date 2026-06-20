@@ -4,7 +4,7 @@ comments: true
 title: Magazines
 ---
 
-#### New issues PDF:
+#### New issues in PDF
 
 Yggtorrent: Presse - <https://www3.yggtorrent.qa/engine/search?name=&description=&file=&uploader=&category=2140&sub_category=2156&do=search>
 
@@ -19,7 +19,7 @@ Boerse (DE) - <https://boerse.am/boerse/dokumente/magazine-und-zeitschriften/>
 Edicola di MIRCrew (IT) - <https://mircrew-releases.org/viewforum.php?f=43&sid=d24bb98af07354a797bab77e64da30ec>
 <br><br>
 
-#### Archives:
+#### Archives
 
 workerbee - <https://1337x.to/user/workerbee/>
 
@@ -58,7 +58,7 @@ List magazines similar to Philosophy Now.
 <br><br>
 
 <a id="history"></a>
-#### History:
+#### History
 
 BBC History - <https://magzdb.org/j/6121>
 
@@ -72,7 +72,7 @@ American History Illustrated - <https://archive.org/search?query=%22American+His
 <br><br>
 
 <a id="literary"></a>
-#### Literary magazines:
+#### Literary magazines
 
 The American Scholar - <https://forum.mobilism.org/search.php?keywords=the+american+scholar&sr=topics&sf=titleonly>
 
@@ -104,7 +104,7 @@ Buchkultur - <https://de.downmagaz.net/tags/Buchkultur/>
 <br><br>
 
 <a id="natural"></a>
-#### Natural sciences:
+#### Natural sciences
 
 Nature:<br>
 <https://magzdb.org/j/1826><br>
@@ -148,12 +148,11 @@ Spektrum Der Wissenschaft:<br>
 
 Wszechświat:<br>
 <https://wszechswiat.ptpk.org/index.php/wszechswiat/issue/archive><br>
-[The Digital Library of the Warsaw University of Technology](https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=comments: true
-title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-)
+[The Digital Library of the Warsaw University of Technology](https://bcpw.bg.pw.edu.pl/dlibra/results?action=AdvancedSearchAction&type=-3&p=0&val1=comments: true title:Wszech%C5%9Bwiat.%20Pismo%20przyrodnicze&sf=Date-)
 <br><br>
 
 <a id="philosophy"></a>
-#### Philosophy:
+#### Philosophy
 
 New Philosopher - <https://forum.mobilism.org/search.php?keywords=new+philosopher&sr=topics&sf=titleonly>
 
@@ -163,7 +162,7 @@ Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philoso
 <br><br>
 
 <a id="society"></a>
-#### Society:
+#### Society
 
 The Economist - <https://forum.mobilism.org/search.php?keywords=The+Economist&sr=topics&sf=titleonly>
 

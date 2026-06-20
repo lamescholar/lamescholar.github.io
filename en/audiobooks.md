@@ -4,7 +4,7 @@ comments: true
 title: Audiobooks
 ---
 
-#### Sources:
+#### Where to find
 
 AudioBook Bay - <https://audiobookbay.lu/member/advanced_search>
 
@@ -25,7 +25,7 @@ My Anonymouse - <https://www.myanonamouse.net/index.php>
 </div>
 <br>
 
-#### Programs:
+#### Programs to play
 
 Winamp - <https://www.winamp.com/downloads/>
 

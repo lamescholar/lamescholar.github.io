@@ -4,7 +4,7 @@ comments: true
 title: Films
 ---
 
-#### Sources:
+#### Where to find
 
 RuTracker - <https://rutracker.org/forum/index.php>
 
@@ -31,7 +31,7 @@ Hotkeys for Media Player Classic:
 Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
 <br><br>
 
-#### To rip DVD or Blu-Ray:
+#### To rip DVD or Blu-Ray
 
 Get the disc. Buy it or rent it from local library.
 

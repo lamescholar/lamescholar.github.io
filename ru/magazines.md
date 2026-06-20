@@ -7,7 +7,7 @@ title: Журналы
 [Журналы на иностранных языках](/en/magazines)
 <br><br>
 
-#### Новые выпуски:
+#### Новые выпуски
 
 East View ([РГБ](/ru/librarycard)) - <https://search.rsl.ru/ru/networkresources/index>
 
@@ -44,7 +44,7 @@ ImWerden:<br>
 <br><br>
 
 <a id="natural"></a>
-#### Естественные науки:
+#### Естественные науки
 
 Вестник Императорской Академии наук Санкт-Петербурга:<br>
 <https://www.biodiversitylibrary.org/bibliography/11493#/summary><br>
@@ -139,7 +139,7 @@ ImWerden:<br>
 <br><br>
 
 <a id="history"></a>
-#### История:
+#### История
 
 Вестник древней истории - <https://rutracker.org/forum/viewtopic.php?t=3650861>
 
@@ -238,7 +238,7 @@ ImWerden:<br>
 <br><br>
 
 <a id="literary"></a>
-#### Литературные журналы:
+#### Литературные журналы
 
 <https://rutracker.org/forum/viewforum.php?f=2193>
 
@@ -384,7 +384,7 @@ Urbi - <https://imwerden.de/periodical-2201-page-1>
 <br><br>
 
 <a id="philosophy"></a>
-#### Философия:
+#### Философия
 
 Под знаменем марксизма - <https://istmat.org/node/51846>
 
@@ -408,7 +408,7 @@ Urbi - <https://imwerden.de/periodical-2201-page-1>
 <br><br>
 
 <a id="economy"></a>
-#### Экономика:
+#### Экономика
 
 Вопросы экономики - <https://rutracker.org/forum/viewtopic.php?t=5301855>
 

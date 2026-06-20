@@ -4,7 +4,7 @@ comments: true
 title: Articles
 ---
 
-#### Full text:
+#### Where to find full text
 
 Google Schoolar - <https://scholar.google.com/>
 
@@ -41,7 +41,7 @@ Project MUSE
 <br><br>
 
 <a id="economy"></a>
-#### Economy:
+#### Economy
 
 Cambridge Journal of Economics - <https://academic.oup.com/cje/issue>
 
@@ -61,7 +61,7 @@ The Review of Economics and Statistics - <https://direct.mit.edu/rest/issue>
 <br><br>
 
 <a id="history"></a>
-#### History:
+#### History
 
 BBC History - <https://www.historyextra.com/bbc-history-magazine/>
 
@@ -89,7 +89,7 @@ The Virginia Magazine of History and Biography - JSTOR
 <br><br>
 
 <a id="literary"></a>
-#### Literary magazines:
+#### Literary magazines
 
 Asymptote - <https://www.asymptotejournal.com/archive/>
 
@@ -147,7 +147,7 @@ Book Review Index - Gale
 <br><br>
 
 <a id="natural"></a>
-#### Natural sciences:
+#### Natural sciences
 
 Nature - <https://www.nature.com/nature/volumes>
 
@@ -179,7 +179,7 @@ Science et Avenir - <https://www.sciencesetavenir.fr/depeches/>
 <br><br>
 
 <a id="philosophy"></a>
-#### Philosophy:
+#### Philosophy
 
 Philosophy Now - <https://philosophynow.org/issues>
 

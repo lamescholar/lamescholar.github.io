@@ -61,7 +61,7 @@ How to create dictionaries for GoldenDict:<br>
 Google Translate - <https://translate.google.com/>
 <br><br>
 
-#### Online dictionaries:
+#### Online dictionaries
 
 Multitran - <https://www.multitran.com/>
 
@@ -76,7 +76,7 @@ Free Dictionary. Idioms and phrases - <https://idioms.thefreedictionary.com/>
 Visual Dictionary - <http://www.visualdictionaryonline.com/>
 <br><br>
 
-#### Encyclopedias:
+#### Encyclopedias
 
 Oxford Reference - <https://www-oxfordreference-com.i.ezproxy.nypl.org/>
 

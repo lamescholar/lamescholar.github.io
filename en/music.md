@@ -4,7 +4,7 @@ comments: true
 title: Music
 ---
 
-#### Sources:
+#### Where to find
 
 **RuTracker** - <https://rutracker.org/forum/index.php>
 
@@ -46,14 +46,14 @@ Nickname - legen848dary
 {: refdef}
 <br>
 
-#### Programs:
+#### Programs to play
 
 Windows Media Player
 
 Turn off the search for additional information from the Internet in the settings. Otherwise, many songs will get incorrect metadata.
 <br><br>
 
-#### Encoding:
+#### Encoding
 
 foobar2000 - <https://www.foobar2000.org/download>
 
@@ -62,7 +62,7 @@ Free Encoder Pack - <https://www.foobar2000.org/encoderpack>
 Encode MP3 320 or MP3 V0 with LAME.
 <br><br>
 
-#### Ripping CDs:
+#### Ripping CDs
 
 If you possess a CD that is not uploaded on Redacted or RuTracker, and you have external DVD drive, you can digitize it using software called [Exact Audio Copy](https://www.exactaudiocopy.de/en/index.php/resources/download/). Here are the guides on how to do it:
 
@@ -73,7 +73,7 @@ If you possess a CD that is not uploaded on Redacted or RuTracker, and you have 
 [FLAC.cfg](/files/FLAC.cfg)
 <br><br>
 
-#### Digitizing vinyl records:
+#### Digitizing vinyl records
 
 Adobe Audition - [RuTracker](https://rutracker.org/forum/tracker.php?nm=adobe%20audition)
 

@@ -12,7 +12,7 @@ To read manga, download images from Nyaa. To view images, use the IrfanView prog
 <https://nyaa.si>
 <br><br>
 
-#### Program to view the images:
+#### Program to view the images
 
 IrfanView - <https://www.irfanview.com/>
 
