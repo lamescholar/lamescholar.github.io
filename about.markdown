@@ -7,6 +7,10 @@ permalink: /about/
 When I started to read more, a lot of ebooks piled up on my computer. One day I realised that most of them were scanned illegally. If someone creates ebooks without corporate equipment, it means I can too. This thought started everything that followed.
 
 This blog runs on [Jekyll](/en/jekyll).
+
+Когда я начал усиленно читать, на моём компьютере скопилось много электронных книг. Одним днём я осознал, что большинство из них сканированы нелегально. Если кто-то создаёт книги без корпоративной техники, значит могу и я. Эта мысль запустила всё дальнейшее.
+
+Этот блог сделан с помощью [Jekyll](/ru/jekyll).
 <br><br>
 
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
