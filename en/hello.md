@@ -18,7 +18,7 @@ how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in 
 how to [install Linux](https://lamescholar.github.io/linux).
 <br><br>
 
-One day I realized that most of ebooks on my laptop were scanned illegally. Not with corporate equipment, not for a wage. Unknown enthusiasts made them with basic equipment just because it feels good to share.
+When I started to read more, a lot of ebooks piled up on my computer. One day I realised that most of them were scanned illegally. If someone creates ebooks without corporate equipment, it means I can too. This started everything that followed.
 <br><br>
 
 All .md files can be found here:
