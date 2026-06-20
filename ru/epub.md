@@ -4,9 +4,9 @@ comments: true
 title: EPUB
 ---
 
-#### Чтение:
+#### Чтение
 
-**Компьютер:**
+**На компьютере:**
 
 Calibre 4.23.0 - <https://download.calibre-ebook.com/4.23.0/>
 
@@ -22,17 +22,17 @@ Esc - меню.
 
 * Разное->Сохранить копию аннотаций/закладок в файле электронной книги для удобства обмена. Сними галочку.
 
-**Телефон:**
+**На телефоне:**
 
 eBoox
 <br><br>
 
-#### Распознание текста:
+#### OCR
 
 ABBYY Finereader - <https://btdig.com/db98398f6d1c9bbd4c8ac905dc30abb5f9e4b704/abbyy-finereader-kpojiuk>
 <br><br>
 
-#### Создание/редактирование FB2:
+#### Создание/редактирование FB2
 
 <https://www.youtube.com/@andreilazarov8881/videos>
 
@@ -45,7 +45,7 @@ FictionBook Editor:
 При расплывчатом тексте те же настройки совместимости, что и для WinDjView. См. [DjVu](/ru/djvu).
 <br><br>
 
-#### Конвертация:
+#### Конвертация
 
 LibreOffice - <https://www.libreoffice.org/download/download/?lang=ru>
 
@@ -64,7 +64,7 @@ HTM->DOCX
 HTM->EPUB
 <br><br>
 
-#### Где опубликовать книгу:
+#### Где опубликовать книгу
 
 Флибуста - <http://flibusta.is/a>
 
@@ -73,6 +73,6 @@ genesis<br>
 upload
 <br><br>
 
-#### Информация:
+#### Информация
 
 <https://fb2-reader.ru/>

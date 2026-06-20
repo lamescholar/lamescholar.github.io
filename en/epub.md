@@ -4,9 +4,9 @@ comments: true
 title: EPUB
 ---
 
-#### Reading:
+#### Reading
 
-**Computer:**
+**On computer:**
 
 Calibre 4.23.0 - <https://download.calibre-ebook.com/4.23.0/>
 
@@ -41,17 +41,17 @@ p {
 
 [Bookerly.zip](/files/Bookerly.zip)
 
-**Phone:**
+**On the phone:**
 
 eBoox
 <br><br>
 
-#### Text recognition:
+#### OCR
 
 ABBYY Finereader - <https://btdig.com/db98398f6d1c9bbd4c8ac905dc30abb5f9e4b704/abbyy-finereader-kpojiuk>
 <br><br>
 
-#### Creating/editing FB2:
+#### Creating or editing FB2
 
 <https://www.youtube.com/@andreilazarov8881/videos>
 
@@ -64,7 +64,7 @@ FictionBook Editor:
 If text is blurry, use compatibility settings as described for WinDjView. See [DjVu](/en/djvu).
 <br><br>
 
-#### Convertion:
+#### Convert to/from FB2
 
 LibreOffice - <https://www.libreoffice.org/download/download/?lang=ru>
 
@@ -83,7 +83,7 @@ HTM->DOCX
 HTM->EPUB
 <br><br>
 
-#### Publish your book:
+#### How to publish your ebook
 
 Flibusta - <http://flibusta.is/a>
 
@@ -92,6 +92,6 @@ genesis<br>
 upload
 <br><br>
 
-#### Information:
+#### Information
 
 <https://fb2-reader.ru/>
