@@ -20,7 +20,7 @@ how to [install Linux](https://lamescholar.github.io/linux).
 
 One day I realised that most of ebooks on my laptop were scanned illegally. Not with corporate equipment, not for a wage. Some nameless enthusiasts made them with basic equipment for a sheer warmth of collectivism.
 
-Internet makes possible the free exchange of information via P2P networks. Sadly, these networks are little known. Modern states ensure that information is conducted strictly through centralised channels that operate via ads, collection of private data and rent. By endowing <s>people</s> companies with intellectual property rights, modern states effectively limit the spread of culture via the Internet. We are not obligated to exist within this mechanism.
+Information has no natural scarcity. It can be copied, multiplied and shared infinitely. At this point it's called piracy and [seized](https://www.vice.com/en/article/feds-seize-one-of-the-largest-sites-for-pirated-books-and-articles-z-library/) by the government. Much like the [Schmoo story](https://www.youtube.com/watch?v=yA9WPQeow9c).
 <br><br>
 
 All .md files can be found here:
