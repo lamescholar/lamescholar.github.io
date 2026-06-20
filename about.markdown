@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I started this site to share tips on book scanning. Now it's Pirate Cookbook. The entries are not dated because I update links and add new content. There are dated posts on the site, maybe some interesting text or my own thoughts.
+When I started to read more, a lot of ebooks piled up on my computer. One day I realised that most of them were scanned illegally. If someone creates ebooks without corporate equipment, it means I can too. This thought started everything that followed.
 
 This blog runs on [Jekyll](/en/jekyll).
 <br><br>
