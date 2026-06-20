@@ -18,7 +18,7 @@ how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in 
 how to [install Linux](https://lamescholar.github.io/linux).
 <br><br>
 
-One day I realized that most of ebooks on my laptop were scanned illegally. Not with corporate equipment, not for a wage. Some nameless enthusiasts made them with basic equipment for a sheer warmth of collectivism.
+One day I realized that most of ebooks on my laptop were scanned illegally. Not with corporate equipment, not for a wage. Unknown enthusiasts made them with basic equipment because it feels good to share.
 
 Information has no natural scarcity. It can be copied, multiplied and shared infinitely. At this point it's called piracy and [seized](https://www.vice.com/en/article/feds-seize-one-of-the-largest-sites-for-pirated-books-and-articles-z-library/) by the government. Much like the [Schmoo story](https://www.youtube.com/watch?v=yA9WPQeow9c).
 <br><br>
