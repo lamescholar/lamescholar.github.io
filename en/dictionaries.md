@@ -67,7 +67,7 @@ Multitran - <https://www.multitran.com/>
 
 Collins COBUILD - <https://www.collinsdictionary.com/>
 
-Oxford English Dictionary - <https://www-oed-com.i.ezproxy.nypl.org/>
+Oxford English Dictionary
 
 Random House Unabridged Dictionary - <https://www.dictionary.com/>
 
