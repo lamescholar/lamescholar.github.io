@@ -78,7 +78,7 @@ Visual Dictionary - <http://www.visualdictionaryonline.com/>
 
 #### Encyclopedias
 
-Oxford Reference - <https://www-oxfordreference-com.i.ezproxy.nypl.org/>
+Oxford Reference
 
 Encyclopedia.com - <https://www.encyclopedia.com/>
 
@@ -112,7 +112,7 @@ Treccani - <https://www.treccani.it/>
 
 Our World in Data - <https://ourworldindata.org/>
 
-Statista - <https://www-statista-com.i.ezproxy.nypl.org/>
+Statista
 <br><br>
 
 #### Fun command-line dictionary
