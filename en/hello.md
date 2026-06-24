@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-As a first step, install a torrent client (see [P2P](/en/p2p)).
+You need to install qBittorrent. That's the first thing I do on a new computer. Look here: [P2P](/en/p2p)
 <br><br>
 
 You can learn<br>
