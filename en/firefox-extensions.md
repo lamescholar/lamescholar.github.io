@@ -13,9 +13,6 @@ Dark mode on all websites.
 SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
 
-SponsorBlock - <https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/><br>
-Skips paid promotions.
-
 Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
 To modify CSS (font size etc.)
 
