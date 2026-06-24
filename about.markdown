@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-At some point I got interested in Chemistry. First I read the textbook, then the books I could find in the library and online. I wouldn't have found many books if they were not scanned. How the ebooks are made? Turns out, there's a community of developers that wrote programs to create ebooks. I collected these programs and wrote guides how to use them. I created this site to share these and other guides about digital formats. We created a сompletely new medium and must know how to work with it.
+At some point I got interested in Chemistry. First I read the textbook, then the books I could find in the library and online. I wouldn't have found many books if they were not scanned. How the ebooks are made? Turns out, there's a community of developers that wrote programs to create ebooks. I collected these programs and wrote guides how to use them. On this site I host these and other guides about digital formats. We created a сompletely new medium and must know how to work with it.
 
-В какой-то момент я заинтересовался химией. Сначала я прочитал учебник, затем книги что нашлись в библиотеке и онлайн. Я бы не нашёл многие книги, если бы их не сканировали. Как создаются электронные книги? Оказывается, есть сообщество разработчиков, которые написали программы для создания электронных книг. Я собрал эти программы и написал гайды как ими пользоваться. Я создал этот сайт, чтобы поделиться этими и другими гайдами о цифровых форматах. Мы создали совершенно новый medium и должны уметь с ним работать.
+В какой-то момент я заинтересовался химией. Сначала я прочитал учебник, затем книги что нашлись в библиотеке и онлайн. Я бы не нашёл многие книги, если бы их не сканировали. Как создаются электронные книги? Оказывается, есть сообщество разработчиков, которые написали программы для создания электронных книг. Я собрал эти программы и написал гайды как ими пользоваться. На этом сайте я храню эти и другие гайды о цифровых форматах. Мы создали совершенно новый medium и должны уметь с ним работать.
 <br><br>
 
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
