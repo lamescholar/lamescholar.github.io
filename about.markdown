@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+Here I share my thoughts and sources I find online. I made this blog with [Jekyll](/en/jekyll).
+
 At some point I got interested in Chemistry. First I read the textbook, then the books I could find in the library and online. I wouldn't have found many books if they weren't scanned. How the ebooks are made? Turns out, there's a community of developers that wrote programs to create ebooks. I collected these programs and wrote guides how to use them. On this site I host these and other guides about digital formats. We created a сompletely new medium and must know how to work with it.
+
+Здесь я делюсь своими мыслями и источниками что нахожу онлайн. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).
 
 В какой-то момент я заинтересовался химией. Сначала я прочитал учебник, затем книги что нашлись в библиотеке и онлайн. Я бы не нашёл многие книги, если бы их не сканировали. Как создаются электронные книги? Оказывается, есть сообщество разработчиков, которые написали программы для создания электронных книг. Я собрал эти программы и написал гайды как ими пользоваться. На этом сайте я храню эти и другие гайды о цифровых форматах. Мы создали совершенно новый medium и должны уметь с ним работать.
 <br><br>
