@@ -4,7 +4,7 @@ comments: true
 title: Hello
 ---
 
-Install qBittorrent. That's the first thing I do on a new computer. Look here: [P2P](/en/p2p)
+Install qBittorrent. That's the first thing I do on the new computer. Look here: [P2P](/en/p2p)
 <br><br>
 
 You can learn<br>
