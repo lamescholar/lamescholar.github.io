@@ -4,7 +4,7 @@ comments: true
 title: Book series
 ---
 
-This section contains book series, multi-volumes and collected works.
+Book series, multi-volumes and collected works
 <br><br>
 
 Cambridge Library Collection - [Library Genesis](https://libgen.li/index.php?req=Cambridge+Library+Collection&columns%5B%5D=t&columns%5B%5D=a&columns%5B%5D=s&columns%5B%5D=y&columns%5B%5D=p&columns%5B%5D=i&objects%5B%5D=f&objects%5B%5D=e&objects%5B%5D=s&objects%5B%5D=a&objects%5B%5D=p&objects%5B%5D=w&topics%5B%5D=l&topics%5B%5D=c&topics%5B%5D=f&topics%5B%5D=m&topics%5B%5D=r&topics%5B%5D=s&res=100&filesuns=all)
