@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+At some point I got interested in Chemistry. I read the books I found in the library and online. I wouldn't have found many books if they were not scanned. Someone scanned them. How the ebooks are made? Do you need a corporation with expensive equipment and software? Someone scanned those books on their own. Turns out, there's a community of developers that wrote programs to create ebooks. I collected these programs and wrote guides how to use them. I created this site to share these guides. I wrote more guides. We created a сompletely new medium, and we must to know hwo to work with it.
+
+В какой-то момент я заинтересовался химией. Я читал книги, которые нашёл в библиотеке и онлайн. Я бы не нашёл много книг, если бы их не сканировали. Кто-то их сканировал. Как создаются электронные книги? Нужна ли корпорация, у которой есть дорогое оборудование и программы? Кто-то сканировал те книги самостаятельно. Оказывается, есть сообщество разработчиков, которые написали программы для создания электронных книг. Я собрал эти программы и написал гайды как ими пользоваться. Я создал этот сайт, чтобы поделиться этими гайдами. Я написал больше гайдов. Мы создали совершенно новый medium, и мы должны уметь им пользоваться.
+
+
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
 [Aaron Swartz - Guerilla Open Access Manifesto (2008)](/2024/07/14/guerilla-open-access-manifesto.html)
 
