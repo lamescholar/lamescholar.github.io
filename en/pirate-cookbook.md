@@ -5,7 +5,7 @@ title: Pirate Cookbook
 
 My collection of guides.<br>
 How to find books, music and movies online.<br>
-How to create ebooks, rip disks and record vinyl records.<br>
+How to create ebooks and rip.<br>
 More details here: [Hello](/en/hello)
 <br><br>
 

@@ -4,14 +4,10 @@ comments: true
 title: Привет
 ---
 
-Установи qBittorrent. Это первое, чтто яделаю на новом компьютере. Cмотри тут: [P2P](/ru/p2p))
-<br><br>
-
-Ты можешь научится<br>
+Здесь ты можешь найти<br>
 как [создавать](/ru/how-to-create-ebooks), [делиться](/ru/how-to-share-your-stuff), [искать](/ru/how-to-search-books) и [читать](/ru/ebook-formats) электронные книги,<br>
 как рипать [DVD](/ru/films) и [CD](/ru/music#рип-cd),<br>
-как оцифровывать [виниловые пластинки](/ru/music#оцифровка-виниловых-пластинок),<br>
-как находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/news), [словари](/ru/dictionaries), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films) и проигрывать их на своём компьютере,<br>
+как находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/news), [словари](/ru/dictionaries), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films),<br>
 как [исследовать](/ru/research) интересные тебе темы,<br>
 как [следить](/2023/12/08/follow-the-press-using-rss-ru.html) за происходящим в мире,<br>
 как установить [Линукс](https://lamescholar.github.io/linux).
