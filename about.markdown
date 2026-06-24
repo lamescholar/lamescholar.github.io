@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+My Jekyll blog.
+<br><br>
+
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
 [Aaron Swartz - Guerilla Open Access Manifesto (2008)](/2024/07/14/guerilla-open-access-manifesto.html)
 
