@@ -4,9 +4,9 @@ comments: true
 title: Articles
 ---
 
-#### Where to find full text
+#### Full text
 
-Google Schoolar - <https://scholar.google.com/>
+Google Scholar - <https://scholar.google.com/>
 
 Academia.edu - <https://www.academia.edu/>
 
