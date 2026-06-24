@@ -17,7 +17,7 @@ Perlentaucher: Presseschauen - <https://www.perlentaucher.de/teaserliste/1_Press
 The Neglected Books Page - <https://neglectedbooks.com/>
 <br><br>
 
-#### Statistiс
+#### Stats
 
 Pew Research Center - <https://www.pewresearch.org/publications/>
 
