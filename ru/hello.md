@@ -5,7 +5,7 @@ title: Привет
 ---
 
 Здесь ты можешь найти<br>
-как [создавать](/ru/how-to-create-ebooks), [делиться](/ru/how-to-share-your-stuff), [искать](/ru/how-to-search-books) и [читать](/ru/ebook-formats) электронные книги,<br>
+как [создавать](/ru/how-to-create-ebooks), [делиться](/ru/how-to-share-your-stuff), [находить](/ru/how-to-find-ebooks) и [читать](/ru/ebook-formats) электронные книги,<br>
 как рипать [DVD](/ru/films) и [CD](/ru/music#рип-cd),<br>
 как находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/news), [словари](/ru/dictionaries), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films),<br>
 как [исследовать](/ru/research) интересные тебе темы,<br>

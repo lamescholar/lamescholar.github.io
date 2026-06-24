@@ -53,7 +53,7 @@ More details here: [Hello](/en/hello)
 
 [How to create ebooks](/en/how-to-create-ebooks)
 
-[How to search books](/en/how-to-search-books)
+[How to find ebooks](/en/how-to-find-ebooks)
 
 [How to name ebooks](/en/how-to-name-ebooks)
 

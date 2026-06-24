@@ -1,10 +1,10 @@
 ---
 layout: page
 comments: true
-title: How to search books
+title: How to find ebooks
 ---
 
-Usually, when I'm looking for the ebook, I check 5 sources:
+When I'm looking for the ebook, first I check these 5 sources:
 
 Library Genesis - <https://libgen.is/>
 
