@@ -14,7 +14,7 @@ how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in 
 how to [install Linux](https://lamescholar.github.io/linux).
 <br><br>
 
-At some point I got interested in Chemistry. First I read the textbook, then the books I could find in the library and online. I found many good books online. Someone wentr through the trouble to scan them. How the ebooks are made? Turns out, there's a community of developers that wrote programs to create ebooks. I collected these programs and wrote guides how to use them. On this site I host these and other guides about digital formats. We created a сompletely new medium and must know how to work with it.
+At some point I got interested in Chemistry. First I read the textbook, then the books I could find in the library and online. I found many good books online. Someone went through the trouble to scan them. How the ebooks are made? Turns out, there's a community of developers that wrote programs to create ebooks. I collected these programs and wrote guides how to use them. On this site I host these and other guides about digital formats. We created a сompletely new medium and must know how to work with it.
 <br><br>
 
 All .md files can be found here:
