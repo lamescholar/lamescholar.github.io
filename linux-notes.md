@@ -5,14 +5,14 @@ title: Linux Notes
 
 #### Applications (icons)
 
-Locations:
+Folders:
 
 ```
 /usr/share/applications/
 ~/.local/share/applications/
 ```
 
-Run with shortcut:
+Run with a shortcut:
 
 ```
 sudo mv 'ABBYY Lingvo 12.desktop' '/usr/share/applications/ABBYY Lingvo 12.desktop'
