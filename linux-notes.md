@@ -270,7 +270,7 @@ Put ROM files into `~/.local/share/86Box/roms`
 sudo pacman -S wine
 ```
 
-To set DPI, run `winecfg`.
+To set DPI, run `winecfg`
 
 ```
 sudo pamcan -S winetricks
