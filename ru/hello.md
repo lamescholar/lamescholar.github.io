@@ -13,6 +13,9 @@ title: Привет
 как установить [Линукс](https://lamescholar.github.io/linux).
 <br><br>
 
+[origin-story.txt](/files/origin-story.txt)
+<br><br>
+
 Все .md файлы можно найти тут:
 
 <https://github.com/lamescholar/lamescholar.github.io>
