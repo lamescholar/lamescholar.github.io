@@ -4,7 +4,7 @@ comments: true
 title: Jekyll
 ---
 
-[Jekyll](https://jekyllrb.com/) is a static site generator. It turns a bunch of Markdown files into fully-styled HTML pages. I use [GitHub Pages](https://pages.github.com/). It's a free hosting that supports Jekyll. The size limit is 1 GB.
+[Jekyll](https://jekyllrb.com/) is a static site generator. I use [GitHub Pages](https://pages.github.com/). It's a free hosting that supports Jekyll. The size limit is 1 GB.
 <br><br>
 
 To create a site you need to register on GitHub:
