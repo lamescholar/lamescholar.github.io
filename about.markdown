@@ -6,7 +6,11 @@ permalink: /about/
 
 Here I share my thoughts and sources I find online. I made this blog with [Jekyll](/en/jekyll).
 
+In Pirate Cookbook I try to demystify some of technologies we use every day.
+
 Здесь я делюсь своими мыслями и источниками что нахожу онлайн. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).
+
+В Поваренной книге пирата я стараюсь демистифицировать технологии, которые мы пользуемся каждый день.
 <br><br>
 
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
