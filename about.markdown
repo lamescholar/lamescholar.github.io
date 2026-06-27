@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Here I share my thoughts and sources I find online. I made this blog with [Jekyll](/en/jekyll). Pirate Cookbook is a collection of guides that I wrote to demystify technologies that we use every day.
+Here I share my thoughts and sources I find online. I made this blog with [Jekyll](/en/jekyll).<br>
+Pirate Cookbook is a collection of guides that I wrote to demystify technologies that we use every day.
 
-Здесь я делюсь своими мыслями и источниками что нахожу онлайн. Я сделал этот блог с помощью [Jekyll](/ru/jekyll). Поваренная книга пирата - это коллекция гайдов, которые я написал, чтобы демистифицировать технологии, которыми мы пользуемся каждый день.
+Здесь я делюсь своими мыслями и источниками что нахожу онлайн. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
+Поваренная книга пирата - это коллекция гайдов, которые я написал, чтобы демистифицировать технологии, которыми мы пользуемся каждый день.
 <br><br>
 
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
