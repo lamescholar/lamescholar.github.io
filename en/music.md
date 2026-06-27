@@ -46,7 +46,7 @@ Nickname - legen848dary
 {: refdef}
 <br>
 
-#### Programs to play
+#### How to play
 
 Windows Media Player
 
