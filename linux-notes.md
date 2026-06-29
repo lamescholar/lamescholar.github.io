@@ -5,8 +5,6 @@ title: Linux Notes
 
 #### Applications (icons)
 
-Folders:
-
 ```
 /usr/share/applications/
 ~/.local/share/applications/
