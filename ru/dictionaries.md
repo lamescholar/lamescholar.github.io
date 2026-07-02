@@ -26,17 +26,25 @@ img {
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
 <http://dadako.narod.ru/paperpoe.htm>
 
+<details>
+  <summary>Рекомендую энциклопедии</summary>
+  <br>
+  <p><a href="https://rutracker.org/forum/viewtopic.php?t=4483562">Большая советская энциклопедия</a></p>
+  <p>Брокгауз и Ефрон</p>
+  <p>Новая философская энциклопедия</p>
+</details>
+<br>
+
 Создание словарей для GoldenDict:<br>
 <http://languagehopper.blogspot.com/2013/06/how-to-make-your-own-stardictoldendict.html><br>
 <https://code.google.com/archive/p/stardict-3/downloads>
 
 ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475>
 
-Home Dictionary:<br>
+Home Dictionary, приложение на Андроид для .dsl словарей:<br>
 <https://github.com/mortalis13/homedictionary><br>
 <https://github.com/mortalis13/stardict-to-dsl-converter><br>
 [HomeDictionary.zip](/files/HomeDictionary.zip)<br>
-Home Dictionary - приложение на Андроид для .dsl словарей.
 <br><br>
 
 #### Переводчики:
