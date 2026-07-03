@@ -247,7 +247,6 @@ Insert:
 ```
 mount c ~/dosbox_c
 imgmount d "~/Programs/Windows 3.1/Oxford English Dictionary (Second Edition).iso" -t iso
-imgmount e "~/Programs/Windows 3.1/Microsoft Encarta - 1994 Edition (1993)(Microsoft Home).iso" -t iso
 c:
 cd windows
 win
