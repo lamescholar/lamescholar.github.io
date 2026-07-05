@@ -247,6 +247,7 @@ Insert:
 ```
 mount c ~/dosbox_c
 imgmount d "~/Programs/Windows 3.1/Oxford English Dictionary (Second Edition).iso" -t iso
+imgmount e "~/Programs/Windows 3.1/Microsoft Encarta - 1994 Edition (1993)(Microsoft Home).iso" -t iso
 c:
 cd windows
 win
@@ -264,6 +265,8 @@ Full guide:
 <https://steamcommunity.com/sharedfiles/filedetails/?id=2526174088>
 
 Put ROM files into `~/.local/share/86Box/roms`
+
+Encyclopædia Universalis - <https://archive.org/details/encycuniv5>
 <br><br>
 
 #### Wine
