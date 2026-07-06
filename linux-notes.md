@@ -219,7 +219,7 @@ DOSBox-X
 
 Windows 3.1 ISO
 
-`https://archive.org/details/Windows3.1ISO`
+<https://archive.org/details/Windows3.1ISO>
 
 ```
 mount c ~/dosbox_c
@@ -228,13 +228,13 @@ d:
 SETUP.EXE
 ```
 
+Display drivers
+
+<https://archive.org/details/s3-trio-64v-plus-win-31-95-drivers>
+
 Oxford English Dictionary
 
-`https://archive.org/details/oxford-english-dictionary-second-edition`
-
-Encarta 1994
-
-`https://archive.org/details/encarta94`
+<https://archive.org/details/oxford-english-dictionary-second-edition>
 
 Autoexec
 
@@ -247,7 +247,6 @@ Insert:
 ```
 mount c ~/dosbox_c
 imgmount d "~/Programs/Windows 3.1/Oxford English Dictionary (Second Edition).iso" -t iso
-imgmount e "~/Programs/Windows 3.1/Microsoft Encarta - 1994 Edition (1993)(Microsoft Home).iso" -t iso
 c:
 cd windows
 win
