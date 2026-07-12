@@ -101,7 +101,7 @@ Our World in Data - <https://ourworldindata.org/>
 
 Statista - <https://www-statista-com.i.ezproxy.nypl.org/>
 
-Большая российская энциклопедия - <https://old.bigenc.ru/>
+Большая российская энциклопедия - <https://rutracker.org/forum/viewtopic.php?t=6590395>
 
 Большая советская энциклопедия:<br>
 <https://rutracker.org/forum/viewtopic.php?t=5184546><br>
