@@ -212,16 +212,16 @@ sudo systemctl start docker
 sudo systemctl enable docker
 
 sudo docker run -d \
+  --name audiobookshelf \
+  --restart unless-stopped \
   -p 13378:80 \
   -v <path to folder with audiobooks>:/audiobooks \
   -v <path for application files>:/config \
   -v <path for application files>:/metadata \
   -e TZ="America/Toronto" \
   -e LANG=C.UTF-8 \
-  -e LC_ALL=C.UTF-8 \
-  --restart unless-stopped \
-  --name audiobookshelf \
-  ghcr.io/advplyr/audiobookshelf
+  -e LC_ALL=C.1251 \
+  ghcr.io/advplyr/audiobookshelf:latest
 ```
 <br>
 
