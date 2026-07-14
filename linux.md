@@ -219,8 +219,6 @@ sudo docker run -d \
   -v <path for application files>:/config \
   -v <path for application files>:/metadata \
   -e TZ="America/Toronto" \
-  -e LANG=C.UTF-8 \
-  -e LC_ALL=C.1251 \
   ghcr.io/advplyr/audiobookshelf:latest
 ```
 <br>
