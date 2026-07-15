@@ -7,9 +7,6 @@ title: Firefox Extensions
 Bypass Paywalls Clean - <https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean><br>
 To access articles.
 
-Dark Reader - <https://addons.mozilla.org/en-US/firefox/addon/darkreader/><br>
-Dark mode on all websites.
-
 SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
 
@@ -23,4 +20,4 @@ Unhook - <https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-vid
 No Shorts.
 
 Yesterday for Old Reddit - <https://addons.mozilla.org/en-US/firefox/addon/yesterday-for-old-reddit/><br>
-Old Reddit, desktop and phone.
+Old Reddit, for desktop and phone.
