@@ -199,6 +199,11 @@ WantedBy=suspend.target hibernate.target
 `Exec=env QT_FONT_DPI=120 QT_SCALE_FACTOR=1.5`
 <br><br>
 
+#### ScanTailor Universal
+
+`CMAKE_POLICY_VERSION_MINIMUM=3.5 yay -S scantailor-universal-git`
+<br><br>
+
 #### Shortcut to rewind 5s
 
 `playerctl --player=fooyin position 5-`
