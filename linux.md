@@ -44,6 +44,8 @@ yay -S <package>
 A command to see the memory use:
 
 `fastfetch`
+
+If GNOME doesn't start, hit Alt+F2 to launch terminal.
 <br><br>
 
 #### Applications
