@@ -32,6 +32,10 @@ Keys to copy and paste in the console:
 
 Ctrl+Shift+C, Ctrl+Shift+V
 
+Command to list files:
+
+`ls -l`
+
 Package managers:
 
 ```
@@ -45,7 +49,7 @@ A command to see the memory use:
 
 `fastfetch`
 
-If GNOME doesn't start, hit Alt+F2 to open terminal.
+If GNOME didn't start, hit Alt+F2 to open terminal.
 <br><br>
 
 #### Applications
