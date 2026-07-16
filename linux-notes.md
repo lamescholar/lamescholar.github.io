@@ -201,7 +201,14 @@ WantedBy=suspend.target hibernate.target
 
 #### ScanTailor Universal
 
-`CMAKE_POLICY_VERSION_MINIMUM=3.5 yay -S scantailor-universal-git`
+```
+cd /tmp
+git clone https://aur.archlinux.org/scantailor-universal-git.git
+cd scantailor-universal-git
+nano PKGBUILD
+libjpg->libjpg.so
+makepkg -si
+```
 <br><br>
 
 #### Shortcut to rewind 5s
