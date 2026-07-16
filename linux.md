@@ -49,7 +49,7 @@ A command to see the memory use:
 
 `fastfetch`
 
-If GNOME didn't start, hit Alt+F2 to open terminal.
+If GNOME didn't start, hit Alt+F2 to open terminal. 
 <br><br>
 
 #### Applications
