@@ -378,7 +378,7 @@ Early Modern Philosophy - <https://www.earlymoderntexts.com/texts>
 <a id="fiction"></a>
 #### Художественная литература
 
-ФЭБ - <http://feb-web.ru/>
+ФЭБ - <https://feb-web.ru/>
 
 Библиотека русской и советской классики - <https://traumlibrary.ru/>
 
