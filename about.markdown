@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Here I share things. I made this blog with [Jekyll](/en/jekyll).<br>
+Here I share. I made this blog with [Jekyll](/en/jekyll).<br>
 
-Здесь я делюсь вещами. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
+Здесь я делюсь. Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
 We need to take information, wherever it is stored, make our copies and share them with the world.<br>
