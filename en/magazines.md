@@ -90,7 +90,7 @@ The Atlantic - <https://archive.org/details/pub_atlantic?sort=-date>
 
 Chambers's Journal of Popular Literature, Science and Arts - <https://archive.org/details/pub_chambers-journal-of-popular-literature-science-and-arts?sort=-date>
 
-Le Canard enchaîné - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Le+Canard+encha%C3%AEn%C3%A9&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+Le Canard enchaîné
 
 Bücher - <https://de.downmagaz.net/tags/B%C3%BCcher/>
 
@@ -154,7 +154,7 @@ New Philosopher - <https://forum.mobilism.org/search.php?keywords=new+philosophe
 
 Philosophy Now - <https://magzdb.org/j/5590>
 
-Philosophie - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=philosophie&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+Philosophie
 <br><br>
 
 <a id="society"></a>
@@ -184,9 +184,9 @@ Newsweek - <https://archive.org/details/pub_newsweek-us?sort=-date>
 
 Vital Speeches of the Day - <https://archive.org/details/pub_vital-speeches-of-the-day?sort=-date>
 
-Courrier International - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Courrier+International&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+Courrier International
 
-Le Journal du Dimanche - [YggTorrent](https://www3.yggtorrent.qa/engine/search?name=Le+Journal+du+dimanche&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)
+Le Journal du Dimanche
 
 pro zukunft - <https://de.downmagaz.net/tags/Pro%20Zukunft/>
 
@@ -218,7 +218,6 @@ How to get on My Anonymouse see [P2P](/en/p2p).<br>
 <https://1337x.to/torrent/4793383/Jacobin-Magazine-2011-2020-complete-socialist-quarterly/>
 
 Le Monde diplomatique:<br>
-[YggTorrent](https://www3.yggtorrent.qa/engine/search?name=le+monde+diplomatique&description=&file=&uploader=&category=2140&sub_category=2156&do=search&order=desc&sort=publish_date)<br>
 <http://magzdb.org/j/5941><br>
 <https://rutracker.org/forum/viewtopic.php?t=5253466>
 
