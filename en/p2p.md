@@ -57,9 +57,9 @@ Ebooks and audiobooks.
 <p>HexChat - <a href="https://hexchat.github.io/downloads.html">https://hexchat.github.io/downloads.html</a></p>
 </div>
 
-BT4G - <https://bt4gprx.com/>
+Torrentz2 - <https://torrentz2.nz/>
 
-BTDigg - <https://btdig.com/index.htm>
+BT4G - <https://bt4gprx.com/>
 
 C411 - <https://c411.org/><br>
 French stuff.
