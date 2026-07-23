@@ -99,7 +99,7 @@ layout: default
       }
     });
 
-    let annotationsVisible = true;
+    let annotationsVisible = false;
 
     function toggleAnnotations() {
       const marginalia = document.querySelectorAll('.marginalia');
@@ -116,7 +116,7 @@ layout: default
         text.classList.toggle('visible', annotationsVisible);
       });
 
-      button.textContent = annotationsVisible ? 'Show Annotations' : 'Hide Annotations';
+      button.textContent = annotationsVisible ? 'Hide Annotations' : 'Show Annotations';
     }
   </script>
 </article>
