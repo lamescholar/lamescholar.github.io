@@ -242,7 +242,7 @@
     <outline type="rss" text="The Point Magazine" xmlUrl="https://thepointmag.com/feed/" htmlUrl="https://thepointmag.com/"/>
     <outline type="rss" text="The Progressive" xmlUrl="https://progressive.org/api/rss/content.rss" htmlUrl="https://progressive.org/api/rss/content.rss"/>
     <outline type="rss" text="The Spectator" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20site%3Aspectator.co.uk&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+site:spectator.co.uk&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
-    <outline type="rss" text="The Times Literary Supplement" xmlUrl="https://www.the-tls.co.uk/feed/" htmlUrl="https://www.the-tls.co.uk"/>
+    <outline type="rss" text="The Times Literary Supplement" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20site%3Awww.the-tls.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+site:www.the-tls.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
     <outline type="rss" text="The Walrus" xmlUrl="https://thewalrus.ca/feed/" htmlUrl="https://thewalrus.ca"/>
     <outline type="rss" text="The Week" xmlUrl="https://news.google.com/rss/search?q=when%3A168h%20site%3Atheweek.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" htmlUrl="https://news.google.com/search?q=when:168h+site:theweek.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
     <outline type="rss" text="Time" xmlUrl="https://time.com/rss" htmlUrl="https://time.com"/>
