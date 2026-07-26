@@ -7,6 +7,9 @@ title: Firefox Extensions
 Bypass Paywalls Clean - <https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean><br>
 To access articles.
 
+Dark Reader - <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>
+Dark mode. Configure website toggling->Enable by default. Untick.
+
 SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
 
