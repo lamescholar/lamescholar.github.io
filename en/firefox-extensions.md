@@ -8,7 +8,7 @@ Bypass Paywalls Clean - <https://gitflic.ru/project/magnolia1234/bypass-paywalls
 To access articles.
 
 Dark Reader - <https://addons.mozilla.org/en-US/firefox/addon/darkreader/>
-Dark mode. Configure website toggling->Enable by default. Untick.
+Dark mode. Configure website toggling->Enabled by Default. Untick.
 
 SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
