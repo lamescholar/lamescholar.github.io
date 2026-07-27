@@ -74,7 +74,7 @@ config file
 
 ```
 save-position-on-quit=yes
-window-maximized=yes
+fullscreen=yes
 gpu-api=opengl
 video-zoom=-0.3
 ```
