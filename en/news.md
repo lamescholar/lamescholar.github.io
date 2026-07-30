@@ -10,6 +10,10 @@ Google News - <https://news.google.com/home?hl=en-US&gl=US&ceid=US:en>
 
 RealClearPolitics - <https://www.realclearpolitics.com/>
 
+Pew Research Center - <https://www.pewresearch.org/publications/>
+
+Statista: Daily Data - <https://www.statista.com/chartoftheday/>
+
 EurekAlert! - <https://www.eurekalert.org/news-releases/browse>
 
 Courrier international - <https://www.courrierinternational.com/article>

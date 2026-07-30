@@ -38,7 +38,3 @@ syg.ma - <https://syg.ma/>
 The Conversation US - <https://theconversation.com/us>
 
 Verso blog - <https://www.versobooks.com/blogs>
-
-Pew Research Center - <https://www.pewresearch.org/publications/>
-
-Statista: Daily Data - <https://www.statista.com/chartoftheday/>
