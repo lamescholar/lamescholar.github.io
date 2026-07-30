@@ -163,7 +163,7 @@ Monthly Notices of the Royal Astronomical Society - <https://academic.oup.com/mn
 
 Notices of the American Mathematical Society - <https://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=fullissue&article_type=gallery&gallery_type=fullissue>
 
-Physics Today - <https://physicstoday.scitation.org/toc/pto/current>
+Physics Today - <https://physicstoday.aip.org/issue-archive>
 
 SIAM Review - <https://epubs.siam.org/loi/siread>
 
