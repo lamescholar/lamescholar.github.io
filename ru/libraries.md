@@ -19,7 +19,7 @@ Z-Library - <http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.oni
 Cкачивание доступно только после вклада в библиотеку.
 
 Internet Archive - <https://archive.org/><br>
-<https://lamescholar.github.io/ru/internet-archive>
+<https://lamescholar.github.io/ru/internet-archive-script>
 
 HathiTrust - <https://www.hathitrust.org/><br>
 <https://github.com/elementdavv/internet_archive_downloader>
