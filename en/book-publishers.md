@@ -4,7 +4,7 @@ comments: true
 title: Book publishers
 ---
 
-Good publisher is sort of a trademark for books.
+Good publisher is a sort of prestigious trademark for the books.
 <br><br>
 
 #### Publishers by languages:
