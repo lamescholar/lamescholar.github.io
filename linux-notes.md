@@ -314,3 +314,22 @@ Lingvo 12 (dictionary app)
 `WINEPREFIX=~/.wine_lingvo winecfg`
 
 no theme
+
+Shortcut:
+
+`gtk-launch 'ABBYY Lingvo 12.desktop'`
+<br><br>
+
+Oxford English Dictionary 4.0 (dictionary app)
+
+```
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Oxford English Dictionary
+Exec=bash -c "WINEPREFIX=~/.wine_oed wine '~/.wine_oed/drive_c/Oxford English Dictionary 4.0/swhx.exe'"
+Path=~/.wine_oed/drive_c/Oxford English Dictionary 4.0
+Categories=Utility;
+```
+
+sudo chmod +x /usr/share/applications/oed.desktop

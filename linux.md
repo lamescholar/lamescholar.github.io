@@ -77,7 +77,7 @@ save-position-on-quit=yes
 fullscreen=yes
 gpu-api=opengl
 video-zoom=-0.3
-osd-font='Adwaita Sans'
+osd-font="DejaVu Sans"
 ```
 
 key bindings
