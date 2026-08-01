@@ -9,13 +9,6 @@ title: Linux Notes
 /usr/share/applications/
 ~/.local/share/applications/
 ```
-
-Run with a shortcut:
-
-```
-sudo mv 'ABBYY Lingvo 12.desktop' '/usr/share/applications/ABBYY Lingvo 12.desktop'
-gtk-launch 'ABBYY Lingvo 12.desktop'
-```
 <br>
 
 #### Autostart
@@ -315,10 +308,13 @@ Lingvo 12 (dictionary app)
 
 no theme
 
-Shortcut:
+Run with a shortcut:
 
-`gtk-launch 'ABBYY Lingvo 12.desktop'`
-<br><br>
+```
+sudo mv 'ABBYY Lingvo 12.desktop' '/usr/share/applications/ABBYY Lingvo 12.desktop'
+gtk-launch 'ABBYY Lingvo 12.desktop'
+```
+<br>
 
 Oxford English Dictionary 4.0 (dictionary app)
 
