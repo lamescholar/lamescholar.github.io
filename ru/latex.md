@@ -7,8 +7,10 @@ title: LaTeX
 LaTeX - это язык, используемый для вёрстки PDF-файлов со сложной математической нотацией.
 <br><br>
 
+Генератор:<br>
 MiKTeX - <https://miktex.org/download>
 
+Редактор:<br>
 TeXstudio - <https://www.texstudio.org/>
 
 <https://rutracker.org/forum/viewtopic.php?t=6191459>
