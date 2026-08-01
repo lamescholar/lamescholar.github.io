@@ -4,9 +4,11 @@ comments: true
 title: pandoc
 ---
 
+Программа для конвертирования файлов
+
 <https://pandoc.org/installing.html>
 
-pandoc - это программа для конвертирования файлов. Например, .html в .md:
+Например, .html в .md:
 
 WIn+R cmd
 

@@ -4,9 +4,11 @@ comments: true
 title: pandoc
 ---
 
+A program to convert files
+
 <https://pandoc.org/installing.html>
 
-pandoc is a program to convert files. For example, it can covert .html to .md:
+For example, it can covert .html to .md:
 
 Win+R cmd
 
