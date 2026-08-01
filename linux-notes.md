@@ -202,7 +202,7 @@ nano PKGBUILD
 libjpg->libjpg.so
 makepkg -si
 ```
-<br><br>
+<br>
 
 #### Shortcut to rewind 5s
 
