@@ -37,7 +37,7 @@ on seek - untick
 <https://getwacup.com/community/index.php?topic=1081.0>
 <br><br>
 
-#### Audiobook with subtitles
+#### How to make an audiobook with subtitles
 
 Suppose, you found an audiobook in German. It can be translated into English.
 

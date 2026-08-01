@@ -4,7 +4,7 @@ comments: true
 title: PDF
 ---
 
-#### How to read
+#### Program to read
 
 Sumatra PDF - <https://www.sumatrapdfreader.org/download-free-pdf-viewer>
 
@@ -32,7 +32,7 @@ Shortcuts [
 ```
 <br>
 
-#### Creating PDF
+#### How to create PDF
 
 ImageMagick (deskew)
 
