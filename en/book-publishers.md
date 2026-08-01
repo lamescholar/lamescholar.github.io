@@ -4,7 +4,7 @@ comments: true
 title: Book publishers
 ---
 
-Inconspicuous source of books.
+Good publisher is sort of a trademark for books.
 <br><br>
 
 #### Publishers by languages:
