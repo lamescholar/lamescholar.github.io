@@ -4,7 +4,7 @@ comments: true
 title: DjVu
 ---
 
-My collection of programs to create, edit and read DjVu files.
+My collection of programs to create, edit and read DjVu files
 <br><br>
 
 #### Workflow
