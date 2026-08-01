@@ -4,7 +4,8 @@ comments: true
 title: OCR
 ---
 
-Эти программы позволяют получить текст из скриншота. Для добавления текстового слоя смотри [DjVu](/ru/djvu) и [PDF](/ru/pdf).
+Программы, который могут извлечь текст из скриншота.<br>
+Как добавить текстовый слой смотри [DjVu](/ru/djvu) и [PDF](/ru/pdf).
 <br><br>
 
 ABBYY Screenshot Reader - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>

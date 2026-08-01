@@ -4,7 +4,7 @@ comments: true
 title: OCR
 ---
 
-Here I list programs that can get the text out of the screenshot.
+Programs that can extract the text out of the screenshot
 <br><br>
 
 ABBYY Screenshot Reader - <https://btdig.com/dfe064427884e2190cd2d8c93f4cc9ce6d26f301/abbyy-finereader-kpojiuk>
