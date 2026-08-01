@@ -332,4 +332,4 @@ Path=~/.wine_oed/drive_c/Oxford English Dictionary 4.0
 Categories=Utility;
 ```
 
-sudo chmod +x /usr/share/applications/oed.desktop
+`sudo chmod +x /usr/share/applications/oed.desktop`
