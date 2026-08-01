@@ -19,7 +19,7 @@ Here you can find the transcripts:
 <https://www.bbc.co.uk/radio4/features/the-reith-lectures/transcripts/2011/>
 <br><br>
 
-#### How to record radio broadcast
+#### How to record a radio broadcast
 
 Media->Stream...->Network. Enter broadcast link. Profile->Audio - MP3. Devise destination file. Start.
 
