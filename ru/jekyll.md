@@ -21,7 +21,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 #### Создание сайта
 
-Вместо username использую твой username на GitHub.
+Вместо username используй твой username на GitHub.
 
 Отправляйся в командную строку:
 
