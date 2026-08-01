@@ -4,7 +4,7 @@ comments: true
 title: Book publishers
 ---
 
-Thanks to good publishers many incredible book were not lost to history.
+Thanks to good publishers many incredible books were not lost to history.
 <br><br>
 
 #### Publishers by languages:
