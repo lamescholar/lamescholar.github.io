@@ -73,10 +73,11 @@ mpv (video player)
 config file
 
 ```
-save-position-on-quit=yes
-fullscreen=yes
 gpu-api=opengl
+profile=high-quality
+fullscreen=yes
 video-zoom=-0.3
+save-position-on-quit=yes
 osd-font="DejaVu Sans"
 ```
 
