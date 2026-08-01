@@ -9,29 +9,29 @@ title: DjVu
 
 #### Ход работы
 
-1) Scan Tailor Universal - обработка изображений.
+1) Scan Tailor Universal - обработка изображений
 
-2) Book Restorer - выпрямление искривлённых изображений.
+2) Book Restorer - выпрямление искривлённых изображений
 
-3) Tsushima - удаление марашек.
+3) Tsushima - удаление марашек
 
-4) DjVu Small Mod 0.7.6.1 - создание DjVu-документа.
+4) DjVu Small Mod 0.7.6.1 - создание DjVu-документа
 
-5) DjVu Imager - вставка цветных/серых иллюстраций.
+5) DjVu Imager - вставка цветных/серых иллюстраций
 
-6) ABBYY Finereader - создание OCR-слоя.
+6) ABBYY Finereader - создание OCR-слоя
 
-7) FR11 DjVu Text Layer Crutch - правка и перенос OCR-слоя.
+7) FR11 DjVu Text Layer Crutch - правка и перенос OCR-слоя
 
-8) Document Express Editor 6.0.1 - добавление обложки.
+8) Document Express Editor 6.0.1 - добавление обложки
 
-9) Pdf & DjVu Bookmarker - добавление содержания.
+9) Pdf & DjVu Bookmarker - добавление содержания
 
-10) DjVu Hyperlinks Editor - добавление гиперссылок.
+10) DjVu Hyperlinks Editor - добавление гиперссылок
 
-11) DjVu Annotations Editor - изменение стиля гиперссылок.
+11) DjVu Annotations Editor - изменение стиля гиперссылок
 
-12) Document Express Editor 6.0.1 - редактирование гиперссылок.
+12) Document Express Editor 6.0.1 - редактирование гиперссылок
 <br><br>
 
 **WinDjView** - программа для чтения .djvu файлов.

@@ -45,12 +45,12 @@ If you have blurry image, you need to follow Properties->Compatibility->Change h
 <https://windjview.sourceforge.io/>
 <br><br>
 
-**IrfanView** - program for converting images.
+**IrfanView** - a program to convert images
 
 <https://www.irfanview.com/64bit.htm>
 <br><br>
 
-**Scan Tailor Universal** - program for images processing.
+**Scan Tailor Universal** - a program to proccess images
 
 Settings:<br>
 General->Ask every time. Untick.<br>
@@ -96,18 +96,18 @@ Look at the result of binarization. If parts of the letters disappear - set the 
 <http://forum.ru-board.com/topic.cgi?forum=5&topic=32945>
 <br><br>
 
-**Book Restorer** - program for straightening crooked images. Create Book. If necessary, you can leave the original file names: Standart page->Properties->Numbering->Original name. Select all files (Ctrl+A). Tools->Restore->Geometrical correction. Publish (icon of disk in menu). When straightening bitonal images in column Types of files choose G4-compressed, in column Color range - Binary. Check the result. If the result is more crooked than original image, substitute the result with original image. When straightening text of the book with pictures, you need to input into the program colored images you got from Scan Tailor. TIFF LZW compressed, Color range - RGB colors.
+**Book Restorer** - a program to straighten crooked images. Create Book. If necessary, you can leave the original file names: Standart page->Properties->Numbering->Original name. Select all files (Ctrl+A). Tools->Restore->Geometrical correction. Publish (icon of disk in menu). When straightening bitonal images in column Types of files choose G4-compressed, in column Color range - Binary. Check the result. If the result is more crooked than original image, substitute the result with original image. When straightening text of the book with pictures, you need to input into the program colored images you got from Scan Tailor. TIFF LZW compressed, Color range - RGB colors.
 
 <http://djvu-converter.narod.ru/><br>
 <https://archive.org/details/book-restorer-v.-4.2.1>
 <br><br>
 
-**Tsushima** - program for clearing slur. Drag images to program icon. Result - images in 8BPP 96DPI format. Convert images to 1BPP 600DPI format in IrfanView.
+**Tsushima** - a program to clean slur. Drag images to program icon. Result - images in 8BPP 96DPI format. Convert images to 1BPP 600DPI format in IrfanView.
 
 <http://publ.lib.ru/cgi/forum/YaBB.pl?num=1530528723/13#13>
 <br><br>
 
-**DjVu Small Mod 0.7.6.1** - program for encoding and decoding DjVu documents, in other words, for creating DjVu documents out of images and extracting images out of DjVu documents. For bitonal images use following encoding profile:
+**DjVu Small Mod 0.7.6.1** - a program for encoding and decoding DjVu documents, in other words, for creating DjVu documents out of images and extracting images out of DjVu documents. For bitonal images use following encoding profile:
 
 Profile set: Original
 
@@ -118,7 +118,7 @@ DPI: 600
 <https://book-scan.wixsite.com/djvu/blank-z8lfg>
 <br><br>
 
-**DjVu Imager** - program for inserting pictures. Set path to DjVu document with pictures cutted-out and path of output document. Set the path to out/export/pic folder. Convert. Insert in DjVu. Now you got DjVu document with pictures. Settings: BSF - 2, DPI - 300.
+**DjVu Imager** - a program for inserting pictures. Set path to DjVu document with pictures cutted-out and path of output document. Set the path to out/export/pic folder. Convert. Insert in DjVu. Now you got DjVu document with pictures. Settings: BSF - 2, DPI - 300.
 
 <http://www.djvu-soft.narod.ru/scan/djvu_imager_en.htm>
 <br><br>
@@ -138,12 +138,12 @@ DjVu Small Mod + DjVu Imager and FSD realize the method of separated scans. The 
 <http://www.djvu-soft.narod.ru/soft/>
 <br><br>
 
-**ABBYY Finereader** - program for adding OCR layer. You can use the program to extract tif files from PDF-document. Options->Images processing, tick No preprocessing, so OCR layer lies in place. Thorough recognition is necessary. You need only text layer out of output document, so to quicken output, you can set DjVu export settings with maximum compression.
+**ABBYY Finereader** - a program for adding OCR layer. You can use the program to extract tif files from PDF-document. Options->Images processing, tick No preprocessing, so OCR layer lies in place. Thorough recognition is necessary. You need only text layer out of output document, so to quicken output, you can set DjVu export settings with maximum compression.
 
 <https://btdig.com/db98398f6d1c9bbd4c8ac905dc30abb5f9e4b704/abbyy-finereader-kpojiuk>
 <br><br>
 
-**FR11 DjVu Text Layer Crutch** - program for fixing OCR layer in Finereader output DjVu document and transferring it in initial DjVu document (in Finereader output DjVu document colored/grey pictures lose quality).
+**FR11 DjVu Text Layer Crutch** - a program for fixing OCR layer in Finereader output DjVu document and transferring it in initial DjVu document (in Finereader output DjVu document colored/grey pictures lose quality).
 
 <https://forum.ru-board.com/topic.cgi?forum=5&topic=38467>
 <br><br>
@@ -158,17 +158,17 @@ DjVu Small Mod + DjVu Imager and FSD realize the method of separated scans. The 
 <https://sourceforge.net/projects/djvubookmarker/>
 <br><br>
 
-**DjVu Hyperlinks Editor** - program for automatic creation of hyperlinks. OCR layer is required. As Shift set difference between number of document page and number of book page. Then set document pages of contents / alphabetic index. Choose Job type Content / Alphabetic index 2. Now you got 'hyperlinks, apparent with pointing of cursor on elements of contents' / 'hyperlinks in alphabetic index'.
+**DjVu Hyperlinks Editor** - a program for automatic creation of hyperlinks. OCR layer is required. As Shift set difference between number of document page and number of book page. Then set document pages of contents / alphabetic index. Choose Job type Content / Alphabetic index 2. Now you got 'hyperlinks, apparent with pointing of cursor on elements of contents' / 'hyperlinks in alphabetic index'.
 
 <http://www.djvu-soft.narod.ru/soft/>
 <br><br>
 
-**DjVu Annotations Editor** - program for changing properties of hyperlinks. Go to Свойства гиперссылок. Choose Отображать постоянно (if you're changing hyperlinks of alphabetic index), set off Заливка и delete Комментарий. Применить. Сохранить. Open DjVu document in Document Express Editor 6.0.1 program and delete hyperlinks on page numbers - Annotation->Delete. To delete/add hyperlinks of contents by hands you need to click Select Annotations in menu - hyperlinks of contents will become apparent. Then, for example, you can edit hyperlink borders, which overlapped several elements of contents and create absent hyperlink by clicking Rectangular Hyperlink in menu and selecting element of contents. In option Style choose Plain Border, Persistent, in option Link - Page Number, in option Page – page of document.
+**DjVu Annotations Editor** - a program for changing properties of hyperlinks. Go to Свойства гиперссылок. Choose Отображать постоянно (if you're changing hyperlinks of alphabetic index), set off Заливка и delete Комментарий. Применить. Сохранить. Open DjVu document in Document Express Editor 6.0.1 program and delete hyperlinks on page numbers - Annotation->Delete. To delete/add hyperlinks of contents by hands you need to click Select Annotations in menu - hyperlinks of contents will become apparent. Then, for example, you can edit hyperlink borders, which overlapped several elements of contents and create absent hyperlink by clicking Rectangular Hyperlink in menu and selecting element of contents. In option Style choose Plain Border, Persistent, in option Link - Page Number, in option Page – page of document.
 
 <https://forum.ru-board.com/topic.cgi?forum=5&topic=38467>
 <br><br>
 
-**DjVu Chunk Remover** - program for deleting chunks, pages in DjVu document.
+**DjVu Chunk Remover** - a program for deleting chunks, pages in DjVu document.
 
 <https://forum.ru-board.com/topic.cgi?forum=5&topic=38467>
 <br><br>
