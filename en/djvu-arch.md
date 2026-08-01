@@ -29,7 +29,6 @@ adwaita-qt5-git
 #!/bin/bash
 
 # configuration
-DPI=600
 OUT_NAME="final.djvu"
 TEMP_DIR="tmp"
 
@@ -39,34 +38,34 @@ mkdir -p "$TEMP_DIR"
 for text_layer in *.tif; do
     # skip .sep.tif files
     [[ "$text_layer" == *.sep.tif ]] && continue
-   
+
     base=$(basename "$text_layer" .tif)
     illus_layer="${base}.sep.tif"
-   
+
     echo "Processing Page: $base"
 
     # foreground
     # create bitonal mask chunk (Sjbz)
-    cjb2 -dpi $DPI "$text_layer" "$TEMP_DIR/$base.fg.djvu"
+    cjb2 -dpi 600 "$text_layer" "$TEMP_DIR/$base.fg.djvu"
 
     # backgroud
     if [ -f "$illus_layer" ]; then
         # convert to PPM
-        magick "$illus_layer" "$TEMP_DIR/$base.bg.ppm"
-       
+        magick "$illus_layer" -resize 50% -density 300 -units PixelsPerInch "$TEMP_DIR/$base.bg.ppm"
+
         # create temporary photo DjVu
-        c44 -dpi $DPI "$TEMP_DIR/$base.bg.ppm" "$TEMP_DIR/$base.bg.djvu"
-       
+        c44 -dpi 300 "$TEMP_DIR/$base.bg.ppm" "$TEMP_DIR/$base.bg.djvu"
+
         # extract IW44 chunk
         djvuextract "$TEMP_DIR/$base.bg.djvu" BG44="$TEMP_DIR/$base.bg.chunk"
 
         # assemble masked page
         djvumake "$TEMP_DIR/$base.combined.djvu" \
-            "INFO=,,$DPI" \
+            "INFO=,,600" \
             Sjbz="$TEMP_DIR/$base.fg.djvu" \
             BG44="$TEMP_DIR/$base.bg.chunk"
     else
-        # no illustrations - just use the text layer
+        # no illustrations
         cp "$TEMP_DIR/$base.fg.djvu" "$TEMP_DIR/$base.combined.djvu"
     fi
 done
