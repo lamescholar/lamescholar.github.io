@@ -4,6 +4,10 @@ comments: true
 title: Словари
 ---
 
+Онлайн-словари приходят и уходят. StarDict-словари навсегда.<br>
+StarDict - это файловый формат словарей. Лучшая программа для этого и других форматов - GoldenDict-ng.
+<br><br>
+
 GoldenDict-ng - <https://github.com/xiaoyifang/goldendict-ng/releases>
 
 article-style.css:
