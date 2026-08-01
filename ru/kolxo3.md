@@ -4,10 +4,9 @@ comments: true
 title: KoLXo3
 ---
 
-<https://rutracker.org/forum/viewtopic.php?t=5335301>
-<br><br>
+В этой раздаче находится база данных библиотеки KoLXo3:
 
-В этой раздаче находится база данных библиотеки KoLXo3.
+<https://rutracker.org/forum/viewtopic.php?t=5335301>
 <br><br>
 
 Из раздачи нужно достать два файла:

@@ -4,10 +4,9 @@ comments: true
 title: KoLXo3
 ---
 
-<https://rutracker.org/forum/viewtopic.php?t=5335301>
-<br><br>
+In this release you can find database of the library KoLXo3:
 
-In this release you can find database of KoLXo3 library.
+<https://rutracker.org/forum/viewtopic.php?t=5335301>
 <br><br>
 
 You need to get two files out of it:
