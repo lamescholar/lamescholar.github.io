@@ -45,12 +45,12 @@ If you have blurry image, you need to follow Properties->Compatibility->Change h
 <https://windjview.sourceforge.io/>
 <br><br>
 
-**IrfanView** - a program to convert images
+**IrfanView** - a program to convert images.
 
 <https://www.irfanview.com/64bit.htm>
 <br><br>
 
-**Scan Tailor Universal** - a program to proccess images
+**Scan Tailor Universal** - a program to proccess images.
 
 Settings:<br>
 General->Ask every time. Untick.<br>
