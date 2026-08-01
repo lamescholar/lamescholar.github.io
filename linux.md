@@ -77,6 +77,7 @@ save-position-on-quit=yes
 fullscreen=yes
 gpu-api=opengl
 video-zoom=-0.3
+osd-font='Adwaita Sans'
 ```
 
 key bindings
@@ -105,8 +106,7 @@ VLC (to play DVDs)
 Fooyin (music player)
 
 ```
-sudo pacman -S pipewire-alsa
-yay -S fooyin
+sudo pacman -S pipewire-alsa fooyin
 ```
 <br>
 
