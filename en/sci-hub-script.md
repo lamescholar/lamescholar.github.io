@@ -4,7 +4,7 @@ comments: true
 title: Sci-Hub script
 ---
 
-A script to download full magazine issues.
+A script to download full magazine issues
 <br><br>
 
 For the script to work, you need Python.
