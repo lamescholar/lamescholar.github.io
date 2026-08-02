@@ -114,6 +114,12 @@ sudo pacman -S pipewire-alsa fooyin
 XnView (image viewer)
 
 `yay -S xnviewmp`
+
+Settings:
+
+General->Theme->Dark
+
+View-> Show scrollbars
 <br><br>
 
 LibreOffice (Word)
