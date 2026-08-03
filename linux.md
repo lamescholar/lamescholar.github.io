@@ -215,7 +215,7 @@ Subtitle Edit (to translate subtitles)
 yay -S subtitleedit-avalonia
 yay -S llama.cpp
 ```
-<br><br>
+<br>
 
 Audiobookshelf (Audiobook player)
 
