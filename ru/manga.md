@@ -4,7 +4,7 @@ comments: true
 title: Манга
 ---
 
-#### Источник
+#### Где найти
 
 Nyaa - <https://nyaa.si>
 <br><br>
