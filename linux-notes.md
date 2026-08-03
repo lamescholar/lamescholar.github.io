@@ -199,7 +199,7 @@ cd /tmp
 git clone https://aur.archlinux.org/scantailor-universal-git.git
 cd scantailor-universal-git
 nano PKGBUILD
-libjpg->libjpg.so
+libjpeg->libjpeg.so
 makepkg -si
 ```
 <br>
