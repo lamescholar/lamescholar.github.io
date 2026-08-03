@@ -16,30 +16,30 @@ APKMirror - <https://www.apkmirror.com/>
 
 #### Apps
 
-**foobar2000** - <https://www.foobar2000.org/android><br>
+- foobar2000 - <https://www.foobar2000.org/android><br>
 Music player.
 
-**eBoox** - Google Play<br>
+- eBoox - Google Play<br>
 Reader for EPUBs.
 
-**Pocketbook** - Google Play<br>
+- Pocketbook - Google Play<br>
 Reader for PDFs and DJVUs.
 
-**Home Dictionary** - <https://github.com/mortalis13/HomeDictionary/releases><br>
+- Home Dictionary - <https://github.com/mortalis13/HomeDictionary/releases><br>
 Great app for .dsl dictionaries.
 
-**Feeder** - Google Play<br>
+- Feeder - Google Play<br>
 Open source RSS reader.<br>
 Feeds: <a href="/files/essentials.opml" download>essentials.opml</a>
 
-**Smart AudioBook Player** - Mobilism<br>
+- Smart AudioBook Player - Mobilism<br>
 Good audiobook player.
 
-**AntenaPod** - Google Play<br>
+- AntenaPod - Google Play<br>
 Open source podcast app.
 
-**LibreTorrent** - <https://github.com/proninyaroslav/libretorrent/releases><br>
+- LibreTorrent - <https://github.com/proninyaroslav/libretorrent/releases><br>
 Open source Bittorent client.
 
-**Firefox** - Google Play<br>
+- Firefox - Google Play<br>
 Don't use Google Chrome. Google went full totalitarianism removing uBlock. Firefox Android app can install same extensions as desktop browser. Firefox is the GOAT.
