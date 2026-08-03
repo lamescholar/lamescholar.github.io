@@ -4,12 +4,9 @@ comments: true
 title: Manga
 ---
 
-To read manga you need to download images and read them with the program IrfanView.
-<br><br>
+#### Source
 
-#### Nyaa
-
-<https://nyaa.si>
+Nyaa - <https://nyaa.si>
 <br><br>
 
 #### Program to view the images
