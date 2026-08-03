@@ -107,7 +107,7 @@ VLC (to play DVDs)
 Fooyin (music player)
 
 ```
-sudo pacman -S pipewire-alsa fooyin
+sudo pacman -S fooyin pipewire-alsa
 ```
 <br>
 
