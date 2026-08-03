@@ -31,8 +31,6 @@ The New York Times - <https://www.nytimes.com/>
 
 The New York Times: Today's Paper - <https://www.nytimes.com/section/todayspaper>
 
-The New York Times: TimesWire - <https://www.nytimes.com/timeswire>
-
 The New York Times Magazine - <https://www.nytimes.com/interactive/2020/07/02/magazine/past-issues-sunday-magazine.html>
 
 The Wall Street Journal - <https://www.wsj.com/>
