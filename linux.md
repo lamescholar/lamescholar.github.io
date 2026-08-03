@@ -159,9 +159,9 @@ set zoom-step 10
 set guioptions "svh"
 ```
 
-Tab - Contents
-100G - go to page 100
-200= - zoom 200%
+Tab - Contents<br>
+100G - go to page 100<Br>
+200= - zoom 200%<br>
 <br><br>
 
 Okular (PDF reader)
