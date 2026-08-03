@@ -73,10 +73,10 @@ mpv (video player)
 config file
 
 ```
-gpu-api=opengl
+vo=gpu-next
 profile=high-quality
+gpu-api=vulkan
 fullscreen=yes
-video-zoom=-0.3
 save-position-on-quit=yes
 osd-font="DejaVu Sans"
 ```
