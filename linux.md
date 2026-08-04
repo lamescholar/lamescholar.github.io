@@ -79,8 +79,6 @@ gpu-api=vulkan
 
 fullscreen=yes
 osd-font="DejaVu Sans"
-sub-file-paths=Subs
-sub-auto=all
 save-position-on-quit=yes
 ```
 
