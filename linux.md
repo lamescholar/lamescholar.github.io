@@ -76,9 +76,13 @@ config file
 vo=gpu-next
 profile=high-quality
 gpu-api=vulkan
+
 fullscreen=yes
-save-position-on-quit=yes
 osd-font="DejaVu Sans"
+sub-file-paths=Subs
+sub-auto=all
+
+save-position-on-quit=yes
 ```
 
 key bindings
