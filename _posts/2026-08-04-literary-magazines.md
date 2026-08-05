@@ -35,7 +35,7 @@ Bi-monthly, large format<br>
 
 4\. History Today<br>
 Monthly<br>
-3 months - $5<br>
+3 months - $9<br>
 <https://historytoday.com/subscription/subscribe-history-today-pw1/as-us><br>
 Just before 3 months pass, cancel your subscription unless you want to pay full annual rate around $100. To cancel, write a letter to:
 subscriptions@historytoday.com
