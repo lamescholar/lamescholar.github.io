@@ -8,9 +8,13 @@ title: How to buy books
 
 **New books:**
 
-Amazon - <https://www.amazon.com/>
+Library of America - <https://www.loa.org/books/loa_collection/>
 
 Bookshop.ru - <https://bookshop.org/>
+
+Barnes & Noble - <https://www.barnesandnoble.com/>
+
+Amazon - <https://www.amazon.com/>
 
 **Used books:**
 

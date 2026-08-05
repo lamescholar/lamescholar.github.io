@@ -62,7 +62,7 @@ Library of America:
 
 <https://en.wikipedia.org/wiki/Library_of_America>
 
-[Internet Archive](/en/internet-archive)
+[Internet Archive](/en/internet-archive-script)
 
 Loeb Classical Library - [Library Genesis](https://libgen.li/index.php?req=Loeb+Classical+Library&columns[]=s&objects[]=f&objects[]=e&objects[]=s&objects[]=a&objects[]=p&objects[]=w&topics[]=l&topics[]=c&topics[]=f&topics[]=m&topics[]=r&topics[]=s&res=100&filesuns=all)
 
