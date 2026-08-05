@@ -50,7 +50,7 @@ Monthly, large format<br>
 6\. Blue Collar Review<br>
 Quarterly<br>
 1 year - $20<br>
-<http://angelfire.com/va/bcr/>
+<https://bcrpoems.blogspot.com/>
 <br><br>
 
 7\. Jacobin<br>
