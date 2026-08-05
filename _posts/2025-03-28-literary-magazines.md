@@ -24,7 +24,7 @@ Weekly<br>
 2\. The New York Review of Books<br>
 Bi-monthly, large format<br>
 1 year - $20<br>
-<https://nybooks.com/dec02>
+<https://nybooks.com/june03>
 <br><br>
 
 3\. London Review of Books<br>
