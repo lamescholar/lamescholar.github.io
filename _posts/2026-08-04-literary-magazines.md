@@ -5,7 +5,7 @@ comments: true
 title: Literary magazines you can subscribe to
 ---
 
-2025-03-28
+2026-08-04
 
 # Literary magazines you can subscribe to
 <br>
@@ -17,14 +17,14 @@ Mr. Pen- Clipboard, 11.5x17 Inches<br>
 
 1\. The New Yorker<br>
 Weekly<br>
-6 months - $21.20<br>
+6 months - $26.20<br>
 <https://newyorker.com/save3>
 <br><br>
 
 2\. The New York Review of Books<br>
 Bi-monthly, large format<br>
 1 year - $20<br>
-<https://nybooks.com/dec02>
+<https://nybooks.com/june03>
 <br><br>
 
 3\. London Review of Books<br>
@@ -33,13 +33,7 @@ Bi-monthly, large format<br>
 <https://www.mylrb.co.uk/index.php?cl=dsb_onepagecheckout&action=subscribe&articleid=2c958f838bf772fa018bf773286a0000>
 <br><br>
 
-4\. Financial Times Weekend<br>
-Saturday issue of Financial Times with Life & Arts section<br>
-3 months - $20, then $35<br>
-<https://subs.ft.com/weekend_podcast>
-<br><br>
-
-5\. History Today<br>
+4\. History Today<br>
 Monthly<br>
 3 months - $5<br>
 <https://historytoday.com/subscription/subscribe-history-today-pw1/as-us><br>
@@ -47,31 +41,31 @@ Just before 3 months pass, cancel your subscription unless you want to pay full 
 subscriptions@historytoday.com
 <br><br>
 
-6\. Le Monde diplomatique<br>
+5\. Le Monde diplomatique<br>
 Monthly, large format<br>
 1 month - $5.50<br>
 <https://mondediplo.com/subscribe>
 <br><br>
 
-7\. Blue Collar Review<br>
+6\. Blue Collar Review<br>
 Quarterly<br>
 1 year - $20<br>
 <http://angelfire.com/va/bcr/>
 <br><br>
 
-8\. Jacobin<br>
+7\. Jacobin<br>
 Quarterly<br>
 1 year - $20<br>
 <https://jacobin.com/subscribe?code=PROGRESS>
 <br><br>
 
-9\. Philosophy Now<br>
+8\. Philosophy Now<br>
 Monthly<br>
 1 year - $42<br>
 <https://philosophynow.org/subscribe>
 <br><br>
 
-10\. The Times Literary Supplement<br>
+9\. The Times Literary Supplement<br>
 Weekly, large format<br>
 1 month - $15.49<br>
 <https://ezsubscription.com/tls/subscribe?key=USPRINTDIGITAL>
