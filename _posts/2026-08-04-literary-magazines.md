@@ -56,7 +56,7 @@ Quarterly<br>
 7\. Jacobin<br>
 Quarterly<br>
 1 year - $20<br>
-<https://jacobin.com/subscribe?code=PROGRESS>
+<https://jacobin.com/subscribe/?code=1776>
 <br><br>
 
 8\. Philosophy Now<br>
