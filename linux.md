@@ -160,7 +160,7 @@ set guioptions "svh"
 
 Tab - Contents<br>
 100G - go to page 100<Br>
-200= - zoom 200%<br>
+175= - zoom 175%<br>
 <br><br>
 
 Okular (PDF reader)
