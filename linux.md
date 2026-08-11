@@ -74,8 +74,8 @@ config file
 
 ```
 vo=gpu-next
-profile=high-quality
 gpu-api=vulkan
+profile=high-quality
 
 fullscreen=yes
 osd-font="DejaVu Sans"
