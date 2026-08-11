@@ -62,19 +62,19 @@ Torrentz2 - <https://torrentz2.nz/>
 BT4G - <https://bt4gprx.com/>
 
 C411 - <https://c411.org/><br>
-French stuff.
+French stuff
 
 Boerse - <https://boerse.am/><br>
-German stuff.
+German stuff
 
 MIRCrew - <https://mircrew-releases.org/index.php><br>
-Italian stuff.
+Italian stuff
 
 Nyaa - <https://nyaa.si/><br>
-Asian stuff.
+Asian stuff
 
 Hurtom - <https://toloka.to/><br>
-Ukrainian stuff.
+Ukrainian stuff
 <br><br>
 
 Often releases contain disk images (.iso, .mdf). You can mount them with WinCDEmu.

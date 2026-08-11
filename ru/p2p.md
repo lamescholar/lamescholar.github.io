@@ -61,19 +61,19 @@ BT4G - <https://bt4gprx.com/>
 BTDigg - <https://btdig.com/index.htm>
 
 C411 - <https://c411.org/><br>
-Французские штуки.
+Французские штуки
 
 Boerse - <https://boerse.am/><br>
-Немецкие штуки.
+Немецкие штуки
 
 MIRCrew - <https://mircrew-releases.org/index.php><br>
-Итальянские штуки.
+Итальянские штуки
 
 Nyaa - <https://nyaa.si/><br>
-Азиатские штуки.
+Азиатские штуки
 
 Гуртом - https://toloka.to/<br>
-Украинские штуки.
+Украинские штуки
 <br><br>
 
 Часто раздачи содержат образы дисков (.iso, .mdf). Их можно монтировать программой WinCDEmu.
