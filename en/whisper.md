@@ -75,24 +75,28 @@ cmd
 `python path-to-whisper-folder\w.py`
 <br><br>
 
-#### subsai
-
-<https://github.com/abdeladim-s/subsai>
-
-subsai is a version of whisper to create subtitles
-
-Installation:
-
-`pip install git+https://github.com/abdeladim-s/subsai`
+#### Subtitles
 
 Python script:
 
 ```
-from subsai import SubsAI
+import whisper
+from whisper.utils import get_writer
 
-file = r"path to the media file"
-subs_ai = SubsAI()
-model = subs_ai.create_model('openai/whisper', {'model_type': 'base'})
-subs = subs_ai.transcribe(file, model)
-subs.save('name of the subtitles with .srt extension')
+model = whisper.load_model("base")
+audio_path = r"path to the media file"
+
+result = model.transcribe(audio_path, language="en", word_timestamps=True)
+
+output_directory = "path of output folder"
+
+options = {
+    "max_line_width": 42, 
+    "max_line_count": 2, 
+    "highlight_words": False
+}
+
+srt_writer = get_writer("srt", output_directory)
+
+srt_writer(result, audio_path, options)
 ```

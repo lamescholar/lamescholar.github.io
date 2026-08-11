@@ -73,24 +73,28 @@ Win+R cmd
 python путь к папке whisper\w.py
 <br><br>
 
-#### subsai
-
-<https://github.com/abdeladim-s/subsai>
-
-subsai - это версия whisper для создания субтитров
-
-Установка:
-
-`pip install git+https://github.com/abdeladim-s/subsai`
+#### Субтитры
 
 Python-cкрипт:
 
 ```
-from subsai import SubsAI
+import whisper
+from whisper.utils import get_writer
 
-file = r"путь к медиафайлу"
-subs_ai = SubsAI()
-model = subs_ai.create_model('openai/whisper', {'model_type': 'base'})
-subs = subs_ai.transcribe(file, model)
-subs.save('название субтитров c .srt расширением')
+model = whisper.load_model("base")
+audio_path = r"путь к медиафайлу"
+
+result = model.transcribe(audio_path, language="en", word_timestamps=True)
+
+output_directory = "путь к папке вывода"
+
+options = {
+    "max_line_width": 42, 
+    "max_line_count": 2, 
+    "highlight_words": False
+}
+
+srt_writer = get_writer("srt", output_directory)
+
+srt_writer(result, audio_path, options)
 ```
