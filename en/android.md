@@ -29,7 +29,7 @@ Reader for PDFs and DJVUs
 Great app for .dsl dictionaries
 
 - Feeder - Google Play<br>
-Open source RSS reader.<br>
+Open source RSS reader<br>
 Feeds: <a href="/files/essentials.opml" download>essentials.opml</a>
 
 - Smart AudioBook Player - Mobilism<br>
