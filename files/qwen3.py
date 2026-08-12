@@ -21,9 +21,10 @@ MODEL_PARAMS = {
 
 SERVER_ARGS = [
     "-m", MODEL_PATH,
+    "-c", "4096",
+    "-t", "4",
     "--port", "8080",
-    "--host", "127.0.0.1",
-    "--threads", "4"
+    "--host", "127.0.0.1"
 ]
 SERVER_STARTUP_TIMEOUT = 300
 
