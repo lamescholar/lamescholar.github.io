@@ -25,7 +25,7 @@ AbeBooks - <https://www.abebooks.com/servlet/SearchEntry?cm_sp=TopNav-_-Section-
 
 #### 2. Bookstores
 
-Look for local independent or half-priced bookstores on Google Maps.
+Look for local independent or half-price bookstores on Google Maps.
 <br><br>
 
 #### 3. Russian books in US
