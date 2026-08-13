@@ -224,7 +224,7 @@ Markdown file of posts looks like this:
 ```
 ---
 layout: post
-tag: Reposts
+tag: Readings
 comments: true
 title: Title of the text
 ---

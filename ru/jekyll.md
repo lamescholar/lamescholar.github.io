@@ -224,7 +224,7 @@ Markdown файл таких постов выглядит так:
 ```
 ---
 layout: post
-tag: Reposts
+tag: Чтение
 comments: true
 title: Заглавие текста
 ---
