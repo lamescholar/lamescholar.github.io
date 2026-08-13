@@ -79,7 +79,7 @@ profile=high-quality
 
 fullscreen=yes
 osd-font="DejaVu Sans"
-sub-border-style=background-box
+sub-border-style=opaque-box
 save-position-on-quit=yes
 ```
 
