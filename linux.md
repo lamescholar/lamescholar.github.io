@@ -83,7 +83,6 @@ save-position-on-quit=yes
 osd-font="DejaVu Sans"
 sub-font="DejaVu Sans"
 sub-color=0.8
-sub-shadow-color="#000000"
 sub-shadow-offset=1.5
 ```
 
