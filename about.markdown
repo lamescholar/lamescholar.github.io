@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Many cool things exist in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation how to install and use it. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves. These things are out there, but do little good in the world. Maybe college people find and apply them, but not all people go to college and study same subjects. If we write guides to programs and know how to use them, they can't be locked away, monetized and used against us.
+Many cool things exist in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation how to install it and use it. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves. These things are out there, but do little good in the world. Maybe college people find and apply them, but not all people go to college and study same subjects. If we write guides to programs and know how to use them, they can't be locked away, monetized and used against us.
 
 I made this blog with [Jekyll](/en/jekyll).<br>
 
