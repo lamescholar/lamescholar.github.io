@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Many cool things exist in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation how to install it and use it. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves. These things are out there, but do little good in the world. Maybe college people find and apply them, but not all people go to college and study same subjects. If we write guides to programs and know how to use them, they can't be locked away, monetized and used against us.
+Many cool things exist in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation how to install it and use it. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves. These things are out there, but do little good in the world. Maybe college people find and apply them, but not all people go to college and study same subjects. If we write guides to programs, they can't be locked away, monetized and used against us.
 
 I made this blog with [Jekyll](/en/jekyll).<br>
 
-Многие класные вещи существуют в принципе, но не на практике. Если кто-то написал полезную программу, но выложил её без указаний как её поставить и как ей пользоваться. Если был найден ответ на историческую загадку, но он находится в книгах и статьях, которые собирают пыль на библиотечных полках. Эти вещи где-то есть, но они делают мало полезного в мире. Может быть, университетские люди находят и применяют их, но не все люди идут в университеты и изучают одни и те же предметы. Если мы пишем гайды к программам и знаем какц ими пользоваться, их не могут закрыть, монетизировать и использовать против нас.
+Многие класные вещи существуют в принципе, но не на практике. Если кто-то написал полезную программу, но выложил её без указаний как её поставить и как ей пользоваться. Если был найден ответ на историческую загадку, но он находится в книгах и статьях, которые собирают пыль на библиотечных полках. Эти вещи где-то есть, но они делают мало полезного в мире. Может быть, университетские люди находят и применяют их, но не все люди идут в университеты и изучают одни и те же предметы. Если мы пишем гайды к программам, их не могут закрыть, монетизировать и использовать против нас.
 
 Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
