@@ -81,9 +81,10 @@ fullscreen=yes
 save-position-on-quit=yes
 
 osd-font="DejaVu Sans"
-sub-font="DejaVu Sans"
-sub-color=0.9
-sub-shadow-offset=1.5
+sub-font='Trebuchet MS'
+sub-color="#CBCBCB"
+sub-border-size=2
+sub-shadow-offset=1
 ```
 
 key bindings
