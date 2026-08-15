@@ -82,8 +82,10 @@ save-position-on-quit=yes
 
 osd-font="DejaVu Sans"
 sub-font='Arial'
+sub-font-size=42
 sub-color="#CBCBCB"
-sub-border-style=opaque-box
+osd-border-size=2
+sub-shadow-offset=1
 ```
 
 key bindings
