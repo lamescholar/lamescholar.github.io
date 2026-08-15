@@ -81,7 +81,7 @@ fullscreen=yes
 save-position-on-quit=yes
 
 osd-font="DejaVu Sans"
-sub-font='Arial'
+sub-font="Arial"
 sub-font-size=42
 sub-color="#CBCBCB"
 osd-border-size=2
