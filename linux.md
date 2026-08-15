@@ -82,7 +82,7 @@ save-position-on-quit=yes
 
 osd-font="DejaVu Sans"
 sub-font='Arial'
-sub-font-size=42
+sub-font-size=40
 sub-color="#CBCBCB"
 sub-border-size=2
 sub-shadow-offset=1
