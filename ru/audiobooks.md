@@ -25,7 +25,7 @@ My Anonymouse - <https://www.myanonamouse.net/index.php>
 </div>
 <br>
 
-#### Программы для прослушивания
+#### Программы
 
 Winamp - <https://www.winamp.com/downloads/>
 
