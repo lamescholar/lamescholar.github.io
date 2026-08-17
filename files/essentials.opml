@@ -23,7 +23,6 @@
     <outline type="rss" text="Harper&#39;s Magazine: Weekly Review" xmlUrl="https://harpers.org/feed/" htmlUrl="https://harpers.org/"/>
     <outline type="rss" text="Historical Materialism" xmlUrl="https://www.historicalmaterialism.org/feed/" htmlUrl="https://www.historicalmaterialism.org/"/>
     <outline type="rss" text="Hyperallergic" xmlUrl="https://hyperallergic.com/feed/" htmlUrl="https://hyperallergic.com/"/>
-    <outline type="rss" text="Institute for the Study of War" xmlUrl="http://localhost:3000/?action=display&amp;bridge=InstituteForTheStudyOfWarBridge&amp;searchURL=&amp;limit=5&amp;format=Atom" htmlUrl="https://www.understandingwar.org"/>
     <outline type="rss" text="Internet Archive Blogs" xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org"/>
     <outline type="rss" text="johnshaplin" xmlUrl="https://johnshaplin.blogspot.com/feeds/posts/default" htmlUrl="https://johnshaplin.blogspot.com/"/>
     <outline type="rss" text="Journal of the History of Ideas Blog" xmlUrl="https://www.jhiblog.org/feed/" htmlUrl="https://www.jhiblog.org"/>
