@@ -8,7 +8,7 @@ title: How to buy books
 
 **New books:**
 
-Penguin Random House - <https://www.penguinrandomhouse.com/>
+Everyman's Library - <https://www.penguinrandomhouse.com/series/570/everymans-library-classics-series/>
 
 Library of America - <https://www.loa.org/books/loa_collection/>
 
