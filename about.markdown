@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-A lot is achieved in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves, it remains unknown.
+A lot is achieved in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves, it remains unknown. It needs to be illunimated.
 
 I made this blog with [Jekyll](/en/jekyll).<br>
 
-Много чего достигнуто в принципе, но не на практике. Если кто-то написал полезную программу, но выложил её без чётких указаний, она лежит без дела. Если был найден ответ на историческую загадку, но он находится в книгах и статьях, которые собирают пыль на библиотечных полках, он остаётся неизвестным.
+Много чего достигнуто в принципе, но не на практике. Если кто-то написал полезную программу, но выложил её без чётких указаний, она лежит без дела. Если был найден ответ на историческую загадку, но он находится в книгах и статьях, которые собирают пыль на библиотечных полках, он остаётся неизвестным. Это нужно подсветить.
 
 Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
