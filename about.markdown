@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A lot is achieved in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves, it remains unknown. It needs be illunimated.
+A lot is achieved in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves, it remains unknown. It needs to be illunimated.
 
 I made this blog with [Jekyll](/en/jekyll).<br>
 
