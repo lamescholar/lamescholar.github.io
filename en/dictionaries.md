@@ -5,7 +5,7 @@ title: Dictionaries
 ---
 
 Online dictionaries come and go. StarDict dictionaries forever.<br>
-StarDict is a file format of dictionaries. The best program for this and other formats is GoldenDict-ng.
+The best program to open StarDict dictionaries (and other formats) is GoldenDict-ng.
 <br><br>
 
 GoldenDict-ng - <https://github.com/xiaoyifang/goldendict-ng/releases>
