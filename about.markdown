@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves, it remains unknown. If you find things like these, spread the word, make copies, write tutorials.
+
 I made this blog with [Jekyll](/en/jekyll).<br>
 
 Если кто-то написал полезную программу, но выложил её без чётких указаний, она лежит без дела. Если был найден ответ на историческую загадку, но он находится в книгах и статьях, которые собирают пыль на библиотечных полках, он остаётся неизвестным. Если ты находишь такие вещи, расскажи о них, сделай копии, напиши пособия. 
