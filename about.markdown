@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-A lot exists in principle, but not in practice. If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves, it remains unknown. These things need to be illuminated.
+If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery was found, but it's in the books and articles that collect dust on the library shelves, it remains unknown. These things should be made accessible for real.
 
 I made this blog with [Jekyll](/en/jekyll).<br>
 
-Много чего существует в принципе, но не на практике. Если кто-то написал полезную программу, но выложил её без чётких указаний, она лежит без дела. Если был найден ответ на историческую загадку, но он находится в книгах и статьях, которые собирают пыль на библиотечных полках, он остаётся неизвестным. Эти вещи нужно подсветить.
+Если кто-то написал полезную программу, но выложил её без чётких указаний, она лежит без дела. Если был найден ответ на историческую загадку, но он находится в книгах и статьях, которые собирают пыль на библиотечных полках, он остаётся неизвестным. Эти вещи нужно сделать по-настоящему доступными.
 
 Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
