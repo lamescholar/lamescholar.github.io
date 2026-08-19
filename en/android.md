@@ -5,7 +5,7 @@ title: Android
 ---
 
 Mobilism - <https://forum.mobilism.org/viewforum.php?f=398><br>
-Mods
+Mods.
 
 4PDA - <https://4pda.to/forum/index.php?showforum=212><br>
 
@@ -17,29 +17,29 @@ APKMirror - <https://www.apkmirror.com/>
 #### Apps
 
 - foobar2000 - <https://www.foobar2000.org/android><br>
-Music player
+Music player.
 
 - eBoox - Google Play<br>
-Reader for EPUBs
+Reader for EPUBs.
 
 - Pocketbook - Google Play<br>
-Reader for PDFs and DJVUs
+Reader for PDFs and DJVUs.
 
 - Home Dictionary - <https://github.com/mortalis13/HomeDictionary/releases><br>
-Great app for .dsl dictionaries
+Great app for .dsl dictionaries.
 
 - Feeder - Google Play<br>
-Open source RSS reader<br>
+Open source RSS reader.<br>
 Feeds: <a href="/files/essentials.opml" download>essentials.opml</a>
 
 - Smart AudioBook Player - Mobilism<br>
-Good audiobook player
+Good audiobook player.
 
 - AntenaPod - Google Play<br>
-Open source podcast app
+Open source podcast app.
 
 - LibreTorrent - <https://github.com/proninyaroslav/libretorrent/releases><br>
-Open source Bittorent client
+Open source Bittorent client.
 
 - Firefox - Google Play<br>
 Don't use Google Chrome. Google went full totalitarianism removing uBlock. Firefox Android app can install same extensions as desktop browser. Firefox is the GOAT.
