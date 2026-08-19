@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-If someone wrote a useful program, but dumped it without a clear explanation, it sits idle. If the answer to historical mystery lies in books and articles that collect dust on the library shelves, it remains unknown. If you find a thing like this, make a copy and write about it. Otherwise, it will be lost.
-
 I made this blog with [Jekyll](/en/jekyll).<br>
-
-Если кто-то написал полезную программу, но выложил её без чётких указаний, она лежит без дела. Если ответ на историческую загадку лежит в книгах и статьях, которые собирают пыль на библиотечных полках, он остаётся неизвестным. Если тебе встретится такая вещь, сделай копию и напиши пособие. Иначе она потеряется.
 
 Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
