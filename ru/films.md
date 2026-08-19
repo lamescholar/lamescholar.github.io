@@ -31,14 +31,16 @@ MVGroup - <https://forums.mvgroup.org/><br>
 FanSerials - <https://vk.com/myserianet>
 <br><br>
 
-Чтобы воспроизвести MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой файл программой Media Player Classic.
+#### Как проиграть
+
+Чтобы проиграть MKV-, MP4- или AVI-файл, установи [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm) и открой файл программой Media Player Classic.
 
 Горячие клавиши для Media Player Classic:
 
 Ctrl+L - подгрузить субтитры. W - выключить субтитры. F1, F2 - двигать субтитры. Cltr+O - подгрузить озвучку.
 <br><br>
 
-#### Чтобы рипнуть DVD или Blu-Ray
+#### Как рипнуть DVD или Blu-Ray
 
 Раздобудь диск. Купи его на Авито.
 

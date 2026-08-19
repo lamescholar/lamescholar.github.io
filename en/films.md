@@ -24,6 +24,8 @@ MVGroup - <https://forums.mvgroup.org/><br>
 Documentaries. You need to register.
 <br><br>
 
+#### How to play
+
 To play MKV, MP4 or AVI files, install [K-Lite Codec Pack Standart](https://codecguide.com/download_kl.htm). Open files with Media Player Classic.
 
 Hotkeys for Media Player Classic:
@@ -31,7 +33,7 @@ Hotkeys for Media Player Classic:
 Ctrl+L - to load subtitles. W - to turn off subtitles. F1, F2 - to move subtitles. Cltr+O - to load audio.
 <br><br>
 
-#### To rip DVD or Blu-Ray
+#### How to rip DVD or Blu-Ray
 
 Get the disc. Buy it or rent it from local library.
 
@@ -45,7 +47,7 @@ Get the disc. Buy it or rent it from local library.
 
 1) Create ISO image of DVD with [DVD Decrypter](http://www.dvddecrypter.org.uk/) or [MakeMKV](https://rutracker.org/forum/viewtopic.php?t=6237783)->File->Backup...
 
-2) Then you can play ISO file with [VLC](https://www.videolan.org/vlc/download-windows.html). This way it's as though you own a disk.
+2) Then you can play ISO file with [VLC](https://www.videolan.org/vlc/download-windows.html). This way it's as though you own the disk.
 <br><br>
 
 To rip from streaming services 720p, search ``pazu streaming service name`` on [1337x](https://1337x.to/home/) and [BT4G](https://bt4gprx.com/).
