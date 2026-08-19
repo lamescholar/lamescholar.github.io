@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Sharing is caring.
-
+Sharing is caring.<br>
 I made this blog with [Jekyll](/en/jekyll).<br>
 
-Не ленись - поделись.
-
+Не ленись - поделись.<br>
 Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
