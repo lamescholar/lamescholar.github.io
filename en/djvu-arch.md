@@ -90,9 +90,9 @@ Wine
 Wine
 <br><br>
 
-5) bookmark-djvu - insert contents
+5) PDF & Djvu Bookmarker - insert contents
 
-`yay -S bookmark-djvu`
+Wine
 <br><br>
 
 6) Document Express Editor 6 - insert cover
