@@ -45,7 +45,7 @@ on seek - сними галочку
 
 1. Сделай субтитры (1.srt) из mp3 с помощью [whisper](/ru/whisper).
 
-2. Переводишь субтитры (1.srt) с немецкого на английский с помощью [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases): [llama.cpp](https://lmstudio.ai/) + Qwen3-4B (2.srt).
+2. Переводишь субтитры (1.srt) с немецкого на английский с помощью [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases): llama.cpp + Qwen3-4B (2.srt).
 
 3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
 
