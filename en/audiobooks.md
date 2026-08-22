@@ -47,7 +47,7 @@ You should have mp3 and cover of audiobook.
 
 2. Translate subtitles (1.srt) from German to English with [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases): llama-cpp + Qwen3-4B (2.srt).
 
-3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
+3.  Subtitle Edit: Merge two subtitles... (1.ass)
 
 	Styles:
 

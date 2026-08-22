@@ -47,7 +47,7 @@ on seek - сними галочку
 
 2. Переводишь субтитры (1.srt) с немецкого на английский с помощью [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases): llama.cpp + Qwen3-4B (2.srt).
 
-3.  Subtitle Edit: Merge two SRT to one ASS/SSA... (1.ass)
+3.  Subtitle Edit: Merge two subtitles... (1.ass)
 
 	Стили:
 
