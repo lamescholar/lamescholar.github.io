@@ -217,8 +217,7 @@ Handbrake (to transcode MKV)
 Subtitle Edit (to translate subtitles)
 
 ```
-yay -S subtitleedit-avalonia
-yay -S llama.cpp
+yay -S subtitleedit
 ```
 <br>
 
