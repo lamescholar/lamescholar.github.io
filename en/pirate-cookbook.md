@@ -63,6 +63,8 @@ More details here: [Hello](/en/hello)
 
 [Jekyll](/en/jekyll)
 
+[Kindle](/en/kindle)
+
 [KoLXo3](/en/kolxo3)
 
 [LaTeX](/en/latex)
