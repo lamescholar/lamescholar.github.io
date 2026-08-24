@@ -7,7 +7,7 @@ title: Jan Eufinger - Marxism and Morality (2025)
 
 Source: [Philosophie Magazin](https://www.philomag.de/artikel/marx-und-die-moral)
 
-Translation: [Qwen3-4B](/en/machine-translation)
+Translation from German: [Qwen3-4B](/en/machine-translation)
 <br><br>
 
 # Marx and Morality
