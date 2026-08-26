@@ -44,9 +44,12 @@ Document structure:
 
 or
 
-```
+
 Options->Configure TeXstudio...->Build->Default Compiler->XeLaTeX.
+
 Document structure:
+
+```
 \documentclass[a4paper, 12pt]{article}
 \usepackage[margin = 2cm]{geometry}
 \usepackage[utf8]{inputenc}

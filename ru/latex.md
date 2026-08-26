@@ -44,9 +44,12 @@ TeXstudio - <https://www.texstudio.org/>
 
 или
 
-```
+
 Параметры->Конфугурация TeXstudio...->Компиляция->Компилятор по умолчанию->XeLaTeX.
+
 Структура документа:
+
+```
 \documentclass[a4paper, 12pt]{article}
 \usepackage[margin = 2cm]{geometry}
 \usepackage[utf8]{inputenc}
