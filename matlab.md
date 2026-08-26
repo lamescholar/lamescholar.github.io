@@ -1,6 +1,5 @@
 ---
 layout: page
-comments: true
 title: MATLAB on Linux
 ---
 
