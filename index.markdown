@@ -23,6 +23,8 @@ layout: home
 ## [Local Translator](local-translator)
 
 ## [Локальный переводчик](local-translator-ru)
+
+## [MATLAB on Linux](matlab.md)
 <br>
 
 ## My releases / Мои раздачи
