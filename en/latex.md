@@ -10,7 +10,7 @@ LaTeX is a language used to make PDF files with complex mathematical notation.
 Engine:<br>
 MiKTeX - <https://miktex.org/download>
 
-Generator:<br>
+Editor:<br>
 TeXstudio - <https://www.texstudio.org/>
 
 <https://overleaf.com/learn>
