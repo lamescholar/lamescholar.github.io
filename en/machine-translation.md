@@ -20,7 +20,7 @@ Insert the text. Run the script. The script translates the text chunk by chunk. 
 </video>
 <br>
 
-What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. To avoid an overflow, paragraphs are split into batches of 3 sentences.
+What is happening under the hood? First, the script splits the text into paragraphs, then paragraphs into sentences. Why? A paragraph can be too long to translate all at once. To avoid model overflow, paragraphs are split into batches of 3 sentences.
 <br><br>
 
 Before you can run the script, here's the **prerequisites**:
