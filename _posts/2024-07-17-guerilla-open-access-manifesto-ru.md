@@ -7,7 +7,7 @@ title: Манифест партизанского открытого досту
 
 Источник: <https://lamescholar.github.io/2024/07/14/guerilla-open-access-manifesto.html>
 
-Перевод с английского: lamescholar - 2024-07-17
+Перевод с английского: lamescholar
 <br><br>
 
 # Манифест партизанского открытого доступа

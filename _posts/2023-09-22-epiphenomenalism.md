@@ -7,7 +7,7 @@ title: Объяснение эпифеноменализма
 
 Источник: [The Ultimate Guide to Philosophy of Mind](https://disk.yandex.ru/i/jsE0WCLnCO_PeA)
 
-Перевод с английского: lamescholar - 2023-09-22
+Перевод с английского: lamescholar
 
 Все примечания мои.
 <br><br>

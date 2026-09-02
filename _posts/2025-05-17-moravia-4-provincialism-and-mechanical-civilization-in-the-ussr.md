@@ -7,7 +7,7 @@ title: "Alberto Moravia - A Month in the USSR (1958): IV. Provincialism and Mech
 
 Source: [Moravia, Albertio - Un mese in Urss - 2013](https://disk.yandex.ru/i/Pic8Vs8b1QEdJQ)
 
-Translation: lamescholar - 2025-05-17
+Translation from Italian: [Qwen3-4B](/en/machine-translation), lamescholar
 <br><br>
 
 In 1956, Italian writer Alberto Moravia visited USSR and published a series of meditative articles about his trip in Corriere della Sera. Later, in 1958, he published the book Un mese in Urss. Below is the fourth chapter Provincialismo e civiltà meccanica in Urss.
