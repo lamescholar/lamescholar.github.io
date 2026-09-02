@@ -6,15 +6,15 @@ title: Linux Era
 I started Pirate Cookbook on Windows. Now I moved on to Linux. I will keep my Windows guides intact. Any Linux-specific guides I will post here.
 <br><br>
 
-[Linux](linux)
+[Linux](/linux/linux)
 
-[Linux Notes](linux-notes)
+[Linux Notes](/linux/linux-notes)
 <br><br>
 
-[DjVu - Arch Linux](/en/djvu-arch)
+[DjVu - Arch Linux](/linux/djvu-arch)
 
-[Local Translator](local-translator)
+[Local Translator](/linux/local-translator)
 
-[MATLAB on Linux](matlab.md)
+[MATLAB on Linux](/linux/matlab)
 
-[Локальный переводчик](local-translator-ru)
+[Локальный переводчик](/linux/local-translator-ru)
