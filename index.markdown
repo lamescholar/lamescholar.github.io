@@ -16,7 +16,7 @@ layout: home
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
-## [Linux Era](linux-era)
+## [Linux Era](/linux/linux-era)
 <br>
 
 ## My releases / Мои раздачи
