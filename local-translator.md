@@ -3,7 +3,7 @@ layout: page
 title: Local Translator
 ---
 
-The technical term for chatbots sold by OpenAI, Claude and Google is LLM, Large Language Models. These large language models are nothing more than numeric weights that run on the GPUs of servers that now sprawl all over America. These models are called large because they weigh hundreds of gigabytes. But not all language models weigh that much. There are models that weigh 2-5 GB. They are called Small Language Models, or SLMs. A modern laptop can easily run them. What happens is the model is loaded into RAM and a tiny program called llama.cpp does the calculations on the CPU. These small models won't write a book that will win a Pulitzer Prize, but they can translate much better than Google Translate. Big benefit is that no data is leaving your computer. All computations are made by your hardware.
+The technical term for chatbots sold by OpenAI, Claude and Google is LLM, Large Language Models. These large language models are nothing more than numeric weights that run on the GPUs of servers that now sprawl all over America. These models are called large because they weigh hundreds of gigabytes. But not all language models weigh that much. There are models that weigh 2-5 GB. They are called Small Language Models, or SLMs. A modern laptop can easily run them. What happens is the model is loaded into RAM and a tiny program called llama.cpp does the calculations on the CPU. These small models won't write a book that will win a Pulitzer Prize, but they do translate much better than Google Translate. Big benefit is that no data is leaving your computer. All computations are made by your hardware.
 <br><br>
 
 Language model:
