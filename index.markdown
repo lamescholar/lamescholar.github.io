@@ -16,15 +16,7 @@ layout: home
 [На русском](/ru/pirate-cookbook)
 <br><br>
 
-## [Linux](linux)
-
-## [Linux Notes](linux-notes)
-
-## [Local Translator](local-translator)
-
-## [Локальный переводчик](local-translator-ru)
-
-## [MATLAB on Linux](matlab.md)
+## [Linux Era](linux-era)
 <br>
 
 ## My releases / Мои раздачи

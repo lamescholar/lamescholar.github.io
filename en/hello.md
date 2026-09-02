@@ -11,7 +11,7 @@ how to broadcast your own [online radio](/en/radio#how-to-make-your-own-online-r
 how to find [scientific articles](/en/articles), [magazines](/en/magazines), [newspapers](/en/news), [dictionaries](/en/dictionaries), [audiobooks](/en/audiobooks), [music](/en/music), [films](/en/films)<br>
 how to [research](/en/research) stuff interesting to you<br>
 how to [follow](/2023/12/09/follow-the-press-using-rss.html) stuff happening in the world<br>
-how to [install Linux](https://lamescholar.github.io/linux)
+how to [install Linux](https://lamescholar.github.io/linux/linux)
 <br><br>
 
 All .md files can be found here:

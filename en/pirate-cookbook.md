@@ -31,8 +31,6 @@ More details here: [Hello](/en/hello)
 
 [DjVu](/en/djvu)
 
-[DjVu - Arch Linux](/en/djvu-arch)
-
 [ebook formats](/en/ebook-formats)
 
 [ebooks on Mac](/en/ebooks-on-mac)
