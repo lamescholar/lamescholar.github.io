@@ -325,7 +325,6 @@ Terminal=false
 Name=Oxford English Dictionary
 Exec=bash -c "WINEPREFIX=~/.wine_oed wine '~/.wine_oed/drive_c/Oxford English Dictionary 4.0/swhx.exe'"
 Path=~/.wine_oed/drive_c/Oxford English Dictionary 4.0
-Categories=Utility;
 ```
 
 `sudo chmod +x /usr/share/applications/oed.desktop`
