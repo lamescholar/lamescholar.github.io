@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A lot of useful software and beutiful art is hoarded in private ownership for no respectable reason. Hence this site.<br>
+A lot of useful software and beutiful art is hoarded inещ private property for no respectable reason. Hence this site.<br>
 I made this blog with [Jekyll](/en/jekyll).<br>
 
-Много полезного софта и прекрасного искуства скоплено в частном владении без уважительной на то причины. Отсюда этот сайт.<br>
+Много полезного софта и прекрасного искуства припрятано в частную собственность без уважительной на то причины. Отсюда этот сайт.<br>
 Я сделал этот блог с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
