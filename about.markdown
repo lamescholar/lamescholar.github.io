@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A lot of useful software and beautiful art is either hoarded in private property, or hidden in obscurity. Hence this site.<br>
+A lot of useful software and beautiful art is either hoarded in private property or hidden in obscurity. Hence this site.<br>
 I made this blog with [Jekyll](/en/jekyll).<br>
 
 Много полезного софта и прекрасного искуства либо скоплено в частной собственности, либо скрыто в безвестности. Отсюда этот сайт.<br>
