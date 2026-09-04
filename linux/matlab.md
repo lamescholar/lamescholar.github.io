@@ -34,3 +34,16 @@ sudo cp -d /tmp/gnutls_extract/usr/lib/libgnutls.so* /usr/local/MATLAB/R2026a/sy
 #### 4. Run
 
 `/usr/local/MATLAB/R2026a/bin/matlab`
+<br><br>
+
+#### 5. Icon
+
+```
+[Desktop Entry]
+Type=Application
+Terminal=false
+MimeType=text/x-matlab
+Name=MATLAB R2026a
+Exec=/usr/local/MATLAB/R2026a/bin/matlab -desktop -useStartupFolderPref
+Icon=/usr/local/MATLAB/R2026a/ui/webgui/src/favicon.ico
+```
