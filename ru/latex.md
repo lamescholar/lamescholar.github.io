@@ -55,7 +55,6 @@ TeXstudio - <https://www.texstudio.org/>
 \usepackage[utf8]{inputenc}
 \usepackage[russian]{babel}
 \usepackage{fontspec}
-\setmainfont{Times New Roman}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}

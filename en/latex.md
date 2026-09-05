@@ -55,7 +55,6 @@ Document structure:
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 \usepackage{fontspec}
-\setmainfont{Times New Roman}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
