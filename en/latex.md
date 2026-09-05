@@ -41,29 +41,3 @@ Document structure:
 	Hello, World!
 \end{document}
 ```
-
-or
-
-
-Options->Configure TeXstudio...->Build->Default Compiler->XeLaTeX.
-
-Document structure:
-
-```
-\documentclass[a4paper, 12pt]{article}
-\usepackage[margin = 2cm]{geometry}
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
-\usepackage{fontspec}
-\usepackage{amsmath}
-\usepackage{tikz}
-\usepackage{graphicx}
-\usepackage{hyperref}
-\hypersetup{colorlinks = true}
-
-\begin{document}
-	\sloppy
-	
-	Hello, World!
-\end{document}
-```

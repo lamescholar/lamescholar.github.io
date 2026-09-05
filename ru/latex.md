@@ -41,29 +41,3 @@ TeXstudio - <https://www.texstudio.org/>
 	Hello, World!
 \end{document}
 ```
-
-или
-
-
-Параметры->Конфугурация TeXstudio...->Компиляция->Компилятор по умолчанию->XeLaTeX.
-
-Структура документа:
-
-```
-\documentclass[a4paper, 12pt]{article}
-\usepackage[margin = 2cm]{geometry}
-\usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
-\usepackage{fontspec}
-\usepackage{amsmath}
-\usepackage{tikz}
-\usepackage{graphicx}
-\usepackage{hyperref}
-\hypersetup{colorlinks = true}
-
-\begin{document}
-	\sloppy
-	
-	Hello, World!
-\end{document}
-```
