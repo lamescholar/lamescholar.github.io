@@ -168,7 +168,7 @@ bundle exec jekyll serve
 
 #### LaTeX
 
-`sudo pacman -S texlive texlive-lang-cyrillic texstudio`
+`sudo pacman -S texlive texlive-langcyrillic texstudio`
 <br>
 
 #### OpenRGB 
