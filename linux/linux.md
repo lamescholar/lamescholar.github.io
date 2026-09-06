@@ -300,6 +300,9 @@ yay -S amazon-fonts
 
 # Chinese, Japanese, Korean
 sudo pacman -S noto-fonts-cjk
+
+# Compute Modern (LaTeX font)
+yay -S ttf-cm-unicode
 ```
 <br>
 
