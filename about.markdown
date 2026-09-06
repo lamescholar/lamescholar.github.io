@@ -7,7 +7,7 @@ permalink: /about/
 A lot of useful software and beautiful art is either inaccesible or unknown. Hence this site.<br>
 I made this site with [Jekyll](/en/jekyll).<br>
 
-Много полезного софта и прекрасного искуства либо недоступно, либо неизвестно. Отсюда этот сайт.<br>
+Много полезного софта и прекрасного искусcтва либо недоступно, либо неизвестно. Отсюда этот сайт.<br>
 Я сделал этот сайт с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
