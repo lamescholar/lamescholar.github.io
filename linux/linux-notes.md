@@ -166,6 +166,13 @@ bundle exec jekyll serve
 ```
 <br>
 
+#### LaTeX
+
+```
+sudo pacman -S texlive-basic texlive-latex texlive-latexrecommended texlive-fontsrecommended
+```
+<br>
+
 #### OpenRGB 
 
 `nano /etc/systemd/system/openrgb-resume.service`
