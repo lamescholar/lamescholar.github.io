@@ -33,6 +33,7 @@ Document structure:
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage{parskip}
 \hypersetup{colorlinks = true}
 
 \begin{document}

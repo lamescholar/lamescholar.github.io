@@ -28,11 +28,12 @@ TeXstudio - <https://www.texstudio.org/>
 \documentclass[a4paper, 12pt]{article}
 \usepackage[margin = 2cm]{geometry}
 \usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
+\usepackage[english]{babel}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage{parskip}
 \hypersetup{colorlinks = true}
 
 \begin{document}
