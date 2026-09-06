@@ -168,9 +168,7 @@ bundle exec jekyll serve
 
 #### LaTeX
 
-```
-sudo pacman -S texlive-basic texlive-latex texlive-latexrecommended texlive-fontsrecommended
-```
+`sudo pacman -S texlive texstudio`
 <br>
 
 #### OpenRGB 
