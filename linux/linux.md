@@ -132,7 +132,7 @@ Geany (text editor)
 `sudo pacman -S geany geany-plugins`
 <br><br>
 
-LibreOffice (Word)
+LibreOffice (libre Word)
 
 `yay -S libreoffice`
 
