@@ -85,11 +85,6 @@ sudo chmod +x /usr/local/bin/cue2mp3
 <https://gist.github.com/progzone122/0b4e2a85ea44d0dc1e74fc16ee4d9700>
 <br><br>
 
-#### Geany (text editor)
-
-`sudo pacman -S geany geany-plugins`
-<br><br>
-
 #### Git
 
 ```

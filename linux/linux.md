@@ -127,6 +127,11 @@ General->Theme->Dark
 View-> Show scrollbars
 <br><br>
 
+Geany (text editor)
+
+`sudo pacman -S geany geany-plugins`
+<br><br>
+
 LibreOffice (Word)
 
 `yay -S libreoffice`
