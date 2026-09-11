@@ -388,11 +388,11 @@ Add this script to post.html:
 
 4) Add to post and page layouts in the very end:
 
-```
+<pre>
 {% if page.use_math or page.math %}
   {% include mathjax.html %}
 {% endif %}
-```
+</pre>
 
 5) Enable when needed:
 
