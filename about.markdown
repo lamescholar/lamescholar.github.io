@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A lot of useful software and beautiful art is either inaccesible or unknown. Hence this site.<br>
+A lot of useful software and beautiful art is either inaccessible or unknown. Hence this site.<br>
 I made this site with [Jekyll](/en/jekyll).<br>
 
 Много полезного софта и прекрасного искусcтва либо недоступно, либо неизвестно. Отсюда этот сайт.<br>
