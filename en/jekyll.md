@@ -47,7 +47,7 @@ Source: <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-je
 
 #### Information on the site
 
-In the _config.yml file, fill the title, author, email, url, description (you can delete it). In the about.markdown file, write a description of the site.
+In the file _config.yml, fill the title, author, email, url, description (you can delete it). In the about.markdown file, write a description of the site.
 <br><br>
 
 #### Creating a page
