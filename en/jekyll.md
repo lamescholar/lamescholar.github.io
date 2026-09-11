@@ -8,12 +8,12 @@ math: true
 [Jekyll](https://jekyllrb.com/) is a static site generator. I use [GitHub Pages](https://pages.github.com/). It's a free hosting that supports Jekyll. The size limit is 1 GB.
 <br><br>
 
-To create a site you need to register on GitHub:
+To create a site, you need to register on GitHub:
 
 <https://github.com/>
 <br><br>
 
-To create a site you need to install:
+To create a site, you need to install:
 
 Git - <https://git-scm.com/download/win>
 
@@ -22,7 +22,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 #### Creating a site
 
-Instead of `username` use your GitHub username.
+Note: use your GitHub username.
 
 Go to the command line:
 
@@ -47,7 +47,7 @@ Source: <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-je
 
 #### Information on the site
 
-In the _config.yml file fill title, author, email, url, description (you can delete it). In the about.markdown file, write a description of the site.
+In the _config.yml file, fill the title, author, email, url, description (you can delete it). In the about.markdown file, write a description of the site.
 <br><br>
 
 #### Creating a page
