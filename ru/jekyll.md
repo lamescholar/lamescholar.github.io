@@ -252,7 +252,7 @@ title: Заглавие текста
 
 Добавь этот скрипт в post.html:
 
-```
+{% capture code %}
   <style>
     .post-content {
       position: relative;
@@ -346,4 +346,67 @@ title: Заглавие текста
       button.textContent = annotationsVisible ? 'Hide Annotations' : 'Show Annotations';
     }
   </script>
+{% endcapture %}
+
+<details>
+  <summary>Expand</summary>
+  <pre><code>{{ code | escape }}</code></pre>
+</details>
+<br>
+
+#### MathJax
+
+1) Скачай zip-файл.
+
+<https://github.com/mathjax/MathJax/releases>
+
+2) Помести файлы MathJax в assets/js/mathjax/
+
+3) Создай _includes/mathjax.html
+
 ```
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="{{ '/assets/js/mathjax/tex-mml-chtml.js' | relative_url }}">
+</script>
+```
+
+4) Добавь в layouts post и page в самом конце:
+
+```
+{% if page.use_math or page.math %}
+  {% include mathjax.html %}
+{% endif %}
+```
+
+5) Включи когда нужно:
+
+```
+---
+layout: page
+comments: true
+title: Jekyll
+math: true
+---
+```
+
+6) Теперь это
+
+```
+$ E_0 = mc^2 $
+```
+
+дожно рендерится так
+
+$ E_0 = mc^2 $
+

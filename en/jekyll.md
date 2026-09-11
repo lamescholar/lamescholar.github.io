@@ -255,7 +255,7 @@ readers.
 
 Add this script to post.html:
 
-```
+{% capture code %}
   <style>
     .post-content {
       position: relative;
@@ -349,7 +349,12 @@ Add this script to post.html:
       button.textContent = annotationsVisible ? 'Hide Annotations' : 'Show Annotations';
     }
   </script>
-```
+{% endcapture %}
+
+<details>
+  <summary>Expand</summary>
+  <pre><code>{{ code | escape }}</code></pre>
+</details>
 <br>
 
 #### MathJax
