@@ -385,11 +385,13 @@ title: Заглавие текста
 
 4) Добавь в layouts post и page в самом конце:
 
+{% raw %}
 ```
 {% if page.use_math or page.math %}
   {% include mathjax.html %}
 {% endif %}
 ```
+{% endraw %}
 
 5) Включи когда нужно:
 
