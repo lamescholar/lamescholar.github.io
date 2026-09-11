@@ -2,6 +2,7 @@
 layout: page
 comments: true
 title: Jekyll
+math: true
 ---
 
 [Jekyll](https://jekyllrb.com/) is a static site generator. I use [GitHub Pages](https://pages.github.com/). It's a free hosting that supports Jekyll. The size limit is 1 GB.
@@ -349,3 +350,61 @@ Add this script to post.html:
     }
   </script>
 ```
+<br>
+
+#### MathJax
+
+1) Download zip file.
+
+<https://github.com/mathjax/MathJax/releases>
+
+2) Put MathJax files into assets/js/mathjax/
+
+3) Create _includes/mathjax.html
+
+```
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="{{ '/assets/js/mathjax/tex-mml-chtml.js' | relative_url }}">
+</script>
+```
+
+4) Add to post and page layouts in the very end:
+
+```
+{% if page.use_math or page.math %}
+  {% include mathjax.html %}
+{% endif %}
+```
+
+5) Enable when needed:
+
+```
+---
+layout: page
+comments: true
+title: Jekyll
+math: true
+---
+```
+
+6) Now this
+
+```
+$ E_0 = mc^2 $
+```
+
+should render like this
+
+$ E_0 = mc^2 $
+

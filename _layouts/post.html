@@ -120,3 +120,7 @@ layout: default
     }
   </script>
 </article>
+
+{% if page.use_math or page.math %}
+  {% include mathjax.html %}
+{% endif %}
