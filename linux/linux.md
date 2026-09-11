@@ -204,7 +204,7 @@ flatpak run com.github.dynobo.normcap
 ```
 <br>
 
-GoldenDict-ng (dictionary)
+GoldenDict-ng (dictionary app)
 
 `yay -S goldendict-ng`
 <br><br>
