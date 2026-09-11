@@ -1,6 +1,7 @@
 ---
 layout: page
 comments: true
+math: true
 title: Jekyll
 ---
 
@@ -399,8 +400,8 @@ title: Заглавие текста
 ---
 layout: page
 comments: true
-title: Jekyll
 math: true
+title: Jekyll
 ---
 ```
 

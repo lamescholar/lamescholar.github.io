@@ -1,8 +1,8 @@
 ---
 layout: page
 comments: true
-title: Jekyll
 math: true
+title: Jekyll
 ---
 
 [Jekyll](https://jekyllrb.com/) is a static site generator. I use [GitHub Pages](https://pages.github.com/). It's a free hosting that supports Jekyll. The size limit is 1 GB.
@@ -402,8 +402,8 @@ Add this script to post.html:
 ---
 layout: page
 comments: true
-title: Jekyll
 math: true
+title: Jekyll
 ---
 ```
 
