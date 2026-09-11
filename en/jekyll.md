@@ -52,7 +52,9 @@ In the _config.yml file, fill the title, author, email, url, description (you ca
 
 #### Creating a page
 
-Create a .md file in the site folder. For example, page.md . Then a page will appear on your site at https://username.github.io/page. You can put the file in the folder named folder. Then a page will appear on your site at https://username.github.io/folder/page.
+Create .md file in the site folder. For example, page.md<br>
+Then a page will appear on your site at https://username.github.io/page<br>
+You can put the file in the folder named folder. Then a page will appear on your site at https://username.github.io/folder/page
 <br><br>
 
 #### Creating a post

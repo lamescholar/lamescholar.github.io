@@ -51,7 +51,9 @@ git push -u origin main
 
 #### Создание страницы
 
-Создай .md файл в папке сайта. Например, page.md. Тогда на твоём сайте появится страничка по адресу https://username.github.io/page. Можешь поместить файл в папку folder.  Тогда на твоём сайте появится страничка по адресу https://username.github.io/folder/page.
+Создай .md файл в папке сайта. Например, page.md<br>
+Тогда на твоём сайте появится страничка по адресу https://username.github.io/page<br>
+Можешь поместить файл в папку folder. Тогда на твоём сайте появится страничка по адресу https://username.github.io/folder/page
 <br><br>
 
 #### Создание поста
