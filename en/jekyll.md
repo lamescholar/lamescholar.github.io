@@ -389,7 +389,7 @@ Add this script to post.html:
 4) Add to post and page layouts in the very end:
 
 {% raw %}
-```html
+```
 {% if page.use_math or page.math %}
   {% include mathjax.html %}
 {% endif %}
