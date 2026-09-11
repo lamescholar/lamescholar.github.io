@@ -72,6 +72,15 @@ Nicotine+ (Soulseek client)
 `sudo pacman -S nicotine+`
 <br><br>
 
+CDEmu (to mount ISO images)
+
+```
+sudo pacman -S cdemu-client
+sudo modprobe vhba
+ls -l /dev/vhba_ctl
+```
+<br>
+
 mpv (video player)
 
 config file
