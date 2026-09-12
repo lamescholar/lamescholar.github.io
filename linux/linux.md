@@ -19,7 +19,7 @@ Linux Mint Debian Edition - <https://www.linuxmint.com/download_lmde.php>
 All action on Linux happens in the console. Console has two main text editors: vim and nano.
 
 ```
-vi 1.txt
+vim 1.txt
 nano 1.txt
 ```
 
