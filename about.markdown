@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Software, art and academic works can be accessible.<br>
+Here I share software, art and academic works that I want to be accessible.<br>
 I made this site with [Jekyll](/en/jekyll).<br>
 
-Cофт, искусcтво и академические работы могут быть доступными.<br>
+Здесь я делюсь софтом, искусcтвом и академическими работами, которые я хочу сделать доступными.<br>
 Я сделал этот сайт с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
