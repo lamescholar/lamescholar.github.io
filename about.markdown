@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-The purpose of this site is to make software, art and academic works accessible.<br>
+Software, art and academic works can be readily accessible.<br>
 I made this site with [Jekyll](/en/jekyll).<br>
 
-Цель этого сайта - сделать софт, искусcтво и академические работы доступными.<br>
+Cофт, искусcтво и академические работы могут быть легко доступными.<br>
 Я сделал этот сайт с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
