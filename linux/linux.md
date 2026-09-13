@@ -285,6 +285,12 @@ Lutris (to install and play games)
 PyChess
 
 `sudo pacman -S pychess gtksourceview4`
+
+Chess games:
+
+<https://www.pgnmentor.com/files.html>
+
+<https://theweekinchess.com/>
 <br><br>
 
 You probably noticed that usually you can install a program by typing:
