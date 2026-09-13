@@ -27,8 +27,8 @@ TeXstudio - <https://www.texstudio.org/>
 ```
 \documentclass[a4paper, 12pt]{article}
 \usepackage[margin = 2cm]{geometry}
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
+\usepackage[T2A]{fontenc}
+\usepackage[russian, english]{babel}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
@@ -39,6 +39,6 @@ TeXstudio - <https://www.texstudio.org/>
 \begin{document}
 	\sloppy
 	
-	Hello, World!
+	Привет!
 \end{document}
 ```
