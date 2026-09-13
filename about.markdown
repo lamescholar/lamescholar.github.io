@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A lot of useful software and beautiful art is either inaccessible or unknown. Hence this site.<br>
+I found a lot of software, art and academic works that are either inaccessible or unknown. Hence this site.<br>
 I made this site with [Jekyll](/en/jekyll).<br>
 
-Много полезного софта и прекрасного искусcтва либо недоступно, либо неизвестно. Отсюда этот сайт.<br>
+Я нашёл много софта, искусcтва и академических работ, которые либо недоступны, либо неизвестны. Отсюда этот сайт.<br>
 Я сделал этот сайт с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
