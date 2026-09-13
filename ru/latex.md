@@ -28,7 +28,7 @@ TeXstudio - <https://www.texstudio.org/>
 \documentclass[a4paper, 12pt]{article}
 \usepackage[margin = 2cm]{geometry}
 \usepackage[T2A]{fontenc}
-\usepackage[russian, english]{babel}
+\usepackage[english, russian]{babel}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
