@@ -20,8 +20,6 @@ TeXstudio - <https://www.texstudio.org/>
 Параметры->Конфугурация TeXstudio...->Команды->Внешний просмотрщик PDF. Укажи путь к Sumatra PDF.
 <br><br>
 
-Установи пакет cm-super в MiKTeX Сonsole.
-
 Структура документа:
 
 ```
