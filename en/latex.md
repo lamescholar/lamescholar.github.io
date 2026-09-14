@@ -29,11 +29,11 @@ Document structure:
 \usepackage[margin = 2cm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
+\usepackage{parskip}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}
-\usepackage{parskip}
 \hypersetup{colorlinks = true}
 
 \begin{document}

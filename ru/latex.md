@@ -30,11 +30,11 @@ TeXstudio - <https://www.texstudio.org/>
 \usepackage[T2A]{fontenc}
 \usepackage[english, russian]{babel}
 \usepackage{mlmodern}
+\usepackage{parskip}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}
-\usepackage{parskip}
 \hypersetup{colorlinks = true}
 
 \begin{document}
