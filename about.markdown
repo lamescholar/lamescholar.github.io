@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Here I share software, art and academic works that I want to be accessible.<br>
+On this site I share how to use the internet for self-education.<br>
 I made this site with [Jekyll](/en/jekyll).<br>
 
-Здесь я делюсь софтом, искусcтвом и академическими работами, которые я хочу сделать доступными.<br>
+На этом сайте я делюсь как пользоваться интернетом для самообразования.<br>
 Я сделал этот сайт с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
