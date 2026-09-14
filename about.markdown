@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-On this site I share how to use the internet for self-education.<br>
+Here I share how to use the internet for self-education.<br>
 I made this site with [Jekyll](/en/jekyll).<br>
 
-На этом сайте я делюсь как пользоваться интернетом для самообразования.<br>
+Здесь я делюсь как пользоваться интернетом для самообразования.<br>
 Я сделал этот сайт с помощью [Jekyll](/ru/jekyll).<br>
 <br><br>
 
