@@ -27,8 +27,8 @@ TeXstudio - <https://www.texstudio.org/>
 \usepackage[margin = 2cm]{geometry}
 \usepackage[T2A]{fontenc}
 \usepackage[english, russian]{babel}
-\usepackage{mlmodern}
 \usepackage{parskip}
+\usepackage{mlmodern}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
