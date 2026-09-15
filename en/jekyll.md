@@ -220,9 +220,9 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 
 Sometimes I post some texts. In academia, it is enough to write a citation. But if there is an ebook online, that's what you really should reference.
 
-I like to put the link at the top. Default post layout puts the title of the post at the top, so I copied post.html into _layout folder and removed the piece of code that creates the title.
+I like to put the link at the top. Default post layout always puts the title in the top, so I copied post.html into _layout folder and removed the piece of code that creates the title.
  
-Markdown file of posts looks like this:
+Markdown file of my posts looks like this:
 
 ```
 ---
