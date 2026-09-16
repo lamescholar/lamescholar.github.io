@@ -20,6 +20,8 @@ TeXstudio - <https://www.texstudio.org/>
 Параметры->Конфугурация TeXstudio...->Команды->Внешний просмотрщик PDF. Укажи путь к Sumatra PDF.
 <br><br>
 
+Установи пакет cm-super в MiKTeX Сonsole.
+
 Структура документа:
 
 ```
@@ -28,7 +30,6 @@ TeXstudio - <https://www.texstudio.org/>
 \usepackage[T2A]{fontenc}
 \usepackage[english, russian]{babel}
 \usepackage{parskip}
-\usepackage{mlmodern}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
