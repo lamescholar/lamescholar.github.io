@@ -5,7 +5,7 @@ title: Dictionaries
 ---
 
 Online dictionaries come and go. StarDict dictionaries forever.<br>
-The best program to open StarDict dictionaries (and other formats) is GoldenDict-ng.
+The best program to open StarDict dictionaries is GoldenDict-ng.
 <br><br>
 
 GoldenDict-ng - <https://github.com/xiaoyifang/goldendict-ng/releases>
