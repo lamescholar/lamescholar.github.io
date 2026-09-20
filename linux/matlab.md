@@ -12,11 +12,11 @@ sudo mpm install --release=R2026a --destination=/usr/local/MATLAB/R2026a MATLAB
 
 #### 2. Small fix
 
-<https://archive.archlinux.org/packages/g/gnutls/gnutls-3.8.9-1-x86_64.pkg.tar.zst>
+<https://archlinux.org/packages/core/x86_64/gnutls/download/>
 
 ```
 mkdir -p /tmp/gnutls_extract
-tar -I zstd -xvf ~/Downloads/gnutls-3.8.9-1-x86_64.pkg.tar.zst -C /tmp/gnutls_extract
+tar -I zstd -xvf ~/Downloads/gnutls-VERSION-x86_64.pkg.tar.zst -C /tmp/gnutls_extract
 ```
 
 ```
