@@ -16,7 +16,7 @@ sudo mpm install --release=R2026a --destination=/usr/local/MATLAB/R2026a MATLAB
 
 ```
 mkdir -p /tmp/gnutls_extract
-tar -I zstd -xvf ~/Downloads/gnutls-VERSION-x86_64.pkg.tar.zst -C /tmp/gnutls_extract
+tar -I zstd -xvf <path to gnutls archive> -C /tmp/gnutls_extract
 ```
 
 ```
