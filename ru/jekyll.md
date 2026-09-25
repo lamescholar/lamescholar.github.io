@@ -8,12 +8,11 @@ title: Jekyll
 [Jekyll](https://jekyllrb.com/) - это генератор статических сайтов. Я использую [GitHub Pages](https://pages.github.com/). Это бесплатный хостинг, который поддерживает Jekyll. Лимит - 1 ГБ.
 <br><br>
 
-Для создания сайта необходимо зарегистрироваться на GitHub:
+Для создания сайта необходимо зарегистрироваться на GitHub
 
 <https://github.com/>
-<br><br>
 
-Для создания сайта необходимо установить:
+и установить
 
 Git - <https://git-scm.com/download/win>
 
