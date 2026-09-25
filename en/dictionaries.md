@@ -107,15 +107,29 @@ Encyclopedia of Diderot and D'Alambert - <https://quod.lib.umich.edu/d/did/title
 
 Encyclopedia.com - <https://www.encyclopedia.com/>
 
-World History - <https://www.worldhistory.org/>
+World History Encyclopedia - <https://www.worldhistory.org/>
 
-Larousse - <https://www.larousse.fr/encyclopedie>
-
-Treccani - <https://www.treccani.it/>
+New World Encyclopedia - <https://www.newworldencyclopedia.org/>
 
 Our World in Data - <https://ourworldindata.org/>
 
 Statista
+
+Treccani - <https://www.treccani.it/>
+
+Store norske leksikon - <https://snl.no/>
+
+Hrvatska enciklopedija - <https://www.enciklopedija.hr/>
+
+Visuotinė lietuvių enciklopedija - <https://www.vle.lt/>
+
+Danmarks Nationalleksikon - <https://lex.dk/>
+
+Internet Encyclopedia of Ukraine - <https://www.encyclopediaofukraine.com/default.asp>
+
+TDV İslâm Ansiklopedisi - <https://islamansiklopedisi.org.tr/>
+
+Dictionnaire historique de la Suisse - <https://hls-dhs-dss.ch/fr/>
 <br><br>
 
 #### Fun command-line dictionary
