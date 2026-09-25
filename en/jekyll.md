@@ -21,7 +21,7 @@ Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 
 #### Creating a site
 
-Note: use your GitHub username.
+Note: use your GitHub username
 
 Go to the command line:
 
