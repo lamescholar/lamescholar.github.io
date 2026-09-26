@@ -452,9 +452,13 @@ gem "sass-embedded", "~> 1.60"
 
 Navigate to your repository on GitHub.
 
-Go to Settings -> Pages.
+Go to
 
-Under Build and deployment -> Source, change the dropdown from Deploy from a branch to GitHub Actions.
+Settings -> Pages
+
+Build and deployment -> Source
+
+Change the dropdown from Deploy from a branch to GitHub Actions.
 
 .github/workflows/jekyll.yml
 
