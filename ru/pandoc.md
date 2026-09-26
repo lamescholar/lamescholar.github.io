@@ -4,7 +4,7 @@ comments: true
 title: pandoc
 ---
 
-Программа для конвертирования файлов
+Программа для конвертирования текстовых файлов.
 
 <https://pandoc.org/installing.html>
 

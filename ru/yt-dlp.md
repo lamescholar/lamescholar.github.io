@@ -4,7 +4,7 @@ comments: true
 title: yt-dlp
 ---
 
-Программа для скачивания видео с YouTube
+Программа для скачивания видео с YouTube.
 <br><br>
 
 <https://github.com/yt-dlp/yt-dlp/releases/>
