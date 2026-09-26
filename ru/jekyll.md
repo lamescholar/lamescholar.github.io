@@ -413,4 +413,18 @@ $ E_0 = mc^2 $
 должно рендерится так
 
 $ E_0 = mc^2 $
+<br><br>
 
+#### Моя тема
+
+[_sass](/files/_sass)
+
+assets/main.scss
+
+```
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@use "minima";
+```

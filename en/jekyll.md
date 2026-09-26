@@ -415,4 +415,19 @@ $ E_0 = mc^2 $
 should render like this
 
 $ E_0 = mc^2 $
+<br><br>
+
+#### My theme
+
+[_sass](/files/_sass)
+
+assets/main.scss
+
+```
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@use "minima";
+```
 
