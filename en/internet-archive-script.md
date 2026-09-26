@@ -7,7 +7,7 @@ title: Internet Archive script
 <https://github.com/MiniGlome/Archive.org-Downloader>
 <br><br>
 
-Internet Archive scanned a lot of books. With this Python script, you can download any book from it. The script downloads the photos of the book. Down there I list three options how you can encode the images into PDF or DjVu.
+Internet Archive has scanned a lot of books. Python script can download any book from IA. It downloads the photos of the book. Down there I list three options how you can encode the images into PDF or DjVu.
 
 If the script doesn't work, use this extension:
 
