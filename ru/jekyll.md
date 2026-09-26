@@ -434,3 +434,82 @@ $ E_0 = mc^2 $
 2) assets/fonts/Skolar Sans
 
 [Skolar Sans.zip](/files/Skolar Sans.zip)
+
+3) Dart Sass
+
+Gemfile
+
+```
+gem "jekyll-sass-converter", "~> 3.0"
+gem "sass-embedded", "~> 1.60"
+```
+
+`bundle install`
+
+4) GitHub Actions
+
+Navigate to your repository on GitHub.
+
+Go to
+
+Settings -> Pages
+
+Build and deployment -> Source
+
+Change the dropdown from Deploy from a branch to GitHub Actions.
+
+.github/workflows/jekyll.yml
+
+```
+name: Jekyll
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+```
