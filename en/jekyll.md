@@ -437,6 +437,19 @@ Also add:
 
 [Skolar Sans.zip](/files/Skolar Sans.zip)
 
+3) Dart Sass
+
+Gemfile
+
+```
+gem "jekyll-sass-converter", "~> 3.0"
+gem "sass-embedded", "~> 1.60"
+```
+
+`bundle install`
+
+4) GitHub Actions
+
 Navigate to your repository on GitHub.
 
 Go to Settings -> Pages.
