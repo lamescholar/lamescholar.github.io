@@ -4,7 +4,7 @@ comments: true
 title: yt-dlp
 ---
 
-A program to download YouTube videos
+A program to download YouTube videos.
 <br><br>
 
 <https://github.com/yt-dlp/yt-dlp/releases/>

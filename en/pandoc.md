@@ -4,7 +4,7 @@ comments: true
 title: pandoc
 ---
 
-A program to convert files
+A program to convert text files.
 
 <https://pandoc.org/installing.html>
 

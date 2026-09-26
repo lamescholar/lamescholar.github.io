@@ -4,7 +4,7 @@ comments: true
 title: P2P
 ---
 
-Programs to connect to P2P networks
+Programs to connect to P2P networks.
 <br><br>
 
 #### Soulseek

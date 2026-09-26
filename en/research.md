@@ -4,7 +4,7 @@ comments: true
 title: Research
 ---
 
-My guide to research any topic
+My guide to research any topic.
 <br><br>
 
 First, look at the review articles. They usually have bibliographies in the end. You can find review articles in encyclopedias. See [Dictionaries](/en/dictionaries).
