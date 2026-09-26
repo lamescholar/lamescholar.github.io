@@ -419,9 +419,11 @@ $ E_0 = mc^2 $
 
 #### My theme
 
-[_sass](/files/_sass)
+[_sass.zip](/files/_sass.zip)
 
-assets/main.scss
+Also add:
+
+1) assets/main.scss
 
 ```
 ---
@@ -430,4 +432,8 @@ assets/main.scss
 
 @use "minima";
 ```
+
+2) assets/fonts/Skolar Sans
+
+[Skolar Sans.zip](/files/Skolar Sans.zip)
 

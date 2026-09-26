@@ -417,9 +417,11 @@ $ E_0 = mc^2 $
 
 #### Моя тема
 
-[_sass](/files/_sass)
+[_sass.zip](/files/_sass.zip)
 
-assets/main.scss
+Также добавь:
+
+1) assets/main.scss
 
 ```
 ---
@@ -428,3 +430,7 @@ assets/main.scss
 
 @use "minima";
 ```
+
+2) assets/fonts/Skolar Sans
+
+[Skolar Sans.zip](/files/Skolar Sans.zip)
