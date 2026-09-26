@@ -417,7 +417,7 @@ $ E_0 = mc^2 $
 
 #### Моя тема
 
-[_sass.zip](/files/_sass.zip)
+[theme.zip](/files/theme.zip)
 
 Также добавь:
 

@@ -419,7 +419,7 @@ $ E_0 = mc^2 $
 
 #### My theme
 
-[_sass.zip](/files/_sass.zip)
+[theme.zip](/files/theme.zip)
 
 Also add:
 
