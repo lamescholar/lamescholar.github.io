@@ -456,9 +456,7 @@ Go to
 
 Settings -> Pages
 
-Build and deployment -> Source
-
-Change the dropdown from Deploy from a branch to GitHub Actions.
+Build and deployment -> Source -> GitHub Actions
 
 .github/workflows/jekyll.yml
 
