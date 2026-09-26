@@ -1,56 +1,14 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
+@use "sass:color";
+@use "sass:math";
+@use "minima/variables" as *;
+
+@use "minima/base";
+@use "minima/layout";
+@use "minima/syntax-highlighting";
 
 @font-face {
     font-family: "Skolar Sans";
-	src: url("/assets/fonts/Skolar Sans/SkolarSansPE-Rg.ttf");
+    src: url("/assets/fonts/Skolar Sans/SkolarSansPE-Rg.ttf");
 }
-
-$base-font-family: Skolar Sans;
-$base-font-size:   20px !default;
-$base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
-
-$spacing-unit:     30px !default;
-
-$text-color:       rgb(220,220,220) !default;
-$background-color: rgb(34,34,38) !default;
-$brand-color:      #4bbaff !default;
-
-$grey-color:       rgb(200,200,200) !default;
-$grey-color-light: rgb(100,100,100) !default;
-$grey-color-dark:  rgb(100,100,100) !default;
-
-$table-text-align: left !default;
-
-// Width of the content area
-$content-width:    800px !default;
-
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
-
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
-
-// Import partials.
-@import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
-;

@@ -33,8 +33,6 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.9"
-
 gem "csv", "~> 3.3"
-
 gem "logger", "~> 1.7"
 gem "base64", "~> 0.3.0"

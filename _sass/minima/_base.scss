@@ -1,6 +1,7 @@
-/**
- * Reset some basic elements
- */
+@use "sass:color";
+@use "sass:math";
+@use "minima/variables" as *;
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -8,11 +9,6 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
-
-/**
- * Basic styling
- */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
@@ -28,11 +24,6 @@ body {
   flex-direction: column;
 }
 
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
@@ -40,30 +31,15 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit * 0.5;
 }
 
-
-
-/**
- * `main` element
- */
 main {
-  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  display: block;
 }
 
-
-
-/**
- * Images
- */
 img {
   max-width: 100%;
   vertical-align: middle;
 }
 
-
-
-/**
- * Figures
- */
 figure > img {
   display: block;
 }
@@ -72,11 +48,6 @@ figcaption {
   font-size: $small-font-size;
 }
 
-
-
-/**
- * Lists
- */
 ul, ol {
   margin-left: $spacing-unit;
 }
@@ -88,20 +59,10 @@ li {
   }
 }
 
-
-
-/**
- * Headings
- */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
-
-
-/**
- * Links
- */
 a {
   color: $brand-color;
   text-decoration: none;
@@ -120,10 +81,6 @@ a {
   }
 }
 
-
-/**
- * Blockquotes
- */
 blockquote {
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit * 0.5;
@@ -133,11 +90,6 @@ blockquote {
   }
 }
 
-
-
-/**
- * Code formatting
- */
 pre,
 code {
   font: Liberation Mono;
@@ -162,14 +114,9 @@ pre {
   }
 }
 
-
-
-/**
- * Wrapper
- */
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:          calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
@@ -178,28 +125,11 @@ pre {
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:          calc(#{$content-width} - (#{$spacing-unit}));
     padding-right: $spacing-unit * 0.5;
     padding-left: $spacing-unit * 0.5;
   }
 }
-
-
-
-/**
- * Clearfix
- */
-%clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-
-
-/**
- * Icons
- */
 
 .svg-icon {
     width: 16px;
@@ -216,30 +146,25 @@ pre {
   }
 }
 
-
-
-/**
- * Tables
- */
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
+  color: color.adjust($text-color, $lightness: 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+      background-color: color.adjust($grey-color-light, $lightness: 6%);
     }
   }
   th, td {
-    padding: ($spacing-unit * 0.3333333333) ($spacing-unit * 0.5);
+    padding: ($spacing-unit * math.div(1, 3)) ($spacing-unit * 0.5);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
+    background-color: color.adjust($grey-color-light, $lightness: 3%);
+    border: 1px solid color.adjust($grey-color-light, $lightness: -4%);
+    border-bottom-color: color.adjust($grey-color-light, $lightness: -12%);
   }
   td {
     border: 1px solid $grey-color-light;

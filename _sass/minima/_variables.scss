@@ -1,0 +1,42 @@
+$base-font-family: Skolar Sans !default;
+$base-font-size:   20px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       rgb(220, 220, 220) !default;
+$background-color: rgb(34, 34, 38) !default;
+$brand-color:      #4bbaff !default;
+
+$grey-color:       rgb(200, 200, 200) !default;
+$grey-color-light: rgb(100, 100, 100) !default;
+$grey-color-dark:  rgb(100, 100, 100) !default;
+
+$table-text-align: left !default;
+
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+%vertical-rhythm {
+  margin-bottom: $spacing-unit * 0.5;
+}
+
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
