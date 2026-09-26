@@ -2,12 +2,12 @@
 layout: post
 tag: Posts
 comments: true
-title: Literary magazines you can subscribe to
+title: Literary magazines you can subscribe to (August 2026)
 ---
 
 2026-08-04
 
-# Literary magazines you can subscribe to
+# Literary magazines you can subscribe to (August 2026)
 <br>
 
 Clipboard for large-format magazines:<br>
