@@ -93,7 +93,7 @@ ImWerden:<br>
 
 Коммунистический университет на дому - <https://rutracker.org/forum/viewtopic.php?t=5402675>
 
-В мире науки - <https://rutracker.org/forum/viewtopic.php?t=1831010>
+В мире науки - <https://rutracker.org/forum/viewtopic.php?t=6331869>
 
 Природа:<br>
 <https://priroda.ras.ru/><br>
