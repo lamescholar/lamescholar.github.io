@@ -26,11 +26,11 @@ Document structure:
 
 ```
 \documentclass[a4paper, 12pt]{article}
-\usepackage[margin = 2cm]{geometry}
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
+\usepackage[margin = 1in]{geometry}
 \usepackage{parskip}
-\usepackage{amsmath}
+\usepackage[T2A]{fontenc}
+\usepackage[english, russian]{babel}
+\usepackage{amsmath, amssymb, mathtools}
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}

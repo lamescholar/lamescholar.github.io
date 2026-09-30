@@ -26,11 +26,11 @@ TeXstudio - <https://www.texstudio.org/>
 
 ```
 \documentclass[a4paper, 12pt]{article}
-\usepackage[margin = 2cm]{geometry}
+\usepackage[margin = 1in]{geometry}
+\usepackage{parskip}
 \usepackage[T2A]{fontenc}
 \usepackage[english, russian]{babel}
-\usepackage{parskip}
-\usepackage{amsmath}
+\usepackage{amsmath, amssymb, mathtools}
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}
