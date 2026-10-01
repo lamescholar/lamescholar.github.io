@@ -9,7 +9,7 @@ Language model:<br>
 
 ocr.py:
 
-```python
+```
 import base64
 import requests
 import subprocess
