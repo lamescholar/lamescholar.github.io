@@ -17,4 +17,6 @@ I started Pirate Cookbook on Windows. Now I moved on to Linux. I will keep my Wi
 
 [MATLAB on Linux](/linux/matlab)
 
+[OCR](/linux/ocr)
+
 [Локальный переводчик](/linux/local-translator-ru)
