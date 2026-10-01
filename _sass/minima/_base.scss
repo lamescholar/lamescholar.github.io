@@ -150,14 +150,9 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: color.adjust($text-color, $lightness: 18%);
+  color: rgb(230,230,230);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
-  tr {
-    &:nth-child(even) {
-      background-color: color.adjust($grey-color-light, $lightness: 6%);
-    }
-  }
   th, td {
     padding: ($spacing-unit * math.div(1, 3)) ($spacing-unit * 0.5);
   }
