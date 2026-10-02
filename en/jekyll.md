@@ -138,6 +138,14 @@ With a link:
 [![Picture description](/images/image.png)](link)
 {: refdef}
 ```
+
+HTML:
+
+```
+{:refdef: style="text-align: center;"}
+<img src="/images/image.png" width="500">
+{: refdef}
+```
 <br>
 
 #### Adding audio
