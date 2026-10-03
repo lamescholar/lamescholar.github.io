@@ -53,7 +53,7 @@ My collection of RSS feeds:
 
 More about RSS:
 
-<https://lamescholar.github.io/ru/rss>
+<https://lamescholar.github.io/en/rss>
 <br><br>
 
 In the end we get free (not counting VPN) access to recent publications from hundreds of sources.
