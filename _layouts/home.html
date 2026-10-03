@@ -30,3 +30,7 @@ layout: default
   {%- endif -%}
 
 </div>
+
+{% if page.math %}
+  {% include mathjax.html %}
+{% endif %}
