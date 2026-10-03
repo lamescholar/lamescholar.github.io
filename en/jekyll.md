@@ -146,6 +146,24 @@ HTML:
 <img src="/images/image.png" width="500">
 {: refdef}
 ```
+
+```
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="text-align: center;">
+  <img src="/images/look-see-2.jpg" style="max-height: 250px; max-width: 100%; height: auto;">
+  <br/>
+  (a)
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/look-see-3.jpg" style="max-height: 250px; max-width: 100%; height: auto;">
+  <br/>
+  (b)
+</div>
+
+</div>
+```
 <br>
 
 #### Adding audio
