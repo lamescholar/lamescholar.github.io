@@ -67,7 +67,7 @@ title: Поваренная книга пирата
 
 [Как находить электронные книги](/ru/how-to-find-ebooks)
 
-[Как создавать электроные книги](/ru/how-to-create-ebooks)
+[Как сделать электронную книгу](/ru/how-to-create-ebooks)
 
 [Как покупать книги](/ru/how-to-buy-books)
 
