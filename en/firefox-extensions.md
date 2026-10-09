@@ -13,6 +13,15 @@ Instant snapshot of a page.
 Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
 To modify CSS (font size etc.)
 
+```
+body{
+    font-size: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+```
+
 uBlock Origin - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/><br>
 No ads.
 
