@@ -46,13 +46,13 @@ Source: <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-je
 
 #### Information on the site
 
-In the file _config.yml, fill the title, author, email, url, description (you can delete it). In the about.markdown file, write a description of the site.
+In _config.yml fill the title, author, email, url, description (you can delete it). In about.markdown write a description of the site.
 <br><br>
 
 #### Creating a page
 
 Create .md file in the site folder. For example, page.md<br>
-Then a page will appear on your site at https://username.github.io/page<br>
+Then the page will appear on your site at https://username.github.io/page<br>
 You can put the file in the folder named folder. Then a page will appear on your site at https://username.github.io/folder/page
 <br><br>
 
@@ -115,9 +115,9 @@ Code block - <https://docs.github.com/ru/get-started/writing-on-github/working-w
 
 #### Adding picture
 
-Let's say you put an image.png picture in the folder named images.
+Let's say you put image.png into the folder named images.
 
-Place an image on the page:
+To place this image on the page:
 
 ```
 ![Picture description](/images/image.png)
@@ -194,12 +194,12 @@ git commit -m "new commit"
 git push
 ```
 
-You can create .bat file and put these commands into it. Then the commit can be done with two clicks. To prevent the command line from closing immediately after executing commands, add pause command.
+You can create .bat file and put these commands inside. Then the commit can be done with two clicks. To stop the command line from closing immediately after executing commands, add `pause` at the end.
 <br><br>
 
 #### Starting the site locally
 
-To counter an error,  you need to add webrick to Gemfile:
+To avoid errors, you need to add webrick to Gemfile:
 
 ```
 cd username.github.io
