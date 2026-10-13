@@ -256,6 +256,13 @@ c:
 cd windows
 win
 ```
+
+\[sdl\]
+
+```
+windowresolution  = 1600x1200
+output            = openglpp
+```
 <br>
 
 #### Windows 95
