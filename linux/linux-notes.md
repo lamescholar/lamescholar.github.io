@@ -261,7 +261,7 @@ win
 
 ```
 windowresolution  = 1600x1200
-output            = openglpp
+output            = opengl
 ```
 <br>
 
