@@ -15,8 +15,9 @@ Z-Library - <http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.oni
 
 Флибуста - <http://flibusta.is/a>
 
-Либрусек - <https://lib.rus.ec/a><br>
-Cкачивание доступно только после вклада в библиотеку.
+Либрусек:<br>
+<http://lib.rusec.net/a><br>
+<https://lib.rus.ec/a> - cкачивание доступно только после вклада в библиотеку
 
 Internet Archive - <https://archive.org/><br>
 <https://lamescholar.github.io/ru/internet-archive-script>
