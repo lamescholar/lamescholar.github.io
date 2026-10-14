@@ -112,7 +112,6 @@ source ~/.bashrc
 
 Extension Manager:<br>
 AppIndicator<br>
-Volume Percent Display
 
 Thumbnailers:
 
