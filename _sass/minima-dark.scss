@@ -2,11 +2,11 @@
 
 @use "sass:color";
 @use "sass:math";
-@use "minima/variables" as *;
+@use "minima-dark/variables" as *;
 
-@use "minima/base";
-@use "minima/layout";
-@use "minima/syntax-highlighting";
+@use "minima-dark/base";
+@use "minima-dark/layout";
+@use "minima-dark/syntax-highlighting";
 
 @font-face {
     font-family: "Skolar Sans";
