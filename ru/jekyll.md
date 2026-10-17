@@ -428,7 +428,7 @@ $ E_0 = mc^2 $
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@use "minima";
+@use "minima-dark";
 ```
 
 2) assets/fonts/Skolar Sans

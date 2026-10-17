@@ -456,7 +456,7 @@ Also add:
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@use "minima";
+@use "minima-dark";
 ```
 
 2) assets/fonts/Skolar Sans
