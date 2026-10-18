@@ -9,7 +9,7 @@ Online dictionaries come and go. StarDict dictionaries forever.
 
 The best program to open StarDict dictionaries is GoldenDict-ng.
 
-GoldenDict-ng - <https://github.com/xiaoyifang/goldendict-ng/releases>
+<https://github.com/xiaoyifang/goldendict-ng/releases>
 
 article-style.css:
 

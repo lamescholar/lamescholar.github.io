@@ -4,11 +4,12 @@ comments: true
 title: Словари
 ---
 
-Онлайн-словари приходят и уходят. StarDict-словари навсегда.<br>
-Лучшая программа для открытия StarDict-словарей - это GoldenDict-ng.
+Онлайн-словари приходят и уходят. StarDict-словари навсегда.
 <br><br>
 
-GoldenDict-ng - <https://github.com/xiaoyifang/goldendict-ng/releases>
+Лучшая программа для открытия StarDict-словарей - это GoldenDict-ng.
+
+<https://github.com/xiaoyifang/goldendict-ng/releases>
 
 article-style.css:
 
