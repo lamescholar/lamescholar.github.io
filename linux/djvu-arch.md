@@ -9,7 +9,12 @@ title: "DjVu - Arch Linux"
 1) Scan Tailor Universal - process images
 
 ```
-yay -S scantailor-universal-git
+cd /tmp
+git clone https://aur.archlinux.org/scantailor-universal-git.git
+cd scantailor-universal-git
+nano PKGBUILD
+libjpeg->libjpeg.so
+makepkg -si
 
 Scale fix:
 sudo nano /usr/share/applications/scantailor-universal.desktop

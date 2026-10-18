@@ -191,18 +191,6 @@ WantedBy=suspend.target hibernate.target
 `Exec=env QT_FONT_DPI=120 QT_SCALE_FACTOR=1.5`
 <br><br>
 
-#### ScanTailor Universal
-
-```
-cd /tmp
-git clone https://aur.archlinux.org/scantailor-universal-git.git
-cd scantailor-universal-git
-nano PKGBUILD
-libjpeg->libjpeg.so
-makepkg -si
-```
-<br>
-
 #### Shortcut to rewind 5s
 
 `playerctl --player=fooyin position 5-`
