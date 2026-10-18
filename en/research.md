@@ -22,7 +22,7 @@ Finally, look up your topic into this universal bibliography:
 
 Now you can go look for sources:
 
-[Particular book](/en/how-to-find-books)
+[Particular book](/en/how-to-find-ebooks)
 
 [Books](/en/libraries)
 
