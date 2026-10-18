@@ -6,7 +6,7 @@ title: "DjVu - Arch Linux"
 
 #### Workflow
 
-1) Scan Tailor Universal - process images
+1) Scan Tailor Universal -- process images
 
 ```
 cd /tmp
@@ -25,7 +25,7 @@ adwaita-qt5-git
 ```
 <br>
 
-2) sep.sh - encode DjVu
+2) sep.sh -- encode DjVu
 
 ```
 #!/bin/bash
@@ -82,21 +82,21 @@ echo "Done."
 ```
 <br>
 
-3) FineReader 15 - OCR
+3) FineReader 15 -- OCR
 
 Wine
 <br><br>
 
-4) FR crutch - insert OCR layer
+4) FR crutch -- insert OCR layer
 
 Wine
 <br><br>
 
-5) PDF & Djvu Bookmarker - insert contents
+5) PDF & Djvu Bookmarker -- insert contents
 
 Wine
 <br><br>
 
-6) Document Express Editor 6 - insert cover
+6) Document Express Editor 6 -- insert cover
 
 Wine
