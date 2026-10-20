@@ -282,12 +282,12 @@ title: Заглавие текста
     }
 
     .toggle-annotations {
-      position: fixed;
+      position: absolute;
       top: 20px;
       right: 20px;
       padding: 8px 16px;
-      background-color: #0069d8;
-      color: rgb(230,230,230);
+      background-color: #007bff8;
+      color: white;
       border: none;
       border-radius: 4px;
       cursor: pointer;
@@ -296,7 +296,7 @@ title: Заглавие текста
     }
 
     .toggle-annotations:hover {
-      background-color: #0055af;
+      background-color: #0056b3;
     }
 
     .underlining {
