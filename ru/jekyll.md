@@ -286,7 +286,7 @@ title: Заглавие текста
       top: 20px;
       right: 20px;
       padding: 8px 16px;
-      background-color: #007bff8;
+      background-color: #007bff;
       color: white;
       border: none;
       border-radius: 4px;
