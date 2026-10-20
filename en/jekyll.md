@@ -324,7 +324,7 @@ Add this script to post.html:
     }
 
     .toggle-annotations:hover {
-      background-color: #0056b3;
+      background-color: #0055af;
     }
 
     .underlining {
