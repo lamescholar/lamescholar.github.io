@@ -85,7 +85,7 @@ def main():
             for index, path in enumerate(image_paths, start=1):
                 print(f"[{index}/{len(image_paths)}] {path}")
                 try:
-                    out_f.write(ocr_image(path) + "\n")
+                    out_f.write(ocr_image(path) + "\n\n")
                     out_f.flush()
                 except Exception as e:
                     print(f"Error {path}: {e}")

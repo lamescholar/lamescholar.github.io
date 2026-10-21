@@ -152,13 +152,13 @@ HTML:
 
 <div style="text-align: center;">
   <img src="/images/look-see-2.jpg" style="max-height: 250px; max-width: 100%; height: auto;">
-  <br/>
+  <br>
   (a)
 </div>
 
 <div style="text-align: center;">
   <img src="/images/look-see-3.jpg" style="max-height: 250px; max-width: 100%; height: auto;">
-  <br/>
+  <br>
   (b)
 </div>
 
