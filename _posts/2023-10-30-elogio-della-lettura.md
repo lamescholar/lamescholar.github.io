@@ -44,4 +44,4 @@ L'articolo in pagina è tratto dal libro di Alberto Manguel, Una storia della le
 
 # Supplemento
 
-[Manguel A. - Una storia della lettura - 2009](https://library.lol/main/1EC48F0770F6D5616CD951A1333C8A24)
+[Manguel A. - Una storia della lettura - 2009](https://libgen.li/ads.php?md5=1ec48f0770f6d5616cd951a1333c8a24)

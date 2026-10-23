@@ -18,7 +18,7 @@ Benito Mussolini’s seizure of power in Italy in 1922 was secretly assisted by 
 
 Backed by violent gangs of blackshirts, Mussolini set up a fascist regime in Italy in the 1920s, banned Jews from public life in the 1930s and sided with Hitler in the Second World War before he was lynched by partisans in 1945.
 
-Although he battled the British in Africa during the war, archives show Mussolini partly owed his rapid rise to British officials who helped organise his 1922 march on Rome, said Giovanni Fasanella, co-author of [*Nero di Londra*](https://library.lol/main/62154DFE176123CCBE9165FD35F15BAA).
+Although he battled the British in Africa during the war, archives show Mussolini partly owed his rapid rise to British officials who helped organise his 1922 march on Rome, said Giovanni Fasanella, co-author of [*Nero di Londra*](https://libgen.li/ads.php?md5=62154dfe176123ccbe9165fd35f15baa).
 
 “The British helped orchestrate the march and propel Mussolini to power because they wanted to make him the key figure in a government which would be useful to them,” he told *The Times*.
 
