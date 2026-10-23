@@ -7,7 +7,9 @@ title: "Periodical of the Week #1 - History Today"
 
 2024-10-18
 
-# Periodical of the Week #1 - History Today
+# Periodical of the Week #1
+
+# History Today
 <br>
 
 I found a lot of great educational periodicals online. Here: [Magazines](/en/magazines). I have an idea to do a series of weekly posts to introduce them. The first periodical of the week is History Today.
