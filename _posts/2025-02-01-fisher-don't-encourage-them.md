@@ -5,7 +5,7 @@ comments: true
 title: Mark Fisher - don’t vote, don’t encourage them (2005)
 ---
 
-Source: [Fisher, Mark - K-Punk_ The Collected and Unpublished Writings of Mark Fisher (2004-2016) - 2018](https://z-library.sk/book/3631135/89a19f/kpunk-the-collected-and-unpublished-writings-of-mark-fisher-20042016.html)<br>
+Source: [Fisher, Mark - K-Punk_ The Collected and Unpublished Writings of Mark Fisher (2004-2016) - 2018](https://libgen.li/ads.php?md5=35d0a167440e19bf6853feb2d3528cba)<br>
 If you want to buy the paperback volume, see [Buying books](/en/buying-books). If you're into clear book covers, the height of the paperback is 9.18", so order [9" clear book covers](https://www.amazon.com/ClearBags-Protect-Against-Archival-BC9/dp/B0D112HWLB) (in fact 9.25"). 
 <br><br>
 

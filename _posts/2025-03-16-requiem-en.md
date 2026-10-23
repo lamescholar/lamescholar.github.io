@@ -5,7 +5,7 @@ comments: true
 title: Jean Baudrillard - Requiem for the Media (1981)
 ---
 
-Source: [Baudrillard, Jean - For a Critique of the Political Economy of the Sign - 2019](https://libgen.rs/book/index.php?md5=C5FAAACC411C25DA359AB1283C2607D8)
+Source: [Baudrillard, Jean - For a Critique of the Political Economy of the Sign - 2019](https://libgen.li/ads.php?md5=c5faaacc411c25da359ab1283c2607d8)
 <br><br>
 
 # Requiem for the Media

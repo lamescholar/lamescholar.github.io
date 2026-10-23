@@ -5,7 +5,7 @@ comments: true
 title: Aaron Swartz - The Book That Changed My Life (2006)
 ---
 
-Source: [Swartz, Aaron - The Boy Who Could Change the World_ The Writings of Aaron Swartz - 2016](https://z-library.sk/book/5102992/539072/the-boy-who-could-change-the-world-the-writings-of-aaron-swartz.html)
+Source: [Swartz, Aaron - The Boy Who Could Change the World_ The Writings of Aaron Swartz - 2016](https://libgen.li/ads.php?md5=08d4afe0b607580600c2c948ef73fa7f)
 <br><br>
 
 # The Book That Changed My Life
