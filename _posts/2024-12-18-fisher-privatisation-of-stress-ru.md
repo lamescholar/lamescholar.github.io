@@ -86,7 +86,7 @@ title: Марк Фишер - Приватизация стресса (2011)
 
 [^1]: Первая публикация: Soundings. No. 48: The Neoliberal Revolution. Summer 2011. Репринт: New Left Project. 7 September 2011: [Wayback Machine](https://web.archive.org/web/20120208155025/http://www.newleftproject.org/index.php/site/article_comments/the_privatisation_of_stress)
 
-[^2]: Southwood I. [Non-Stop Inertia](https://libgen.st/book/index.php?md5=48C6FBA1F62393F9FB289978C6B1433C). Zer0, 2010. P. 72.
+[^2]: Southwood I. [Non-Stop Inertia](https://libgen.li/ads.php?md5=48c6fba1f62393f9fb289978c6b1433c). Zer0, 2010. P. 72.
 
 [^3]: Ibid. P. 15.
 
@@ -94,9 +94,9 @@ title: Марк Фишер - Приватизация стресса (2011)
 
 [^5]: Джереми Гилберт, см.: [Elitism, Philistinism and Populism: the Sorry State of British Higher Education Policy](https://www.opendemocracy.net/en/opendemocracyuk/elitism-philistinism-and-populism-sorry-tale-of-british-higher-education-p/) // open Democracy. 2010.
 
-[^6]: [New Times: The Changing Face of Politics in the 1990s](https://libgen.st/book/index.php?md5=E2C93123D66A2805652BF0AE13533E58) / eds. S. Hall, M. Jacques. Lawrence and Wishart, 1989.
+[^6]: [New Times: The Changing Face of Politics in the 1990s](https://libgen.li/ads.php?md5=e2c93123d66a2805652bf0ae13533e58) / eds. S. Hall, M. Jacques. Lawrence and Wishart, 1989.
 
-[^7]: Negri A. [Art and Multitude](https://z-library.sk/book/21260598/54ddae/art-and-multitude.html). Polity, 2010. P. 10.
+[^7]: Negri A. [Art and Multitude](https://libgen.li/ads.php?md5=df8655c2b65bce45da7d06c20a9838d2). Polity, 2010. P. 10.
 
 [^8]: Savonarola. Curriculum Mortis // Institute for Conjectural Research. 4 August 2008: conjunctural.blogspot.com/2008/08/curriculum-mortis.html
 
@@ -104,18 +104,18 @@ title: Марк Фишер - Приватизация стресса (2011)
 
 [^10]: Veen T. van. Business Ontology (or why Xmas Gets You Fired) // Fugitive Philosophy. 29 December 2009: fugitive.quadrantcrossing.org/2009/12/business-ontology
 
-[^11]: Berardi F. [Precarious Rhapsody: Semiocapitalism and the Pathologies of the Post-Alpha Generation](https://libgen.st/book/index.php?md5=6D20150B9D7BCDB411F24805765DB705). Minor Compositions, 2009. P. 32.
+[^11]: Berardi F. [Precarious Rhapsody: Semiocapitalism and the Pathologies of the Post-Alpha Generation](https://libgen.li/ads.php?md5=0fc980e09cb04024154853c562997905). Minor Compositions, 2009. P. 32.
 
 [^12]: Ibid. P. 40.
 
-[^13]: Turkle S. [Alone Together: Why We Expect More From Technology and Less from Each Other](https://libgen.st/book/index.php?md5=1106A7401AA63E55D926CA1E23314E6F). Basic, 2011. P. 264.
+[^13]: Turkle S. [Alone Together: Why We Expect More From Technology and Less from Each Other](https://libgen.li/ads.php?md5=1106a7401aa63e55d926ca1e23314e6f). Basic, 2011. P. 264.
 
-[^14]: Dean J. [Blog Theory: Feedback and Capture in the Circuits of Drive](https://libgen.st/book/index.php?md5=395B0B585FA55E9C79C06C671C562EC4). Polity, 2010.
+[^14]: Dean J. [Blog Theory: Feedback and Capture in the Circuits of Drive](https://libgen.li/ads.php?md5=395b0b585fa55e9c79c06c671c562ec4). Polity, 2010.
 
-[^15]: Hind D. [The Return of the Public](https://libgen.st/book/index.php?md5=DC4085D871F3C39F10661B1AEF104369). Verso, 2010. P. 146.
+[^15]: Hind D. [The Return of the Public](https://libgen.li/ads.php?md5=dc4085d871f3c39f10661b1aef104369). Verso, 2010. P. 146.
 
-[^16]: Smail D. [Power, Interest and Psychology: Elements of a Social Materialist Understanding of Distress](https://libgen.st/book/index.php?md5=564FF628CBAEB558C0A98E48B4396255). PCCS, 2009. P. 11.
+[^16]: Smail D. [Power, Interest and Psychology: Elements of a Social Materialist Understanding of Distress](https://libgen.li/ads.php?md5=564ff628cbaeb558c0a98e48b4396255). PCCS, 2009. P. 11.
 
 [^17]: Ibid. P. 7.
 
-[^18]: Illouz E. [Cold Intimacies: The Making of Emotional Capitalism](https://libgen.st/book/index.php?md5=ABFD0D0F476FF4C882FCC9FD07B1A60E). Polity, 2007.
+[^18]: Illouz E. [Cold Intimacies: The Making of Emotional Capitalism](https://libgen.li/ads.php?md5=abfd0d0f476ff4c882fcc9fd07b1a60e). Polity, 2007.
