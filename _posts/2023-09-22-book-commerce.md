@@ -16,7 +16,7 @@ But you have made it a den of robbers.”<br>
 
 And when the chief priests and the scribes heard it, they kept looking for a way to kill him; for they were afraid of him, because the whole crowd was spellbound by his teaching. And when evening came, Jesus and his disciples went out of the city.
 
- [Mark 11:15-19](https://libgen.is/book/index.php?md5=87327E0DAB536817ED08D5C2E8563684)
+ [Mark 11:15-19](https://libgen.li/file.php?md5=87327e0dab536817ed08d5c2e8563684)
 <br><br>
 
 <https://www.theverge.com/2023/3/20/23641457/internet-archive-hachette-lawsuit-court-copyright-fair-use>
