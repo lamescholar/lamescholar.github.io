@@ -46,4 +46,4 @@ The article on the page is taken from the book by Alberto Manguel, A History of 
 
 # Supplement
 
-[Manguel, Alberto - A History of Reading - 2014](https://libgen.st/book/index.php?md5=E32485B1A2964E6B4E304165DDCF0570)
+[Manguel, Alberto - A History of Reading - 2014](https://libgen.li/ads.php?md5=e32485b1a2964e6b4e304165ddcf0570)
