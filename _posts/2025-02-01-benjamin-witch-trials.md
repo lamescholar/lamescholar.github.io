@@ -5,7 +5,7 @@ comments: true
 title: Walter Benjamin - Witch Trials (1930)
 ---
 
-Source: [Benjamin, Walter - Radio Benjamin - 2014](https://z-library.sk/book/2474204/c8eb72/radio-benjamin.html)
+Source: [Benjamin, Walter - Radio Benjamin - 2014](https://libgen.li/ads.php?md5=15a2ebbe02c0bd6b534c3e449b138777)
 <br><br>
 
 <h1 style="text-align: center;"><i>Witch Trials</i></h1>
