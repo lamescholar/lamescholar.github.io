@@ -5,7 +5,7 @@ comments: true
 title: What Matters
 ---
 
-Source: [Blue Collar Review](https://www.angelfire.com/va/bcr/) Fall 2023
+Source: [Blue Collar Review](https://bcrpoems.blogspot.com/) Fall 2023
 <br><br>
 
 # What Matters
