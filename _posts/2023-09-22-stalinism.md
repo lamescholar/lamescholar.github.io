@@ -196,41 +196,41 @@ title: "Дугин А.Н. - Сталинизм: легенды и факты"
 
 - [Аппельбаум Э. - ГУЛАГ. Паутина Большого террора - 2006](http://flibusta.is/b/204921)
 
-- [Земсков В.Н. - Сталин и народ. Почему не было восстания - 2014](http://library.lol/main/62B6D9A874D076793D060F89BD3A95E5)
+- [Земсков В.Н. - Сталин и народ. Почему не было восстания - 2014](https://libgen.li/ads.php?md5=62b6d9a874d076793d060f89bd3a95e5)
 
-- [Кропачев С.А. - От лжи к покаянию. Отечественная историография о масштабах репрессий и потерях СССР в 1937–1945 годах. Монография - 2011](http://library.lol/main/5914C17A5A48E4CF5B01036975BCA516)
+- [Кропачев С.А. - От лжи к покаянию. Отечественная историография о масштабах репрессий и потерях СССР в 1937–1945 годах. Монография - 2011](https://libgen.li/ads.php?md5=5914c17a5a48e4cf5b01036975bca516)
 
 - [Сарабеев В.Ю. - Троцкий, Сталин, коммунизм - 2021](http://flibusta.is/b/631895)
 
 - [Яковлев А.Н. (ред.) - Реабилитация_ Политические процессы 30-50-х годов - 1991](https://archive.org/download/B-001-033-782-ALL/B-001-033-782-03.pdf)
 
-- [Getty J.A. - Origins of the Great Purges_ The Soviet Communist Party Reconsidered, 1933-1938 - 1987](http://library.lol/main/EEB6DBF83D7B3A59D4A4A25B6E5A476C)
+- [Getty J.A. - Origins of the Great Purges_ The Soviet Communist Party Reconsidered, 1933-1938 - 1987](https://libgen.li/ads.php?md5=eeb6dbf83d7b3a59d4a4a25b6e5a476c)
 
-- [Getty J.A., Naumov O.V. - The Road to Terror_ Stalin and the Self-Destruction of the Bolsheviks, 1932-1939 - 1999](http://library.lol/main/103971B210981353A22B10FCFB637F16)
+- [Getty J.A., Naumov O.V. - The Road to Terror_ Stalin and the Self-Destruction of the Bolsheviks, 1932-1939 - 1999](https://libgen.li/ads.php?md5=103971b210981353a22b10fcfb637f16)
 
-- [Grover Furr Omnibus](http://library.lol/main/48F580E2E2B9D7E1BACAC9405F8420CB)
+- [Grover Furr Omnibus](https://libgen.li/ads.php?md5=48f580e2e2b9d7e1bacac9405f8420cb)
 
 - [Zizek S. - When the Party Commits Suicide](https://disk.yandex.ru/i/dUUVYFzb3UvuRw)
 
 1937-1938:
 
-- [Наумов Л.А. - Кровавый карлик против Вождя народов. Заговор Ежова - 2009](http://library.lol/main/849F69736DA8420ECB388D185B8AF6CA)
+- [Наумов Л.А. - Кровавый карлик против Вождя народов. Заговор Ежова - 2009](https://libgen.li/ads.php?md5=849f69736da8420ecb388d185b8af6ca)
 
 - [Наумов Л.А. - Сталин и НКВД - 2010](https://vk.com/doc73392216_623314016)
 
 - [Петров Н., Янсен М. - «Сталинский питомец». Николай Ежов - 2020](https://rutracker.org/forum/viewtopic.php?t=6199061)
 
-- [Юнге М., Биннер Р. - Как террор стал «Большим». Секретный приказ № 00447 и технология его исполнения - 2003](http://library.lol/main/60EF710C3EB5A6E4A6B013BE79250052)
+- [Юнге М., Биннер Р. - Как террор стал «Большим». Секретный приказ № 00447 и технология его исполнения - 2003](https://libgen.li/ads.php?md5=60ef710c3eb5a6e4a6b013be79250052)
 
 После 1937-1938:
 
 - [Эхо Большого террора. Сборник документов в трех томах](https://rutracker.org/forum/viewtopic.php?t=5742212)
 
-- [Дугин А.Н. - Тайны архивов НКВД СССР 1937–1938 (взгляд изнутри) - 2020](http://library.lol/main/EEC16E24C6B028CA790CC619833A87C0)
+- [Дугин А.Н. - Тайны архивов НКВД СССР 1937–1938 (взгляд изнутри) - 2020](https://libgen.li/ads.php?md5=eec16e24c6b028ca790cc619833a87c0)
 
 - [Политбюро и дело Берия. Сборник документов](http://flibusta.is/b/541207)
 
-- [Доклад Н.С.Хрущева о культе личности Сталина на ХХ съезде КПСС_ Документы - 2002](http://library.lol/main/E0D1245C9BE95B03F44D5E9251C3AAD1)
+- [Доклад Н.С.Хрущева о культе личности Сталина на ХХ съезде КПСС_ Документы - 2002](https://libgen.li/ads.php?md5=e0d1245c9be95b03f44d5e9251c3aad1)
 
 #### Книжные серии:
 
