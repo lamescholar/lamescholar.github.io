@@ -5,7 +5,7 @@ comments: true
 title: John Lennon and Yoko Ono talk with Tariq Ali and Robin Blackburn
 ---
 
-Source: [Lennon on Lennon - 2017](https://libgen.rs/book/index.php?md5=4FAA68A7633D82BECDEAB370A6FD2741)
+Source: [Lennon on Lennon - 2017](https://libgen.li/ads.php?md5=4faa68a7633d82becdeab370a6fd2741)
 <br><br>
 
 # CONVERSATION
