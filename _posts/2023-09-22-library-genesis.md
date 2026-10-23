@@ -5,7 +5,7 @@ comments: true
 title: "Library Genesis: рождение глобальной научной теневой библиотеки"
 ---
 
-Источник: [Karaganis, Joe (ed.) - Shadow Libraries_ Access to Knowledge in Global Higher Education - 2018](http://library.lol/main/108A7F4E752BDFF81EE5B378D46BD9CE)
+Источник: [Karaganis, Joe (ed.) - Shadow Libraries_ Access to Knowledge in Global Higher Education - 2018](https://libgen.li/ads.php?md5=108a7f4e752bdff81ee5b378d46bd9ce)
 
 Перевод с английского: ChatGPT, lamescholar - 2023-09-22
 <br><br>
@@ -299,31 +299,31 @@ lib.ru с акцентом на русскоязычную литературн�
 
 # Ссылки
 
-Alekseeva, L., C. Pearce, and J. Glad. 1985. [Soviet Dissent: Contemporary Movements for National, Religious, and Human Rights](http://library.lol/main/1CA349057D93EE1079CAE32FF942AF57). Middletown, CT: Wesleyan University Press.
+Alekseeva, L., C. Pearce, and J. Glad. 1985. [Soviet Dissent: Contemporary Movements for National, Religious, and Human Rights](https://libgen.li/ads.php?md5=1ca349057d93ee1079cae32ff942af57). Middletown, CT: Wesleyan University Press.
 
-Battles, M. 2004. [Library: An Unquiet History](http://library.lol/main/C18C9261C1032106273FEA1536227950). New York: W. W. Norton.
+Battles, M. 2004. [Library: An Unquiet History](https://libgen.li/ads.php?md5=c18c9261c1032106273fea1536227950). New York: W. W. Norton.
 
-Bodó, B. 2013. “Set the Fox to Watch the Geese: Voluntary IP Regimes in Piratical File-sharing Communities.” In [Piracy: Leakages from Modernity](http://library.lol/main/4331E7FDA81CE58F8EE17B2B949C925C), ed. M. Fredriksson and J. Arvanitakis, 241–264. Sacramento, CA: Litwin Books.
+Bodó, B. 2013. “Set the Fox to Watch the Geese: Voluntary IP Regimes in Piratical File-sharing Communities.” In [Piracy: Leakages from Modernity](https://libgen.li/ads.php?md5=4331e7fda81ce58f8ee17b2b949c925c), ed. M. Fredriksson and J. Arvanitakis, 241–264. Sacramento, CA: Litwin Books.
 
 Bodó, B. 2016. “[Pirates in the Library—An Inquiry into the Guerilla Open Access Movement](https://sci-hub.ru/10.2139/ssrn.2816925).” Paper prepared for the 8th Annual Workshop of the International Society for the History and Theory of Intellectual Property, CREATe, University of Glasgow, UK, July 6–8, 2016. https://ssrn.com/abstract=2816925 (accessed August 17, 2017).
 
-Borges, J. L. 1998. “The Library of Babel.” In [Collected Fictions](http://library.lol/main/F99402AE51086BDE12EE2319FD45BC48), 112–118. New York: Penguin.
+Borges, J. L. 1998. “The Library of Babel.” In [Collected Fictions](https://libgen.li/ads.php?md5=f99402ae51086bde12ee2319fd45bc48), 112–118. New York: Penguin.
 
 Budylin, S., and Y. Osipova. 2007. “[Is AllOfMP3 Legal? Non-Contractual Licensing under Russian Copyright Law](https://sites.suffolk.edu/jhtl/files/2018/02/Budylin_article-1m9mck8.pdf).” Journal of High Technology Law 7 (1): 1–18.
 
 Bush, V. 1945. “[As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/).” Atlantic Monthly 7:112–124.
 
-Dewhirst, M., and R. Farrell, eds. 1973. [The Soviet Censorship](http://library.lol/main/2C0FEEC6EC5C5937F1E9C67FC105A611). Metuchen, NJ: The Scarecrow Press.
+Dewhirst, M., and R. Farrell, eds. 1973. [The Soviet Censorship](https://libgen.li/ads.php?md5=2c0feec6ec5c5937f1e9c67fc105a611). Metuchen, NJ: The Scarecrow Press.
 
-Elst, M. 2005. [Copyright, Freedom of Speech, and Cultural Policy in the Russian Federation](http://library.lol/main/B0D46359AAC28E8C4937FD1F0371D641). Leiden; Boston: Martinus Nijhoff.
+Elst, M. 2005. [Copyright, Freedom of Speech, and Cultural Policy in the Russian Federation](https://libgen.li/ads.php?md5=b0d46359aac28e8c4937fd1f0371d641). Leiden; Boston: Martinus Nijhoff.
 
-Ermolaev, H. 1997. [Censorship in Soviet Literature: 1917–1991](http://library.lol/main/01789798053846F3662BFBFA6FDEFB01). Oxford, UK: Rowman & Littlefield.
+Ermolaev, H. 1997. [Censorship in Soviet Literature: 1917–1991](https://libgen.li/ads.php?md5=01789798053846f3662bfbfa6fdefb01). Oxford, UK: Rowman & Littlefield.
 
 Freshwater, H. 2003. “[Towards a Redefinition of Censorship](https://psi329.cankaya.edu.tr/uploads/files/M%C3%BCller%20%28ed%29%2C%20Censorship%20and%20Cultural%20Regulation%20in%20the%20Modern%20Age%20%20-Rodopi%20%282003%29.pdf#page=234).” Critical Studies 22:225–245.
 
 Friedberg, M., M. Watanabe, and N. Nakamoto. 1984. “The Soviet Book Market: Supply and Demand.” Acta Slavica Iaponica 2:177–192. https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/7941/1/KJ00000034083.pdf (accessed August 17, 2017).
 
-Greco, A. N. 2005. [The Book Publishing Industry](http://library.lol/main/4649C1961C2E5C6CE31AF30A1115B73F). Mahwah, NJ: Lawrence Erlbaum Associates.
+Greco, A. N. 2005. [The Book Publishing Industry](https://libgen.li/ads.php?md5=4649c1961c2e5c6ce31af30a1115b73f). Mahwah, NJ: Lawrence Erlbaum Associates.
 
 Hart, M. S. 2006. “A Brief History of Project Gutenberg.” Michael Hart’s Online Writings. http://hart.pglaf.org/history.06.txt (accessed August 17, 2017).
 
@@ -337,11 +337,11 @@ Liang, L. 2012. “Shadow Libraries.” e-flux. http://www.e-flux.com/journal/sh
 
 Moshkov, M. 1999. “[Chto vy vse o kopirayte. Luchshe by kizhakku pochitali (Biblioteke copyright ne vrag)](http://lib.ru/COPYRIGHT/computera.txt).” Kompyuter (300).
 
-Newcity, M. A. 1978. [Copyright Law in the Soviet Union](http://library.lol/main/FF0A8ED1AE148AAA50BC9C3696849541). New York; London: Praeger.
+Newcity, M. A. 1978. [Copyright Law in the Soviet Union](https://libgen.li/ads.php?md5=ff0a8ed1ae148aaa50bc9c3696849541). New York; London: Praeger.
 
 Newcity, M. A. 1980. “Universal Copyright Convention as an Instrument of Repression: The Soviet Experiment.” Journal of International Law and Economics 9 (2): 285–324.
 
-Post, R. 1998. [Censorship and Silencing: Practices of Cultural Regulation](http://library.lol/main/076047B5F4441D38B6B814F011D68A6C). Los Angeles, CA: Getty Research Institute for the History of Art and the Humanities.
+Post, R. 1998. [Censorship and Silencing: Practices of Cultural Regulation](http://libgen.li/file.php?md5=076047b5f4441d38b6b814f011d68a6c). Los Angeles, CA: Getty Research Institute for the History of Art and the Humanities.
 
 Rieusset-Lemarié, I. 1997. “[P. Otlet’s Mundaneum and the International Perspective in the History of Documentation and Information Science](https://sci-hub.ru/https://doi.org/10.1002/(SICI)1097-4571(199704)48:4%3C301::AID-ASI3%3E3.0.CO;2-%23)." Journal of the American Society for Information Science 48 (4): 301–309.
 
@@ -349,9 +349,9 @@ Ryzhak, N. 2005. “Censorship in the USSR and the Russian State Library.” Pap
 
 Schultz, M. F. 2006. “[Copynorms: Copyright and Social Norms](https://escholarship.org/content/qt7c94551s/qt7c94551s.pdf).” In Intellectual Property and Information Wealth: Issues and Practices in the Digital Age, ed. P. K. Yu, 201–236. Westport: Praeger Publishers.
 
-Sezneva, O., and J. Karaganis. 2011. “Russia.” In [Media Piracy in Emerging Economies](http://library.lol/main/854F23999C091F3346C79AEC8685E5E2), ed. J. Karaganis, 149–218. New York: Social Science Research Council.
+Sezneva, O., and J. Karaganis. 2011. “Russia.” In [Media Piracy in Emerging Economies](http://libgen.li/file.php?md5=854f23999c091f3346c79aec8685e5e2), ed. J. Karaganis, 149–218. New York: Social Science Research Council.
 
-Skilling, H. G. 1989. [Samizdat and an Independent Society in Central and Eastern Europe](http://library.lol/main/BA9A7212D6710E404AD068DD05C3CBF5). London: Palgrave Macmillan.
+Skilling, H. G. 1989. [Samizdat and an Independent Society in Central and Eastern Europe](http://libgen.li/file.php?md5=ba9a7212d6710e404ad068dd05c3cbf5). London: Palgrave Macmillan.
 
 Solzhenitsyn, A. I. 1974. [The Gulag Archipelago](http://flibusta.is/a/20381) 1918–1956: An Experiment in Literary Investigation, Parts I–II. New York: Harper & Row.
 
@@ -366,7 +366,7 @@ Stelmakh, V. D. 2001. “[Reading in the Context of Censorship in the Soviet Uni
 
 [^2]: История Library Genesis была составлена на основе полуструктурированных интервью с ключевыми членами сообщества и внимательного чтения обсуждений на закрытом онлайн-форуме сообщества. Доступ как к сайту, так и к членам сообщества был предоставлен на условиях анонимности. В какой-то момент я поделился ранним черновиком этой главы с заинтересованными участниками и попросил их высказать свое мнение. Помимо доступа и обратной связи, члены сообщества помогли с написанием этой статьи, предоставив переводы некоторых русскоязычных исходных документов и просмотрев мои переводы. Взамен я сделал небольшой финансовый взнос сообществу в размере 100 долларов США. Я воспроизвел записи на форуме без каких-либо языковых изменений и отредактировал интервью, проведенные с помощью системы мгновенной передачи сообщений, чтобы отразить основные стандарты написания.
 
-[^3]: Смотри количественный анализ в [главе 3](http://library.lol/main/108A7F4E752BDFF81EE5B378D46BD9CE).
+[^3]: Смотри количественный анализ в [главе 3](http://libgen.li/file.php?md5=108a7f4e752bdff81ee5b378d46bd9ce).
 
 [^4]: К таким источникам относятся художественная литература, литературные произведения или комиксы, не собранные LibGen.
 
