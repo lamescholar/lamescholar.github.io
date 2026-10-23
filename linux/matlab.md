@@ -50,7 +50,7 @@ sudo ln -s /usr/lib/libleancrypto.so.1.9 /usr/lib/libleancrypto.so.1
 Type=Application
 Terminal=false
 MimeType=text/x-matlab
-Name=MATLAB R2026a
+Name=MATLAB R2026b
 Exec=/usr/local/MATLAB/R2026b/bin/matlab -desktop -useStartupFolderPref
 Icon=/usr/local/MATLAB/R2026b/ui/webgui/src/favicon.ico
 ```
