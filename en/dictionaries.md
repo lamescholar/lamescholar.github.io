@@ -41,7 +41,6 @@ Dictionaries for GoldenDict:<br>
   <p>Oxford English Dictionary 2022</p>
   <p>Oxford Dictionary of Quotations</p>
   <p>Random House Webster's Unabridged Dictionary</p>
-  <p>GNU dictionary</p>
   <p><a href="https://archive.org/details/johnson_1773">Johnson's dictionary</a></p>
   <p>Wordnet</p>
 </details>

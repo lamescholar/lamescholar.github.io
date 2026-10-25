@@ -53,7 +53,18 @@ StarDict -> DSL
 <https://github.com/mortalis13/stardict-to-dsl-converter>
 
 Моя коллекция DSL-словарей<br>
-[HomeDictionary.zip](/files/HomeDictionary.zip)
+[HomeDictionary.zip](https://disk.yandex.ru/d/kCUHUjWzy3QRsA)
+
+<details>
+  <summary>Список</summary>
+  <p>Collins COBUILD -- простые определения</p>
+  <p>Webster's Third New International Dictionary -- литературные цитаты</p>
+  <p>Shorter Oxford English Dictionary -- литературные цитаты</p>
+  <p>Collins Thesaurus -- синонимы</p>
+  <p>Апресян - англо-русский словарь</p>
+  <p>Oxford English Dictionary -- русско-английский словарь</p>
+  <p>Смирницкий -- русско-английский словарь</p>
+  <p>Мультитран -- словарь нишевых выражений</p>
 <br><br>
 
 #### Переводчики:
