@@ -46,10 +46,14 @@ img {
 
 ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475>
 
-Home Dictionary, приложение на Андроид для .dsl словарей:<br>
-<https://github.com/mortalis13/homedictionary><br>
-<https://github.com/mortalis13/stardict-to-dsl-converter><br>
-[HomeDictionary.zip](/files/HomeDictionary.zip)<br>
+Home Dictionary, приложение на Андроид для .dsl словарей<br>
+<https://github.com/mortalis13/homedictionary>
+
+StarDict -> DSL
+<https://github.com/mortalis13/stardict-to-dsl-converter>
+
+Моя коллекция DSL-словарей<br>
+[HomeDictionary.zip](/files/HomeDictionary.zip)
 <br><br>
 
 #### Переводчики:
