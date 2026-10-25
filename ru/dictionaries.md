@@ -49,7 +49,7 @@ ABBYY Lingvo x6 - <https://rutracker.org/forum/viewtopic.php?t=4972475>
 Home Dictionary, приложение на Андроид для .dsl словарей<br>
 <https://github.com/mortalis13/homedictionary>
 
-StarDict -> DSL
+StarDict -> DSL<br>
 <https://github.com/mortalis13/stardict-to-dsl-converter>
 
 Моя коллекция DSL-словарей<br>
