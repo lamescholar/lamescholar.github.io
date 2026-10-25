@@ -34,6 +34,7 @@ img {
 <details>
   <summary>Рекомендую энциклопедии</summary>
   <br>
+  <p><a href="https://rutracker.org/forum/viewtopic.php?t=6917968">Большая российская энциклопедия</a></p>
   <p><a href="https://rutracker.org/forum/viewtopic.php?t=4483562">Большая советская энциклопедия</a></p>
   <p>Брокгауз и Ефрон</p>
   <p>Новая философская энциклопедия</p>
