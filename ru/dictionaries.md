@@ -57,6 +57,7 @@ StarDict -> DSL
 
 <details>
   <summary>Список</summary>
+  <br>
   <p>Collins COBUILD -- простые определения</p>
   <p>Webster's Third New International Dictionary -- литературные цитаты</p>
   <p>Shorter Oxford English Dictionary -- литературные цитаты</p>
