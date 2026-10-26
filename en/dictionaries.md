@@ -91,7 +91,6 @@ Encyclopaedia Britannica:<br>
 <https://rutracker.org/forum/viewtopic.php?t=6307320><br>
 <https://rutracker.org/forum/viewtopic.php?t=6304689><br>
 <https://www.britannica.com/><br>
-<https://academic.eb.com/levels/collegiate><br>
 <https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica>
 
 Encyclopedia Americana - <https://rutracker.org/forum/viewtopic.php?t=6311493>
@@ -105,8 +104,6 @@ Internet Encyclopedia of Philosophy - <https://iep.utm.edu/metaethi/>
 Encyclopedia of Philosophy - <https://www.myanonamouse.net/t/80064>
 
 Encyclopedia of Diderot and D'Alambert - <https://quod.lib.umich.edu/d/did/title/A.html>
-
-Encyclopedia.com - <https://www.encyclopedia.com/>
 
 World History Encyclopedia - <https://www.worldhistory.org/>
 
