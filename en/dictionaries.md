@@ -36,11 +36,11 @@ Dictionaries for GoldenDict:<br>
   <br>
   <p>Collins COBUILD</p>
   <p>Webster's Third New International Dictionary</p>
+  <p>Shorter Oxford English Dictionary</p>
   <p>American Heritage Dictionary</p>
   <p><a href="https://archive.org/details/johnson_1773">Johnson's dictionary</a></p>
   <p>Oxford Advanced Learner's Dictionary</p>
   <p>Oxford English Dictionary 2022</p>
-  <p>Shorter Oxford English Dictionary</p>
   <p>Oxford Dictionary of Quotations</p>
   <p>Random House Webster's Unabridged Dictionary</p>
   <p>Wordnet</p>
