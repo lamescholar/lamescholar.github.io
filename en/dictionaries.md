@@ -90,6 +90,7 @@ Encyclopaedia Britannica:<br>
 <https://rutracker.org/forum/viewtopic.php?t=6307320><br>
 <https://rutracker.org/forum/viewtopic.php?t=6304689><br>
 <https://www.britannica.com/><br>
+<https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica>
 
 Encyclopedia Americana - <https://rutracker.org/forum/viewtopic.php?t=6311493>
 
