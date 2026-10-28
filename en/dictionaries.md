@@ -70,9 +70,11 @@ Multitran - <https://www.multitran.com/>
 
 Collins COBUILD - <https://www.collinsdictionary.com/>
 
+Dictionary.com - <https://www.dictionary.com/>
+
 Oxford English Dictionary
 
-Random House Unabridged Dictionary - <https://www.dictionary.com/>
+Random House Unabridged Dictionary - <https://www.infoplease.com/dictionary>
 
 Free Dictionary. Idioms and phrases - <https://idioms.thefreedictionary.com/>
 
