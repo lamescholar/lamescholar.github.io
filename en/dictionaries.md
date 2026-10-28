@@ -52,7 +52,6 @@ Dictionaries for GoldenDict:<br>
   <br>
   <p>Columbia Encyclopedia</p>
   <p><a href="https://rutracker.org/forum/viewtopic.php?t=6505086">Britannica 2010</a></p>
-  <p><a href="https://github.com/dcampos/eb1911/releases">1911 Britannica</a></p>
   <p>Stanford Encyclopedia of Philosophy</p>
   <p>New Pauly</p>
 </details>
