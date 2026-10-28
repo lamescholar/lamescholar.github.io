@@ -21,7 +21,7 @@ body {
     margin-right: auto;
 }
 img {
-	max-width: 740px !important;
+	max-width: 740px;
 	height: auto;
 }
 ```
