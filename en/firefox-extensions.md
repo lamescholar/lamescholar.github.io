@@ -16,12 +16,12 @@ To modify CSS (font size etc.)
 ```
 body {
     font-size: 20px;
-    max-width: 720px;
+    max-width: 740px;
     margin-left: auto;
     margin-right: auto;
 }
 img {
-	max-width: 720px !important;
+	max-width: 740px !important;
 	height: auto;
 }
 ```
