@@ -30,7 +30,7 @@ TeXstudio - <https://www.texstudio.org/>
 \usepackage{parskip}
 \usepackage[T2A]{fontenc}
 \usepackage[english, russian]{babel}
-\usepackage{amsmath, amssymb, mathtools}
+\usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{hyperref}
