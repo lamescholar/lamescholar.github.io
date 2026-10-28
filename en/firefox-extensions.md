@@ -14,11 +14,15 @@ Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
 To modify CSS (font size etc.)
 
 ```
-body{
+body {
     font-size: 20px;
-    max-width: 800px;
+    max-width: 720px;
     margin-left: auto;
     margin-right: auto;
+}
+img {
+	max-width: 720px !important;
+	height: auto;
 }
 ```
 
