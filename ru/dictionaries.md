@@ -29,6 +29,7 @@ img {
 Словари для GoldenDict:<br>
 <https://rutracker.org/forum/viewtopic.php?t=3582459><br>
 <https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs><br>
+<https://dic.1963.ru/><br>
 <http://dadako.narod.ru/paperpoe.htm>
 
 <details>
