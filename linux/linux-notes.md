@@ -249,7 +249,7 @@ win
 
 86Box
 
-`yay -S 86box-bin`
+`yay -S 86box`
 
 Full guide:
 
