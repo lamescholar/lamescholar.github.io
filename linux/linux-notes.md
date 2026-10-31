@@ -243,13 +243,6 @@ c:
 cd windows
 win
 ```
-
-\[sdl\]
-
-```
-windowresolution  = 1600x1200
-output            = opengl
-```
 <br>
 
 #### Windows 95
