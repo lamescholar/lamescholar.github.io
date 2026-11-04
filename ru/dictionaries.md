@@ -85,6 +85,8 @@ Multitran - <https://www.multitran.com/>
 
 Collins COBUILD - <https://www.collinsdictionary.com/>
 
+Merriam-Webster - <https://www.merriam-webster.com/>
+
 Oxford English Dictionary
 
 Random House Unabridged Dictionary - <https://www.dictionary.com/>

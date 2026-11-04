@@ -72,6 +72,8 @@ Collins COBUILD - <https://www.collinsdictionary.com/>
 
 Dictionary.com - <https://www.dictionary.com/>
 
+Merriam-Webster - <https://www.merriam-webster.com/>
+
 Oxford English Dictionary
 
 Random House Unabridged Dictionary - <https://www.infoplease.com/dictionary>
