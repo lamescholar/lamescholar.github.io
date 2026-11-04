@@ -203,48 +203,6 @@ WantedBy=suspend.target hibernate.target
 `QT_QUICK_BACKEND=software`
 <br><br>
 
-#### Windows 3.1
-
-DOSBox-X
-
-`yay -S dosbox-x`
-
-Windows 3.1 ISO
-
-<https://archive.org/details/Windows3.1ISO>
-
-```
-mount c ~/dosbox_c
-imgmount d "~/Programs/Windows 3.1/Windows 3.1.iso" -t iso
-d:
-SETUP.EXE
-```
-
-Display drivers
-
-<https://archive.org/details/s3-trio-64v-plus-win-31-95-drivers>
-
-Oxford English Dictionary
-
-<https://archive.org/details/oxford-english-dictionary-second-edition>
-
-Autoexec
-
-Go to `~/.config/dosbox-x`
-
-Open .conf file. Search [autoexec]
-
-Insert:
-
-```
-mount c ~/dosbox_c
-imgmount d "~/Programs/Windows 3.1/Oxford English Dictionary (Second Edition).iso" -t iso
-c:
-cd windows
-win
-```
-<br>
-
 #### Windows 95
 
 86Box
@@ -258,6 +216,10 @@ Full guide:
 Put ROM files into `~/.local/share/86Box/roms`
 
 Encyclopædia Universalis - <https://archive.org/details/encycuniv5>
+
+Oxford English Dictionary:
+
+<https://archive.org/details/oxford-english-dictionary-second-edition>
 <br><br>
 
 #### Wine
