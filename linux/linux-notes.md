@@ -204,7 +204,7 @@ WantedBy=suspend.target hibernate.target
 QT_QPA_PLATFORMTHEME=qt6ct
 QT_QUICK_BACKEND=software
 ```
-<br><br>
+<br>
 
 #### Windows 95
 
