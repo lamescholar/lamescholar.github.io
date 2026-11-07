@@ -196,11 +196,14 @@ WantedBy=suspend.target hibernate.target
 `playerctl --player=fooyin position 5-`
 <br><br>
 
-#### Tearing in Qt apps
+#### Global settings for Qt apps
 
 `sudo nano /etc/environment`
 
-`QT_QUICK_BACKEND=software`
+```
+QT_QPA_PLATFORMTHEME=qt6ct
+QT_QUICK_BACKEND=software
+```
 <br><br>
 
 #### Windows 95
