@@ -10,7 +10,7 @@ title: Локальный переводчик
 
 llama-cpp:
 
-`yay -S llama.cpp`
+`sudo pacman -S llama-cpp`
 <br><br>
 
 ```
