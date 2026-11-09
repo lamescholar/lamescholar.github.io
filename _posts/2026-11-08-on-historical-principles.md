@@ -29,6 +29,7 @@ Ordbog over det danske Sprog - <https://ordnet.dk/ods>
 Historische woordenboeken - <https://gtb.ivdnt.org/search/>
 
 Look for WNT, Woordenboek der Nederlandsche Taal.
+<br><br>
 
 #### English
 
@@ -75,9 +76,15 @@ Tesoro della Lingua Italiana delle Origini - <http://tlio.ovi.cnr.it/TLIO/>
 Thesaurus Linguae Latinae - <https://publikationen.badw.de/en/thesaurus/lemmata#~-0a->
 <br><br>
 
+#### Russian
+
+Словарь Академии Российской - <https://rutracker.org/forum/viewtopic.php?t=2528101>
+<br><br>
+
 #### Scotish
 
 Dictionaries of the Scots Language - <https://dsl.ac.uk/>
+<br><br>
 
 #### Spanish
 
