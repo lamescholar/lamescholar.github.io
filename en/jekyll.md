@@ -2,6 +2,7 @@
 layout: page
 comments: true
 math: true
+contents: true
 title: Jekyll
 ---
 
