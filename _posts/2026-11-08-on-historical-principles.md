@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: Post
+tag: Posts
 comments: true
 title: Dictionaries on historical principles
 ---
