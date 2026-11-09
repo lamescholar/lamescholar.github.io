@@ -27,7 +27,7 @@ That's the first edition of OED.
 
 Oxford English Dictionary - <https://www.oed.com/>
 
-To access this site you need institutional subscription.<br>     
+To access this site you need institutional subscription.<br>
 There's an MDX dictionary out there.
 
 Historical Dictionary of Science Fiction - <https://sfdictionary.com/>
