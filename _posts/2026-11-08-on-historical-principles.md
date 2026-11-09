@@ -14,7 +14,7 @@ First edition of famous Oxford English Dictionary was called<br>
 A New English Dictionary on Historical Principles<br>
 What principles? 
 
-Dictionary on historical principles means that the dictionary collects the uses of the word from oldest records up to modern texts. So you can trace the meaning of the word and find a lot of cool quotes from old books.
+On historical principles means that the dictionary collects the uses of the word from oldest records up to modern texts. So you can trace the meaning of the word and find a lot of cool quotes from old books.
 
 Most European languages have a dictionary on historical principles. Here I will list the ones I found. For me they are interesting as a way to find ancient books in foreign languages. Each word is a rabbit hole.
 <br><br>
