@@ -16,7 +16,7 @@ What principles?
 
 Dictionary on historical principles means that the dictionary collects the uses of the word from oldest records up to modern use. So you can trace the meaning of the word and find a lot of cool quotes from old books.
 
-Most European languages have a dictionary on historical principles of their own. Here I will list the ones I found. For me they are interesting as a way to find ancient books in foreign languages. Each word is a rabbit hole.
+Most European languages have a dictionary on historical principles. Here I will list the ones I found. For me they are interesting as a way to find ancient books in foreign languages. Each word is a rabbit hole.
 <br><br>
 
 #### English
