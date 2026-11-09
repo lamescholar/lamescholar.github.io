@@ -7,7 +7,7 @@ title: Dictionaries on historical principles
 
 2026-11-08
 
-Dictionaries on historical principles
+# Dictionaries on historical principles
 <br><br>
 
 First edition of famous Oxford English Dictionary was called A New English Dictionary on Historical Principles. What principles? 
