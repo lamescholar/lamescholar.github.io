@@ -45,6 +45,10 @@ There's an MDX dictionary out there.
 Historical Dictionary of Science Fiction - <https://sfdictionary.com/>
 <br><br>
 
+#### Finnish
+
+Vanhan kirjasuomen sanakirja - <https://kaino.kotus.fi/vks/>
+
 #### French
 
 Trésor de la Langue Française - <http://atilf.atilf.fr/>
@@ -74,6 +78,16 @@ Tesoro della Lingua Italiana delle Origini - <http://tlio.ovi.cnr.it/TLIO/>
 #### Latin
 
 Thesaurus Linguae Latinae - <https://publikationen.badw.de/en/thesaurus/lemmata#~-0a->
+<br><br>
+
+#### Lithuanian
+
+Lietuvių kalbos žodynas - <http://www.lkz.lt/>
+<br><br>
+
+#### Polish
+
+Elektroniczny Słownik Języka Polskiego Xvii I Xviii Wieku - <https://sxvii.pl/>
 <br><br>
 
 #### Russian
