@@ -54,6 +54,10 @@ Vanhan kirjasuomen sanakirja - <https://kaino.kotus.fi/vks/>
 Trésor de la Langue Française - <http://atilf.atilf.fr/>
 
 There's a DSL dictionary out there.
+
+Dictionnaire de la Langue Française d'Émile Littré - <https://www.littre.org/>
+
+There's a DSL dictionary out there.
 <br><br>
 
 #### German
