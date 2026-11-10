@@ -81,7 +81,7 @@ Google Translate - <https://translate.google.com/>
 
 #### Словари:
 
-Multitran - <https://www.multitran.com/>
+Multitran - <https://www.multitran.com/m.exe?l1=2&l2=1&fl=1>
 
 Collins COBUILD - <https://www.collinsdictionary.com/>
 
