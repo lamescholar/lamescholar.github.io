@@ -62,9 +62,10 @@ How to create dictionaries for GoldenDict:<br>
 <https://code.google.com/archive/p/stardict-3/downloads>
 <br><br>
 
-#### Online dictionaries
-
 Google Translate - <https://translate.google.com/>
+<br><Br>
+
+#### Online dictionaries
 
 Multitran - <https://www.multitran.com/>
 
