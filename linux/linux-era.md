@@ -13,6 +13,8 @@ I started Pirate Cookbook on Windows. Now I moved on to Linux. I will keep my Wi
 
 [DjVu - Arch Linux](/linux/djvu-arch)
 
+[FB2](/linux/fb2)
+
 [Local Translator](/linux/local-translator)
 
 [MATLAB on Linux](/linux/matlab)
