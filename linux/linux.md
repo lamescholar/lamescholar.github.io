@@ -147,14 +147,14 @@ Geany (text editor)
 
 LibreOffice (libre Word)
 
-`yay -S libreoffice`
+`sudo pacman -S libreoffice-still`
 
 To paste without formatting: Ctrl+Shift+V
 <br><br>
 
 Calibre (EPUB reader)
 
-`yay -S calibre`
+`sudo pacman -S calibre`
 
 Settings: [EPUB](/en/epub)
 <br><br>
