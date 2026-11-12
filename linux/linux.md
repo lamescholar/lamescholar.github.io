@@ -61,7 +61,7 @@ If GNOME didn't start, hit Alt+F2 to open terminal.
 qBittorent (BitTorrent client)
 
 ```
-yay -S qbittorrent
+sudo pacman -S qbittorrent
 sudo pacman -S qt6ct
 yay -S adwaita-qt6-git
 ```
