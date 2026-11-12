@@ -24,7 +24,7 @@ OUTPUT_FILE = "ocr.txt"
 LLAMA_CMD = [
     "llama-server",
     "-m", "LightOnOCR-2-1B-Q4_K_M.gguf",
-    "--mmproj", "LightOnOCR-2-1B-mmproj-F16.gguf",
+    "--mmproj", "LightOnOCR-2-1B.mmproj-Q8_0.gguf",
     "-c", "4096",
     "-t", "4",
     "--temp", "0"
