@@ -19,7 +19,7 @@ Git - <https://git-scm.com/download/win>
 Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 <br><br>
 
-#### Создание сайта
+#### Создай сайт
 
 Примечание: используй твой username на GitHub
 
@@ -44,19 +44,19 @@ git push -u origin main
 Источник: <https://docs.github.com/ru/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll>
 <br><br>
 
-#### Информация на сайте
+#### Добавь информацию
 
 В файле _config.yml заполняешь title, author, email, url, description (его можно удалить). В файле about.markdown прописываешь описание сайта.
 <br><br>
 
-#### Создание страницы
+#### Создай страницу
 
 Создай .md файл в папке сайта. Например, page.md<br>
 Тогда на твоём сайте появится страничка по адресу https://username.github.io/page<br>
 Можешь поместить файл в папку folder. Тогда на твоём сайте появится страничка по адресу https://username.github.io/folder/page
 <br><br>
 
-#### Создание поста
+#### Создай пост
 
 <https://jekyllrb.com/docs/posts/>
 <br><br>
@@ -113,7 +113,7 @@ title: Заглавие
 <https://www.markdownguide.org/basic-syntax/>
 <br><br>
 
-#### Добавление картинки
+#### Добавь картинку
 
 Допустим, ты положил картинку image.png в папку images.
 
@@ -140,24 +140,24 @@ title: Заглавие
 ```
 <br>
 
-#### Добавление аудио
+#### Добавь аудио
 
 <https://stackoverflow.com/questions/63701944/how-to-embed-audio-into-a-jekyll-blog>
 <br><br>
 
-#### Добавление видео
+#### Добавь видео
 
 <https://github.com/nathancy/jekyll-embed-video>
 
 <https://stackoverflow.com/questions/48876911/embedded-local-mp4-not-playing-in-chrome-when-running-jekyll-serve-econnreset>
 <br><br>
 
-#### Добавление иконки сайта
+#### Добавь иконку сайта
 
 <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>
 <br><br>
 
-#### Обновление сайта
+#### Обнови сайт
 
 Win+R cmd
 
@@ -171,7 +171,7 @@ git push
 Можно создать .bat файл и поместить в него эти команды. Тогда коммит можно сделать двумя кликами. Чтобы командная строка не закрывалась сразу после выполнения команд, добавь команду pause.
 <br><br>
 
-#### Запуск сайта локально
+#### Запусти сайт локально
 
 Во избежание ошибки, необходимо добавить webrick в Gemfile:
 
@@ -190,7 +190,7 @@ bundle exec jekyll serve
 Проходишь по выданному адресу.
 <br><br>
 
-#### Фильтрация зоны навигации (правый верхний угол)
+#### Отфильтруй зону навигации (правый верхний угол)
 
 Прописываешь в _config.yml:
 
@@ -200,7 +200,7 @@ header_pages:
 ```
 <br>
 
-#### Изменение размера заглавия
+#### Измени размер заглавия
 
 Заходишь в папку minima. На Windows она находится где-то здесь:
 
@@ -215,7 +215,7 @@ C:\Ruby32-x64\lib\ruby\gems\3.2.0\gems\minima-2.5.1
 ```
 <br>
 
-#### Ссылка на источник
+#### Оставь ссылку на источник
 
 Иногда я пощу чужие тексты. В академии, достаточно написать библиографические координаты. Но если онлайн есть электронная книга, на неё-то и надо ссылаться. 
 
