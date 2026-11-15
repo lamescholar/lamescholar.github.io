@@ -5,7 +5,7 @@ math: true
 title: Jekyll
 ---
 
-[Jekyll](https://jekyllrb.com/) is a static site generator. [GitHub Pages](https://pages.github.com/) is a free hosting that supports Jekyll. The size limit is 1 GB.
+[Jekyll](https://jekyllrb.com/) is a static site generator. [GitHub Pages](https://pages.github.com/) is a free hosting that supports Jekyll. It has 1 GB size limit.
 <br><br>
 
 To create a site, you need to register on GitHub
@@ -19,7 +19,7 @@ Git - <https://git-scm.com/download/win>
 Jekyll - <https://jekyllrb.com/docs/installation/windows/>
 <br><br>
 
-#### Creating a site
+#### Create a site
 
 Note: use your GitHub username
 
@@ -44,19 +44,19 @@ Your site will be located at https://username.github.io/
 Source: <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll>
 <br><br>
 
-#### Information on the site
+#### Add information
 
 In _config.yml fill the title, author, email, url, description (you can delete it). In about.markdown write a description of the site.
 <br><br>
 
-#### Creating a page
+#### Create a page
 
 Create .md file in the site folder. For example, page.md<br>
 Then the page will appear on your site at https://username.github.io/page<br>
-You can put the file in the folder named folder. Then a page will appear on your site at https://username.github.io/folder/page
+If you put it in the folder named folder, the page will appear on your site at https://username.github.io/folder/page
 <br><br>
 
-#### Creating a post
+#### Create a post
 
 <https://jekyllrb.com/docs/posts/>
 <br><br>
@@ -113,11 +113,11 @@ Code block - <https://docs.github.com/ru/get-started/writing-on-github/working-w
 <https://www.markdownguide.org/basic-syntax/>
 <br><br>
 
-#### Adding picture
+#### Add a picture
 
-Let's say you put image.png into the folder named images.
+Let's say you put image.png into the folder titled images.
 
-To place this image on the page:
+To place the image on the page:
 
 ```
 ![Picture description](/images/image.png)
@@ -166,24 +166,24 @@ HTML:
 ```
 <br>
 
-#### Adding audio
+#### Add audio
 
 <https://stackoverflow.com/questions/63701944/how-to-embed-audio-into-a-jekyll-blog>
 <br><br>
 
-#### Adding video
+#### Add video
 
 <https://github.com/nathancy/jekyll-embed-video>
 
 <https://stackoverflow.com/questions/48876911/embedded-local-mp4-not-playing-in-chrome-when-running-jekyll-serve-econnreset>
 <br><br>
 
-#### Adding a site icon
+#### Add a site icon
 
 <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>
 <br><br>
 
-#### Updating the site
+#### Update the site
 
 Win+R cmd
 
@@ -197,7 +197,7 @@ git push
 You can create .bat file and put these commands inside. Then the commit can be done with two clicks. To stop the command line from closing immediately after executing commands, add `pause` at the end.
 <br><br>
 
-#### Starting the site locally
+#### Start the site locally
 
 To avoid errors, you need to add webrick to Gemfile:
 
@@ -216,7 +216,7 @@ bundle exec jekyll serve
 Open given address.
 <br><br>
 
-#### Navigation area filtration (upper right corner)
+#### Filter navigation area (upper right corner)
 
 Paste in _config.yml:
 
@@ -226,7 +226,7 @@ header_pages:
 ```
 <br>
 
-#### Changing title size
+#### Change title size
 
 Go to minima folder. On Windows it is located in user folder:
 
@@ -241,7 +241,7 @@ Create _layouts folder in username.github.io. Paste (Ctrl+V). Edit page.html wit
 ```
 <br>
 
-#### Referencing the source
+#### Reference the source
 
 Sometimes I post some texts. In academia, it is enough to write a citation. But if there is an ebook online, that's what you really should reference.
 
