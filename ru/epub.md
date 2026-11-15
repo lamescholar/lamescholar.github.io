@@ -54,7 +54,7 @@ FictionBook Editor:
 
 #### Где опубликовать книгу
 
-Флибуста - <http://flibusta.is/a>
+Флибуста - <https://flibusta.is/a>
 
 Library Genesis - <https://library.bz/main/upload/><br>
 genesis<br>

@@ -73,7 +73,7 @@ If text is blurry, use compatibility settings as described for WinDjView. See [D
 
 #### How to publish your ebook
 
-Flibusta - <http://flibusta.is/a>
+Flibusta - <https://flibusta.is/a>
 
 Library Genesis - <https://library.bz/main/upload/><br>
 genesis<br>
