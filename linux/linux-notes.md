@@ -247,8 +247,6 @@ BookRestorer (to straighten book scans)
 
 Exact Audio Copy (to rip CDs)
 
-FictionBook Editor (to insert images into FB2)
-
 foobar2000 (to transcode audio files)
 
 MakeMKV (to rip disks)
