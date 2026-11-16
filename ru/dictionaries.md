@@ -136,7 +136,9 @@ Statista - <https://www-statista-com.i.ezproxy.nypl.org/>
 <https://rutracker.org/forum/viewtopic.php?t=4483562><br>
 <https://www.booksite.ru/fulltext/1/001/008/130/index.htm>
 
-Энциклопедический словарь Брокгауза и Ефрона - <https://ru.wikisource.org>
+Энциклопедический словарь Брокгауза и Ефрона:<br>
+<https://rutracker.org/forum/viewtopic.php?t=5887920><br>
+<https://ru.wikisource.org>
 
 Гранат - <https://rutracker.org/forum/viewtopic.php?t=6328789>
 
