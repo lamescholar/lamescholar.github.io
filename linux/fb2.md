@@ -23,6 +23,10 @@ OOoFBTools - <https://sourceforge.net/projects/fbtools/>
 
 Maxima Fiction Book Editor - <https://github.com/QuarkZimmerman/MaximaFictionBookEditor/releases>
 
+To install AppImage, use Gear Lever:
+
+`flatpak install flathub it.mijorus.gearlever`
+
 Two empty lines = rendered empty line
 
 Shift+Enter = selected text becomes the title of new section
