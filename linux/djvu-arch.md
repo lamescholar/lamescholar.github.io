@@ -92,11 +92,6 @@ Wine
 Wine
 <br><br>
 
-5) PDF & Djvu Bookmarker -- insert contents
-
-Wine
-<br><br>
-
-6) Document Express Editor 6 -- insert cover
+5) Document Express Editor 6 -- insert cover
 
 Wine

@@ -10,6 +10,9 @@ To access articles.
 SingleFile - <https://addons.mozilla.org/en-US/firefox/addon/single-file/><br>
 Instant snapshot of a page.
 
+SoundFixer - <https://addons.mozilla.org/en-US/firefox/addon/soundfixer/>
+Add volume.
+
 Stylus - <https://addons.mozilla.org/en-US/firefox/addon/styl-us/><br>
 To modify CSS (font size etc.)
 
