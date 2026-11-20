@@ -4,7 +4,7 @@ comments: true
 title: PDF/DjVu Contents
 ---
 
-Sadly, PDF & Djvu Bookmarker is rendered poorly by Wine, so one must make do with native Linux applications. 
+Sadly, PDF & Djvu Bookmarker is rendered poorly by Wine. One must make do with native Linux applications. 
 
 #### PDF
 
