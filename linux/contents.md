@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: PDF/DjVu Contents
+title: PDF/DjVu contents
 ---
 
 Sadly, PDF & Djvu Bookmarker is rendered poorly by Wine. We must use native Linux applications.
