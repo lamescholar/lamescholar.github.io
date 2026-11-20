@@ -10,7 +10,7 @@ title: Привет
 как находить [научные статьи](/ru/articles), [журналы](/ru/magazines), [газеты](/ru/news), [словари](/ru/dictionaries), [аудиокниги](/ru/audiobooks), [музыку](/ru/music), [фильмы](/ru/films)<br>
 как [исследовать](/ru/research) интересные тебе темы<br>
 как [следить](/2023/12/08/follow-the-press-using-rss-ru.html) за происходящим в мире<br>
-как установить [Линукс](https://lamescholar.github.io/linux)
+как установить [Линукс](https://lamescholar.github.io/linux/linux)
 <br><br>
 
 [Откуда взялся этот сайт](/ru/origin-story)
