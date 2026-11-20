@@ -65,6 +65,10 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 ```
+
+Finally:
+
+`cpdf -add-bookmarks outline2.txt 1.pdf -o 2.pdf`
 <br>
 
 #### DjVu
@@ -124,3 +128,7 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 ```
+
+Finally:
+
+`djvused 1.djvu -e 'set-outline outline2.txt' -s`
