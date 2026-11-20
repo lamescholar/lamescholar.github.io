@@ -21,4 +21,6 @@ I started Pirate Cookbook on Windows. Now I moved on to Linux. I will keep my Wi
 
 [OCR](/linux/ocr)
 
+[PDF/DjVu contents](/linux/contents)
+
 [Локальный переводчик](/linux/local-translator-ru)
