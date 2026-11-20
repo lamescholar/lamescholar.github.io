@@ -13,7 +13,7 @@ cpdf
 
 `yay -S cpdf`
 
-cpdf.py:
+cpdf.py
 
 ```
 import re
@@ -77,7 +77,7 @@ djvused
 
 `sudo pacman -S djvulibre`
 
-djvused.py:
+djvused.py
 
 ```
 import re
