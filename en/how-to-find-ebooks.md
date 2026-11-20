@@ -4,7 +4,7 @@ comments: true
 title: How to find ebooks
 ---
 
-When I'm looking for particular ebook, I check these 5 sources:
+First of all, check these 5 sources:
 
 Library Genesis - <https://libgen.is/>
 
