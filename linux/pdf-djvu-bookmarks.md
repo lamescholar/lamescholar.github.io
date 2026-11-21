@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
 Finally:
 
-`cpdf -add-bookmarks outline2.txt 1.pdf -o 2.pdf`
+`cpdf -add-bookmarks outline2.txt 1.pdf AND -bookmarks-open-to-level 1 -o 2.pdf`
 <br><br>
 
 #### DjVu
