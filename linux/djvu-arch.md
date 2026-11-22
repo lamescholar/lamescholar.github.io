@@ -98,4 +98,4 @@ Wine
 
 6) djvused -- insert contents
 
-[PDF/Djvu contents](/linux/pdf-djuv-contents.md)
+[PDF/Djvu bookmarks](/linux/pdf-djvu-bookmarks.md)
