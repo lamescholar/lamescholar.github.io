@@ -95,3 +95,7 @@ Wine
 5) Document Express Editor 6 -- insert cover
 
 Wine
+
+6) djvused -- insert contents
+
+[PDF/Djvu contents](/linux/pdf-djuv-contents.md)
