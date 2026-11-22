@@ -11,7 +11,7 @@ I started Pirate Cookbook on Windows. Now I moved on to Linux. I will keep my Wi
 [Linux Notes](/linux/linux-notes)
 <br><br>
 
-[DjVu - Arch Linux](/linux/djvu-arch)
+[DjVu](/linux/djvu)
 
 [FB2](/linux/fb2)
 
