@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title: "DjVu - Arch Linux"
+title: "DjVu"
 ---
 
 #### Workflow
