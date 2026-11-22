@@ -95,6 +95,7 @@ Wine
 5) Document Express Editor 6 -- insert cover
 
 Wine
+<br><br>
 
 6) djvused -- insert contents
 
