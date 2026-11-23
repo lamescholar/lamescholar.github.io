@@ -390,7 +390,7 @@ Urbi - <https://imwerden.de/periodical-2201-page-1>
 
 Вопросы философии - <https://rutracker.org/forum/viewtopic.php?t=6357379>
 
-Логос - <https://web.archive.org/web/20230828195551/https://logosjournal.ru/archive/>
+Логос - <https://rutracker.org/forum/viewtopic.php?t=6937256>
 
 Финиковый компот - <http://datepalmcompote.blogspot.com/>
 
