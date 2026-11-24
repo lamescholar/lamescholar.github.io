@@ -164,3 +164,6 @@ if __name__ == "__main__":
 Finally:
 
 `djvused 1.djvu -e 'set-outline outline2.txt' -s`
+<br><br>
+
+[PDF-DjVu-Outliner-x86_64.AppImage](/files/PDF-DjVu-Outliner-x86_64.AppImage)
