@@ -116,7 +116,8 @@ useful keys
 
 j - to cycle through subtitles<br>
 v - to toggle subtitles<br>
-Shift+F, Shift+G - to change the size of subtitles
+Shift+F, Shift+G - to change the size of subtitles<br>
+Alt+=, Alt+-, Alt+Backspace - zoom in, zoom out, reset
 <br><br>
 
 VLC (to play DVDs)
