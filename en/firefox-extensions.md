@@ -23,10 +23,6 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-img {
-	max-width: 740px;
-	height: auto;
-}
 ```
 
 uBlock Origin - <https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/><br>
