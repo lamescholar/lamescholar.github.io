@@ -137,7 +137,7 @@ Settings:
 
 General->Theme->Dark
 
-View-> Show scrollbars
+View->Show scrollbars
 <br><br>
 
 Geany (text editor)
