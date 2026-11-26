@@ -90,8 +90,6 @@ vo=gpu-next
 gpu-api=vulkan
 profile=high-quality
 
-sub-auto=all
-sub-file-paths=Subs
 fullscreen=yes
 save-position-on-quit=yes
 
