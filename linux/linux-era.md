@@ -4,7 +4,7 @@ title: Linux Era
 ---
 
 I started Pirate Cookbook on Windows. Now I moved on to Linux. I will keep my Windows guides intact. Any Linux-specific guides I will post here.<br>
-The guides are taylored to Arch Linux, GNOME.
+The guides are tailored to Arch Linux, GNOME.
 <br><br>
 
 [Linux](/linux/linux)
